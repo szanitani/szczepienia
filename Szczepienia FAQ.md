@@ -100,11 +100,11 @@ Art.7 § 2. Organ egzekucyjny stosuje środki egzekucyjne, które prowadzą bezp
 W praktyce nakładane grzywny wahają się w granicach 100-500 zł.
 
 
-Czy nałożoną grzywnę muszę od razu zapłacić?
+##Czy nałożoną grzywnę muszę od razu zapłacić?
 Nie. Po złożeniu odwołania Sanepid Wojewódzki uchyli postanowienie powiatowego i sprawa jest zakończona. Uchylenie postanowienia o nałożeniu grzywny automatycznie likwiduje obowiązek zapłaty grzywny. Jeżeli grzywna została zapłacona a postanowienie o jej nałożeniu zostało uchylone - **wpłacona grzywna będzie zwrócona**.
 
 
-Czy mogę jeszcze dostać karę 1500 zł z kodeksu wykroczeń?
+##Czy mogę jeszcze dostać karę 1500 zł z kodeksu wykroczeń?
 Nie. Sanepid często powołuje się na ten przepis jednak nie ma on w praktyce obecnie zastosowania. Przepis ten brzmi dokładnie tak:
 ```
 Art. 115. § 1. Kto, pomimo zastosowania środków egzekucji administracyjnej, nie poddaje się obowiązkowemu szczepieniu ochronnemu przeciwko gruźlicy lub innej chorobie zakaźnej albo obowiązkowemu badaniu stanu zdrowia, mającemu na celu wykrycie lub leczenie gruźlicy, choroby wenerycznej lub innej choroby zakaźnej, podlega karze grzywny do 1.500 złotych albo karze nagany.
@@ -303,13 +303,13 @@ Prawidłowe doręczenie skutkuje dalszym biegiem sprawy, czyli wydaniem decyzji 
 ##Nie odwołałem się w terminie, co teraz?
 Nic straconego. W takim wypadku możesz zrobić dwie rzeczy:
 
-1. Złożyć wniosek o stwierdzenie nieważności decyzji czy postanowienia. Wzór jest dostępny [tutaj](http://mobilkredyt.nazwa.pl/szczepienia/WIS%20stwierdzenie%20niewaznosci.doc). Prawo takie daje art. 156 KPA. Wprawdzie ten artykuł mówi o decyzji, ale art. 126 KPA mówi, że do postanowień na które przysługuje zażalenie stosuje się też przepisy art. 156. Czyli przepis ten dotyczy także postanowień.
+1) Złożyć wniosek o stwierdzenie nieważności decyzji czy postanowienia. Wzór jest dostępny [tutaj](http://mobilkredyt.nazwa.pl/szczepienia/WIS%20stwierdzenie%20niewaznosci.doc). Prawo takie daje art. 156 KPA. Wprawdzie ten artykuł mówi o decyzji, ale art. 126 KPA mówi, że do postanowień na które przysługuje zażalenie stosuje się też przepisy art. 156. Czyli przepis ten dotyczy także postanowień.
 
 Wniosek taki składa się do organu wyższej instancji, czyli jeżeli decyzję/postanowienie wydał Sanepid powiatowy to składa się do wojewódzkiego. Jeżeli wojewódzki Sanepid wydał decyzję/postanowienie to wniosek składa się do sądu administracyjnego.
 
 Wniosek ten można złożyć w terminie do 10 lat od wydania decyzji/postanowienia. Unieważnienie decyzji/postanowienia skutkuje tym, że przestaje ono całkiem obowiązywać, czyli jest tak jakby go w ogóle nie było. Zatem przysługuje Ci zwrot wszystkich zapłaconych kwot (grzywny, kosztów egzekucyjnych) wraz z ustawowymi odsetkami.
 
-2. Jeżeli z ważnych przyczyn nie mogłeś złożyć odwołania w terminie, możesz złożyć wniosek o przywrócenie terminu. Wynika to z art.58 KPA:
+2) Jeżeli z ważnych przyczyn nie mogłeś złożyć odwołania w terminie, możesz złożyć wniosek o przywrócenie terminu. Wynika to z art.58 KPA:
 ```
 § 1. W razie uchybienia terminu należy przywrócić termin na prośbę zainteresowanego,
 jeżeli uprawdopodobni, że uchybienie nastąpiło bez jego winy.
