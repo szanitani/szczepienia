@@ -2,7 +2,7 @@
 
 ##Jaka jest aktualna zawartość repozytorium?
   1. zbiór przydatnych [aktów prawnych](https://github.com/szanitani/szczepienia/tree/master/Przepisy/Zrodla%20prawa)
-  2. materiał źródłowy [FAQ](https://github.com/szanitani/szczepienia/blob/master/Szczepienia%20FAQ) ze strony [szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/faq.php) - autor Brick
+  2. materiał źródłowy [FAQ](https://github.com/szanitani/szczepienia/blob/master/Szczepienia%20FAQ.md) ze strony [szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/faq.php) - autor Brick
 
 ##Jak zgłaszać uzupełnienia/poprawki?
 Proszę korzystać z tego co oferuje GitHub czyli właśnie zgłaszanie poprawek, komentarze do treści. Probujemy jakoś zorganizować pracę nad repozytorium i na teraz sami się uczymy współpracy.
