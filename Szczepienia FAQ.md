@@ -1,6 +1,4 @@
-Materiał źródłowy dla strony: [http://www.pisma.szczepienia.org.pl/faq.php](http://www.pisma.szczepienia.org.pl/faq.php)
-
-» [Wróć do wzorów dokumentów](http://www.pisma.szczepienia.org.pl/)
+» [Wróć do wzorów dokumentów](https://github.com/szanitani/szczepienia/blob/master/Szczepienia%20Postepowanie.md)
 
 ##Zbiór odpowiedzi na najczęściej zadawane pytania dotyczące prawnej strony obowiązkowych szczepień ochronnych w Polsce.
 
