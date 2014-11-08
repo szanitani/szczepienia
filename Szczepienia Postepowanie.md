@@ -9,7 +9,6 @@ Przeczytaj też informacje o aktualnej sytuacji prawnej zawarte w dalszej częś
 
 1) **Jeżeli otrzymałeś pismo z przychodni przypominające lub wzywające do wykonania szczepień** - nie musisz nic na to odpisywać. Przychodnia nie jest organem administracji państwowej i nie może prowadzić żadnego postępowania. Może jedynie przekazać sprawę do Sanepidu. Kiedy i czy w ogóle to zrobi - zależy od przychodni. Żadne pisma w tej sprawie nie zmienią dalszego postępowania pracowników przychodni. Niektóre przychodnie przekazują sprawę do Sanepidu dość szybko, inne z opóźnieniem, a inne w ogóle.
   
-  
 2) **Jeżeli otrzymałeś pismo z Sanepidu przypominające o obowiązku szczepień (nagłówek PRZYPOMNIENIE lub bez nagłówka)** - nie musisz składać żadnej odpowiedzi. Pismo takie nie jest żadnego rodzaju decyzcją, postanowieniem, czy innym istotnym elementem postępowania administracyjnego, które wymaga konkretnej odpowiedzi czy odwołania w określonym terminie. Jest to tylko zwrócenie uwagi na istnienie obowiązeku szczepień oraz informacja o ewentualnych konsekwencjach nie wypełnienia obowiązku.
   
 Jeżeli chcesz, możesz oczywiście coś odpisać ale zwykle nie ma to wpływu na dalszy bieg sprawy. Czy Sanepid podejmie dalsze kroki, czy poprzestanie na tym piśmie - zależy od konkretnego Sanepidu. Niektóre Sanepidy w Polsce są dość aktywne i prowadzą dalsze postępowanie, a niektóre poprzestają na przypomnieniu. Część Sanepidów w Polsce w ogóle nie reaguje na nie wykonanie obowiązku szczepienia.
@@ -49,76 +48,93 @@ ad. 2 - Możesz złożyć jedno takie pismo i wymienić w nim wszystkie postanow
     
 ad. 3 - Składasz to odwołanie jeżeli tytuł wykonawczy był wystawiony po 17 maja 2014 na starym druku TYT-3 lub jeżeli zostały popełnione błędy formalne opisane w odwołaniu (brak wybranego środka egzekucyjnego, brak podpisów, pieczątek, niedokładnie określone zobowiązanie, błędy w nazwisku, w adresie itd.)
 
-Uwaga!
-        Wszystkie pisma wysyłasz DO WOJEWODY a nie do Ministra Zdrowia. Wojewoda przekazuje pierwsze pismo wraz z aktami do ministra, a pozostałe pisma rozpatruje sam. Postanowienie w sprawie zarzutów wyda po otrzymaniu stanowiska wierzyciela, czyli stanowiska Sanepidu Powiatowego.
-        Pilnuj terminów! Na złożenie odwołań masz tylko 7 dni licząc od dnia odbioru pisma. Przekroczenie terminu skutkuje tym, że organ oddali zażalenie w ogóle go nie rozpatrując.
-        Zwykle postanowienie zawiera też informację, o konieczności zapłaty kosztów administracyjnych za wydanie postanowienia (ok. 40-50 zł za postanowienie). Tych kosztów, jak i grzywny NIE PŁAĆ. W przypadku uwzględnienia odwołania postanowienie jest uchylane w całości i przestaje obowiązywać zarówno grzywna jak i ta opłata.
-    Ważne!
-    Napisz na adres brickbazooka@interia.pl podając kto wystawił postanowienie i w jakiej wysokości jest grzywna. Zbiór informacji o aktualnych działaniach organów w Polsce pozwala lepiej pomagać innym osobom oraz aktualizować wzory pism. W przypadku wątpliwości i pytań pisz na powyższy adres - lepiej dwa razy zapytać niż zrobić błąd. Żaden e-mail nie pozostanie bez odpowiedzi!
-    Jeżeli otrzymałeś POSTANOWIENIE wydane przez Ministra Zdrowia utrzymujące w mocy postanowienie wojewody/sanepidu wojewódzkiego nakładające grzywnę - składasz:
-    1. Skargę do Wojewódzkiego Sądu Administracyjnego w Warszawie.
-    2. Wniosek do Wojewódzkiego Sądu Administracyjnego w Warszawie o wstrzymanie wykonania postanowienia.
-    3. Potwierdzenie dokonania opłaty sądowej.
-    4. Pismo do wojewody z prośbą o niepodejmowanie egzekucji
-    ad 1. Składasz tyle skarg ile otrzymałeś postanowień od Ministra Zdrowia.
-    ad 2. Składasz tyle wniosków ile otrzymałeś postanowień od Ministra Zdrowia.
-    ad 3. Opłata sądowa wynosi 100 zł od każdej skargi. Jeżeli otrzymałeś od Ministra Zdrowia dwa postanowienia - wpłacasz 200 zł. Jeżeli 4 - wpłacasz 400 zł. Opłatę wnosisz przelewem na konto bankowe Sądu Administracyjnego w Warszawie.
+**Uwaga!**
 
-    Pismo nr 1 składasz w dwóch kopiach.
-    Cały komplet, za wyjątkiem pisma nr 4, wysyłasz w jednej kopercie listem poleconym do Ministra Zdrowia. Minister przekazuje Twoją skargę wraz z całą dokumentacją do sądu.
-    Pismo nr 4 wysyłasz w jednym egzemplarzu do wojewody.
+- Wszystkie pisma wysyłasz **DO WOJEWODY** a nie do Ministra Zdrowia. Wojewoda przekazuje pierwsze pismo wraz z aktami do ministra, a pozostałe pisma rozpatruje sam. Postanowienie w sprawie zarzutów wyda po otrzymaniu stanowiska wierzyciela, czyli stanowiska Sanepidu Powiatowego.
+- Pilnuj terminów! Na złożenie odwołań masz tylko **7 dni** licząc od dnia odbioru pisma. Przekroczenie terminu skutkuje tym, że organ oddali zażalenie w ogóle go nie rozpatrując.
+- Zwykłe postanowienie zawiera też informację, o konieczności zapłaty kosztów administracyjnych za wydanie postanowienia (ok. 40-50 zł za postanowienie). Tych kosztów, jak i grzywny **NIE PŁAĆ**. W przypadku uwzględnienia odwołania postanowienie jest uchylane w całości i przestaje obowiązywać zarówno grzywna jak i ta opłata.
+ 
+**Ważne!**
 
-    Kilka uwag odnośnie postępowania w sądzie:
-        Sąd administracyjny bada postępowanie organów administracji. W tej sprawie nie ma oskarżonych i skazanych. Sąd po prostu sprawdzi czy podczas postępowania nie nastąpiły naruszenia prawa.
-        Jeżeli sąd stwierdzi, że takie naruszenia miały miejsce - postanowienie uchyli. Czyli przestanie ono obowiązywać i nie będzie możliwe jakiekolwiek egzekwowanie nałożonej grzywny. Sąd może przekazać sprawę do ponownego rozpatrzenia. Wtedy sprawa wraca do organu, który musi się zastosować do zaleceń sądu.
-        W pierwszej kolejności sąd powinien rozpatrzyć wniosek o wstrzymanie wykonania. Wniosek ten jest rozpatrywany na posiedzeniu niejawnym, tzn. bez rozprawy. Odpowiedź na ten wniosek otrzymasz listownie. Jeżeli sąd zgodzi się wstrzymać wykonanie, to do czasu wydania wyroku podlegasz ochronie - grzywny nie można egzekwować. W praktyce jednak, mija trochę czasu zanim sąd ten wniosek rozpatrzy. Stąd pismo do wojewody o niepodejmowanie egzekucji.
-        Na wyznaczenie terminu rozprawy trzeba dość długo czekać, czasem nawet rok.
-        O wyznaczeniu terminu zostaniesz powiadomiony listownie.
-        Na rozprawę nie musisz się stawiać ani nie musisz wynajmować adwokata. Wystarczy złożenie skargi pisemnej.
-        O wyniku rozprawy możesz dowiedzieć się telefonicznie.
-        Po rozprawie składasz wniosek o wydanie wyroku wraz z uzasadnieniem. Sąd prześle cały wyrok wraz z uzasadnieniem na Twój adres. Jeżeli nie złożysz tego wniosku dostaniesz sam wyrok bez uzasadnienia.
-        Jeżeli sprawę wygrasz wszystkie opłaty sądowe wojewoda będzie musiał Ci zwrócić.
-        Jeżeli sprawę przegrasz możesz złożyć skargę do Naczelnego Sądu Administracyjnego. Niestety taką skargę musi napisać adwokat lub radca prawny.
+Napisz na adres [brickbazooka@interia.pl](mailto:brickbazooka@interia.pl) podając kto wystawił postanowienie i w jakiej wysokości jest grzywna. Zbiór informacji o aktualnych działaniach organów w Polsce pozwala lepiej pomagać innym osobom oraz aktualizować wzory pism. W przypadku wątpliwości i pytań pisz na powyższy adres - lepiej dwa razy zapytać niż zrobić błąd. Żaden e-mail nie pozostanie bez odpowiedzi!
+
+6) Jeżeli otrzymałeś POSTANOWIENIE wydane przez Ministra Zdrowia utrzymujące w mocy postanowienie wojewody/sanepidu wojewódzkiego nakładające grzywnę - składasz:
+
+1. [Skargę do Wojewódzkiego Sądu Administracyjnego w Warszawie](http://www.pisma.szczepienia.org.pl/WSA%20skarga%20na%20postanowienie%20-%20grzywna%20MZ.doc)
+2. [Wniosek do Wojewódzkiego Sądu Administracyjnego w Warszawie o wstrzymanie wykonania postanowienia](http://www.pisma.szczepienia.org.pl/WSA%20wniosek%20o%20wstrzymanie%20wykonania%20v2.doc)
+3. Potwierdzenie dokonania opłaty sądowej.
+4. [Pismo do wojewody z prośbą o niepodejmowanie egzekucji](http://www.pisma.szczepienia.org.pl/Wojewoda%20wstrzymanie%20egzekucji.doc)
+
+ad 1. Składasz tyle skarg ile otrzymałeś postanowień od Ministra Zdrowia.
+
+ad 2. Składasz tyle wniosków ile otrzymałeś postanowień od Ministra Zdrowia.
+
+ad 3. Opłata sądowa wynosi 100 zł od każdej skargi. Jeżeli otrzymałeś od Ministra Zdrowia dwa postanowienia - wpłacasz 200 zł. Jeżeli 4 - wpłacasz 400 zł. Opłatę wnosisz przelewem [na konto bankowe Sądu Administracyjnego w Warszawie](http://www.warszawa.wsa.gov.pl/106/18/dane-wsa-nip-regon-konto-bankowe.html).
+
+Pismo nr 1 składasz w dwóch kopiach.
+
+Cały komplet, za wyjątkiem pisma nr 4, wysyłasz w jednej kopercie listem poleconym do **Ministra Zdrowia**. Minister przekazuje Twoją skargę wraz z całą dokumentacją do sądu.
+
+Pismo nr 4 wysyłasz w jednym egzemplarzu do wojewody.
+
+Kilka uwag odnośnie postępowania w sądzie:
+
+- Sąd administracyjny bada postępowanie organów administracji. W tej sprawie nie ma oskarżonych i skazanych. Sąd po prostu sprawdzi czy podczas postępowania nie nastąpiły naruszenia prawa.
+- Jeżeli sąd stwierdzi, że takie naruszenia miały miejsce - postanowienie uchyli. Czyli przestanie ono obowiązywać i nie będzie możliwe jakiekolwiek egzekwowanie nałożonej grzywny. Sąd może przekazać sprawę do ponownego rozpatrzenia. Wtedy sprawa wraca do organu, który musi się zastosować do zaleceń sądu.
+- W pierwszej kolejności sąd powinien rozpatrzyć wniosek o wstrzymanie wykonania. Wniosek ten jest rozpatrywany na posiedzeniu niejawnym, tzn. bez rozprawy. Odpowiedź na ten wniosek otrzymasz listownie. Jeżeli sąd zgodzi się wstrzymać wykonanie, to do czasu wydania wyroku podlegasz ochronie - grzywny nie można egzekwować. W praktyce jednak, mija trochę czasu zanim sąd ten wniosek rozpatrzy. Stąd pismo do wojewody o niepodejmowanie egzekucji.
+- Na wyznaczenie terminu rozprawy trzeba dość długo czekać, czasem nawet rok.
+- O wyznaczeniu terminu zostaniesz powiadomiony listownie.
+- Na rozprawę nie musisz się stawiać ani nie musisz wynajmować adwokata. Wystarczy złożenie skargi pisemnej.
+- O wyniku rozprawy możesz dowiedzieć się telefonicznie.
+- Po rozprawie składasz [wniosek o wydanie wyroku wraz z uzasadnieniem](http://www.pisma.szczepienia.org.pl/WSA%20wniosek%20o%20wydanie%20wyroku.doc). Sąd prześle cały wyrok wraz z uzasadnieniem na Twój adres. Jeżeli nie złożysz tego wniosku dostaniesz sam wyrok bez uzasadnienia.
+- Jeżeli sprawę wygrasz wszystkie opłaty sądowe wojewoda będzie musiał Ci zwrócić.
+- Jeżeli sprawę przegrasz możesz złożyć skargę do Naczelnego Sądu Administracyjnego. Niestety taką skargę musi napisać adwokat lub radca prawny.
+ 
+
+###UWAGI ogólne dotyczące wzorów pism
+
+1. Stosowane skróty: PIS - Państwowy Inspektor Sanitarny, WIS - Wojewódzki Inspektor Sanitarny, WSA - Wojewódzki Sąd Administracyjny, Sanepid - Inspektor Sanitarny (zwykle powiatowy)
+2. Wszystkie wzory pism należy stosować rozumnie. Przede wszystkim trzeba dokładnie je przeczytać, uzupełnić i dostosować do konkretnej sytuacji zgodnie z zawartymi w nich komentarzami.
+3. Zwróć uwagę na numery i daty postanowień co do których się odwołujesz. Częsty błąd to pomylenie postanowień (numerów i dat).
+4. Należy przestrzegać określonych terminów (7 lub 30 dni). Ich przekroczenie powoduje że zażalenie czy skarga będą odrzucone bez rozpatrzenia.
+5. Nie zapomnij podpisać pisma.
+6. Pismo wyślij listem poleconym do właściwego organu
 
 
-UWAGI ogólne dotyczące wzorów pism
+###Pozostałe wzory pism
 
-    Stosowane skróty: PIS - Państwowy Inspektor Sanitarny, WIS - Wojewódzki Inspektor Sanitarny, WSA - Wojewódzki Sąd Administracyjny, Sanepid - Inspektor Sanitarny (zwykle powiatowy)
-    Wszystkie wzory pism należy stosować rozumnie. Przede wszystkim trzeba dokładnie je przeczytać, uzupełnić i dostosować do konkretnej sytuacji zgodnie z zawartymi w nich komentarzami.
-    Zwróć uwagę na numery i daty postanowień co do których się odwołujesz. Częsty błąd to pomylenie postanowień (numerów i dat).
-    Należy przestrzegać określonych terminów (7 lub 30 dni). Ich przekroczenie powoduje że zażalenie czy skarga będą odrzucone bez rozpatrzenia.
-    Nie zapomnij podpisać pisma.
-    Pismo wyślij listem poleconym do właściwego organu
-
-
-Pozostałe wzory pism:
-
-    Odmowa badania kwalifikacyjnego.doc
-    PIS wniosek o zwrot grzywny (po uchyleniu postanowienia o grzywnie)
-    WSA wniosek o wydanie wyroku
-    WSA cofnięcie skargi
-    Pełnomocnictwo do reprezentowania w postępowaniu dla męża
-    Sprzeciw od wyroku nakazowego
+1. [Odmowa badania kwalifikacyjnego](http://www.pisma.szczepienia.org.pl/odmowa%20badania.doc)
+2. [PIS wniosek o zwrot grzywny](http://www.pisma.szczepienia.org.pl/PIS%20zwrot%20grzywny.doc) (po uchyleniu postanowienia o grzywnie)
+3. [WSA wniosek o wydanie wyroku](http://www.pisma.szczepienia.org.pl/WSA%20wniosek%20o%20wydanie%20wyroku.doc)
+4. [WSA cofnięcie skargi](http://www.pisma.szczepienia.org.pl/WSA%20cofniecie%20skargi.doc)
+5. [Pełnomocnictwo do reprezentowania w postępowaniu dla męża](http://www.pisma.szczepienia.org.pl/pelnomocnictwo.doc)
+6. [Sprzeciw od wyroku nakazowego](http://www.pisma.szczepienia.org.pl/sprzeciw%20od%20wyroku.doc)
 
 
-Obecny stan faktyczny i prawny - w skrócie (stan na wrzesień 2014)
+###Obecny stan faktyczny i prawny - w skrócie
 
-Obowiązek szczepień ochronnych jest określony w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi. Po nowelizacji tej ustawy w roku 2008 został usunięty przepis o karach za brak szczepień. W każdym cywilizowanym państwie taki stan prawny były jasny dla organów administracji państwowej: brak kary w ustawie - obowiązek nie podlega żadnemu ściganiu i karaniu. Niestety w Polsce urzędnicy myślą inaczej, dlatego na wszelkie możliwe sposoby szukają drogi do ukarania niepokornych obywateli.
+(stan na wrzesień 2014)
 
-I tak w latach 2010-2011 Sanepidy wystawiały decyzje nakazujące podanie dziecka szczepieniu, a następnie wystawiały postanowienie o nałożeniu grzywny. Wyrokiem z dnia 6.04.2011 Sygn. akt. II OSK 32/11 Naczelny Sąd Administracyjny stwierdził, że takie działania są niezgodne z prawem gdyż obowiązku określonego w ustawie nie można dodatkowo ustalać na drodze decyzji.
+Obowiązek szczepień ochronnych jest określony w [ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi](http://www.pisma.szczepienia.org.pl/ustawa_o_szczepieniach.pdf). Po nowelizacji tej ustawy w roku 2008 został usunięty przepis o karach za brak szczepień. W każdym cywilizowanym państwie taki stan prawny były jasny dla organów administracji państwowej: brak kary w ustawie - obowiązek nie podlega żadnemu ściganiu i karaniu. Niestety w Polsce urzędnicy myślą inaczej, dlatego na wszelkie możliwe sposoby szukają drogi do ukarania niepokornych obywateli.
 
-W związku z tym Sanepidy zmieniły metodę działania i zaczęły wystawiać postanowienia o nałożeniu grzywny bez wcześniejszej decyzji nakazującej szczepienie. Wyrokiem z dnia 1.08.2013 Sygn. akt. II OSK 745/12 Naczelny Sąd Administracyjny stwierdził, że takie działania są niezgodne z prawem gdyż Sanepid nie jest organem właściwym do prowadzenia egzekucji obowiązku szczepień.
+I tak w latach 2010-2011 Sanepidy wystawiały decyzje nakazujące podanie dziecka szczepieniu, a następnie wystawiały postanowienie o nałożeniu grzywny. [Wyrokiem z dnia 6.04.2011 Sygn. akt. II OSK 32/11](http://orzeczenia.nsa.gov.pl/doc/6F08246C2E) Naczelny Sąd Administracyjny stwierdził, że takie działania są niezgodne z prawem gdyż obowiązku określonego w ustawie nie można dodatkowo ustalać na drodze decyzji.
 
-Pomimo dwóch niekorzystnych wyroków dalej są Sanepidy w Polsce, które próbują przymuszać ludzi do szczepień. Kolejnym wariantem jest wystawienie przez Sanepid dokumentu zwanego "tytułem wykonawczym" i przesłanie go do wojewody. Dokument ten stwierdza istnienie oraz niewykonanie obowiązku (dokument ten nie nakłada żadnej kary). Część wojewodów w Polsce podejmuje dalsze działania, a część nie. Ponadto niektórzy wojewodowie podpisują porozumienia z wojewódzkimi sanepidami, przerzucając na nich prowadzenie sprawy.
+W związku z tym Sanepidy zmieniły metodę działania i zaczęły wystawiać postanowienia o nałożeniu grzywny bez wcześniejszej decyzji nakazującej szczepienie. [Wyrokiem z dnia 1.08.2013 Sygn. akt. II OSK 745/12](http://orzeczenia.nsa.gov.pl/doc/B365A84E32) Naczelny Sąd Administracyjny stwierdził, że takie działania są niezgodne z prawem gdyż Sanepid nie jest organem właściwym do prowadzenia egzekucji obowiązku szczepień.
+
+Pomimo dwóch niekorzystnych wyroków dalej są Sanepidy w Polsce, które próbują przymuszać ludzi do szczepień. Kolejnym wariantem jest wystawienie przez Sanepid dokumentu zwanego "tytułem wykonawczym" i przesłanie go **do wojewody**. Dokument ten stwierdza istnienie oraz niewykonanie obowiązku (dokument ten nie nakłada żadnej kary). Część wojewodów w Polsce podejmuje dalsze działania, a część nie. Ponadto niektórzy wojewodowie podpisują porozumienia z wojewódzkimi sanepidami, przerzucając na nich prowadzenie sprawy.
+
 Obecnie postanowienia o nałożeniu grzywny wydali wojewodowie: kujawsko-pomorski, wielkopolski, warmińsko-mazurski i lubelski. Grzywny wynoszą ok. 400 zł. Od tych postanowień zostały złożone odwołania i sprawy są w toku.
 
 Działania powyższe organów są bezprawne gdyż:
 
-    Organ wywodzi istnienie obowiązku powołując się na Komunikat Głównego Inspektora Sanitarnego, określający jakie i kiedy szczepienia powinny być stosowane (Program Szczepień Ochronnych). Taki komunikat nie jest źródłem prawa. Zgodnie z Konstytucją RP tylko ustawy i rozporządzenia są źródłem prawa obowiązującego w Polsce. Obowiązek, a zwłaszcza taki jak szczepienie, który dotkliwie ingeruje w wolność obywatela, nie może być precyzowany w innych źródłach niż przepisy prawa. Rozporządzenie Ministra Zdrowia z dnia 18 sierpnia 2011 roku w sprawie szczepień ochronnych określa jedynie grupy wiekowe podlegające obowiązkowi szczepień, a nie terminy szczepień. I tak np. dla szczepienia przeciwko błonicy, obowiązkiem szczepienia objęte są osoby w wieku od 7 tygodnia życia do 19 roku życia. Oznacza to, że szczepienie może być wykonane w dowolnym dniu tego okresu, a nie w terminie określonym przez komunikat czy sanepid.
-    Obowiązek nie oznacza automatycznie możliwości stosowania przymusu. Brak przepisów o karach w ustawie jednoznacznie wskazuje na intencję ustawodawcy, którą było usunięcie karania za brak szczepień. Niedopuszczalne jest stosowanie przez organ uzupełniania prawa poprzez wykorzystanie przepisów ogólnych z innych ustaw (w tym przypadku z ustawy o postępowaniu egzekucyjnym w administracji lub z Kodeksu Wykroczeń). Obowiązek, który nie jest zagrożony karą, nie może podlegać egzekucji.
-    Państwowy Inspektor Sanitarny nie jest organem uprawnionym do prowadzenia egzekucji, co orzekł już Naczelny Sąd Administracyjny w wyroku z dnia 1.08.2013 Sygn. akt. II OSK 745/12, ani także wierzycielem co uprawniałoby do wystawienia tytułu egzekucyjnego. Właściwość taka nie wynika ani z ustawy o Państwowej Inspekcji Sanitarnej ani z ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi. Organy Państwowej Inspekcji Sanitarnej stosują niedopuszczalne domniemanie uprawnień.
-    Organ nie może przymuszać (za pomocą grzywny) do wykonania obowiązku, zakładając z góry, że stan zdrowia dziecka jest dobry i nie występują żadne przeciwwskazania do wykonania szczepienia. O braku lub istnieniu takich przeciwwskazań decyduje lekarz podczas badania kwalifikacyjnego. Badanie takie jest jednak nieobowiązkowe, więc zobowiązany ma pełne prawo tego nie wykonać. W takim stanie rzeczy, dopóki organ nie znajdzie się w posiadaniu aktualnego zaświadczenia lekarskiego stwierdzającego brak przeciwwskazań, nie ma prawa przymuszać do wykonania szczepienia.
-    Przymuszanie do wykonania szczepień jest także niezgodne z art. 68 ust. 4 Konstytucji. który stanowi że "Władze publiczne są obowiązane do zwalczania chorób epidemicznych i zapobiegania negatywnym dla zdrowia skutkom degradacji środowiska." Ten przepis ma zastosowanie w przypadku rzeczywistego wystąpienia dużej liczby zachorowań na chorobę emidemiczną czyli stanu epidemii. Taka sytuacja w Polsce obecnie nie występuje, zatem przepis ten nie może stanowić podstawy do stosowania przymusowych szczepień ochronnych.
+1. Organ wywodzi istnienie obowiązku powołując się na Komunikat Głównego Inspektora Sanitarnego, określający jakie i kiedy szczepienia powinny być stosowane (Program Szczepień Ochronnych). Taki komunikat nie jest źródłem prawa. Zgodnie z Konstytucją RP tylko ustawy i rozporządzenia są źródłem prawa obowiązującego w Polsce. Obowiązek, a zwłaszcza taki jak szczepienie, który dotkliwie ingeruje w wolność obywatela, nie może być precyzowany w innych źródłach niż przepisy prawa. [Rozporządzenie Ministra Zdrowia z dnia 18 sierpnia 2011 roku w sprawie szczepień ochronnych](http://www.pisma.szczepienia.org.pl/rmz.pdf) określa jedynie grupy wiekowe podlegające obowiązkowi szczepień, a nie terminy szczepień. I tak np. dla szczepienia przeciwko błonicy, obowiązkiem szczepienia objęte są osoby w wieku od 7 tygodnia życia do 19 roku życia. Oznacza to, że szczepienie może być wykonane w dowolnym dniu tego okresu, a nie w terminie określonym przez komunikat czy sanepid.
+2. Obowiązek nie oznacza automatycznie możliwości stosowania przymusu. Brak przepisów o karach w ustawie jednoznacznie wskazuje na intencję ustawodawcy, którą było usunięcie karania za brak szczepień. Niedopuszczalne jest stosowanie przez organ uzupełniania prawa poprzez wykorzystanie przepisów ogólnych z innych ustaw (w tym przypadku z ustawy o postępowaniu egzekucyjnym w administracji lub z Kodeksu Wykroczeń). Obowiązek, który nie jest zagrożony karą, nie może podlegać egzekucji.
+3. Państwowy Inspektor Sanitarny nie jest organem uprawnionym do prowadzenia egzekucji, co orzekł już Naczelny Sąd Administracyjny w [wyroku z dnia 1.08.2013 Sygn. akt. II OSK 745/12](http://orzeczenia.nsa.gov.pl/doc/B365A84E32), ani także wierzycielem co uprawniałoby do wystawienia tytułu egzekucyjnego. Właściwość taka nie wynika ani z ustawy o Państwowej Inspekcji Sanitarnej ani z [ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi](http://www.pisma.szczepienia.org.pl/ustawa_o_szczepieniach.pdf). Organy Państwowej Inspekcji Sanitarnej stosują niedopuszczalne domniemanie uprawnień.
+4. Organ nie może przymuszać (za pomocą grzywny) do wykonania obowiązku, zakładając z góry, że stan zdrowia dziecka jest dobry i nie występują żadne przeciwwskazania do wykonania szczepienia. O braku lub istnieniu takich przeciwwskazań decyduje lekarz podczas badania kwalifikacyjnego. Badanie takie jest jednak nieobowiązkowe, więc zobowiązany ma pełne prawo tego nie wykonać. W takim stanie rzeczy, dopóki organ nie znajdzie się w posiadaniu aktualnego zaświadczenia lekarskiego stwierdzającego brak przeciwwskazań, nie ma prawa przymuszać do wykonania szczepienia.
+5. Przymuszanie do wykonania szczepień jest także niezgodne z art. 68 ust. 4 Konstytucji. który stanowi że "Władze publiczne są obowiązane do zwalczania chorób epidemicznych i zapobiegania negatywnym dla zdrowia skutkom degradacji środowiska." Ten przepis ma zastosowanie w przypadku rzeczywistego wystąpienia dużej liczby zachorowań na chorobę emidemiczną czyli stanu epidemii. Taka sytuacja w Polsce obecnie nie występuje, zatem przepis ten nie może stanowić podstawy do stosowania przymusowych szczepień ochronnych.
 
-Aby dowiedzieć się więcej na ten temat przeczytaj najczęściej zadawane pytania (FAQ).
-Wszelkie pytania i uwagi proszę zgłąszać na forum szczepienia.org.pl w temacie Prośby o pomoc lub bezpośrednio na email brickbazooka@interia.pl. 
+###Aby dowiedzieć się więcej na ten temat
+
+przeczytaj najczęściej zadawane pytania (FAQ).
+
+Wszelkie pytania i uwagi proszę zgłąszać na forum [szczepienia.org.pl](http://szczepienia.org.pl/) w temacie [Prośby o pomoc](http://szczepienia.org.pl/viewtopic.php?p=98966&sid=5f1e2b3b32aa642fedba52ff97918ec6#98966) lub bezpośrednio na email [brickbazooka@interia.pl](mailto:brickbazooka@interia.pl).
