@@ -135,6 +135,6 @@ Działania powyższe organów są bezprawne gdyż:
 
 ###Aby dowiedzieć się więcej na ten temat
 
-przeczytaj najczęściej zadawane pytania (FAQ).
+przeczytaj [najczęściej zadawane pytania (FAQ)](https://github.com/szanitani/szczepienia/blob/master/Szczepienia%20FAQ.md).
 
 Wszelkie pytania i uwagi proszę zgłąszać na forum [szczepienia.org.pl](http://szczepienia.org.pl/) w temacie [Prośby o pomoc](http://szczepienia.org.pl/viewtopic.php?p=98966&sid=5f1e2b3b32aa642fedba52ff97918ec6#98966) lub bezpośrednio na email [brickbazooka@interia.pl](mailto:brickbazooka@interia.pl).
