@@ -1,4 +1,4 @@
-#Repozytorium materiałów o szczepieniach dla rodziców
+#Repozytorium Pism i Argumentów - o szczepieniach i dla rodziców
 
 ##Jaka jest aktualna zawartość repozytorium?
   1. zbiór przydatnych [aktów prawnych](https://github.com/szanitani/szczepienia/tree/master/Przepisy/Zrodla%20prawa)
@@ -21,8 +21,11 @@ Oczywiście. Dla Windows zalecane narzędzia są tutaj:
 Do tego właśnie służy GitHub. Tworzysz wtedy kopie tego repozytorium (*fork*), wprowadzasz zmiany i wysyłasz tzw. *pull request* do naszego repozytorium głównego. Jeśli chcesz się naprawdę zaangażować i pomóc w tworzeniu repozytorium, prawa do zapisu również będą przydzielane.
 
 ##Jak tworzyć treść w dokumentach w repozytorium?
-Formatem treści to tzw. Markdown. Formatowanie i reguły pisania w tym formacie są opisane tutaj:
+Format treści to tzw. Markdown. Formatowanie i reguły pisania w tym formacie są opisane tutaj:
   1. http://en.wikipedia.org/wiki/Markdown
   2. https://help.github.com/articles/markdown-basics/
   3. https://help.github.com/articles/writing-on-github/
   4. https://help.github.com/articles/github-flavored-markdown/
+
+##Tak do końca się z czymś tutaj nie zgadzam, w sumie to nie wiem, ale się wypowiem...
+Zapraszamy do dyskusji na forum [szczepienia.org.pl](http://szczepienia.org.pl). W tym repozytorium znajdują się materiały albo źródłowe dla innych stron, istniejące pisma, albo argumenty, które można bezpośrednio zastosować w korespondencji z urzędami lub sądami.
