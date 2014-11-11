@@ -14,13 +14,21 @@ Kolejną kwestią, i to znacznie bardziej istotną z punktu widzenia podejmowani
 
 Ale to nie wszystko: autor zastosował określenie zakresu poprzez zwrot „*po 13 roku życiu*”. Czy oznacza to, że na całej Ziemi, w całej historii ludzkości nie było ani jednego osobnika, który wg nieznanych kryteriów autora byłby zakwalifikowany do kategorii „odporność dorosłego” przed swoim 13 rokiem życia? I tu dochodzimy do sedna – jakie jest statystyczne znaczenie tej liczby „13”? Może być różne: odrzucamy twierdzenie z artykułu, że jest to tzw. dolne oszacowanie (czyli nie ma nikogo młodszego z „dorosłym układem odpornościowym”), bo byłby to absurd – genetycznie w populacji ludzkiej są i muszą być takie osobniki. Zatem, czym ta liczba może być, z punktu widzenia statystyki, jeśli nie jest dolnym oszacowaniem? Zapewne jakąś uśrednioną wartością. Pytanie, po czym autor uśredniał? Zapewne rozkład dzieci pozyskujących „dorosłą odporność” wygląda mniej więcej tak:
 
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image1.png)
+
 Dlaczego tak? Bo w naturze tak właśnie rozkładają się wartości – są to kolejne inkarnacje tzw. rozkładu normalnego (Gaussa). Zatem jeśli na osi X będziemy mieli wiek dzieci, a na osi Y liczbę dzieci, która pozyskała w tym wieku daną cechę („odporność dorosłego”, to w którymś miejscu na osi X znajdzie się właśnie ta liczba 13. Tylko gdzie? Odrzuciliśmy lewą krawędź czyli dolne oszacowanie. Może to być górka czyli punkt gdzie wartość Y jest największa. Ta wartość w statystyce jest znana jako moda czyli najliczniej reprezentowana wartość w całej populacji. Może to też być jedna ze średnich np. średnia arytmetyczna wyliczona po całej populacji. Może to być też mediana, czyli punkt, powyżej i poniżej którego, znajduje się równa liczba obserwacji. Co to oznacza – jest wiele rodzajów średnich i jeśli ta liczba 13 jest taką średnią wg autora, to w zależności od rozkładu wieku dzieci, te średnie mogą być zlokalizowane np. tak:
+
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image2.png)
 
 Którą ze średnich autor by nie przyjął, oznaczałaby ona, że **przed wiekiem 13 lat istnieje jakaś znacząca część populacji, która w rzeczywistości posiada już tą mityczną „dorosłą odporność” ale formalnie wg autora jeszcze nie jest kwalifikowana do jego wybranej kategorii.**
 
 Załóżmy, że autor już wybrał tą swoją średnią i załóżmy, że jest to średnia arytmetyczna. Jeśli skorzystał z takich miar statystycznych jak odchylenie standardowe, mógł skorzystać z tzw. reguły trzech sigm, która mówi (w skrócie), że zdarzenia oddalone o trzy odchylenia standardowe od średniej są bardzo mało prawdopodobne. W takim przypadku, wyliczenie średniej z wieku i odjęcie 3 odchyleń mogłoby dawać właśnie tą liczbę 13. I teraz miłosiernie pomijamy fakt, że odchylenia standardowe również działają tylko w określonych kontekstach oraz jest to miara dla rozkładu normalnego (a nie dla rozkładu nabywania przez dzieci „dorosłej odporności”), ale jakże często zdziwić się można, że tego typu „przybliżenia” mają miejsce w opracowaniach naukowych. Jak by to wyglądało w praktyce dla całej Polski zatem?
 
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image3.png)
+
 Dla klasycznego rozkładu normalnego 99.73% przypadków mieści się w zakresie trzech odchyleń standardowych. Czyli 0.27% przypadków jest na lewo od tej mitycznej wartości. Załóżmy, że autor przyjął tą właśnie liczbę jako wiek 13 lat i spośród wszystkich dzieci w Polsce, 0.27% osiąga „dorosłą odporność” przed 13 rokiem życia. I teraz najważniejsza teza całego tego wywodu: jeśli w przepisach, ustawach, rozporządzeniach jest wpisane, że coś ma się zdarzyć właśnie od 13 roku życia biorąc pod uwagę miarę podaną przez autora, to wtedy 0.27% dzieci w Polsce w tym się nie mieści. Ile jest takich przypadków? Zerknijmy do danych GUS na 31 grudnia 2012:
+
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image4.png)
 
 Sumując liczbę dzieci w wieku 0-12 otrzymujemy wartość 5 024 070. Zatem 0.27% z populacji dzieci w wieku 0-12, daje nam **13 564 dzieci, które potencjalnie nie spełniają tezy autora**. Czy powyższe obliczenia są podstawą do jakichkolwiek decyzji? Również nie, statystycznie w tym toku rozumowania występują błędy, jednakże licząc w ten sposób, można powiedzieć, że uzyskaliśmy górne oszacowanie modelu, czyli bazując na takich danych i w takim kontekście, możemy przyjąć, że więcej niż 13 564 dzieci nie będzie pominiętych przez autora tezy. A celem było wykazanie, że takich pominiętych dzieci jest więcej niż zero co zostało udowodnione.
 
@@ -54,6 +62,8 @@ Gdybyśmy mieli oceniać argumenty tez przedstawianych przez Inspekcję, to wła
 
 Inspekcja przedstawiła taką tezę cyt. „*...w ten sposób organizm zyskuje przeciwciała i pamięć immunologiczną...*”. Chcielibyśmy skupić się na pojęciu pamięć immunologiczna. Organizmy żywe można analizować również z punktu widzenia teorii informacji. Są opracowania, które wskazują na taki mechanizm: liczba jednostek pamięci immunologicznej u człowieka to ok 20 000 000 (nie wnikamy teraz w tą wielkość – pewne i udowodnione jest, że jest to liczba skończona i ograniczona). W tych powiedzmy 20M jednostek pamięci, organizm przechowuje dane umożliwiające identyfikację również skończonej i znacznie mniejszej niż te 20M liczby patogenów. Wynika to z faktu, że dane identyfikacyjne jednego patogenu wymagają większej liczby jednostek pamięciowych np. z milionów wirusów i bakterii codziennie atakujących nasze ciało, każdą trzeba rozpoznać i zakwalifikować do kategorii „swój”/”obcy”. Wprowadzenie w sztuczny sposób i nadpisanie milionów obecnych jednostek pamięci immunologicznej w trakcie szczepienia, być może owszem chroni przed tym jednym patogenem ze szczepionki, ale tracimy w ten sposób nieodwracalnie informacje o wcześniej rozpoznanych patogenach. Zatem, z punktu widzenia ogólnego stanu zdrowia, nie można twierdzić, że zyskiwanie pamięci immunologicznej w sposób masowy jest zawsze korzystne. Jeśli weźmiemy właśnie ogólny stan zdrowia dzieci szczepionych i nieszczepionych spotkaliśmy się również z takim zestawieniem:
 
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image5.png)
+
 Źródła tych niemieckich badań przeglądowych są oczywiście publicznie dostępne. Jak widać wyżej, ogólny stan zdrowia dzieci nieszczepionych jest lepszy i wykracza poza przedziały ufności i granice błędu statystycznego. Pytanie: Na podstawie jakich badań Inspekcja twierdzi, że w dłuższym okresie, biorąc pod uwagę pełen stan zdrowia i wszystkie możliwe stany chorobowe, szczepienia już teraz są korzystne dla mojego dziecka? Czy Inspekcja twierdzi, że każda z obowiązkowych szczepionek posiada efektywność powyżej 95%? Jeśli tak, jakimi badaniami okresowymi jest potwierdzana w Polsce skuteczność poszczególnych szczepionek?
 
 ##Treść nr 6
@@ -69,6 +79,8 @@ Co do samych adjuwantów, być może szczepionki są nowe, ale adjuwanty są zwy
 [*http://www.violinet.org/vaxjo/index.php*](http://www.violinet.org/vaxjo/index.php)
 
 Dla przykładu, naszą, jako rodziców, największą obecnie obawą w kwestii adjuwantów jest aluminium/glin i jego pochodne oraz metabolity. Oto aktualna lista adjuwantów powiązanych z tym metalem:
+
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image6.png)
 
 Proszę zwrócić uwagę, że wodorotlenek glinu jest stosowany w 62 szczepionkach, natomiast fosforan glinu w 51 szczepionkach. Oznacza to, że ten adjuwant rzeczywiście ma działanie systemowe a nie wybiórcze w kwestii pożądanego patogenu w szczepionce. Działanie systemowe, oznacza, że układ immunologiczny będzie zwiększał swoją odpowiedź na dowolny patogen, z którym aktualnie „walczy”, i niekoniecznie musi to być akurat ten pochodzący ze szczepionki. Może to być np. gluten, albo kazeina, albo kurz, albo truskawki, albo nawet własne komórki (potencjalna przyczyna przyszłych chorób autoimmunologicznych). Skalę zwiększenia odpowiedzi układu immunologicznego potwierdzają informacje z różnych źródeł, podające, ze w niektórych nowoczesnych szczepionkach liczba antygenów jest znikoma. Baza danych jest oczywiście interaktywna, więc klikając w poszczególne pozycje dostajemy pełne opisy wraz z pogrupowanymi listami szczepionek, które korzystają z danego adjuwantu.
 
@@ -136,6 +148,8 @@ Inspekcja przedstawiła taką tezę cyt. „*...W Polsce mamy program szczepień
 
 [*http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=20183*](http://www.eurosurveillance.org/ViewArticle.aspx?ArticleId=20183)
 
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image7.png)
+
 Czy argumentacja Inspekcji w zakresie obowiązkowości szczepień jest oparta na tezie, że my Polacy jesteśmy mądrzejsi od większości krajów Europejskich, nawet tych, które są od nas bogatsze, zdrowsze i dysponują większymi osiągnięciami w dziedzinie nauki, medycyny i przemysłu? Jeśli nie, to gdzie w ocenie Inspekcji pozostałe kraje europejskie popełniają błąd rezygnując z obowiązkowego programu szczepień?
 
 ##Treść nr 10
@@ -202,7 +216,11 @@ Z drugiej strony nawet, wydaje się, że 1 przypadek na 1.5 mln szczepień to je
 
 Inspekcja przedstawiła taką tezę cyt. „*...objawy zwykle ustępują po 2-3 dniach...*”. Niestety jest wiele opracowań, które podają znacznie gorsze scenariusze. Proszę zwrócić również uwagę, że NOP są rejestrowane tylko w krótkim okresie po szczepieniu oraz w większości dotyczy to zjawisk widocznych gołym okiem lub znaczących zmian behawioralnych. Nie ma w Polsce systemu rejestracji zdarzeń poszczepiennych występujących w dłuższym okresie lub nawet w krótszym ale w postaci zmian wewnątrz organizmu czy narządach. Weźmy nawet taki przykładowy raport:
 
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image8.png)
+
 Porównajmy to z ludnością w danych województwach w 2012 roku:
+
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image9.png)
 
 Weźmy szczepionki BCG i DTP. Pytanie jakie się natychmiast nasuwają – skąd w przeliczeniu na jednego mieszkańca są takie różnice w zgłaszanych NOP? Jeśli przyjmie się wartość maksymalną (w granicach błędu) i wyznaczy spodziewaną liczbę NOP, dlaczego w niektórych województwach te liczby są tak mocno zaniżone?
 
@@ -217,6 +235,8 @@ Czy Inspekcji znany jest fakt wytoczenia firmie Merck procesu przez dwóch były
 [*http://www.naturalnews.com/gallery/documents/Merck-False-Claims-Act.pdf*](http://www.naturalnews.com/gallery/documents/Merck-False-Claims-Act.pdf)
 
 Zrzut pierwszej strony z początkiem zarzutów poniżej:
+
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image10.png)
 
 Aktualny stan prawny tego procesu jest wiedzą powszechnie dostępną.
 
@@ -288,6 +308,8 @@ Inspekcja przedstawiła taką tezę cyt. „*...Ponadto warto wiedzieć, że dzi
 
 Są liczne opracowania, które poddają w wątpliwość obydwie powyższe tezy. Materiały źródłowe są powszechnie dostępne w postaci wieloletnich tabel, raportów. Możliwe są ujęcia przekrojowe wielu epidemiologicznych wskaźników – nie tylko występowanie, ale np. również śmiertelność i wiele, wiele innych z różnych lokalizacji geograficznych i w różnych przekrojach demograficznych. Ich przytaczanie dodałoby do naszej odpowiedzi kilkadziesiąt dodatkowych stron. Oto dla przykładu porównanie śmiertelności na odrę, szkarlatynę (brak szczepionki), tyfus (brak szczepionki), krztusiec i błonicę:
 
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image11.png)
+
 Jak można zauważyć, śmiertelność spadała już przed wprowadzeniem szczepionek, oznaczonych na powyższym wykresie strzałkami. W przypadku chorób bez powszechnych programów szczepień, ich śmiertelność jest tożsama z chorobami z takim programem szczepień.
 
 Pytania: Na jakich badaniach w ramach polskiej populacji Inspekcja opiera tezę, że choroby zakaźne występują w Polsce rzadko? Od jak dawna wiedza ta jest w posiadaniu Inspekcji i czy od tego czasu Inspekcja postulowała/wprowadzała zmiany w swoim działaniu, skoro zmienił się kontekst a mianowicie uznawany przez Inspekcję spadek występowania chorób? Jeśli tak, jakie to były zmiany? Jakie inne przyczyny spadku występowania chorób zakaźnych były brane pod uwagę przez Inspekcję i zostały odrzucone na rzecz przyjęcia tezy, że najbardziej statystycznie znaczący wpływ posiadają szczepienia?
@@ -295,6 +317,8 @@ Pytania: Na jakich badaniach w ramach polskiej populacji Inspekcja opiera tezę,
 ##Treść nr 25
 
 Inspekcja przedstawiła taką tezę cyt „*...szczepienia ograniczają ryzyko występowania w naszym kraju zachorowań na choroby zawlekane z innych części świata …. oraz w wyniku migracji ludności...*”. Teza, że to imigranci są przyczyną zachorowań na choroby zakaźne w Polsce w naszej ocenie jest kontrowersyjna chociażby z powodu rasistowskiego wydźwięku a bezpodstawne obarczanie winą innych grup etnicznych, może prowadzić do nieprzewidywalnych działań w przyszłości. Szanowni Państwo, jeśli nie chcecie mieć stawianych takich zarzutów w mediach, to zerknijmy na oficjalne dane EuroStatu n/t krajów w Unii Europejskiej:
+
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image12.png)
 
 Polska ma 0.1% imigrantów! Kraje jak Niemcy 8.8%, Francja 5.8%, Szwajcaria 21.7%, Austria 10.3% wg Państwa argumentacji anty-imigracyjnej są zatem obecnie skazane na zagładę epidemiologiczną. Każdy z tych krajów posiada o rzędy wielkości większe kontakty międzynarodowe niż Polska, a mimo tego nie wprowadzają programu obowiązkowych szczepień i instytucjonalnego wymuszania na rodzicach poddawania ich dzieci procedurom medycznym.
 
@@ -307,6 +331,8 @@ Inspekcja przedstawiła taką tezę cyt. „*...Wszystkie zarejestrowane w Polsc
 [*http://vactruth.com/vaccine-inserts/*](http://vactruth.com/vaccine-inserts/)
 
 Są to ulotki w języku angielskim, ponieważ wg dostępnej nam wiedzy ulotki dołączane do specyfików przeznaczonych na rynek polski różnią się w treści. W wielu ulotkach spotykamy się z treściami tego typu:
+
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image13.png)
 
 Czyli żadnych badań klinicznych dla wybranego preparatu szczepionki MMR nie było przeprowadzanych, ale przecież wszystko musi być w porządku, bo wcześniejsze badania monowalentnych wersji preparatów były OK. I tego typu informacje można znaleźć w wielu innych oryginalnych ulotkach dołączanych do szczepionek.
 
@@ -338,7 +364,11 @@ Dane w USA dotyczące szczepień i ich skutków ubocznych są zbierane w bazie d
 
 Wg stanu na dzisiaj w bazie znajduje się 2365 przypadków, gdzie pacjent w wieku 0-13 lat, szczepiony szczepionką przeciw krztuścowi zmarł. Baza nie rozstrzyga oczywiście związku przyczynowo-skutkowego:
 
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image14.png)
+
 W przypadku zapytania o dane z Kalifornii, po roku 2010-01-01, dla pacjentów poniżej 13 lat, szczepionych szczepionką przeciw krztuścowi i zmarłych, wg stanu na dzisiaj, system zwraca 8 przypadków:
+
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Argumenty/szczepienia%20za%20i%20przeciw/image15.png)
 
 Z tego 5-ro dzieci zmarło następnego dnia po szczepieniu, jedno po 2 dniach, jedno po 18 dniach, dla jednego nie ma takiej informacji. Wszystkie przypadki dotyczą dzieci poniżej 4 miesiąca życia (głównie są to wypadki po szczepieniach w 2 miesiącu życia).
 
