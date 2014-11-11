@@ -4,6 +4,7 @@
   1. zbiór przydatnych [aktów prawnych](https://github.com/szanitani/szczepienia/tree/master/Przepisy/Zrodla%20prawa)
   2. materiał źródłowy [FAQ](https://github.com/szanitani/szczepienia/blob/master/Szczepienia%20FAQ.md) ze strony [szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/faq.php) - autor Brick
   3. materiał źródłowy [Dokumenty do pobrania w sprawie szczepień](https://github.com/szanitani/szczepienia/blob/master/Szczepienia%20Postepowanie.md) ze strony [pisma.szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/) - autor Brick
+  4. argumenty merytoryczne i prawne, do wykorzystania [bezpośrednio w pismach do Organów](https://github.com/szanitani/szczepienia/tree/master/Argumenty) w postępowaniach 
 
 ##Jak zgłaszać uzupełnienia/poprawki?
 Proszę korzystać z tego co oferuje GitHub czyli właśnie zgłaszanie poprawek, komentarze do treści. Probujemy jakoś zorganizować pracę nad repozytorium i na teraz sami się uczymy współpracy.
