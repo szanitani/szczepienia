@@ -6,7 +6,7 @@ Zdecydowanie TAK. Są w zasadzie tylko korzyści dla petenta i mnóstwo niedogod
 
 ###Jakie są główne korzyści korzystania z ePUAP w postępowaniu?
 
-Główną korzyścią jest brak zaskoczenia działaniami Organu. W normalnej sytuacji nagle przychodzi listonosz z listem poleconym i petent ma przykładowo 7 dni na odpowiedź. W przypadku ePUAP, procedura jest taka, że petent otrzymuje Urzędowe Poświadczenie Dostarczenia a następnie po 7 dniach kolejne. Odebrać pismo już musi, ale dopiero po 14 dniach, wiedząc mniej więcej jakiego rodzaju jest to pismo (zawsze też można zadzwonić do Organu).
+Główną korzyścią jest brak zaskoczenia działaniami Organu. W normalnej sytuacji nagle przychodzi listonosz z listem poleconym i petent ma przykładowo 7 dni na odpowiedź. W przypadku ePUAP, procedura jest taka, że petent otrzymuje Urzędowe Poświadczenie Dostarczenia w postaci email, a następnie po 7 dniach kolejny email z przypomnieniem. Odebrać pismo już musi, ale dopiero po 14 dniach, wiedząc mniej więcej jakiego rodzaju jest to pismo (zawsze też można zadzwonić do Organu).
 
 ###Jak założyć konto na ePUAP?
 
