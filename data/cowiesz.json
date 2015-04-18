@@ -1,0 +1,217 @@
+{
+   "sections":[
+      {
+         "id":1,
+         "title":"Choroby zakaźne",
+         "description":[
+            "<p>",
+            "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "</p>"
+         ],
+         "questions":[
+            {
+               "title":"Czy przechorowanie choroby daje odporność na całe życie?",
+               "type":"radio",
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>"
+               ],
+               "answers":[
+                  {"value":0,"title":"Tak, dla wszystkich chorób"},
+                  {"value":100,"title":"Tak, dla większości chorób"},
+                  {"value":0,"title":"Nie"}
+               ]
+            }
+         ]
+      },
+      {
+         "id":2,
+         "title":"Szczepienia i immunologia",
+         "description":[
+            "<p>",
+            "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "</p>"
+         ],
+         "questions":[
+            {
+               "title":"Czy szczepienie daje stuprocentową pewność, iż dziecko nie zachoruje?",
+               "type":"radio",
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>"
+               ],
+               "answers":[
+                  {"value":0,"title":"Tak"},
+                  {"value":100,"title":"Nie"}
+               ]
+            },
+            {
+               "title":"Kto dokonuje kwalifikacji dziecka do szczepienia?",
+               "type":"radio",
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>"
+               ],
+               "answers":[
+                  {"value":0,"title":"Rodzice"},
+                  {"value":0,"title":"Pielęgniarka"},
+                  {"value":100,"title":"Lekarz"},
+                  {"value":0,"title":"Położna"},
+                  {"value":0,"title":"Powiatowy Inspektor Sanitarny"}
+               ]
+            },
+            {
+               "title":"Czy zaszczepienie daje odporność na całe życie?",
+               "type":"radio",
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>"
+               ],
+               "answers":[
+                  {"value":0,"title":"Tak"},
+                  {"value":100,"title":"Nie"}
+               ]
+            }
+         ]
+      },
+      {
+         "id":3,
+         "title":"Epidemiologia i zdrowie",
+         "description":[
+            "<p>",
+            "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "</p>"
+         ],
+         "questions":[
+            {
+               "title":"Czy wyszczepialność dzieci na poziomie około 90% gwarantuje odporność stada?",
+               "type":"radio",
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+                  "At vero eos et accusam et justo duo dolores et ea rebum.",
+                  "</p>"
+               ],
+               "answers":[
+                  {"value":0,"title":"Tak"},
+                  {"value":100,"title":"Nie"}
+               ]
+            }
+         ]
+      },
+      {
+         "id":4,
+         "title":"Preparaty szczepionkowe",
+         "description":[
+            "<p>",
+            "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "</p>"
+         ],
+         "questions":[
+         ]
+      },
+      {
+         "id":5,
+         "title":"Niepożądane odczyny poszczepienne",
+         "description":[
+            "<p>",
+            "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "</p>"
+         ],
+         "questions":[
+         ]
+      },
+      {
+         "id":6,
+         "title":"Przepisy i procedury",
+         "description":[
+            "<p>",
+            "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "</p>"
+         ],
+         "questions":[
+         ]
+      },
+      {
+         "id":7,
+         "title":"Historia szczepień",
+         "description":[
+            "<p>",
+            "Dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.",
+            "At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.",
+            "</p>"
+         ],
+         "questions":[
+         ]
+      }
+   ]
+}
