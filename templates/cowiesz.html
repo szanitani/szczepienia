@@ -3,16 +3,16 @@
       <nav class="nav-sidebar">
          <ul class="nav tabs">
             <li class="active"><a href="#tab0" data-toggle="tab">Wstęp</a></li>
-            {{#sections}}
-            <li class=""><a href="#tab{{id}}" data-toggle="tab">{{id}}. {{title}}</a></li>
-            {{/sections}}
+            [[#sections]]
+            <li class=""><a href="#tab[[id]]" data-toggle="tab">[[id]]. [[title]]</a></li>
+            [[/sections]]
          </ul>
       </nav>
       <div class="alert alert-success" role="alert">
          <form action="" id="sheet0" class="form-horizontal">
             <fieldset>
                <legend>
-               Liczba zdobytych przez Ciebie punktów to <span class="badge" data-formula="0+{{#sections}}+SUM(#sheet{{id}}!A1:A200){{/sections}}"></span>, spośród <span class="badge" id="r_punkty"></span> możliwych do zdobycia w <span class="badge" id="r_pytania"></span> pytaniach.
+               Liczba zdobytych przez Ciebie punktów to <span class="badge" data-formula="0+[[#sections]]+SUM(#sheet[[id]]!A1:A200)[[/sections]]"></span>, spośród <span class="badge" id="r_punkty"></span> możliwych do zdobycia w <span class="badge" id="r_pytania"></span> pytaniach.
                </legend>
             </fieldset>
          </form>
@@ -23,19 +23,10 @@
       <div class="tab-pane active text-style" id="tab0">
          <h2>Sprawdź co naprawdę wiesz o szczepieniach</h2>
          <p>
-            Pewnego pięknego dnia na <a href="http://szczepienia.org.pl/">Forum Stowarzyszenia Stop NOP</a> pojawił się wpis
-            studentki ze Słupska, z prośbą o wypełnienie ankiety dotyczącej szczepień. Na forum ludzie chętnie pomagają w tego
-            typu akcjach, jednakże po przejrzeniu pytań w tej ankiecie, wiele osób przecierało oczy ze zdumienia jak totalne
-            bzdury są wciskane za publiczne pieniądze do głów biednych studentów. Niestety, ale wspomniana studentka zaspamowała tą
-            ankietą mnóstwo forów, blogów i serwisów w polskim internecie, więc w trosce o stan umysłu naszych rodaków, prezentujemy
-            trochę inną wiedzę, w naszej ocenie znacznie bardziej zbliżoną do rzeczywistości.
-         </p>
-         <h2>Zapraszamy do zabawy!</h2>
-         <p>
-            Sprawdź swoją wiedzę: co wydawało Ci się, że wiesz a co chciałbyś wiedzieć ale boisz się zapytać.
+            Sprawdź co wydawało Ci się, że wiesz o chorobach, szczepieniach ale też o praktyce prowadzenia szczepień w Polsce.
             Od dzisiaj możesz mierzyć poziom swojej wiedzy o szczepieniach,  bo każda poprawna odpowiedź zwiększa liczbę punktów. Te punkty nie są nigdzie
-            zbierane, analizowane, czy logowane - ot, możesz sprawdzić sam siebie lub wysłać link do ankiety rodzinie czy znajomym. To tylko zabawa, ale
-            jeśli uznasz, że Twoja świadomość w zakresie szczepień się powiększyła lub jeśli będziesz miał dzięki tej stronie  materiał do ciekawej dyskusji 
+            zbierane, analizowane, czy logowane - ot, możesz sprawdzić siebie lub wysłać link do ankiety rodzinie czy znajomym. To tylko zabawa, ale
+            jeśli uznasz, że Twoja świadomość w zakresie szczepień powiększyła się lub jeśli będziesz miał dzięki tej stronie  materiał do ciekawej dyskusji 
             z innymi ludźmi - to nasz cel został osiągnięty.
          </p>
          <h2>Jak jest mierzony mój poziom wiedzy?</h2>
@@ -52,43 +43,43 @@
             stronę co jakiś czas lub zasubskrybować się do powiadamiania o zmianach przez platformę github. Na github można też przeglądać <a href="https://github.com/szanitani/szczepienia/commits/gh-pages">rejestr zmian</a>.
          </p>
       </div>
-      {{#sections}}
-         <div class="tab-pane text-style" id="tab{{id}}">
-            <h2>{{title}}</h2>
-            {{#each description}}{{{.}}}{{/each}}
-            <form action="" class="form-horizontal" id="sheet{{id}}">
+      [[#sections]]
+         <div class="tab-pane text-style" id="tab[[id]]">
+            <h2>[[title]]</h2>
+            [[#each description]][[[.]]][[/each]]
+            <form action="" class="form-horizontal" id="sheet[[id]]">
                <fieldset>
-                  <legend>Pytania: {{firstCell(id)}}</legend>
-                  {{#questions:i}}
+                  <legend>Pytania: [[firstCell(id)]]</legend>
+                  [[#questions:i]]
                   <div class="form-group">
-                     <label class="col-md-8 control-label" for="p{{id}}-{{i+1}}" data-toggle="modal" data-target="#m{{id}}-{{i+1}}">{{i+1}}. {{title}}</label>
-                     <div class="col-md-4">
-                        {{#if (type==='radio')}}
-                           {{#answers:j}}
-                              <div class="radio"><label for="p{{id}}-{{i+1}}-{{j+1}}"><input name="p{{id}}-{{i+1}}" id="p{{id}}-{{i+1}}-{{j+1}}" value="{{value}}" type="radio" data-cell="A{{nextCell(id,i,j)}}">{{title}}</label></div>
-                           {{/answers}}
-                        {{elseif (type==='check')}}
-                           {{#answers:j}}
-                              <div class="checkbox"><label for="p{{id}}-{{i+1}}-{{j+1}}"><input name="p{{id}}-{{i+1}}" id="p{{id}}-{{i+1}}-{{j+1}}" value="{{value}}" type="checkbox" data-cell="A{{nextCell(id,i,j)}}">{{title}}</label></div>
-                           {{/answers}}
-                        {{/if}}
+                     <label class="col-md-6 control-label" for="p[[id]]-[[i+1]]" data-toggle="modal" data-target="#m[[id]]-[[i+1]]">[[i+1]]. [[[title]]]</label>
+                     <div class="col-md-6">
+                        [[#if (type==='radio')]]
+                           [[#answers:j]]
+                              <div class="radio"><label for="p[[id]]-[[i+1]]-[[j+1]]"><input name="p[[id]]-[[i+1]]" id="p[[id]]-[[i+1]]-[[j+1]]" value="[[value]]" type="radio" data-cell="A[[nextCell(id,i,j)]]">[[[title]]]</label></div>
+                           [[/answers]]
+                        [[elseif (type==='check')]]
+                           [[#answers:j]]
+                              <div class="checkbox"><label for="p[[id]]-[[i+1]]-[[j+1]]"><input name="p[[id]]-[[i+1]]" id="p[[id]]-[[i+1]]-[[j+1]]" value="[[value]]" type="checkbox" data-cell="A[[nextCell(id,i,j)]]">[[[title]]]</label></div>
+                           [[/answers]]
+                        [[/if]]
                      </div>
                   </div>
                   <hr>
-                  {{/questions}}
+                  [[/questions]]
                </fieldset>
             </form>
          </div>
-      {{/sections}}
+      [[/sections]]
    </div>
 </div>
 
 <!-- ****************************** -->
 <!-- ****   OPISY DO PYTAŃ   ****** -->
 <!-- ****************************** -->
-{{#sections}}
-   {{#questions:i}}
-      <div class="modal fade" id="m{{id}}-{{i+1}}" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+[[#sections]]
+   [[#questions:i]]
+      <div class="modal fade" id="m[[id]]-[[i+1]]" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
         <div class="modal-dialog">
           <div class="modal-content">
             <div class="modal-header">
@@ -96,11 +87,11 @@
               <h4 class="modal-title" id="myModalLabel">Uwaga - podpowiedzi..</h4>
             </div>
             <div class="modal-body">
-               {{#each description}}{{{.}}}{{/each}}
+               [[#each description]][[[.]]][[/each]]
             </div>
             <div class="modal-footer"><button type="button" class="btn btn-default" data-dismiss="modal">Zamknij</button></div>
           </div>
         </div>
       </div>
-   {{/questions}}
-{{/sections}}
+   [[/questions]]
+[[/sections]]
