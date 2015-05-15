@@ -26,7 +26,15 @@ Jest ich mnóstwo. Część nawet umożliwia kwestionowanie czynności w postęp
 
 ###Na czym polega kwestionowanie czynności urzędnika?
 
-W przypadku doręczeń, wszystko musi się odbywać zgodnie z Rozdziałem 8 KPA -  "Doręczenia". Praktyka wskazuje, że urzędnicy mają duży problem z prawidłowym obsługiwaniem ePUAP. Nie odsyłają UPD, pisma nie są prawidłowo podpisane czy opatrzone niezbędnymi sygnaturami, daty się różnią pomiędzy dokumentem a podpisem itd. Na każdą z tych nieprawidłowości warto składać skargi. 
+W przypadku doręczeń, wszystko musi się odbywać zgodnie z Rozdziałem 8 KPA -  "Doręczenia".
+Praktyka wskazuje, że urzędnicy mają duży problem z prawidłowym obsługiwaniem ePUAP. Odsyłają odpowiedzi 
+[listami poleconymi](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/skarga%20na%20nieprawidlowe%20doreczenie.md),
+nie [odsyłają UPD](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/skarga%20na%20pismo%20bez%20upd.md), 
+pisma nie są [prawidłowo podpisane](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/skarga%20na%20pismo%20bez%20podpisu.md), 
+daty się różnią pomiędzy [dokumentem a podpisem](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/skarga%20na%20pismo%20z%20nieprawidlowym%20podpisem.md) itd.
+Na każdą z tych nieprawidłowości warto składać skargi i wnioski. Organy będą w części uwzględniały te wnioski bo uchybienia są oczywiste, jednakże z całych sił będą dążyły do uniknięcia
+postępowania służbowego wobec winnego urzędnika. Należy o to uparcie zabiegać, ponieważ w przyszłości otwiera to kolejne ścieżki, a przecież chodzi o obronę praw petenta.
+W końcu to Organ sam rozpoczął postępowanie, więc niech je prowadzi zgodnie z przepisami.
 
 ###A czego mają dotyczyć te skargi?
 
