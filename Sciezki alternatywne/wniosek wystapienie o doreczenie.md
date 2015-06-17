@@ -5,7 +5,7 @@ Dokument należy wysłać jak najszybciej po otrzymaniu z PPIS pierwszego pisma.
 Tak.
 
 ##Co ewentualnie warto dopasować w treści wniosku?
-Jeśli postępowanie prowadzi jeden rodzic, można dodać w treści "*i w związku z pełnomocnictwem z dnia (data) występujemy*".
+Jeśli postępowanie prowadzi jeden rodzic, można dodać w treści "*i w związku z pełnomocnictwem z dnia (data), występujemy*".
 Można rozważyć uszczegółowienie zakresu np. wskazanie, że dotyczy to postępowania w sprawie przymuszenia itp. jednakże nie jest to konieczne, bo przywołany przepis jest jednoznaczny.
 Jeśli organ nie będzie wiedział o co chodzi to powinien sam wystąpić o sprecyzowanie wniosku w trybie k.p.a.
 Na dalszym etapie, w postępowaniu sądowo-administracyjnym oraz w przypadku przekazania postępowania do innych organów taka ogólność wniosku będzie zaletą.
