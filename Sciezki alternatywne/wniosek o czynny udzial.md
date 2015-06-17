@@ -32,11 +32,11 @@ Na podstawie art. 10 § 1 k.p.a. wnoszę o  zapewnienie  stronie  czynnego udzia
 a przed zakończeniem postępowania umożliwienie wypowiedzenia się co do zebranych dowodów i materiałów oraz zgłoszonych żądań.
 
 UZASADNIENIE
-Cyt. „*Ustanowione w art. 10 § 1 prawo strony do wypowiadania się jest szerszym od prawa z art. 81, które obejmuje tylko prawo wypowiadania się co do przeprowadzonych dowodów. 
+Cyt. „Ustanowione w art. 10 § 1 prawo strony do wypowiadania się jest szerszym od prawa z art. 81, które obejmuje tylko prawo wypowiadania się co do przeprowadzonych dowodów. 
 Wypływające z zasady ogólnej czynnego udziału strony w postępowaniu prawo obejmuje wypowiadanie się co do zebranych dowodów i materiałów oraz zgłoszonych żądań. 
 "Zasada, gwarantująca stronom możliwość wypowiedzenia się przed wydaniem decyzji, odnosi się do wszystkich dowodów i materiałów, bez względu na to, z czyjej inicjatywy 
 są one przeprowadzone lub zbierane (z urzędu czy na żądanie którejkolwiek ze stron (...), to samo dotyczy również "żądań", bez względu na to, kto je wysuwa, 
-strona czy organ administracyjny (...), chodzi tu nie tylko o "żądanie" sensu stricto, ile raczej o to, co władza lub strona chce prawnie osiągnąć w postępowaniu*”. 
+strona czy organ administracyjny (...), chodzi tu nie tylko o "żądanie" sensu stricto, ile raczej o to, co władza lub strona chce prawnie osiągnąć w postępowaniu”.
 B. Adamiak, J. Borkowski, Kodeks postępowania administracyjnego. Komentarz. Wyd. 12, Warszawa 2012.
 
 Mając na uwadze powyższe, wnioskuję jak we wstępie.
