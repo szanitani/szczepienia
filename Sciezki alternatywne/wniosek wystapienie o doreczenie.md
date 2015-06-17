@@ -28,7 +28,8 @@ Wasz znak: <znak sprawy>
 
 WNIOSEK
 
-Na podstawie art. 39 § 1 k.p.a. występujemy o doręczanie wszystkich pism na adres elektroniczny, wskazany przez zarejestrowaną skrytkę na koncie platformy ePUAP, z którego pochodzi niniejsze wystąpienie.
+Na podstawie art. 39 § 1 k.p.a. występujemy o doręczanie wszystkich pism na adres elektroniczny, 
+wskazany przez zarejestrowaną skrytkę na koncie platformy ePUAP, z którego pochodzi niniejsze wystąpienie.
 
 
 z wyrazami szacunku
