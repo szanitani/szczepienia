@@ -1,7 +1,7 @@
 #Repozytorium Pism i Argumentów - o szczepieniach i dla rodziców
 
 ##Do czego służy to repozytorium?
-Materiały stanowią rozszerzenie i uzupełnienie [FAQ ze strony szczepienia.org.pl(http://www.pisma.szczepienia.org.pl/faq.php) oraz 
+Materiały stanowią rozszerzenie i uzupełnienie [FAQ ze strony szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/faq.php) oraz 
 [dokumentów do pobrania w sprawie szczepień ze strony pisma.szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/) w zakresie postępowania administracyjnego i niuansów związanych z korespondencją z urzędami.
 
 ##Jaka jest aktualna zawartość repozytorium?
