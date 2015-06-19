@@ -61,7 +61,7 @@ Zgadza się, jednakże celem jest przecież przedłużanie postępowania. Warto 
 
 ###Czy mogę coś zrobić aby zmniejszyć szansę zignorowania skargi?
 
-Tak. Postępuj zgodnie ze wskazówkami z [tego poradnika](http://forumprawne.org/prawo-administracyjne/301849-jak-pisac-skuteczne-pisma-do-urzedu-poradnik.html). Dodatkowo uwzględnij porady z materiałów fundacji Batorego [z tego dokumentu](http://www.batory.org.pl/ftp/korupcja/sciagawka2_skargi_i_wnioski.pdf). Pełny obraz sytuacji i Twoją aktualną pozycję"w systemie" możesz [sprawdzić tutaj](www.batory.org.pl/ftp/korupcja/sciagawka4_postepowanie_administracyjne.pdf).
+Tak. Postępuj zgodnie ze wskazówkami z [tego poradnika](http://forumprawne.org/prawo-administracyjne/301849-jak-pisac-skuteczne-pisma-do-urzedu-poradnik.html). Dodatkowo uwzględnij porady z materiałów fundacji Batorego [z tego dokumentu](http://www.batory.org.pl/ftp/korupcja/sciagawka2_skargi_i_wnioski.pdf). Pełny obraz sytuacji i Twoją aktualną pozycję"w systemie" możesz [sprawdzić tutaj](http://www.batory.org.pl/ftp/korupcja/sciagawka4_postepowanie_administracyjne.pdf).
 
 ###Czy powinienem pisać długie pisma obejmujące wszystko, czy też każda sprawa w osobnym piśmie?
 
