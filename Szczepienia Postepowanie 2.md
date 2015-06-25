@@ -42,7 +42,7 @@ Jeśli urzędnik mimo zwrócenia uwagi i zapewnienia, że taka sytuacja nie powt
 
 ###W postępowaniu jest dwoje rodziców, czy obydwoje muszą mieć konta w ePUAP?
 
-To oczywiście zależy od sytuacji obydwojga rodziców w kwestii zaufania do siebie. W typowej sytuacji, należy przekazać pełnomocnictwo dla jednego rodzica do Organu (pamiętając o opłacie skarbowej), co oznacza, że tylko ten rodzic będzie otrzymywał korespondencję z Organu. Jeśli jeden rodzic będzie miał ePUAP a drugi nie, wtedy Organ będzie musiał wysyłać korespondencję i elektronicznie i papierowo, ale z punktu widzenia właśnie tego czasu na odpowiedź nie jest to korzystne.
+To oczywiście zależy od sytuacji obydwojga rodziców w kwestii zaufania do siebie. W typowej sytuacji, należy przekazać pełnomocnictwo dla jednego rodzica do Organu, co oznacza, że tylko ten rodzic będzie otrzymywał korespondencję z Organu. Należy pamiętać o opłacie skarbowej (obecnie 17 PLN) i zwolnieniach z tej opłaty - szczegóły w ustawie o opłacie skarbowej. W typowej sytuacji, gdzie oboje rodzice są małżonkami, pełnomocnik jest zwolniony z opłaty. Jeśli jeden rodzic będzie miał ePUAP a drugi nie, wtedy Organ będzie musiał wysyłać korespondencję i elektronicznie i papierowo, ale z punktu widzenia właśnie tego czasu na odpowiedź nie jest to korzystne.
 
 ###Czy wszystkie pisma mogą być kierowane do Organów przez ePUAP?
 
