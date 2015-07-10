@@ -22,6 +22,11 @@ Lista wydanych decyzji przez GIODO jest [dostępna tutaj](http://www.giodo.gov.p
 Należy skrupulatnie przeanalizować treść wydanych decyzji, przed wysłaniem skargi w celu uniknięcia podstawowych
 błędów dających urzędnikom łatwą opcję odrzucenia skargi.
 
+##Czy to pismo wkracza w przepisy karne ustawy o ochronie danych osobowych?
+Na chwilę obecną nie bezpośrednio. Wskazujemy na brak uprawnień Inspekcji Sanitarnej do prowadzenia takich spraw w ogóle.
+Uchybienia jak najbardziej warto wskazywać, jednakże jest to ścieżka związana ze zgłoszeniem sprawy do prokuratury
+oraz jak wskazuje GIODO w swoich decyzjach na gruncie przepisów prawa cywilnego.
+
 ##Treść pisma:
 ```
                                                                 <miejscowosc>, <data>
