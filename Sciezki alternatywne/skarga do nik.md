@@ -1,5 +1,5 @@
 ##Kogo dotyczy to pismo?
-Osób, które wystąpiły do PPIS o korespondencję elektroniczną (ePUAP). Sprawa została następnie przekazana do organu egzekucyjnego (Wojewoda w tym przypadku), który wysyła pisma papierowe.
+Osób, które wystąpiły do PPIS o korespondencję elektroniczną (ePUAP). Sprawa została następnie przekazana do organu egzekucyjnego (Wojewoda w tym przypadku), który uporczywie wysyła pisma papierowe.
 
 ##Czy od razu stosować tą ścieżkę?
 Stan faktyczny powinien wyglądać tak: organ egzekucyjny wysyła pismo papierowe, strona zwraca uwagę pismem przez ePUAP, organ egzekucyjny ponownie wysyła pisma papierowe - skarga do NIK.
