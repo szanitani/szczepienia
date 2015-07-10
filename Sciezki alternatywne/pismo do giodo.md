@@ -14,8 +14,8 @@ Do opracowania.
 GIODO udostępnia dane o wszystkich zbiorach w serwisie [eGIODO](https://egiodo.giodo.gov.pl/search_advanced.dhtml).
 Można znaleźć tam aktualne i archiwalne dane o rejestracjach. Jednakże przeszukiwanie tych zasobów jest dość uciążliwe.
 W tym celu, dane o rejestracjach Inspekcji Sanitarnej zostały zebrane w tym [arkuszu](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/zbiory_danych_osobowych.xlsx).
-Znajdują się tam dane na początek listopada 2014. Należy otworzyć plik i sprawdzić rejestrację zbiorów w swoim PPIS.
-Dane należy porównać listy zbiorów zarejstrowanych przez PPIS w Kamieniu Pomorskim, gdzie jest najwięcej zbiorów w Polsce oraz z aktualnym stanem rejestracji w serwisie [eGIODO](https://egiodo.giodo.gov.pl/search_advanced.dhtml).
+Arkusz należy zgrać na swój komputer. Znajdują się tam dane na początek listopada 2014. Należy otworzyć plik i znaleźć listę rejestracji zbiorów w PPIS gdzie jest prowadzone postępowanie. Jeśli takie zbiory są porejestrowane (częściej nie), wtedy w kolejnym kroku trzeba porównać tą listę, do listy zbiorów zarejstrowanych przez PPIS w Kamieniu Pomorskim, gdzie jest najwięcej zbiorów w Polsce. Należy również sprawdzić listę znalezionych zbiorów w serwisie [eGIODO](https://egiodo.giodo.gov.pl/search_advanced.dhtml), w celu upewnienia się, że pomiędzy listopadem 2014
+a 31 grudnia 2014, PPIS nie wprowadził zmian w rejestracjach (mało prawdopodobne, ale trzeba mieć pewność).
 
 ##Gdzie mogę znaleźć zbiór decyzji wydanych przez GIODO w innych postępowaniach?
 Lista wydanych decyzji przez GIODO jest [dostępna tutaj](http://www.giodo.gov.pl/151/j/pl/).
