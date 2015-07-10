@@ -106,3 +106,93 @@ W załączeniu:
 
 - dowód wniesienia opłaty skarbowej za skargę
 ```
+
+##Inne treści do wykorzystania
+```
+Uznaję, że Organ naruszył art. 27 ust. 1 u.o.d.o.. Przetwarzanie danych o stanie zdrowia dziecka <imie nazwisko> przez organ 
+nie jest dopuszczalne w rozumieniu art. 27 ust. 1 u.o.d.o., ponieważ nie wyraziłem zgody na piśmie do przetwarzania tych danych, 
+a organ nie wskazał podstawy prawnej działania na podstawie przepisów szczególnych innej ustawy zezwalającej na  przetwarzanie 
+takich danych bez zgody osoby, której dane dotyczą, i jednocześnie stwarzającej pełne gwarancje ich ochrony. Wskazane przez organ 
+przepisy (Ustawa z dnia 5 grudnia 2008r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi), na podstawie których 
+organ prowadzi postępowanie, nie stwarzają pełnej gwarancji ochrony danych osobowych. W moim rozumieniu nieustaleni pracownicy organu, 
+dokonując czynności w postępowaniu, podlegają zatem odpowiedzialności wskazanej w art. 49 ust. 2, art. 51 ust. 1 lub 2, art. 52, art. 54 u.o.d.o.
+
+Zarzucam naruszenie art. 40 u.o.d.o.. Dane osobowe o stanie zdrowia nie podlegają wyłączeniu z obowiązku rejestracji 
+w rozumieniu art. 43 ust. 1 u.o.d.o., co oznacza, że wszystkie dane  przetwarzane przez organ a nie zgłoszone w sposób prawidłowy, 
+są przetwarzane niezgodnie z przepisami. Organ narusza również art. 46 ust. 2 u.o.d.o., poprzez przetwarzanie zbiorów danych 
+o stanie zdrowia w rozumieniu art. 27 ust. 1 u.o.d.o., przed ich zgłoszeniem Generalnemu Inspektorowi Danych Osobowych. 
+W moim rozumieniu nieustaleni pracownicy organu podlegają odpowiedzialności wskazanej w art. 53 u.o.d.o. Jako materiał 
+dowodowy przekazuję własną analizę publicznie dostępnego rejestru zgłoszeń zbiorów danych osobowych w rozumieniu u.o.d.o.
+Za utrzymanie rejestru zgłoszeń zbiorów jest odpowiedzialny GIODO a dostęp do rejestru jest realizowany przez serwis: 
+https://egiodo.giodo.gov.pl. E-GIODO umożliwia budowanie kwerend i uzyskiwanie odpowiedzi w określonym zakresie wprowadzonych 
+przez zgłaszających danych na formularzach, niemniej analiza wyników jest czasochłonna. Załącznik nr 1 do niniejszego pisma to 
+zestawienie liczby zarejestrowanych w GIODO zbiorów danych osobowych przez Państwowych Powiatowych Inspektorów Sanitarnych w Polsce 
+w rozumieniu art. 53 u.o.d.o. Tabela pokazuje, w podziale na województwa i powiaty, ile zbiorów zostało zarejestrowanych w GIODO 
+przez poszczególnych PPIS. Sprawa jest prowadzona w powiecie <powiat>, który nie ma zarejestrowanego w GIODO ani jednego zbioru danych.
+Oznacza to, że dane osobowe o stanie zdrowia mojego dziecka, oraz nieustalonej liczby innych podmiotów, wobec których są prowadzone 
+postępowania przez PPIS <powiat>, są przetwarzane niezgodnie z przepisami prawa. Przykładowo spośród 21 powiatów w Województwie Zachodniopomorskim, 
+tylko 13 powiatów ma zarejestrowane zbiory. Abstrahując od faktu, że niejednokrotnie są to pojedyncze rejestracje, na uwagę zasługuje fakt, 
+że PPIS w Kamieniu Pomorskim, a więc podlegający pod tego samego ZPWIS w Szczecinie, ma takich zbiorów zarejestrowanych aż 95 (najwięcej w Polsce). 
+Nie ma powodu przypuszczać, że tylko jeden PPIS w Kamieniu Pomorskim ma tak szeroki zakres zadań, natomiast inni PPIS takowych zadań nie realizują. 
+Te zbiory zgodnie z przepisami u.o.d.o. powinny być zarejestrowane w GIODO. W tematyce szczepień, różnych tytułów zbiorów wprowadzonych 
+przez PPIS do bazy eGIODO jest ok 25. Ani jeden zbiór nie został zarejestrowany, jak zostało wspomniane wcześniej, przez prowadzącego sprawę PPIS w <powiat>. 
+Brak rejestracji zbiorów danych osobowych w zakresie innych, rozlicznych zadań ustawowych przypisanych Inspekcji Sanitarnej, uznaję za naruszenie prawa, 
+poprzez realizację tych zadań niezgodnie z przepisami. 
+
+Prowadzenie rejestru odczynów poszczepiennych niezgodnie z przepisami to naruszenie art. 21 ust. 3 Ustawy z dnia 5 grudnia 2008 o zapobieganiu 
+oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi.
+
+Naruszeniem prawa jest również brak nadzoru przez ZPWIS nad realizacją obowiązków ustawowych podległych mu jednostek w zakresie realizacji przepisów u.o.d.o.
+
+Uznaję, że wrażliwe dane osobowe o stanie zdrowia <imie nazwisko> zostały zatem zebrane z naruszeniem ustawy w rozumieniu art. 35 u.o.d.o. 
+Jako materiał dowodowy, w zakresie zebrania danych o stanie zdrowie niezgodnie z ustawą  wskazuję, że z treści pism PPIS w <powiat> wynika, 
+że część danych o stanie zdrowia dziecka <imie nazwisko> było przekazanych do PPIS w <powiat> z przychodni drogą ustną. 
+Czyli dane zostały zebrane z naruszeniem przepisów. Ponadto Organ nie wskazał przepisów, które dopuszczają 
+by ustna deklaracja pielęgniarki prowadziła do tak poważnych skutków prawnych jak te zastosowane wobec mnie przez Organ w swoim
+postępowaniu. Art. 36 ust. 1 u.o.d.o. mówi, że cyt. "Administrator danych jest obowiązany zastosować środki techniczne i organizacyjne  zapewniające 
+ochronę  przetwarzanych  danych  osobowych  odpowiednią do zagrożeń oraz kategorii danych objętych ochroną (...)". Mając na uwadze art. 27 u.o.d.o.,
+kategoria "dane osobowe o stanie zdrowia", wymaga podwyższonego lub wysokiego poziomu bezpieczeństwa w zakresie przetwarzania. Nie jest możliwe,
+aby uznać za zgodne z przepisami i polityką bezpieczeństwa w PPIS w <powiat>, rozwiązanie organizacyjne, gdzie jest możliwe przekazanie takich 
+informacji przez telefon, w sytuacji gdy każdy może zadzwonić do przychodni i powiedzieć, że jest pracownikiem Inspekcji i chce uzyskać informację 
+o stanie zdrowia dziecka. Oznacza to, że dane o stanie zdrowia dziecka <imie nazwisko> zostały zebrane z naruszeniem przepisów w rozumieniu art. 35 w/w Ustawy.
+
+Druga kwestia w zakresie zebrania danych osobowych o stanie zdrowia przez PPIS w <powiat> zgodnie z przepisami to kwestia przyczyny wszczęcia 
+postępowania czyli dokument "Kwartalne sprawozdanie z przeprowadzonych obowiązkowych szczepień ochronnych". Wzór tego sprawozdania stanowi 
+Załącznik nr 4 do Rozporządzenia Ministra Zdrowia w sprawie obowiązkowych szczepień ochronnych. Wzór formularza zawiera w dziale drugim, pozycję 
+o nazwie "Liczba osób uchylających się od obowiązku szczepień ochronnych, których imienny wykaz dołączono do sprawozdania". 
+Wskazuję, że art. 17 ust. 10 pp. 8 Ustawy o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, sankcjonuje tryb i terminy 
+przekazywania sprawozdań ustalone przez Ministra Zdrowia, jednakże  Ustawodawca nie delegował w sposób literalny do Ministra Zdrowia 
+uprawnień do zbierania danych osobowych o stanie zdrowia w zakresie nie szczepienia ludzi w sposób stwarzający pełne gwarancje ich ochrony. 
+Domniemywać należy, że sprawozdanie obejmować ma zatem dane zagregowane i znaczące statystycznie. Przepisy Ustawy o ochronie danych osobowych 
+wskazują, że część jej przepisów może nie być stosowana jeśli przepis innej ustawy przewiduje lub dopuszcza zbieranie danych osobowych 
+bez wiedzy osoby, której dane dotyczą i jednocześnie stwarzającej pełne gwarancje ich ochrony. Ustawa o zapobieganiu oraz zwalczaniu zakażeń 
+i chorób zakaźnych u ludzi, nie przewiduje zbierania danych o osobach uchylających się od szczepień i jednocześnie stwarzając pełne gwarancje 
+ich ochrony, zatem kwestionuję zgodność z przepisami obowiązku przekazania w sprawozdaniu kwartalnym danych osobowych o stanie zdrowia osób 
+uchylających się od szczepień a co za tym idzie, wykazuję w rozumieniu art. 35 ust. 1 Ustawy o ochronie danych osobowych, że dane jej dotyczące 
+zostały zebrane przez Organ z naruszeniem ustawy.
+
+Zarzucam naruszenie art. 36 u.o.d.o., o treści cyt. "Administrator danych jest obowiązany zastosować środki techniczne i organizacyjne 
+zapewniające  ochronę  przetwarzanych  danych  osobowych  odpowiednią do zagrożeń oraz kategorii danych objętych ochroną, a w szczególności 
+powinien  zabezpieczyć  dane  przed  ich  udostępnieniem  osobom  nieupoważnionym, zabraniem  przez  osobę  nieuprawnioną,  przetwarzaniem  
+z  naruszeniem  ustawy oraz zmianą, utratą, uszkodzeniem lub zniszczeniem.", w zakresie nie zapewnienia należytej ochrony przetwarzania 
+danych osobowych o stanie zdrowia <imie nazwisko> w rozumieniu art. 27 u.o.d.o., poprzez umożliwienie udostępnienia tych danych osobom 
+nieupoważnionym i przetwarzanie danych z naruszeniem par. 6 pp 3, 4 Rozporządzenie Ministra Spraw Wewnętrznych i Administracji 
+z dnia 29 kwietnia 2004 r. w sprawie dokumentacji przetwarzania danych osobowych oraz warunków technicznych i organizacyjnych, 
+jakim powinny odpowiadać urządzenia i systemy informatyczne służące do przetwarzania danych osobowych. W moim rozumieniu nieustaleni 
+pracownicy Organu podlegają odpowiedzialności wskazanej w art. 51 ust. 1 lub 2, art. 52 u.o.d.o.
+
+Bazując na powyższej analizie powziąłem uzasadnione podejrzenie, że dane osobowe o stanie zdrowia dziecka <imie nazwisko>, 
+przetwarzane przez Organ Inspekcji Sanitarnej,  zostały przekazane ludziom nieuprawnionym do posiadania tych danych - również na forum publicznym 
+co uznaję, za rażące naruszenie przysługujących nam praw wynikających z u.o.d.o. <TYLKO W PRZYPADKU UZASADNIONEGO PODEJRZENIA UPUBLICZNIENIA DANYCH>
+
+Zgłaszam również uzasadnione podejrzenie w kwestii naruszenia praw w stosunku do niekreślonej liczby innych osób, 
+których dane, klasyfikowane jako wrażliwe, również mogą być przetwarzane z naruszeniem przepisów u.o.d.o. Uzasadniam, że jeśli w organach 
+Inspekcji Sanitarnej jest faktem możliwość tak łatwego naruszania prawa, w stosunku do jednej osoby, to rodzi się przypuszczenie, 
+że udostępnianie danych o stanie zdrowia w Inspekcji, nie jest zdarzeniem jednostkowym.
+
+Uznaję brak bezzwłocznego podjęcia powyższych działań przez organ za działanie w złej woli, wyłączające stan nieumyślności 
+w rozumieniu art. 51 ust. 2 u.o.d.o. Wskazuję, że brak podjęcia działań mających na celu ograniczenie naruszenia prawa oznacza 
+możliwość niebezpieczeństwa wyrządzenia mojemu dziecku znacznej szkody poprzez dalsze upublicznianie jego danych o stanie zdrowia. 
+Te szkody niosą za sobą trudne do odwrócenia skutki w rozumieniu art. 61 par. § 3 p.p.s.a., ponieważ kiedy ktoś nieupoważniony 
+pozna stan zdrowia mojego dziecka wtedy będzie już o tym wiedział, bez możliwości cofnięcia się do stanu przed pozyskaniem tej wiedzy.
+```
