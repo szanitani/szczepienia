@@ -27,6 +27,9 @@ Na chwilę obecną nie bezpośrednio. Wskazujemy na brak uprawnień Inspekcji Sa
 Uchybienia jak najbardziej warto wskazywać, jednakże jest to ścieżka związana ze zgłoszeniem sprawy do prokuratury
 oraz jak wskazuje GIODO w swoich decyzjach na gruncie przepisów prawa cywilnego.
 
+##Jaki jest cel pisma?
+Uznanie części lub całości zarzutów przez GIODO w drodze decyzji/postanowienia. Spowoduje to wyczerpanie ścieżki skargowej i możliwość skutecznej skargi do WSA na czynności w postępowaniu prowadzonym przez PPIS. Umożliwi przekazanie sprawy do prokuratury w związku z naruszeniem przepisów karnych u.o.d.o. oraz k.k. Umożliwi złożenie skargi do MAC w związku z czynnościami administracyjnymi i wdrożenie postępowania wobec pracowników PPIS, co zaskutkuje wyłączeniem tych urzędników z postępowania.
+
 ##Treść pisma:
 ```
                                                                 <miejscowosc>, <data>
