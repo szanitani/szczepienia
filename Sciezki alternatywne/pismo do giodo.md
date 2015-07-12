@@ -5,7 +5,7 @@ Osoby, których postępowanie zostało wszczęte przed 2015-01-01 czyli w trakci
 Tak! Jest to niezależne postępowanie.
 
 ##Co ewentualnie warto dopasować w treści wniosku?
-Jest to pismo w trakcie opracowywania. Dla osób, których postępowania rozpoczęły się w 2015 r. pismo do GIODO powinno mieć inną treść.
+Jest to pismo w trakcie opracowywania. Dla osób, których postępowania rozpoczęły się w 2015 r. pismo do GIODO powinno mieć inną treść. Od stycznia 2015 weszła w życie nowelizacja u.o.d.o., w której zmieniono wymogi w zakresie  rejestracji zbiorów danych osobowych.
 
 ##Jakie są dalsze kroki?
 Do opracowania.
