@@ -30,6 +30,15 @@ oraz jak wskazuje GIODO w swoich decyzjach na gruncie przepisów prawa cywilnego
 ##Jaki jest cel pisma?
 Uznanie części lub całości zarzutów przez GIODO w drodze decyzji/postanowienia. Spowoduje to wyczerpanie ścieżki skargowej i możliwość skutecznej skargi do WSA na czynności w postępowaniu prowadzonym przez PPIS. Umożliwi przekazanie sprawy do prokuratury w związku z naruszeniem przepisów karnych u.o.d.o. oraz k.k. Umożliwi złożenie skargi do MAC w związku z czynnościami administracyjnymi i wdrożenie postępowania wobec pracowników PPIS, co zaskutkuje wyłączeniem tych urzędników z postępowania.
 
+##Czy możemy co do zasady zakwestionować przekazywanie danych z przychodni do PPIS? (szkic)
+Zbadajmy co mówią na ten temat ustawy i rozporządzenia.  
+
+1. USTAWA z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz.U. 2008 Nr 234 poz. 1570), art. 17 ust. 8:  
+"Osoby przeprowadzające szczepienia ochronne:  
+1) prowadzą dokumentację medyczną dotyczącą obowiązkowych szczepień ochronnych, w tym przechowują karty uodpornienia oraz dokonują wpisów potwierdzających wykonanie szczepienia;  
+2) sporządzają sprawozdania z przeprowadzonych obowiązkowych szczepień ochronnych oraz sprawozdania ze stanu zaszczepienia osób objętych profilaktyczną opieką zdrowotną, które przekazują państwowemu powiatowemu inspektorowi sanitarnemu."
+
+
 ##Treść pisma:
 ```
                                                                 <miejscowosc>, <data>
