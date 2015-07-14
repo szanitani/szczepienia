@@ -5,7 +5,7 @@ Osoby, których postępowanie zostało wszczęte przed 2015-01-01 czyli w trakci
 Tak! Jest to niezależne postępowanie.
 
 ##Co ewentualnie warto dopasować w treści wniosku?
-Jest to pismo w trakcie opracowywania. Dla osób, których postępowania rozpoczęły się w 2015 r. pismo do GIODO powinno mieć inną treść.
+Jest to pismo w trakcie opracowywania. Dla osób, których postępowania rozpoczęły się w 2015 r. pismo do GIODO powinno mieć inną treść. Od stycznia 2015 weszła w życie nowelizacja u.o.d.o., w której zmieniono wymogi w zakresie  rejestracji zbiorów danych osobowych.
 
 ##Jakie są dalsze kroki?
 Do opracowania.
@@ -35,8 +35,24 @@ Zbadajmy co mówią na ten temat ustawy i rozporządzenia.
 
 1. USTAWA z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz.U. 2008 Nr 234 poz. 1570), art. 17 ust. 8:  
 "Osoby przeprowadzające szczepienia ochronne:  
-1) prowadzą dokumentację medyczną dotyczącą obowiązkowych szczepień ochronnych, w tym przechowują karty uodpornienia oraz dokonują wpisów potwierdzających wykonanie szczepienia;  
-2) sporządzają sprawozdania z przeprowadzonych obowiązkowych szczepień ochronnych oraz sprawozdania ze stanu zaszczepienia osób objętych profilaktyczną opieką zdrowotną, które przekazują państwowemu powiatowemu inspektorowi sanitarnemu."
+1) prowadzą **dokumentację medyczną** dotyczącą obowiązkowych szczepień ochronnych, w tym przechowują karty uodpornienia oraz dokonują wpisów potwierdzających wykonanie szczepienia;  
+2) sporządzają sprawozdania z przeprowadzonych obowiązkowych szczepień ochronnych oraz **sprawozdania** ze stanu zaszczepienia osób objętych profilaktyczną opieką zdrowotną, które **przekazują państwowemu powiatowemu inspektorowi sanitarnemu.**"
+
+2. USTAWA z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz.U. 2008 Nr 234 poz. 1570), art. 17 ust. 10 pkt. 7 i pkt. 8:  
+"Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:  
+7) sposób prowadzenia **dokumentacji**, o której mowa w ust. 8 pkt 1, i jej obiegu,  
+8) **wzory sprawozdań** z przeprowadzonych obowiązkowych szczepień ochronnych oraz tryb i terminy ich przekazywania (...)"  
+`Wynika z powyższego, że czym innym jest dokumentacja medyczna, a czym innym sprawozdanie z przeprowadzonych szczepień.`  
+
+3. ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 18 sierpnia 2011 r. w sprawie obowiązkowych szczepień ochronnych art. 13:  
+"Kwartalne **sprawozdanie** z przeprowadzonych obowiązkowych szczepień ochronnych, którego wzór jest określony w załączniku nr 4 do rozporządzenia, jest sporządzane i przekazywane przez osoby przeprowadzające obowiązkowe szczepienia ochronne państwowemu powiatowemu inspektorowi sanitarnemu, w terminie 7 dni po zakończeniu kwartału, za pomocą środków komunikacji elektronicznej albo listem poleconym."  
+
+4. ZAŁĄCZNIK Nr 4 do ROZPORZĄDZENIA MINISTRA ZDROWIA z dnia 18 sierpnia 2011 r. w sprawie obowiązkowych szczepień ochronnych: 
+ * tytuł "**Sprawozdanie** z przeprowadzonych obowiązkowych szczepień ochronnych";
+ * w dziale 1 znajdują się dane statystyczne, anonimowe;
+ * dział 2 zatytułowano "Osoby uchylające się od obowiązku szczepień"; 
+
+
 
 
 ##Treść pisma:
