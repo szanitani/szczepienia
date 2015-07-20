@@ -31,7 +31,7 @@ oraz jak wskazuje GIODO w swoich decyzjach na gruncie przepisów prawa cywilnego
 Uznanie części lub całości zarzutów przez GIODO w drodze decyzji/postanowienia. Spowoduje to wyczerpanie ścieżki skargowej i możliwość skutecznej skargi do WSA na czynności w postępowaniu prowadzonym przez PPIS. Umożliwi przekazanie sprawy do prokuratury w związku z naruszeniem przepisów karnych u.o.d.o. oraz k.k. Umożliwi złożenie skargi do MAC w związku z czynnościami administracyjnymi i wdrożenie postępowania wobec pracowników PPIS, co zaskutkuje wyłączeniem tych urzędników z postępowania.
 
 ##Czy możemy co do zasady zakwestionować przekazywanie danych z przychodni do PPIS? (szkic)
-Zbadajmy co mówią na ten temat ustawy i rozporządzenia.  
+Zbadajmy co mówią na temat przekazywania danych o osobach uznanych za uchylające się od obowiązku szczepień stosowne ustawy i rozporządzenia.  
 
 1. USTAWA z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi art. 17 ust. 8:  
 "Osoby przeprowadzające szczepienia ochronne:  
@@ -47,13 +47,12 @@ Zbadajmy co mówią na ten temat ustawy i rozporządzenia.
 3. ROZPORZĄDZENIE MINISTRA ZDROWIA z dnia 18 sierpnia 2011 r. w sprawie obowiązkowych szczepień ochronnych art. 13:  
 "Kwartalne **sprawozdanie** z przeprowadzonych obowiązkowych szczepień ochronnych, którego wzór jest określony w załączniku nr 4 do rozporządzenia, jest sporządzane i przekazywane przez osoby przeprowadzające obowiązkowe szczepienia ochronne państwowemu powiatowemu inspektorowi sanitarnemu, w terminie 7 dni po zakończeniu kwartału, za pomocą środków komunikacji elektronicznej albo listem poleconym."  
 
-4. ZAŁĄCZNIK Nr 4 do ROZPORZĄDZENIA MINISTRA ZDROWIA z dnia 18 sierpnia 2011 r. w sprawie obowiązkowych szczepień ochronnych: 
+4. ZAŁĄCZNIK Nr 4 do ROZPORZĄDZENIA MINISTRA ZDROWIA z dnia 18 sierpnia 2011 r. w sprawie obowiązkowych szczepień ochronnych:
  * tytuł "**Sprawozdanie** z przeprowadzonych obowiązkowych szczepień ochronnych";
  * w dziale 1 zatytułowanym "Karty uodpornienia przechowywane przez składającego sprawozdanie" znajdują się dane statystyczne, anonimowe;
  * dział 2 zatytułowano "Osoby uchylające się od obowiązku szczepień"; znajduję się w nim tylko i wyłącznie miejsce na wpisanie danych określonych jako "Liczba osób uchylających się od obowiązku szczepień ochronnych, których **imienny wykaz** dołączono do sprawozdania"
  * jak widzimy kwestia przekazywania danych osobowych (imienny wykaz) pojawia się na samym końcu jako nieokreślony bliżej załącznik do sprawozdania;  
-`Mamy trzy pojęcia, których definicje musimy znaleźć: dokumentacja medyczne, sprawozdanie, imienny wykaz.`
-
+`Przypomina to trochę osławione "lub czasopisma". Nigdzie nie określono wprost jakie konkretnie dane mają być przekazywane, na jakich zasadach i jak powinna wyglądać ich ochrona. Szukajmy zatem dalej. Mamy trzy pojęcia, których definicje musimy znaleźć: dokumentacja medyczne, sprawozdanie, imienny wykaz.`
 
 
 
