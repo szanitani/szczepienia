@@ -34,9 +34,9 @@ Uznanie części lub całości zarzutów przez GIODO w drodze decyzji/postanowie
 Zbadajmy co mówią na ten temat ustawy i rozporządzenia.  
 
 1. USTAWA z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz.U. 2008 Nr 234 poz. 1570), art. 17 ust. 8:  
-"Osoby przeprowadzające szczepienia ochronne:  
+`Osoby przeprowadzające szczepienia ochronne:  
 1) prowadzą **dokumentację medyczną** dotyczącą obowiązkowych szczepień ochronnych, w tym przechowują karty uodpornienia oraz dokonują wpisów potwierdzających wykonanie szczepienia;  
-2) sporządzają sprawozdania z przeprowadzonych obowiązkowych szczepień ochronnych oraz **sprawozdania** ze stanu zaszczepienia osób objętych profilaktyczną opieką zdrowotną, które **przekazują państwowemu powiatowemu inspektorowi sanitarnemu.**"
+2) sporządzają sprawozdania z przeprowadzonych obowiązkowych szczepień ochronnych oraz **sprawozdania** ze stanu zaszczepienia osób objętych profilaktyczną opieką zdrowotną, które **przekazują państwowemu powiatowemu inspektorowi sanitarnemu.**`
 
 2. USTAWA z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz.U. 2008 Nr 234 poz. 1570), art. 17 ust. 10 pkt. 7 i pkt. 8:  
 "Minister właściwy do spraw zdrowia określi, w drodze rozporządzenia:  
