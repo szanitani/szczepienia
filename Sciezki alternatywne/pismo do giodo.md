@@ -50,7 +50,7 @@ Zbadajmy co mówią na temat przekazywania danych o osobach uznanych za uchylaj�
 4. ZAŁĄCZNIK Nr 4 do ROZPORZĄDZENIA MINISTRA ZDROWIA z dnia 18 sierpnia 2011 r. w sprawie obowiązkowych szczepień ochronnych:
  * tytuł "**Sprawozdanie** z przeprowadzonych obowiązkowych szczepień ochronnych";
  * w dziale 1 zatytułowanym "Karty uodpornienia przechowywane przez składającego sprawozdanie" znajdują się dane statystyczne, anonimowe;
- * dział 2 zatytułowano "Osoby uchylające się od obowiązku szczepień"; znajduję się w nim tylko i wyłącznie miejsce na wpisanie danych określonych jako "Liczba osób uchylających się od obowiązku szczepień ochronnych, których **imienny wykaz** dołączono do sprawozdania"
+ * dział 2 zatytułowano "Osoby uchylające się od obowiązku szczepień"; znajduje się w nim tylko i wyłącznie miejsce na wpisanie danych określonych jako "Liczba osób uchylających się od obowiązku szczepień ochronnych, których **imienny wykaz** dołączono do sprawozdania"
  * jak widzimy kwestia przekazywania danych osobowych (imienny wykaz) pojawia się na samym końcu jako nieokreślony bliżej załącznik do sprawozdania;  
 `Przypomina to trochę osławione "lub czasopisma". Nigdzie nie określono wprost jakie konkretnie dane mają być przekazywane, na jakich zasadach i jak powinna wyglądać ich ochrona. Szukajmy zatem dalej. Mamy trzy pojęcia, których definicje musimy znaleźć: dokumentacja medyczne, sprawozdanie, imienny wykaz.`
 
