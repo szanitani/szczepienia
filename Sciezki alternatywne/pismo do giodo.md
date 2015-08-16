@@ -90,11 +90,10 @@ Niniejszym składam skargę i uprzejmie wnioskuję o podjęcie następujących d
 3. Skierowanie do podmiotów, których dotyczy skarga wystąpienia służącego doskonaleniu ochrony danych osobowych (zgodnie art. 12 pkt 5 Ustawy o Ochronie Danych Osobowych)
 
 Niniejsza skarga dotyczy praktyk następujących jednostek administracji publicznej:
+Państwowy Powiatowy Inspektor Sanitarny w <miejscowosc> <adres>
+Państwowy Wojewódzki Inspektor Sanitarny w <miejscowosc> <adres>
 
-Państwowego Powiatowego Inspektora Sanitarnego w <miejscowosc>
-<adres>
-
-Praktyki te narażają w sposób szczególny względem mojej osoby i jak mi wiadomo innych osób również.
+Praktyki te narażają w sposób szczególny względem mojej osoby <współmałzonek> i jak mi wiadomo innych osób również.
 
 Praktyki te w sposób szczególny narażają naszych obywateli mających prawo dbania o ochronę
 swoich danych osobowych zgodnie z  Art. 1. 1 : „Każdy ma prawo do ochrony dotyczących go danych 
@@ -105,7 +104,6 @@ Wzmiankowane praktyki polegają na <tresc>
 
 Może  być  zrozumiałym  i  wytłumaczalnym,  iż  procedury  PPIS w <miejscowosc>  wymagają  identyfikacji 
 <tresc>,  jednakże  nie  tłumaczą  konieczności  <tresc>. 
-
 
 <w sprawie przetwarzania danych bez ich rejetracji>
 
