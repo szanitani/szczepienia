@@ -4,7 +4,7 @@
 Dotyczy kwestionowania przez organ zarzutu co do niewykonalności obowiązku z art. 33 pkt 5 u.p.e.a.
 
 ##2. Dlaczego jest istotne?
-Organy często odrzucają zarzuty wymagając aby przeszkoda postępowania egzekycyjnego była niusuwalna. Niniejsze orzeczenie wskazuje, że przeszkoda może być trwała. Jest to bardzo istotne z punktu widzenia szczepień.
+Organy często odrzucają zarzuty wymagając aby przeszkoda postępowania egzekucyjnego była nieusuwalna. Niniejsze orzeczenie wskazuje, że przeszkoda może być czasowa. Jest to bardzo istotne z punktu widzenia szczepień.
 
 ##3. Kiedy stosować?
 W zażaleniu na postanowienie w sprawie uznania zarzutów za nieuzasadnione. W sądzie administracyjnym.
