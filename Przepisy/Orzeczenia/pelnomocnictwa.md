@@ -11,9 +11,27 @@ Gdy organ kwestionuje istnienie pełnomocnictwa. Zwykle dotyczy to organu egzeku
 
 ##4. Przywołane treści.
 ```
-Zaznaczyć wypada, że w aktach postępowania pierwszoinstancyjnego brak jest wezwań kierowanych do pełnomocnika o uzupełnienie braku w postaci oryginału lub urzędowo uwierzytelnionego odpisu pełnomocnictwa, co świadczy o tym, że organ I instancji, sporządzając przedmiotową kopię pełnomocnictwa i potwierdzając ją za zgodność z oryginałem, nie miał wątpliwości co do prawidłowego umocowania P. C. Tak więc biorąc pod uwagę, że całość akt administracyjnych I instancji stanowią kserokopie, Sąd nie ma de facto możliwości zweryfikowania twierdzeń organu odwoławczego o nieprzedstawieniu przez P. C. organowi I instancji oryginału pełnomocnictwa, co więcej, z akt odwoławczych nie można wywieść także, czy organ II instancji sam orzekał w oparciu o przedmiotowe kserokopie, czy też był w posiadaniu oryginałów dokumentów, pozwalających na podważenie przywołanego zapisu potwierdzającego zgodność kopii pełnomocnictwa z oryginałem. Wobec powyższego Sąd nie mógł zaakceptować argumentacji organu w tym zakresie, skoro podniesione w postanowieniu twierdzenia o nieprzedłożeniu przez pełnomocnika oryginału lub uwierzytelnionego odpisu pełnomocnictwa nie znajdują potwierdzenia w aktach administracyjnych przekazanych Sądowi.
+Zaznaczyć wypada, że w aktach postępowania pierwszoinstancyjnego brak jest wezwań kierowanych do pełnomocnika o
+uzupełnienie braku w postaci oryginału lub urzędowo uwierzytelnionego odpisu pełnomocnictwa, co świadczy o tym, że
+organ I instancji, sporządzając przedmiotową kopię pełnomocnictwa i potwierdzając ją za zgodność z oryginałem, nie
+miał wątpliwości co do prawidłowego umocowania P. C. Tak więc biorąc pod uwagę, że całość akt administracyjnych I
+instancji stanowią kserokopie, Sąd nie ma de facto możliwości zweryfikowania twierdzeń organu odwoławczego o
+nieprzedstawieniu przez P. C. organowi I instancji oryginału pełnomocnictwa, co więcej, z akt odwoławczych nie można
+wywieść także, czy organ II instancji sam orzekał w oparciu o przedmiotowe kserokopie, czy też był w posiadaniu
+oryginałów dokumentów, pozwalających na podważenie przywołanego zapisu potwierdzającego zgodność kopii pełnomocnictwa
+z oryginałem. Wobec powyższego Sąd nie mógł zaakceptować argumentacji organu w tym zakresie, skoro podniesione w
+postanowieniu twierdzenia o nieprzedłożeniu przez pełnomocnika oryginału lub uwierzytelnionego odpisu pełnomocnictwa
+nie znajdują potwierdzenia w aktach administracyjnych przekazanych Sądowi.
 
-Akta sprawy nie potwierdzają również drugiej z przyczyn powołanych przez organ jako podstawę stwierdzenia niedopuszczalności odwołania. Sąd podziela co prawda przedstawiony w zaskarżonym postanowieniu i powszechnie akceptowany w orzecznictwie pogląd, że pełnomocnictwo powinno być przedłożone do akt konkretnego postępowania (co do zasady może mieć miejsce dopiero po jego wszczęciu), jednak uważa, że nie jest trafny wniosek organu o przedwczesnym przesłaniu pełnomocnictwa z dnia 15 września 2012 r. (organ powołuje się tu na przesłanie skanu pełnomocnictwa), podczas gdy postępowanie można było uznać za wszczęte najwcześniej w dniu 24 października 2012 r. , tj. w dniu otrzymania przez organ I instancji pierwszej informacji, która spowodowała prowadzenie postępowania (data przesłania informacji w sprawie podatku rolnego i podatku od nieruchomości za 2012 r.). Wbrew bowiem twierdzeniu organu odwoławczego, w aktach sprawy znajdują się postanowienia o wszczęciu postępowania z dnia [...] 2012 r.,
+Akta sprawy nie potwierdzają również drugiej z przyczyn powołanych przez organ jako podstawę stwierdzenia
+niedopuszczalności odwołania. Sąd podziela co prawda przedstawiony w zaskarżonym postanowieniu i powszechnie
+akceptowany w orzecznictwie pogląd, że pełnomocnictwo powinno być przedłożone do akt konkretnego postępowania (co do
+zasady może mieć miejsce dopiero po jego wszczęciu), jednak uważa, że nie jest trafny wniosek organu o przedwczesnym
+przesłaniu pełnomocnictwa z dnia 15 września 2012 r. (organ powołuje się tu na przesłanie skanu pełnomocnictwa),
+podczas gdy postępowanie można było uznać za wszczęte najwcześniej w dniu 24 października 2012 r. , tj. w dniu
+otrzymania przez organ I instancji pierwszej informacji, która spowodowała prowadzenie postępowania (data przesłania
+informacji w sprawie podatku rolnego i podatku od nieruchomości za 2012 r.). Wbrew bowiem twierdzeniu organu
+odwoławczego, w aktach sprawy znajdują się postanowienia o wszczęciu postępowania z dnia [...] 2012 r.,
 ```
 
 #II SA/Sz 1223/11 - Wyrok WSA w Szczecinie z 2012-02-01
@@ -29,17 +47,28 @@ Ustawa z dnia 10 stycznia 2014 r. o zmianie ustawy o informatyzacji działalnoś
 
 ##4. Przywołane treści.
 ```
-Zgodnie z art. 64 § 2 K.p.a. jeżeli podanie nie czyni zadość innym wymaganiom ustalonym w przepisach prawa, należy wezwać wnoszącego
+Zgodnie z art. 64 § 2 K.p.a. jeżeli podanie nie czyni zadość innym wymaganiom ustalonym w przepisach prawa, należy
+wezwać wnoszącego
 
-do usunięcia braków w terminie 7 dni z pouczeniem, że nieusunięcie tych braków spowoduje pozostawienie podania bez rozpoznania. Skutkiem prawnym braku dołączenia pełnomocnictwa jest wezwanie do uzupełnienia tego braku, którego nieusunięcie powoduje pozostawienie pisma bez rozpoznania. Pozostawienie odwołania bez rozpoznania stanowi natomiast jedną z postaci stwierdzenia niedopuszczalności odwołania przewidzianą w art. 134 K.p.a.
+do usunięcia braków w terminie 7 dni z pouczeniem, że nieusunięcie tych braków spowoduje pozostawienie podania bez
+rozpoznania. Skutkiem prawnym braku dołączenia pełnomocnictwa jest wezwanie do uzupełnienia tego braku, którego
+nieusunięcie powoduje pozostawienie pisma bez rozpoznania. Pozostawienie odwołania bez rozpoznania stanowi natomiast
+jedną z postaci stwierdzenia niedopuszczalności odwołania przewidzianą w art. 134 K.p.a.
 
-W kontrolowanej sprawie pełnomocnik do złożonego odwołania nie załączył pełnomocnictwa upoważniającego go do reprezentowania strony w postępowaniu. Słusznie zatem organ w oparciu o powołane przepisy zobowiązał pełnomocnika do usunięcia braku formalnego złożonego odwołania poprzez dołączenie pełnomocnictwa.
+W kontrolowanej sprawie pełnomocnik do złożonego odwołania nie załączył pełnomocnictwa upoważniającego go do
+reprezentowania strony w postępowaniu. Słusznie zatem organ w oparciu o powołane przepisy zobowiązał pełnomocnika do
+usunięcia braku formalnego złożonego odwołania poprzez dołączenie pełnomocnictwa.
 
-Jednakże skoro przesłane w wykonaniu zobowiązania drogą meilową pełnomocnictwo organ uważał za niewłaściwe – winien powiadomić o tym stronę
+Jednakże skoro przesłane w wykonaniu zobowiązania drogą meilową pełnomocnictwo organ uważał za niewłaściwe – winien
+powiadomić o tym stronę
 
-i wezwać ją do podpisania odwołania bądź wezwać pełnomocnika do przedłożenia prawidłowego pełnomocnictwa. Niedokonanie tego przez organ odwoławczy stanowi naruszenie wyrażonej w art. 9 K.p.a. zasady należytego i wyczerpującego informowania stron o okolicznościach faktycznych i prawnych, które mogą mieć wpływ na ustalenie ich praw i obowiązków, będących przedmiotem postępowania.
+i wezwać ją do podpisania odwołania bądź wezwać pełnomocnika do przedłożenia prawidłowego pełnomocnictwa. Niedokonanie
+tego przez organ odwoławczy stanowi naruszenie wyrażonej w art. 9 K.p.a. zasady należytego i wyczerpującego
+informowania stron o okolicznościach faktycznych i prawnych, które mogą mieć wpływ na ustalenie ich praw i obowiązków,
+będących przedmiotem postępowania.
 
-Obowiązek ten obciąża organ z urzędu, a jego bierność stanowi naruszenie prawa, bez względu na to w jakiej fazie postępowania miało miejsce.
+Obowiązek ten obciąża organ z urzędu, a jego bierność stanowi naruszenie prawa, bez względu na to w jakiej fazie
+postępowania miało miejsce.
 ```
 
 #Wyrok Sądu Najwyższego 10 października 2013 r. (sygn. II UK 104/13)
