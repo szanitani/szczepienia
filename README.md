@@ -5,9 +5,9 @@ Materiały stanowią rozszerzenie i uzupełnienie [FAQ ze strony szczepienia.org
 [dokumentów do pobrania w sprawie szczepień ze strony pisma.szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/) w zakresie postępowania administracyjnego i niuansów związanych z korespondencją z urzędami.
 
 ##Jaka jest aktualna zawartość repozytorium?
-  1. zbiór przydatnych [przepisów i orzeczeń sądów](https://github.com/szanitani/szczepienia/tree/master/Przepisy)
-  2. argumenty merytoryczne i prawne, do wykorzystania [bezpośrednio w pismach do Organów](https://github.com/szanitani/szczepienia/tree/master/Argumenty) w postępowaniach 
-  3. [sugestie dotyczące postępowania](https://github.com/szanitani/szczepienia/blob/master/Szczepienia%20Postepowanie%202.md) dla bardziej obeznanych w przepisach rodziców
+  1. Zbiór przydatnych [przepisów i orzeczeń sądów](https://github.com/szanitani/szczepienia/tree/master/Przepisy).
+  2. Argumenty merytoryczne i prawne, do wykorzystania [bezpośrednio w pismach do Organów](https://github.com/szanitani/szczepienia/tree/master/Argumenty) w postępowaniach.
+  3. [Sugestie dotyczące postępowania](https://github.com/szanitani/szczepienia/blob/master/Szczepienia%20Postepowanie%202.md) dla bardziej obeznanych w przepisach rodziców.
   4. [Ścieżki alternatywne](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne) w postępowaniu, do zastosowania niezależnie od ścieżki zalecanej lub w szczególnych sytuacjach.
   5. Aplikacja ["Sprawdź co naprawdę wiesz o szczepieniach"](http://szanitani.github.io/szczepienia/cowiesz.html). Kod źródłowy znajduje się innej gałęzi tego repozytorium. Potrzebna współpraca!
 
