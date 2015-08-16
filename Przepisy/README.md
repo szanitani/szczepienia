@@ -16,7 +16,7 @@ TK udostępnia szereg wyszukiwarek ich lista znajduje się [tutaj](http://otk.tr
 Do wyszukiwania tych orzeczeń służy [Portal Orzeczeń Sądów Powszechnych](http://orzeczenia.ms.gov.pl/search/advanced).
 
 ##6. Chciałbym dodać do repozytorium orzeczenie lub coś zmienić, co powinienem zrobić?
-Najprościej skorzystać z narzędzi GitHub czyli zgłosić tzw. *pull request*. Jest również wątek na forum, przeznaczony do dyskusji o tej sekcji repozytorium. Wszelkie cenne uwagi zostaną tutaj wprowadzone.
+Najprościej skorzystać z narzędzi GitHub czyli zgłosić tzw. *pull request*. Jest również [wątek na forum, przeznaczony do dyskusji o tej sekcji repozytorium](http://szczepienia.org.pl/viewtopic.php?p=174463#174463). Wszelkie cenne uwagi zostaną tutaj wprowadzone.
 
 ##7. Jaki jest stan aktualny?
 Wszystkie sekcje są w trakcie ciągłego opracowywania. Potrzebne są uzupełniania i uwagi. Trzeba również opracować strukturę orzeczeń. Obecnie wygląda to tak jak wygląda.
