@@ -61,5 +61,8 @@ Obecnie część organów 1-ej instancji uważa, że nie prowadzi postępowania 
 ##15. Gdzie znajdę orzeczenia przydatne w kwestii postępowania egzekucyjnego?
 Postępowanie egzekucyjne rządzi się swoimi specyficznymi prawami. Stosowanie przepisów wymaga ogromnej wiedzy a na dodatek, wiele kwestii jest regulowanym właśnie aktami stosowania prawa. Tutaj są [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/postepowanie_egzekucyjne.md).
 
-##16. A orzeczenia w innych grupach spraw np. wezwania, upomnienia, zażalenia, skargi?
+##16. Gdzie znajdę orzeczenia przydatne w kwestii doręczania korespondencji?
+Wiele błędów w postępowaniu organu wynika z przyjętej elektronicznej ścieżki prawnej. Reguły doręczeń są zawarte w art. 39-49 k.p.a. Tutaj są [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md).
+
+##17. A orzeczenia w innych grupach spraw np. wezwania, upomnienia, zażalenia, skargi?
 Strukturę trzeba opracować, orzeczenia dodać i poopisywać. Zobaczymy co z tego wyjdzie.
