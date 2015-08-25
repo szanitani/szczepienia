@@ -109,3 +109,37 @@ takiego wniosku o zwrot opłaty za przeprowadzenie granicznej kontroli weterynar
 została zawyżona. Wniosek taki wszczyna postępowanie administracyjne w sprawie administracyjnej zwrotu nadpłaty,
 której załatwienie kończy się wydaniem decyzji administracyjnej.
 ```
+
+#II SA/Ol 893/11 - Wyrok WSA w Olsztynie z 2011-12-13
+
+[link](http://orzeczenia.nsa.gov.pl/doc/2ED14FE275)
+
+##1. Opis orzeczenia
+Uchylenie zaskarżonego postanowienia.
+
+##2. Dlaczego jest istotne?
+Stwierdza, że organ wydając postanowienie o odmowie wszczęcia postępowania na żądanie strony nie może odnosić się merytorycznie ws. żądania.
+
+##3. Kiedy stosować?
+Prawdopodobny argument dla sądu administracyjnego w przypadku twierdzeń organu o nieprowadzeniu postępowania. (Wymaga konsultacji gdyż dotyczy stricte postanowienia o odmowie wszczęcia postępowania) 
+
+##4. Przywołane treści
+*Skoro jednak na skutek odmowy wszczęcia postępowania organ nie prowadzi postępowania administracyjnego i nie rozstrzyga sprawy co do jej istoty, to należy przyjąć, iż w postanowieniu wydanym w trybie art. 61a § 1 k.p.a. organ nie może formułować wniosków i ocen dotyczących meritum żądania. Instytucja odmowy wszczęcia postępowania kończy się bowiem aktem formalnym, a nie merytorycznym.*
+
+
+#II SA/Go 255/15 - Wyrok WSA w Gorzowie Wlkp. z 2015-06-10
+
+[link](http://orzeczenia.nsa.gov.pl/doc/3F07727EA3)
+
+##1. Opis orzeczenia
+Uchylenie zaskarżonego postanowienia.
+
+##2. Dlaczego jest istotne?
+Stwierdza, że organ odmawiając wydania decyzji winien wydać postepowanie o domowie wszczęcia postepowania.
+
+##3. Kiedy stosować?
+Prawdopodobny argument dla sądu administracyjnego.
+
+##4. Przywołane treści
+*Odnośnie zaś wniosku o stwierdzenie lub zaprzeczenie w drodze decyzji administracyjnej wraz z przytoczeniem przepisów prawa, że w wyniku postępowania kontrolnego, doszło lub nie doszło do naruszenia prawa na szkodę właścicielki pojazdu, w związku z oceną stanu technicznego (...) Kolegium wskazało, iż brak jest przepisów prawa materialnego do wydania żądanej decyzji. (...)
+Taki oczywisty brak podstawy prawnej do wydania decyzji stanowić może podstawę do wydania postanowienia o odmowie wszczęcia postępowania. Zważyć jednak należy, iż organ I instancji w sposób nieprecyzyjny sformułował rozstrzygnięcie w tym zakresie, a Samorządowe Kolegium Odwoławczego zaakceptowało to, utrzymując w całości zaskarżone postanowienie. Starosta zamiast bowiem zgodnie z treścią art. 61 a § 1 k.p.a. odmówić wszczęcia postępowania w przedmiocie żądanym w pkt 2 pisma z dnia [...] listopada 2014r. odmówił wydania decyzji, tak jak by orzekał merytorycznie, choć z uzasadnienia organów obu instancji i wskazanej podstawy prawnej wynika, iż w istocie chodziło o odmowę wszczęcia postępowania.*
