@@ -135,7 +135,7 @@ Prawdopodobny argument dla sądu administracyjnego w przypadku twierdzeń organu
 Uchylenie zaskarżonego postanowienia.
 
 ##2. Dlaczego jest istotne?
-Stwierdza, że organ odmawiając wydania decyzji winien wydać postepowanie o domowie wszczęcia postepowania.
+Stwierdza, że organ odmawiając wydania decyzji winien wydać postepowanie o odmowie wszczęcia postepowania.
 
 ##3. Kiedy stosować?
 Prawdopodobny argument dla sądu administracyjnego.
