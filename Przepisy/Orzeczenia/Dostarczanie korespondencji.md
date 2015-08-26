@@ -40,3 +40,22 @@ Pojęcie "dorosły" w rozumieniu art. 43 k.p.a. jest tożsame z pojęciem pełno
 
 (1) *Poza tym w sposób jednoznacznie prawidłowy podkreślono w zaskarżonym wyroku, że w sprawie decyzja organu pierwszej instancji mimo doręczenia jej córce strony nie miała ujemnych skutków dla tej strony, gdyż w ustawowym terminie złożyła odwołanie. Treść odwołania jednoznacznie wskazuje, że strona odniosła się w złożonym środku zaskarżenia do przekazanej jej przez córkę decyzji pierwszoinstancyjnej, to zaś powoduje, że zasadnie uznano w zaskarżonym wyroku, iż strona zapoznała się z treścią adresowanej do niej korespondencji. Dlatego też prawidłowo uznano, iż doręczenie decyzji z dnia [...] 2009 r. kierowanej do K.Z. osobie małoletniej i przekazanie go adresatowi należy w przedmiotowej sprawie uznać za doręczenie skuteczne, albowiem pismo to niewątpliwie dotarło do adresata.*
 
+#IV SA/Po 901/14 - Wyrok WSA w Poznaniu 2015-04-23
+
+[link](http://orzeczenia.nsa.gov.pl/doc/4ED0DF102B)
+
+##1. Opis orzeczenia
+Uchyla zaskarżoną decyzję.
+
+##2. Dlaczego jest istotne?
+Możliwość zaskarżenia wadliwie dostarczonej decyzji.
+
+##3. Kiedy stosować?
+wicej [tu](http://www.samorzad.lex.pl/czytaj/-/artykul/wsa-nie-mozna-domniemywac-doreczenia-jesli-pismo-dostarczono-wadliwie)
+
+##4. Przywołane treści
+
+*Warunkiem uznania pisma za doręczone, w rozumieniu art. 44 § 4 Kpa, jest spełnienie wszystkich wymogów płynących z powołanego przepisu. Musi istnieć pewność co do tego, że nastąpiło prawidłowe zawiadomienie adresata o pozostawieniu przesyłki w oddawczym urzędzie pocztowym przez określony czas. Adresat musi być zawiadomiony zarówno o pozostawieniu pisma, jak i miejscu gdzie może je odebrać oraz o terminie odbioru, a zwrotne potwierdzenie odbioru powinno być wypełnione czytelnie wraz z podpisem listonosza (por. wyrok NSA z dnia 17 sierpnia 2011 r., sygn. akt II GSK 794/10, LEX nr 1068869).
+Ze znajdujących się w aktach sprawy koperty zawierającej korespondencję adresowana do skarżącego wynika jedynie, iż w dniu [...] stycznia 2014 r. podjęto próbę doręczenia przesyłki oraz że w dniu [...] stycznia 2014 r. przesyłka została zwrócona do adresata. Zatem w przedmiotowej sprawie, zarówno na kopercie jak i na potwierdzeniu odbioru, brak jest jakiejkolwiek wzmianki, gdzie pozostawiono zawiadomienie o pozostawieniu pisma wraz informacją o możliwości jego odbioru. Ponadto brak jest jakiejkolwiek wzmianki czy stosownie do art. 44 § 3 Kpa pozostawiono powtórne zawiadomienie o możliwości odbioru przesyłki.
+(...)
+W przypadku wadliwego doręczenia pisma, brak jest podstaw do przyjęcia domniemania doręczenia i łączenia z wadliwym doręczeniem skutków prawnych, jakie można wywodzić jedynie ze skutecznego doręczenia decyzji stronie. Powyższe prowadzi zatem do wniosku, iż wobec wadliwości doręczeń nie można było skarżącego uznać za uchylającego się od obowiązków alimentacyjnych.*
