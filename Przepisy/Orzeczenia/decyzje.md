@@ -141,5 +141,29 @@ Stwierdza, że organ odmawiając wydania decyzji winien wydać postepowanie o do
 Prawdopodobny argument dla sądu administracyjnego.
 
 ##4. Przywołane treści
-*Odnośnie zaś wniosku o stwierdzenie lub zaprzeczenie w drodze decyzji administracyjnej wraz z przytoczeniem przepisów prawa, że w wyniku postępowania kontrolnego, doszło lub nie doszło do naruszenia prawa na szkodę właścicielki pojazdu, w związku z oceną stanu technicznego (...) Kolegium wskazało, iż brak jest przepisów prawa materialnego do wydania żądanej decyzji. (...)
-Taki oczywisty brak podstawy prawnej do wydania decyzji stanowić może podstawę do wydania postanowienia o odmowie wszczęcia postępowania. Zważyć jednak należy, iż organ I instancji w sposób nieprecyzyjny sformułował rozstrzygnięcie w tym zakresie, a Samorządowe Kolegium Odwoławczego zaakceptowało to, utrzymując w całości zaskarżone postanowienie. Starosta zamiast bowiem zgodnie z treścią art. 61 a § 1 k.p.a. odmówić wszczęcia postępowania w przedmiocie żądanym w pkt 2 pisma z dnia [...] listopada 2014r. odmówił wydania decyzji, tak jak by orzekał merytorycznie, choć z uzasadnienia organów obu instancji i wskazanej podstawy prawnej wynika, iż w istocie chodziło o odmowę wszczęcia postępowania.*
+*Odnośnie zaś wniosku o stwierdzenie lub zaprzeczenie w drodze decyzji administracyjnej wraz z przytoczeniem przepisów prawa, że w wyniku postępowania kontrolnego, doszło lub nie doszło do naruszenia prawa na szkodę właścicielki pojazdu, w związku z oceną stanu technicznego (...) Kolegium wskazało, iż brak jest przepisów prawa materialnego do wydania żądanej decyzji.*
+(...)
+
+*Taki oczywisty brak podstawy prawnej do wydania decyzji stanowić może podstawę do wydania postanowienia o odmowie wszczęcia postępowania. Zważyć jednak należy, iż organ I instancji w sposób nieprecyzyjny sformułował rozstrzygnięcie w tym zakresie, a Samorządowe Kolegium Odwoławczego zaakceptowało to, utrzymując w całości zaskarżone postanowienie. Starosta zamiast bowiem zgodnie z treścią art. 61 a § 1 k.p.a. odmówić wszczęcia postępowania w przedmiocie żądanym w pkt 2 pisma z dnia [...] listopada 2014r. odmówił wydania decyzji, tak jak by orzekał merytorycznie, choć z uzasadnienia organów obu instancji i wskazanej podstawy prawnej wynika, iż w istocie chodziło o odmowę wszczęcia postępowania.*
+
+#II I OSK 654/11 - Wyrok NSA 2012-04-25
+
+[link](http://orzeczenia.nsa.gov.pl/doc/0471CA259B)
+
+##1. Opis orzeczenia
+Oddalenie skargi.
+
+##2. Dlaczego jest istotne?
+Uzasadnia, że wnioski strony winny być zaatwiane w formie decyzji.
+
+##3. Kiedy stosować?
+Prawdopodobny argument dla sądu administracyjnego gdy na żądanie strony organ nie wydaje rozstrzygnięcia w formie decyzji (UWAGA 1)
+
+##4. Przywołane treści
+(1. *W związku z tak sformułowanym zarzutem, należy wyjaśnić, że naruszenie przepisów postępowania może stanowić podstawę kasacyjną, ale jedynie w przypadku, gdy naruszenie to mogło mieć istotny wpływ na wynik sprawy (art. 174 pkt 2 ww. ustawy – Prawo o postępowaniu przed sądami administracyjnymi), co oznacza, że na stronie skarżącej ciąży obowiązek wykazania, że gdyby nie doszło do zarzucanego naruszenia procedury, to wyrok, jaki by zapadł, byłby zupełnie odmiennej treści. Tymczasem autor skargi kasacyjnej nie wykazał takiej zależności ani w samej podstawie zarzutu, ani w jego uzasadnieniu.*)
+(...)
+
+*Zasada domniemania załatwiania spraw w formie decyzji administracyjnej była wielokrotnie przyjmowana w orzecznictwie sądowym, w którym podkreślano, że jednostka ma prawo do tego, by jej oparte na prawie materialnym roszczenia i wnioski były rozpatrywane w ramach przewidzianej procedury. Nie jest zgodne z zasadami konstytucyjnymi takie postępowanie organów wykonujących administrację publiczną, w którym wnioski jednostki załatwiane są poza postępowaniem jurysdykcyjnym.*
+(...)
+
+*Słusznie w tej kwestii stwierdził Trybunał Konstytucyjny, że "jeżeli (...) istnieje wątpliwość co do formy załatwienia sprawy administracyjnej, należy przyjąć, że istnieje sprawa administracyjna i organ administracji publicznej jest właściwy do jej załatwienia. Nie może zaistnieć sytuacja, że w przepisach ustawy określono właściwość organu administracji publicznej do załatwiania określonej kategorii spraw administracyjnych, a sprawy te nie mogłyby być rozstrzygane tylko dlatego, że ustawodawca nie określił wprost formy rozstrzygnięcia"*
