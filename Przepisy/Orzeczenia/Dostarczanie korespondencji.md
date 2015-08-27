@@ -51,11 +51,35 @@ Uchyla zaskarżoną decyzję.
 Możliwość zaskarżenia wadliwie dostarczonej decyzji.
 
 ##3. Kiedy stosować?
-wicej [tu](http://www.samorzad.lex.pl/czytaj/-/artykul/wsa-nie-mozna-domniemywac-doreczenia-jesli-pismo-dostarczono-wadliwie)
+więcej [tu](http://www.samorzad.lex.pl/czytaj/-/artykul/wsa-nie-mozna-domniemywac-doreczenia-jesli-pismo-dostarczono-wadliwie)
 
 ##4. Przywołane treści
 
 *Warunkiem uznania pisma za doręczone, w rozumieniu art. 44 § 4 Kpa, jest spełnienie wszystkich wymogów płynących z powołanego przepisu. Musi istnieć pewność co do tego, że nastąpiło prawidłowe zawiadomienie adresata o pozostawieniu przesyłki w oddawczym urzędzie pocztowym przez określony czas. Adresat musi być zawiadomiony zarówno o pozostawieniu pisma, jak i miejscu gdzie może je odebrać oraz o terminie odbioru, a zwrotne potwierdzenie odbioru powinno być wypełnione czytelnie wraz z podpisem listonosza (por. wyrok NSA z dnia 17 sierpnia 2011 r., sygn. akt II GSK 794/10, LEX nr 1068869).
-Ze znajdujących się w aktach sprawy koperty zawierającej korespondencję adresowana do skarżącego wynika jedynie, iż w dniu [...] stycznia 2014 r. podjęto próbę doręczenia przesyłki oraz że w dniu [...] stycznia 2014 r. przesyłka została zwrócona do adresata. Zatem w przedmiotowej sprawie, zarówno na kopercie jak i na potwierdzeniu odbioru, brak jest jakiejkolwiek wzmianki, gdzie pozostawiono zawiadomienie o pozostawieniu pisma wraz informacją o możliwości jego odbioru. Ponadto brak jest jakiejkolwiek wzmianki czy stosownie do art. 44 § 3 Kpa pozostawiono powtórne zawiadomienie o możliwości odbioru przesyłki.
+Ze znajdujących się w aktach sprawy koperty zawierającej korespondencję adresowana do skarżącego wynika jedynie, iż w dniu [...] stycznia 2014 r. podjęto próbę doręczenia przesyłki oraz że w dniu [...] stycznia 2014 r. przesyłka została zwrócona do adresata. Zatem w przedmiotowej sprawie, zarówno na kopercie jak i na potwierdzeniu odbioru, brak jest jakiejkolwiek wzmianki, gdzie pozostawiono zawiadomienie o pozostawieniu pisma wraz informacją o możliwości jego odbioru. Ponadto brak jest jakiejkolwiek wzmianki czy stosownie do art. 44 § 3 Kpa pozostawiono powtórne zawiadomienie o możliwości odbioru przesyłki.*
 (...)
-W przypadku wadliwego doręczenia pisma, brak jest podstaw do przyjęcia domniemania doręczenia i łączenia z wadliwym doręczeniem skutków prawnych, jakie można wywodzić jedynie ze skutecznego doręczenia decyzji stronie. Powyższe prowadzi zatem do wniosku, iż wobec wadliwości doręczeń nie można było skarżącego uznać za uchylającego się od obowiązków alimentacyjnych.*
+
+*W przypadku wadliwego doręczenia pisma, brak jest podstaw do przyjęcia domniemania doręczenia i łączenia z wadliwym doręczeniem skutków prawnych, jakie można wywodzić jedynie ze skutecznego doręczenia decyzji stronie. Powyższe prowadzi zatem do wniosku, iż wobec wadliwości doręczeń nie można było skarżącego uznać za uchylającego się od obowiązków alimentacyjnych.*
+
+#II GSK 1197/14 - Postanowienie NSA 2014-06-04
+
+[link](http://orzeczenia.nsa.gov.pl/doc/61705C2404)
+
+##1. Opis orzeczenia
+Oddalenie skargi kasacyjnej.
+
+##2. Dlaczego jest istotne?
+Uzasadnia, że na organ ma obowiazęk dostarczania korespondencję droga elektroniczną na żadanie strony.
+
+##3. Kiedy stosować?
+Prawdopodobny argument do sądu administracyjnego.
+
+##4. Przywołane treści
+
+*Doręczenie dokonywane w formie elektronicznej zastępuje doręczenie "tradycyjne", stąd niedopuszczalne jest doręczenie dokumentu równocześnie w postaci papierowej, jak i elektronicznej. Taki wniosek wynika z treści art. 46 § 3 k.p.a., który przewiduje kolejność sposobów doręczania: najpierw elektroniczne a w dalszej kolejności w tradycyjnej formie, jednakże tylko w przypadku braku skuteczności doręczenia elektronicznego.
+W rozpoznawanej sprawie skarżący w dniu 28 stycznia 2013 r. złożył drogą elektroniczną wniosek o ponowne rozpatrzenie sprawy oraz o doręczanie mu korespondencji w postępowaniu za pomocą środków komunikacji elektronicznej w myśl uregulowania art. 39¹ k.p.a. Organ zatem związany był wnioskiem strony o doręczanie pism w sprawie za pomocą środków komunikacji elektronicznej a kwestia ta nie zależała od uznania organu administracji publicznej.
+Organ, pomimo związania, nie ustosunkował się w toku postępowania do wniosku skarżącego a w konsekwencji doręczył postanowienie z dnia 27 marca 2013 r. za zwrotnym potwierdzeniem odbioru przez pocztę, tj. w trybie art. 39 k.p.a. W ocenie Naczelnego Sądu Administracyjnego doręczenie to było nieskuteczne i nie wywołało skutku prawnego w postaci rozpoczęcia biegu terminu do wniesienia skargi do Wojewódzkiego Sądu Administracyjnego w W.*
+
+(1) *Organ mógł bowiem dokonać doręczenia za pośrednictwem poczty dopiero w razie nieotrzymania, w terminie 7 dni od dnia wysłania postanowienia za pomocą środków komunikacji elektronicznej, potwierdzenia jej doręczenia (art. 46 § 3 k.p.a.).*
+
+(2) *W aktach sprawy brak jest dowodu, że organ podjął nieskuteczną próbę doręczenia stronie postanowienia z dnia 27 marca 2013 r. drogą elektroniczną, co dopiero upoważniłoby do doręczenia postanowienia drogą pocztową. W aktach sprawy brak jest również dowodu, że organ napotkał na trudne do usunięcia problemy, które uniemożliwiały mu dostarczenie korespondencji w ten sposób (np. długotrwała awaria systemu informatycznego, brak możliwości technicznych).*
