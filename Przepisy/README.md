@@ -67,5 +67,5 @@ Wiele błędów w postępowaniu organu wynika z przyjętej elektronicznej ście�
 ##17. Gdzie znajdę orzeczenia przydatne w sytuacji wezwania strony do stawienia się w Inspekcji Sanitarnej?
 Bywa, że organ wzywa stronę do stawienia się w swojej siedzibie. Spotkania te mają rózny przebieg. Szczegółowo te sytuacje i możliwe dla strony opcje są opisane na forum, a tutaj są [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/wezwanie do osobistego stawiennictwa.md).
 
-##18. A orzeczenia w innych grupach spraw np. wezwania, upomnienia, zażalenia, skargi?
+##18. A orzeczenia w innych grupach spraw np. upomnienia, zażalenia, skargi?
 Strukturę trzeba opracować, orzeczenia dodać i poopisywać. Zobaczymy co z tego wyjdzie.
