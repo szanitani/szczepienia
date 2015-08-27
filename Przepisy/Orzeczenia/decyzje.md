@@ -146,7 +146,7 @@ Prawdopodobny argument dla sądu administracyjnego.
 
 *Taki oczywisty brak podstawy prawnej do wydania decyzji stanowić może podstawę do wydania postanowienia o odmowie wszczęcia postępowania. Zważyć jednak należy, iż organ I instancji w sposób nieprecyzyjny sformułował rozstrzygnięcie w tym zakresie, a Samorządowe Kolegium Odwoławczego zaakceptowało to, utrzymując w całości zaskarżone postanowienie. Starosta zamiast bowiem zgodnie z treścią art. 61 a § 1 k.p.a. odmówić wszczęcia postępowania w przedmiocie żądanym w pkt 2 pisma z dnia [...] listopada 2014r. odmówił wydania decyzji, tak jak by orzekał merytorycznie, choć z uzasadnienia organów obu instancji i wskazanej podstawy prawnej wynika, iż w istocie chodziło o odmowę wszczęcia postępowania.*
 
-#II I OSK 654/11 - Wyrok NSA 2012-04-25
+# I OSK 654/11 - Wyrok NSA 2012-04-25
 
 [link](http://orzeczenia.nsa.gov.pl/doc/0471CA259B)
 
