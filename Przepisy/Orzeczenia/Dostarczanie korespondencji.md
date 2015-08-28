@@ -81,5 +81,6 @@ W rozpoznawanej sprawie skarżący w dniu 28 stycznia 2013 r. złożył drogą e
 Organ, pomimo związania, nie ustosunkował się w toku postępowania do wniosku skarżącego a w konsekwencji doręczył postanowienie z dnia 27 marca 2013 r. za zwrotnym potwierdzeniem odbioru przez pocztę, tj. w trybie art. 39 k.p.a. W ocenie Naczelnego Sądu Administracyjnego doręczenie to było nieskuteczne i nie wywołało skutku prawnego w postaci rozpoczęcia biegu terminu do wniesienia skargi do Wojewódzkiego Sądu Administracyjnego w W.*
 
 (1) *Organ mógł bowiem dokonać doręczenia za pośrednictwem poczty dopiero w razie nieotrzymania, w terminie 7 dni od dnia wysłania postanowienia za pomocą środków komunikacji elektronicznej, potwierdzenia jej doręczenia (art. 46 § 3 k.p.a.).*
+/obecnie brzmienie art. 46 § 3 nie upoważnia organu do wysyłania korespondencji pocztą/
 
 (2) *W aktach sprawy brak jest dowodu, że organ podjął nieskuteczną próbę doręczenia stronie postanowienia z dnia 27 marca 2013 r. drogą elektroniczną, co dopiero upoważniłoby do doręczenia postanowienia drogą pocztową. W aktach sprawy brak jest również dowodu, że organ napotkał na trudne do usunięcia problemy, które uniemożliwiały mu dostarczenie korespondencji w ten sposób (np. długotrwała awaria systemu informatycznego, brak możliwości technicznych).*
