@@ -74,7 +74,7 @@ Uzasadnia, że na organ ma obowiazęk dostarczania korespondencję droga elektro
 ##3. Kiedy stosować?
 Prawdopodobny argument do sądu administracyjnego.
 
-Uwaga 1,2 /obecnie brzmienie art. 46 § 3 nie upoważnia organu do wysyłania korespondencji pocztą/
+Uwaga 1,2 /obecne brzmienie art. 46 § 3 nie upoważnia organu do wysyłania korespondencji pocztą/
 
 ##4. Przywołane treści
 
