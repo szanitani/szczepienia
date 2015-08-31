@@ -74,6 +74,8 @@ Uzasadnia, że na organ ma obowiazęk dostarczania korespondencję droga elektro
 ##3. Kiedy stosować?
 Prawdopodobny argument do sądu administracyjnego.
 
+Uwaga 1,2 /obecne brzmienie art. 46 § 3 nie upoważnia organu do wysyłania korespondencji pocztą/
+
 ##4. Przywołane treści
 
 *Doręczenie dokonywane w formie elektronicznej zastępuje doręczenie "tradycyjne", stąd niedopuszczalne jest doręczenie dokumentu równocześnie w postaci papierowej, jak i elektronicznej. Taki wniosek wynika z treści art. 46 § 3 k.p.a., który przewiduje kolejność sposobów doręczania: najpierw elektroniczne a w dalszej kolejności w tradycyjnej formie, jednakże tylko w przypadku braku skuteczności doręczenia elektronicznego.
