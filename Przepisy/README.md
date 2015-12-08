@@ -1,7 +1,7 @@
 #Zbiór przydatnych przepisów i orzeczeń
 
 ##1. Gdzie znajdę przepisy istotne z punktu widzenia szczepień?
-Oto zestaw przydatnych [aktów prawnych](https://github.com/szanitani/szczepienia/tree/master/Przepisy/Zrodla%20prawa). Należy pamiętać, iż aktualne wersje tych przepisów znajdują się w serwisie [Internetowego Systemu Aktów Prawnych](http://isap.sejm.gov.pl/search.jsp).
+Oto zestaw przydatnych [aktów prawnych](https://github.com/szanitani/szczepienia/tree/master/Przepisy/Zrodla%20prawa). Należy pamiętać, iż aktualne wersje tych przepisów znajdują się w serwisie [Internetowego Systemu Aktów Prawnych](http://isap.sejm.gov.pl/search.jsp). Doskonały zbiór ujednoliconych przepisów prawnych (kodeksy, postępowanie egzekucyjne) znajduje się w serwisie [gofin.pl](http://www.przepisy.gofin.pl/przepisy.html).
 
 ##2. Co to jest CBOSA?
 Jest to [Centralna Baza Orzeczeń Sądów Administracyjnych](http://orzeczenia.nsa.gov.pl/cbo/query).
@@ -30,8 +30,10 @@ Wszystkie sekcje są w trakcie ciągłego opracowywania. Potrzebne są uzupełni
 6. u.z.l. ustawa o zawodzie lekarza
 7. u.s.o.z. ustawy o świadczeniach opieki zdrowotnej ﬁnansowanych ze środków publicznych
 8. r.z.t.p. rozporządzenia Prezesa Rady Ministrów z dnia 20 czerwca 2002 r. w sprawie „Zasad techniki prawodawczej” (Dz.U. 2002 nr 100 poz. 908)
-9. u.p.e. ustawa z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r. poz. 262)
-10. u.o.d.o. Ustawa z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz.U. 1997 nr 133 poz. 883 z późn. zm.)
+9. u.p.e. ustawa z dnia 18 września 2001 r. o podpisie elektronicznym (Dz. U. z 2013 r., poz. 262)
+10. u.o.d.o. Ustawa z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz.U. 1997 nr 133, poz. 883 z późn. zm.)
+11. [k.p.a. Ustawa z dnia 14.06.1960 r. Kodeks postępowania administracyjnego (Dz. U. z 2013 r., poz. 267 z późn. zm.)](http://www.przepisy.gofin.pl/przepisy,4,9,9,240,,20130227,ustawa-z-dnia-14061960-r-kodeks-postepowania.html)
+12. [p.p.s.a. Ustawa z dnia 30.08.2002 r. Prawo o postępowaniu przed sądami administracyjnymi (Dz. U. z 2012 r., poz. 270 z późn. zm.)](http://www.przepisy.gofin.pl/przepisy,4,23,60,757,,20120314,ustawa-z-dnia-30082002-r-prawo-o-postepowaniu-przed-sadami.html)
 
 ##9. Jak wygląda sytuacja z orzeczeniami przywoływanymi przez organy w swoich pismach?
 Organy często wprowadzają rozbudowaną argumentację prawną w oparciu o treść uzasadnień w/w wyroków, jednakże warto podkreślić, że orzeczenia sądowe, w tym uchwały NSA, będąc aktami stosowania prawa, jako takie, nie stanowią źródła prawa. W kwestii analizy samych wskazanych orzeczeń sądów administracyjnych, należy wskazać, że zgodnie z art. 153 ustawy z 30 sierpnia 2002 r. - Prawo o postępowaniu przed sądami administracyjnymi (tj. Dz.U. z 2012 r. poz. 270) ocena prawna i wskazania co do dalszego postępowania wyrażone w orzeczeniu sądu, wiążą w sprawie ten sąd oraz organ, którego działanie, bezczynność lub przewlekłe prowadzenie postępowania było przedmiotem zaskarżenia. Powyższe oznacza, że orzeczenie sądowe jest wiążące dla organów wyłącznie w sprawie, w której zapadło. W konsekwencji nie można bezpośrednio wywodzić swoich praw lub obowiązków z jakiegokolwiek orzeczenia sądu administracyjnego zapadłego w innej sprawie.
@@ -64,5 +66,8 @@ Postępowanie egzekucyjne rządzi się swoimi specyficznymi prawami. Stosowanie 
 ##16. Gdzie znajdę orzeczenia przydatne w kwestii doręczania korespondencji?
 Wiele błędów w postępowaniu organu wynika z przyjętej elektronicznej ścieżki prawnej. Reguły doręczeń są zawarte w art. 39-49 k.p.a. Tutaj są [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md).
 
-##17. A orzeczenia w innych grupach spraw np. wezwania, upomnienia, zażalenia, skargi?
+##17. Gdzie znajdę orzeczenia przydatne w sytuacji wezwania strony do stawienia się w Inspekcji Sanitarnej?
+Bywa, że organ wzywa stronę do stawienia się w swojej siedzibie. Spotkania te mają rózny przebieg. Szczegółowo te sytuacje i możliwe dla strony opcje są opisane na forum, a tutaj są [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/wezwanie do osobistego stawiennictwa.md).
+
+##18. A orzeczenia w innych grupach spraw np. upomnienia, zażalenia, skargi?
 Strukturę trzeba opracować, orzeczenia dodać i poopisywać. Zobaczymy co z tego wyjdzie.
