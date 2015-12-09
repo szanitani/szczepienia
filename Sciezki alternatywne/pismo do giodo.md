@@ -1,15 +1,15 @@
 ##Kogo dotyczy to pismo?
-Osoby, których postępowanie zostało wszczęte przed 2015-01-01 czyli w trakcie obowiązywania starej ustawy o ochronie danych osobowych lub pozostałe osoby w zakresie argumentów o braku podstaw prawnych od przetwarzania ich danych osobowych.
+Osób, których postępowanie zostało wszczęte przed 2015-01-01 czyli w trakcie obowiązywania starej ustawy o ochronie danych osobowych, w zakresie argumentów o braku zgłoszenia zbiorów danych osobowych. Pozostałych osób w zakresie argumentów o braku podstaw prawnych od przetwarzania ich danych osobowych lub nieprawidłowości w związku z przekazaniem danych o stanie zdrowia od świadczeniodawcy usług medycznych do Inspekcji Sanitarnej.
 
 ##Czy na dalszym etapie postępowania również warto wysłać to pismo?
 Tak! Jest to niezależne postępowanie.
 
 ##Co ewentualnie warto dopasować w treści wniosku?
 Dla osób, których postępowania rozpoczęły się w 2015 r. pismo do GIODO powinno mieć treść zmodyfikowaną. Od stycznia 2015 weszła w życie nowelizacja u.o.d.o., w której zmieniono wymogi w zakresie  rejestracji zbiorów danych osobowych.
-Należy opracować pismo zgodnie ze stanem faktycznym w swoim postępowaniu.
+Należy opracować pismo zgodnie ze stanem faktycznym w swoim postępowaniu. Przed wysłaniem pisma, należy również wysłać wspomniane w treści wezwanie do zaprzestania przetwarzania danych osobowych.
 
 ##Jakie są dalsze kroki?
-GIODO powinien wydać decyzję. Jeśli decyzja nie odpowiada należy zastosować ścieżkę odwoławczą. Jeśli decyzja odpowiada można skierować skargę do WSA albo złożyć doniesienie do prokuratury. Prawdę mówiąc, GIODO powinien w takiej sytuacji sam złożyć doniesienie do prokuratury, a my nie musimy również z tym czekać. Koniecznie po odpowiedzi organu należy jej treść (po usunięciu danych osobowych) wstawić do [tego wątku](http://szczepienia.org.pl/viewtopic.php?t=4877), w którym opisujemy aktualny stan spraw związanych z GIODO.
+GIODO powinien wydać decyzję. Jeśli decyzja nie odpowiada oczekiwaniom, należy zastosować ścieżkę odwoławczą. Jeśli decyzja odpowiada oczekiwaniom, można skierować skargę do WSA na działania Inspekcji Sanitarnej albo złożyć doniesienie do prokuratury. Prawdę mówiąc, GIODO powinien w takiej sytuacji sam złożyć doniesienie do prokuratury, a my nie musimy również z tym czekać. Koniecznie po odpowiedzi organu należy jej treść (po usunięciu danych osobowych) wstawić do [tego wątku](http://szczepienia.org.pl/viewtopic.php?t=4877), w którym opisujemy aktualny stan spraw związanych z GIODO.
 
 ##Skąd mam wiedzieć, czy mój PPIS ma zarejestrowane zbiory danych osobowych?
 GIODO udostępnia dane o wszystkich zbiorach w serwisie [eGIODO](https://egiodo.giodo.gov.pl/search_advanced.dhtml).
