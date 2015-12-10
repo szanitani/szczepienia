@@ -22,6 +22,7 @@ Oczywiście. Dla Windows zalecane narzędzia są tutaj:
   1. Edytor Markdown - [MarkdownPad](http://markdownpad.com/download.html)
   2. [mSysGit](http://msysgit.github.io/)
   3. [TortoiseGit](https://code.google.com/p/tortoisegit/wiki/Download?tm=2)
+  4. [Rozszerzenie do Chrome - Markdown Editor](https://chrome.google.com/webstore/detail/markdown-editor/ekdcaddpmiodcipjfmffhhefijpdckaf?hl=pl)
 
 ##A jeśli będę chciał zmienić coś sam w treści dokumentów?
 Do tego właśnie służy GitHub. Tworzysz wtedy kopie tego repozytorium (*fork*), wprowadzasz zmiany i wysyłasz tzw. *pull request* do naszego repozytorium głównego. Jeśli chcesz się naprawdę zaangażować i pomóc w tworzeniu repozytorium, prawa do zapisu również będą przydzielane.
