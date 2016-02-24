@@ -1,5 +1,6 @@
 ##Kogo dotyczy to pismo?
-Osób, których postępowanie zostało wszczęte przed 2015-01-01 czyli w trakcie obowiązywania starej ustawy o ochronie danych osobowych, w zakresie argumentów o braku zgłoszenia zbiorów danych osobowych. Pozostałych osób w zakresie argumentów o braku podstaw prawnych od przetwarzania ich danych osobowych lub nieprawidłowości w związku z przekazaniem danych o stanie zdrowia od świadczeniodawcy usług medycznych do Inspekcji Sanitarnej.
+1. Osób, których postępowanie zostało wszczęte przed 2015-01-01 czyli w trakcie obowiązywania starej ustawy o ochronie danych osobowych, w zakresie argumentów o braku zgłoszenia zbiorów danych osobowych.
+2. Pozostałych osób w zakresie argumentów o braku podstaw prawnych od przetwarzania ich danych osobowych lub nieprawidłowości w związku z przekazaniem danych o stanie zdrowia od świadczeniodawcy usług medycznych do Inspekcji Sanitarnej.
 
 ##Czy na dalszym etapie postępowania również warto wysłać to pismo?
 Tak! Jest to niezależne postępowanie.
