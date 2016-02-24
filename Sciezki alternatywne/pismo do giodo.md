@@ -7,10 +7,17 @@ Tak! Jest to niezależne postępowanie.
 
 ##Co ewentualnie warto dopasować w treści wniosku?
 Dla osób, których postępowania rozpoczęły się w 2015 r. pismo do GIODO powinno mieć treść zmodyfikowaną. Od stycznia 2015 weszła w życie nowelizacja u.o.d.o., w której zmieniono wymogi w zakresie  rejestracji zbiorów danych osobowych.
-Należy opracować pismo zgodnie ze stanem faktycznym w swoim postępowaniu. Przed wysłaniem pisma, należy również wysłać wspomniane w treści wezwanie do zaprzestania przetwarzania danych osobowych.
+Należy opracować pismo zgodnie ze stanem faktycznym w swoim postępowaniu. 
+
+##Co warto/należy zrobić przed wysłaniem pisma?
+Należy również wysłać wspomniane w treści wezwanie do zaprzestania przetwarzania danych osobowych. Dlaczego? Bo u.o.d.o. zawiera przepisy karne. Konsekwencje naruszenie u.o.d.o. są różne w zależności od "nieumyślności w działaniu" danej osoby. Wysyłając takie pismo wyłączasz "nieumyślności w działaniu" a co za tym idzie osobie naruszającej ww przepisy grozi surowsza kara.
 
 ##Jakie są dalsze kroki?
-GIODO powinien wydać decyzję. Jeśli decyzja nie odpowiada oczekiwaniom, należy zastosować ścieżkę odwoławczą. Jeśli decyzja odpowiada oczekiwaniom, można skierować skargę do WSA na działania Inspekcji Sanitarnej albo złożyć doniesienie do prokuratury. Prawdę mówiąc, GIODO powinien w takiej sytuacji sam złożyć doniesienie do prokuratury, a my nie musimy również z tym czekać. Koniecznie po odpowiedzi organu należy jej treść (po usunięciu danych osobowych) wstawić do [tego wątku](http://szczepienia.org.pl/viewtopic.php?t=4877), w którym opisujemy aktualny stan spraw związanych z GIODO.
+1. GIODO powinien wydać decyzję. Jeśli decyzja nie odpowiada oczekiwaniom, należy zastosować ścieżkę odwoławczą (np. na podstawie art. 21 u.o.d.o.). 
+2. Jeśli decyzja odpowiada oczekiwaniom, można skierować skargę do WSA na działania Inspekcji Sanitarnej albo złożyć doniesienie do prokuratury. Prawdę mówiąc, GIODO powinien w takiej sytuacji sam złożyć doniesienie do prokuratury, a my nie musimy również z tym czekać.
+3. Koniecznie po odpowiedzi organu należy jej treść (po usunięciu danych osobowych) wstawić do [tego wątku](http://szczepienia.org.pl/viewtopic.php?t=4877), w którym opisujemy aktualny stan spraw związanych z GIODO. 
+4. W zależności od etapu postępowania należy złożyć do Inspekcji Sanitarnej, Wojewody żądania unieważnienia postępowania (egzekucyjnego) w związku z rażącym naruszeniem prawa.
+5. Jeśli decyzja GIODO jest pozytywna warto również złożyć wniosek o wyłączenie odpowiedzialnych urzędników z postępowania na podstawie przepisów k.p.a.
 
 ##Skąd mam wiedzieć, czy mój PPIS ma zarejestrowane zbiory danych osobowych?
 GIODO udostępnia dane o wszystkich zbiorach w serwisie [eGIODO](https://egiodo.giodo.gov.pl/search_advanced.dhtml).
@@ -29,7 +36,19 @@ Na chwilę obecną nie bezpośrednio. Wskazujemy na brak uprawnień Inspekcji Sa
 Uchybienia jak najbardziej warto wskazywać, jednakże jest to ścieżka związana ze zgłoszeniem sprawy do prokuratury oraz jak wskazuje GIODO w swoich decyzjach na gruncie przepisów prawa cywilnego.
 
 ##Jaki jest cel pisma?
-Uznanie części lub całości zarzutów przez GIODO w drodze decyzji/postanowienia. Spowoduje to wyczerpanie ścieżki skargowej i możliwość skutecznej skargi do WSA na czynności w postępowaniu prowadzonym przez PPIS. Umożliwi przekazanie sprawy do prokuratury w związku z naruszeniem przepisów karnych u.o.d.o. oraz k.k. Umożliwi złożenie skargi do MAC w związku z czynnościami administracyjnymi i wdrożenie postępowania wobec pracowników PPIS, co zaskutkuje wyłączeniem tych urzędników z postępowania.
+Uznanie części lub całości zarzutów przez GIODO w drodze decyzji/postanowienia. Spowoduje to wyczerpanie ścieżki skargowej i możliwość skutecznej skargi do WSA na czynności w postępowaniu prowadzonym przez PPIS. Umożliwi przekazanie sprawy do prokuratury w związku z naruszeniem przepisów karnych u.o.d.o. oraz k.k. Umożliwi złożenie skargi do MAC w związku z czynnościami administracyjnymi i wdrożenie postępowania wobec pracowników PPIS, co zaskutkuje wyłączeniem tych urzędników z postępowania na podstawie przepisów kpa.
+
+##Kto powinien wysyłać to pismo?
+Osoby, wobec których prowadzone jest postępowanie. Zwracam uwagę, że zobowiązanym jest dziecko natomiast postępowanie (egzekucyjne) jest prowadzone wobec wszystkich przedstawicieli ustawowych (rodziców). W typowej sytuacji jeden małżonek  ustanawia pełnomocnictwo dla drugiego małżonka i wtedy wystarczy jedno pismo. Jeśli tego pełnomocnictwa nie ma lub rodzice nie są małżonkami wtedy oczywiście każdy składa tę skargę osobno.
+
+##Bardzo mi zależy na odpowiedzi GIODO - co mam robić?
+Jeśli GIODO nie odpowiada w ustawowym terminie lub nie informuje o przedłużeniu rozpatrzenia skargi, stronie przysługuje wezwanie do usunięcia naruszenia prawa a następnie skarga do WSA. GIODO nie ma organu nadrzędnego (skrót myślowy), zatem wysyłanie skargi na przewlekłość/bezczynność postępowania jest bezprzedmiotowe. Generalnie nie zależy nam na przyspieszaniu odpowiedzi GIODO bo przecież lepiej aby urząd bardzo dokładnie i dogłębnie rozważył zarzuty w skardze a przecież jeśli sąd administracyjny zostanie poinformowany o tym możliwym naruszeniu prawa to nie rozpatrzy w pełni skargi póki nie uczyni tego GIODO.
+
+##Czy należy dołączać do skargi akta sprawy?
+Nie. Jeśli GIODO uzna, że takie akta są mu potrzebne wtedy zwróci się do organu prowadzącego postępowanie. Należy pamiętać o treści art. 220 par. 1 k.p.a. Natomiast, jeśli ma to sens, w związku z tzw. ostrożnością procesową, warto w treści skargi przywoływać istotne dokumenty poprzez ich nazwę, adresata, datę oraz ewentualnie cytować z nich treść jako tzw. samocytowanie. Dlaczego tak? Aby nie ponosić kosztów odpisów z jednej strony a nie narażać się na możliwość nie przekazania przez organ do GIODO części akt sprawy.
+
+##Czy należy dołączać do skargi jakieś inne dokumenty strony np. akt urodzenia dziecka?
+Nie. Jeśli GIODO uzna, że takie dokumenty będące w wyłącznej dyspozycji strony są mu potrzebne wtedy o nie poprosi i wskaże formę ich przekazania. Przykładowo zwykłe ksero, skan czy obraz nie są dowodem w sprawie. Dokument aby był dowodem musi być tzw. odpisem uwierzytelnionym urzędowo. Zatem nie ma sensu tworzenie kosztownych kopii notarialnych nieokreślonych dokumentów.
 
 ##Czy możemy co do zasady zakwestionować przekazywanie danych z przychodni do PPIS? (szkic)
 Zbadajmy co mówią na temat przekazywania danych o osobach uznanych za uchylające się od obowiązku szczepień stosowne ustawy i rozporządzenia.  
