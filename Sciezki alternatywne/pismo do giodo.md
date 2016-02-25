@@ -86,9 +86,10 @@ Szczególne obostrzenia w zakresie wyłączności ustawy dotyczą problematyki w
 4) Każdy ma  prawo  do  żądania  sprostowania  oraz  usunięcia  informacji nieprawdziwych, niepełnych lub zebranych w sposób sprzeczny z ustawą.  
 5) **Zasady i tryb gromadzenia oraz udostępniania informacji określa ustawa.**"
 
+##Co warto zrobić jeszcze w kwestii ochrony danych osobowych?
+Stowarzyszenie STOP NOP opublikowało na [swojej stronie dokument ze skargą do GIODO](https://www.facebook.com/notes/ogólnopolskie-stowarzyszenie-wiedzy-o-szczepieniach-stop-nop/skarga-na-przychodnię-do-giodo-dot-bezprawnego-przekazania-danych-sanepidowi/1208996559127770) ale na przychodnię, która przekazała dane medyczne o stanie zdrowia do Inspekcji Sanitarnej. Jest tam również drugi dokument żądania m.in. unieważnienia postępowania.
 
-
-##Treść pisma:
+##Treść pisma do GIODO ze skargą na PIS i WIS:
 ```
 <miejscowosc> <data>
 <adres>
