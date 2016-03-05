@@ -13,71 +13,59 @@
             {
                "title":"Czy przechorowanie choroby daje odporność na całe życie?",
                "type":"radio",
-               "description":[
-                  "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>materiały źródłowe</h3>",
-                  "<p>",
-                  "<a target='_blank' href='http://www.slownikmedyczny.edu.pl/choroby_zakazne_91.html'>Opisy chorób zakaźnych wg Słownika Medycznego</a><br>",
-                  "</p>"
-               ],
                "answers":[
                   {"value":0,"title":"Tak, dla wszystkich chorób"},
                   {"value":100,"title":"Tak, dla większości chorób"},
                   {"value":0,"title":"Nie"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href='http://www.slownikmedyczny.edu.pl/choroby_zakazne_91.html'>Opisy chorób zakaźnych wg Słownika Medycznego</a><br>",
+                  "</p>"
                ]
             },
             {
                "title":"Czy choroby zakaźne takie jak angina, świnka, różyczka, ospa wietrzna są chorobami śmiertelnymi i w razie zachorowania powodują poważne powikłania?",
                "type":"radio",
-               "description":[
-                  "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>materiały źródłowe</h3>",
-                  "<p>",
-                  "<a target='_blank' href='http://www.slownikmedyczny.edu.pl/choroby_zakazne_91.html'>Opisy chorób zakaźnych wg Słownika Medycznego</a><br>",
-                  "</p>"
-               ],
                "answers":[
                   {"value":0,"title":"Tak, w większości przypadków"},
                   {"value":0,"title":"Nie są śmiertelne, ale zwykle wywołują powikłania"},
                   {"value":100,"title":"Nie, są to choroby wymagające przeleżenia, prawidłowo leczone nie wywołują powikłań lub wywołują je bardzo rzadko"},
                   {"value":0,"title":"Wszystkie choroby zakaźne są bardzo niebezpieczne"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href='http://www.slownikmedyczny.edu.pl/choroby_zakazne_91.html'>Opisy chorób zakaźnych wg Słownika Medycznego</a><br>",
+                  "</p>"
                ]
             },
             {
                "title":"Zaznacz poprawne stwierdzenie:",
                "type":"radio",
-               "description":[
-                  "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>materiały źródłowe</h3>",
-                  "<p>",
-                  "<a target='_blank' href='http://pl.wikipedia.org/wiki/Choroba_Heinego-Medina'>Opis poliomyelitis w Wikipedii</a><br>",
-                  "</p>"
-               ],
                "answers":[
                   {"value":0,"title":"Ostre nagminne porażenie dziecięce (poliomyelitis) u wszystkich zakażonych powoduje ciężkie objawy porażenia"},
                   {"value":100,"title":"Ostre nagminne porażenie dziecięce (poliomyelitis) w większości przypadków nie daje żadnych objawów, u 1% zakażonych daje objawy porażenia, które ustępują samoistnie i nie dają żadnych powikłań, a u 0,1% choroba występuje w postaci porażennej. Jest to choroba przenoszona drogą fekalno-oralną"},
                   {"value":0,"title":"Ostre nagminne porażenie dziecięce (poliomyelitis) jest chorobą rozprzestrzeniającą się poprzez przebywanie z chorym w jednym pomieszczeniu i jest jedną z chorób występujących często w krajach rozwiniętych"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href='http://pl.wikipedia.org/wiki/Choroba_Heinego-Medina'>Opis poliomyelitis w Wikipedii</a><br>",
+                  "</p>"
                ]
             }
          ]
@@ -95,70 +83,52 @@
             {
                "title":"Czy szczepienie daje stuprocentową pewność, iż dziecko nie zachoruje?",
                "type":"radio",
-               "description":[
-                  "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>materiały źródłowe</h3>",
-                  "<p>",
-                  "...",
-                  "</p>"
-               ],
                "answers":[
                   {"value":0,"title":"Tak"},
                   {"value":100,"title":"Nie"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>...</p>"
                ]
             },
             {
                "title":"Kto dokonuje kwalifikacji dziecka do szczepienia?",
                "type":"radio",
-               "description":[
-                  "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>materiały źródłowe</h3>",
-                  "<p>",
-                  "...",
-                  "</p>"
-               ],
                "answers":[
                   {"value":0,"title":"Rodzice"},
                   {"value":0,"title":"Pielęgniarka"},
                   {"value":100,"title":"Lekarz"},
                   {"value":0,"title":"Położna"},
                   {"value":0,"title":"Powiatowy Inspektor Sanitarny"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>...</p>"
                ]
             },
             {
                "title":"Czy zaszczepienie daje odporność na całe życie?",
                "type":"radio",
-               "description":[
-                  "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>materiały źródłowe</h3>",
-                  "<p>",
-                  "...",
-                  "</p>"
-               ],
                "answers":[
                   {"value":0,"title":"Tak"},
                   {"value":100,"title":"Nie"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>...</p>"
                ]
             }
          ]
@@ -176,46 +146,34 @@
             {
                "title":"Czy wyszczepialność dzieci na poziomie około 90% gwarantuje odporność stada?",
                "type":"radio",
-               "description":[
-                  "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>materiały źródłowe</h3>",
-                  "<p>",
-                  "...",
-                  "</p>"
-               ],
                "answers":[
                   {"value":0,"title":"Tak"},
                   {"value":100,"title":"Nie"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>...</p>"
                ]
             },
             {
                "title":"Spadek zachorowalności na choroby zakaźne zawdzięczamy w największym stopniu:",
                "type":"radio",
-               "description":[
-                  "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>materiały źródłowe</h3>",
-                  "<p>",
-                  "...",
-                  "</p>"
-               ],
                "answers":[
                   {"value":0,"title":"tylko szczepieniom ochronnym"},
                   {"value":0,"title":"wszystkim czynnikom medycznym"},
                   {"value":100,"title":"higienie, odżywianiu, pasteryzacji (czynnikom niemedycznym)"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>...</p>"
                ]
             }
          ]
@@ -233,50 +191,42 @@
             {
                "title":"Czy szczepionki są całkowicie bezpieczne, ponieważ są zarejestrowane i dopuszczone do obrotu?",
                "type":"radio",
-               "description":[
-                  "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>materiały źródłowe</h3>",
-                  "<p>",
-                  "<a target='_blank' href='https://www.gif.gov.pl/pl/decyzje-i-komunikaty/decyzje/decyzje'>Decyzje Głównego Inspektoratu Farmaceutycznego</a> - UWAGA! Bardzo mocno zalecamy sprawdzenie tej strony przed przyjęciem preparatu szczepionkowego. A w zasadzie przed przyjęciem <strong>dowolnego</strong> leku dopuszczonego do obrotu w Polsce.<br>",
-                  "</p>"
-               ],
                "answers":[
                   {"value":0,"title":"Tak, każdy lek po zarejestrowaniu i przejściu procedury rejestracyjnej jest bezpieczny"},
                   {"value":0,"title":"Tak, firmy farmaceutyczne bardzo dbają o jakość szczepionek i testują je przez wiele lat przed wprowadzeniem"},
                   {"value":100,"title":"Nie, bardzo często partie szczepionek są wycofywane z obrotu ze względu na nie spełnianie wymogów"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href='https://www.gif.gov.pl/pl/decyzje-i-komunikaty/decyzje/decyzje'>Decyzje Głównego Inspektoratu Farmaceutycznego</a> - UWAGA! Bardzo mocno zalecamy sprawdzenie tej strony przed przyjęciem preparatu szczepionkowego. A w zasadzie przed przyjęciem <strong>dowolnego</strong> leku dopuszczonego do obrotu w Polsce.<br>",
+                  "</p>"
                ]
             },
             {
                "title":"Czy rtęć, aluminium i antybiotyki, stosowane w celu konserwacji i wzmocnienia działania szczepionek występujące w szczepionkach są całkowicie bezpieczne?",
                "type":"radio",
+               "answers":[
+                  {"value":0,"title":"Tak, szczepionki produkowane są zgodnie z normami, uwzględniają ADI (<em>acceptable daily intake</em>) tych pierwiastków"},
+                  {"value":0,"title":"Nie, w przeliczeniu na 1 kg masy ciała szczepionki zawierają niewiele wyższe niż dopuszczalne dawki rtęci i aluminium"},
+                  {"value":100,"title":"Nie, szczepionki zawierają rtęć, aluminium i antybiotyki, które znacznie przekraczają ADI i wywołują w organizmie burzę cytokinową, która prowadzi do wielu powikłań w szczególności CUN i obniżenie odporności, często objawiających się od kilku godzin, do kilku tygodni po szczepieniu"},
+                  {"value":0,"title":"Tak, szczepionki nie zawierają już rtęci"}
+               ],
                "description":[
                   "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
+                  "<p>...</p>",
                   "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
+                  "<p>...</p>",
                   "<h3>materiały źródłowe</h3>",
                   "<p>",
                   "<a target='_blank' href='http://www.medonet.pl/dolegliwosci,dolegliwosci-profil,1577811,1,zatrucia-rtecia,index.html'>Zatrucia rtęcią</a>.<br>",
                   "<a target='_blank' href='http://google2.fda.gov/search?q=ADI+for+mercury&client=FDAgov&site=FDAgov&lr=&proxystylesheet=FDAgov&requiredfields=-archive%3AYes&output=xml_no_dtd&getfields='>U.S. Food and Drug Administration - ADI dla rtęci</a>.<br>",
                   "<a target='_blank' href='http://google2.fda.gov/search?q=ADI%20for%20aluminium&client=FDAgov&proxystylesheet=FDAgov&output=xml_no_dtd&site=FDAgov&requiredfields=-archive:Yes&sort=date:D:L:d1&filter=1'>U.S. Food and Drug Administration - ADI dla Aluminium</a>.<br>",
                   "</p>"
-               ],
-               "answers":[
-                  {"value":0,"title":"Tak, szczepionki produkowane są zgodnie z normami, uwzględniają ADI (<em>acceptable daily intake</em>) tych pierwiastków"},
-                  {"value":0,"title":"Nie, w przeliczeniu na 1 kg masy ciała szczepionki zawierają niewiele wyższe niż dopuszczalne dawki rtęci i aluminium"},
-                  {"value":100,"title":"Nie, szczepionki zawierają rtęć, aluminium i antybiotyki, które znacznie przekraczają ADI i wywołują w organizmie burzę cytokinową, która prowadzi do wielu powikłań w szczególności CUN i obniżenie odporności, często objawiających się od kilku godzin, do kilku tygodni po szczepieniu"},
-                  {"value":0,"title":"Tak, szczepionki nie zawierają już rtęci"}
                ]
             }
          ]
@@ -294,47 +244,39 @@
             {
                "title":"Czy niepożądane odczyny poszczepienne:",
                "type":"radio",
-               "description":[
-                  "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>materiały źródłowe</h3>",
-                  "<p>",
-                  "<a target='_blank' href='http://isap.sejm.gov.pl/DetailsServlet?id=WDU20102541711'>Rozporządzenie Ministra Zdrowia z dnia 21 grudnia 2010 r. w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania (Dz.U. 2010 nr 254 poz. 1711)</a>.<br>",
-                  "</p>"
-               ],
                "answers":[
                   {"value":100,"title":"Mogą wystąpić od kilku godzin do kilku tygodni po szczepieniu"},
                   {"value":0,"title":"Mogą wystąpić tylko w pierwszych dobach po szczepieniu (max.do 48h)"},
                   {"value":0,"title":"Są bardzo rzadkie i mało niebezpieczne"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href='http://isap.sejm.gov.pl/DetailsServlet?id=WDU20102541711'>Rozporządzenie Ministra Zdrowia z dnia 21 grudnia 2010 r. w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania (Dz.U. 2010 nr 254 poz. 1711)</a>.<br>",
+                  "</p>"
                ]
             },
             {
                "title":"Czy według rozporządzenia MZ w sprawie NOP i kryteriów ich rozpoznawania do ciężkich NOP zaliczamy:",
                "type":"radio",
-               "description":[
-                  "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
-                  "<h3>materiały źródłowe</h3>",
-                  "<p>",
-                  "<a target='_blank' href='http://isap.sejm.gov.pl/DetailsServlet?id=WDU20102541711'>Rozporządzenie Ministra Zdrowia z dnia 21 grudnia 2010 r. w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania (Dz.U. 2010 nr 254 poz. 1711)</a>.<br>",
-                  "</p>"
-               ],
                "answers":[
                   {"value":0,"title":"encefalopatię i zapalenie mózgu"},
                   {"value":100,"title":"odczyn, który zagraża życiu, wymaga hospitalizacji i może skończyć się śmiercią"},
                   {"value":0,"title":"długotrwały obrzęk i zaczerwienienie w miejscu nakłucia"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href='http://isap.sejm.gov.pl/DetailsServlet?id=WDU20102541711'>Rozporządzenie Ministra Zdrowia z dnia 21 grudnia 2010 r. w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania (Dz.U. 2010 nr 254 poz. 1711)</a>.<br>",
+                  "</p>"
                ]
             }
          ]
@@ -352,48 +294,40 @@
             {
                "title":"Czy w Polsce szczepienia są obowiązkowe?",
                "type":"radio",
+               "answers":[
+                  {"value":0,"title":"Tak, dla wszystkich"},
+                  {"value":0,"title":"Nie"},
+                  {"value":100,"title":"Tylko dla wskazanych osób i tylko w określonych sytuacjach"}
+               ],
                "description":[
                   "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
+                  "<p>...</p>",
                   "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
+                  "<p>...</p>",
                   "<h3>materiały źródłowe</h3>",
                   "<p>",
                   "<a target='_blank' href='http://isap.sejm.gov.pl/DetailsServlet?id=WDU20082341570'>Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz.U. 2008 nr 234 poz. 1570)</a>.<br>",
                   "<a target='_blank' href='http://isap.sejm.gov.pl/DetailsServlet?id=WDU20111821086'>Rozporządzenie Ministra Zdrowia z dnia 18 sierpnia 2011 r. w sprawie obowiązkowych szczepień ochronnych (Dz.U. 2011 nr 182 poz. 1086)</a>.<br>",
                   "</p>"
-               ],
-               "answers":[
-                  {"value":0,"title":"Tak, dla wszystkich"},
-                  {"value":0,"title":"Nie"},
-                  {"value":100,"title":"Tylko dla wskazanych osób i tylko w określonych sytuacjach"}
                ]
             },
             {
                "title":"Czy zgodnie z przepisami obowiązkowe szczepienia należy wykonać w terminie wyznaczonym w komunikacie Głównego Inspektora Sanitarnego na dany rok?",
                "type":"radio",
+               "answers":[
+                  {"value":0,"title":"Tak, należy szczepić zgodnie z PSO (Programem Szczepień Ochronnych)"},
+                  {"value":100,"title":"Nie, to rozporządzenie określa terminy istnienia obowiązku dla poszczególnych chorób zakaźnych"}
+               ],
                "description":[
                   "<h3>informacje</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
+                  "<p>...</p>",
                   "<h3>kontekst pytania</h3>",
-                  "<p>",
-                  "...",
-                  "</p>",
+                  "<p>...</p>",
                   "<h3>materiały źródłowe</h3>",
                   "<p>",
                   "<a target='_blank' href='http://isap.sejm.gov.pl/DetailsServlet?id=WDU20082341570'>Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz.U. 2008 nr 234 poz. 1570)</a>.<br>",
                   "<a target='_blank' href='http://isap.sejm.gov.pl/DetailsServlet?id=WDU20111821086'>Rozporządzenie Ministra Zdrowia z dnia 18 sierpnia 2011 r. w sprawie obowiązkowych szczepień ochronnych (Dz.U. 2011 nr 182 poz. 1086)</a>.<br>",
                   "</p>"
-               ],
-               "answers":[
-                  {"value":0,"title":"Tak, należy szczepić zgodnie z PSO (Programem Szczepień Ochronnych)"},
-                  {"value":100,"title":"Nie, to rozporządzenie określa terminy istnienia obowiązku dla poszczególnych chorób zakaźnych"}
                ]
             }
          ]
