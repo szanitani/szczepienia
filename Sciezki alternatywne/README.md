@@ -16,3 +16,11 @@
 
 ##Części wspólne pism
 Ilekroć w instrukcji do pisma jest wskazane aby wysyłać je "*jak najszybciej*", oznacza to oczywiście wysyłanie pisma w ostatnim dniu wymaganego terminu. Tam gdzie wspomina się o "*stosownej skardze*" lub "*dochodzeniu swoich praw*" warto posiłkować się [tymi zaleceniami](http://forumprawne.org/prawo-administracyjne/301849-jak-pisac-skuteczne-pisma-do-urzedu-poradnik.html).
+
+##Jak wygląda ścieżka tradycyjna?
+Jest to typowy schemat oparty o [wzory dokumentów do pobrania w sprawie szczepień ze strony pisma.szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/) w zakresie postępowania administracyjnego w związku z nałożeniem grzywny na rodziców. Ten schemat wygląda tak:
+
+![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Sciezki%20alternatywne/sciezka_wg_wzorow.png)
+
+##Jak jest cel wejścia na ścieżkę alternatywną?
+Aby zwiększyć ilość strzałek w powyższym schemacie, czyli dodać kilkadziesiąt/kilkaset nowych dokumentów do sprawy. Aby zwiększyć liczbę urzędów podejmujących czynności w sprawie i postępowaniu. Aby pełniej bronić swoich praw i wyjaśniać żądania urzędników.
