@@ -67,6 +67,25 @@
                   "<a target='_blank' href='http://pl.wikipedia.org/wiki/Choroba_Heinego-Medina'>Opis poliomyelitis w Wikipedii</a><br>",
                   "</p>"
                ]
+            },
+            {
+               "title":"Czy szczepienia obejmują wszystkie choroby występujące na terenie Polski?",
+               "type":"radio",
+               "answers":[
+                  {"value":0,"title":"Tak, wszystkie choroby"},
+                  {"value":0,"title":"Tylko choroby groźne"},
+                  {"value":100,"title":"Tylko znikomą część chorób zakaźnych a w ramach jednej choroby, producenci preparatów szczepionkowych reklamują niepełną odporność na pewną tylko część serotypów"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href=''></a><br>",
+                  "</p>"
+               ]
             }
          ]
       },
@@ -116,6 +135,63 @@
                ]
             },
             {
+               "title":"Czy jest możliwe zachorowanie na chorobę po szczepieniu?",
+               "type":"radio",
+               "answers":[
+                  {"value":0,"title":"Nie, przecież szczepionki chronią w 100% przed zachorowaniem"},
+                  {"value":0,"title":"Zachorowanie jest możliwe, ale choroba ma słabsze objawy"},
+                  {"value":100,"title":"Nie dosyć, że zachorowanie jest możliwe to wiele szczepionek powoduje choroby, przeciw którym ma chronić (np. polio poszczepienne)"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href=''></a><br>",
+                  "</p>"
+               ]
+            },
+            {
+               "title":"Czy osoba po szczepieniu może zarażać inne osoby?",
+               "type":"radio",
+               "answers":[
+                  {"value":0,"title":"Nie, szczepienie jest przecież bezpieczne"},
+                  {"value":0,"title":"Może się to zdarzyć, ale występuje bardzo rzadko"},
+                  {"value":100,"title":"Wiele preparatów szczepionkowych powoduje zarażanie innych przez pewien okres po szczepieniu"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href=''></a><br>",
+                  "</p>"
+               ]
+            },
+            {
+               "title":"Czy szczepienia są prowadzone zgodnie z aktualnym stanem wiedzy medycznej?",
+               "type":"radio",
+               "answers":[
+                  {"value":0,"title":"Tak, przecież decyzje o szczepieniu podejmuje MInister Zdrowia w oparciu o ciała doradcze i opinie wybranych ekspertów"},
+                  {"value":100,"title":"Nie, program i jego realizacja w Polsce różni się diametralnie od tego co jest realizowane w innych krajach, a eksperci podejmujący decyzje w sprawie szczepień nie uzasadniają swoich przesłanek oraz występują rozliczne wątpliwości co do wiarygodności tych ekspertów w związku z ich konfliktem interesów poprzez przyjmowanie środków i przysług od koncernów farmaceutycznych, producentów preparatów szczepionkowych"},
+                  {"value":0,"title":"Nie muszą być prowadzone z aktualnym stanem wiedzy medycznej, bo w szczepieniach chodzi o obniżanie kosztów leczenia w dłuższym okresie a nie o zdrowie ludzi"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href=''></a><br>",
+                  "</p>"
+               ]
+            },
+            {
                "title":"Czy zaszczepienie daje odporność na całe życie?",
                "type":"radio",
                "answers":[
@@ -157,6 +233,25 @@
                   "<p>...</p>",
                   "<h3>materiały źródłowe</h3>",
                   "<p>...</p>"
+               ]
+            },
+            {
+               "title":"Czy osoba szczepiona może roznosić choroby nawet jeśli na nie nie choruje?",
+               "type":"radio",
+               "answers":[
+                  {"value":0,"title":"Niemożliwe, przecież szczepienia chronią przed wszystkim co jest związane z chorobami zakaźnymi"},
+                  {"value":100,"title":"Roznoszenie chorób nie ma wiele wspólnego z odpornością na nie i jak najbardziej osoby szczepione nadal mogą przenosić i zarażać patogenami"},
+                  {"value":0,"title":"Są podejrzenia takich przypadków ale nikomu nie udało się udowodnić związku między szczepieniem a przenoszeniem patogenów na inne osoby"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href=''></a><br>",
+                  "</p>"
                ]
             },
             {
@@ -204,6 +299,44 @@
                   "<h3>materiały źródłowe</h3>",
                   "<p>",
                   "<a target='_blank' href='https://www.gif.gov.pl/pl/decyzje-i-komunikaty/decyzje/decyzje'>Decyzje Głównego Inspektoratu Farmaceutycznego</a> - UWAGA! Bardzo mocno zalecamy sprawdzenie tej strony przed przyjęciem preparatu szczepionkowego. A w zasadzie przed przyjęciem <strong>dowolnego</strong> leku dopuszczonego do obrotu w Polsce.<br>",
+                  "</p>"
+               ]
+            },
+            {
+               "title":"Czy preparaty szczepionkowe są dokładnie sprawdzane?",
+               "type":"radio",
+               "answers":[
+                  {"value":0,"title":"Tak, są sprawdzone pod każdym względem"},
+                  {"value":0,"title":"Są sprawdzane przez producenta a następnie przez Państwo zamawiające"},
+                  {"value":100,"title":"Wystarczy, że są dopuszczone do obrotu a sprawdzenia obejmują tylko parametry oczekiwane"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href=''></a><br>",
+                  "</p>"
+               ]
+            },
+            {
+               "title":"Czy preparaty szczepionkowe mogą się uszkodzić/zepsuć już po ich sprawdzeniu i zatwierdzeniu?",
+               "type":"radio",
+               "answers":[
+                  {"value":0,"title":"Preparaty szczepionkowe nie psują się łatwo i można je przechowywać wiele lat"},
+                  {"value":0,"title":"Preparaty szczepionkowe mają normalne wymagania co do przechowywania"},
+                  {"value":100,"title":"Preparaty szczepionkowe mają szczególne wymogi w zakresie przechowywania i łatwo je uszkodzić lub nieprawidłowo zastosować"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href=''></a><br>",
                   "</p>"
                ]
             },
