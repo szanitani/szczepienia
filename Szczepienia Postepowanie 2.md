@@ -10,7 +10,7 @@ Główną korzyścią jest brak zaskoczenia działaniami Organu. W normalnej syt
 
 ###3. Jak założyć konto na ePUAP?
 
-Należy przejść do serwisu [ePUAP](http://epuap.gov.pl) i postępować w/g instrukcji. Petenci posiadający własny kwalifikowany podpis elektroniczny mogą całą procedurę przeprowadzić z domu. Petenci bez podpisu kwalifikowanego będą musieli jednorazowo udać się do wskazanego urzędu aby poświadczyć swoją tożsamość celem uzyskania Profilu Zaufanego. Warto zapoznać się ze świetną serią poradników ["Oswajamy e-administrację](http://di.com.pl/tagi/oswajamy-e-administracje/), gdzie można dowiedzieć się jak korzystać z ePUAP ale również i innych e-usług dostępnych w Polsce.
+Należy przejść do serwisu [ePUAP](http://epuap.gov.pl) i postępować w/g instrukcji. Petenci posiadający własny kwalifikowany podpis elektroniczny mogą całą procedurę przeprowadzić z domu. Petenci bez podpisu kwalifikowanego będą musieli jednorazowo udać się do wskazanego urzędu aby poświadczyć swoją tożsamość celem uzyskania Profilu Zaufanego. Warto zapoznać się ze świetną serią poradników ["Oswajamy e-administrację"](http://di.com.pl/tagi/oswajamy-e-administracje/), gdzie można dowiedzieć się jak korzystać z ePUAP ale również i innych e-usług dostępnych w Polsce.
 
 ###4. Czy po założeniu konta na ePUAP powinienem coś jeszcze skonfigurować?
 
