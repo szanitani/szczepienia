@@ -86,7 +86,27 @@
                   "<a target='_blank' href=''></a><br>",
                   "</p>"
                ]
+            },
+            {
+               "title":"Czy tężec jest chorobą zakaźną?",
+               "type":"radio",
+               "answers":[
+                  {"value":0,"title":"Tak"},
+                  {"value":100,"title":"Nie"},
+                  {"value":0,"title":"W Polsce nie, choć w Afryce występują formy przenoszone drogą kropelkową"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href=''></a><br>",
+                  "</p>"
+               ]
             }
+			
          ]
       },
       {
@@ -361,6 +381,27 @@
                   "<a target='_blank' href='http://google2.fda.gov/search?q=ADI%20for%20aluminium&client=FDAgov&proxystylesheet=FDAgov&output=xml_no_dtd&site=FDAgov&requiredfields=-archive:Yes&sort=date:D:L:d1&filter=1'>U.S. Food and Drug Administration - ADI dla Aluminium</a>.<br>",
                   "</p>"
                ]
+            },
+            {
+               "title":"Czy składnik preparatów szczepionkowych aluminium, pełniący rolę adjuwanta, jest neurotoksyną?",
+               "type":"radio",
+               "answers":[
+                  {"value":100,"title":"Tak"},
+                  {"value":0,"title":"Nie"},
+                  {"value":0,"title":"Może być neurotoksyną ale tylko w połączeniu ze związkami ołowiu"},
+                  {"value":0,"title":"Może być neurotoksyną ale tylko w określonych temperaturach (stanach skupienia)"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href=''></a>.<br>",
+                  "<a target='_blank' href='http://google2.fda.gov/search?q=ADI%20for%20aluminium&client=FDAgov&proxystylesheet=FDAgov&output=xml_no_dtd&site=FDAgov&requiredfields=-archive:Yes&sort=date:D:L:d1&filter=1'>U.S. Food and Drug Administration - ADI dla Aluminium</a>.<br>",
+                  "</p>"
+               ]
             }
          ]
       },
@@ -409,6 +450,65 @@
                   "<h3>materiały źródłowe</h3>",
                   "<p>",
                   "<a target='_blank' href='http://isap.sejm.gov.pl/DetailsServlet?id=WDU20102541711'>Rozporządzenie Ministra Zdrowia z dnia 21 grudnia 2010 r. w sprawie niepożądanych odczynów poszczepiennych oraz kryteriów ich rozpoznawania (Dz.U. 2010 nr 254 poz. 1711)</a>.<br>",
+                  "</p>"
+               ]
+            },
+            {
+               "title":"Zaznacz pozycje które określają możliwe odczyny poszczepienne zgodnie z aktualnym stanem wiedzy medycznej, rozporządzeniem MZ oraz danymi producentów szczepionek:",
+               "type":"check",
+               "answers":[
+                  {"value":2,"title":"obrzęk"},
+                  {"value":2,"title":"powiększenie węzłów chłonnych (w tym o średnicy ponad 10 mm oraz ich zmiany ropne)"},
+                  {"value":2,"title":"ropień w miejscu wstrzyknięcia"},
+                  {"value":2,"title":"encefalopatia (zapalenie mózgu)"},
+                  {"value":2,"title":"drgawki gorączkowe"},
+                  {"value":2,"title":"drgawki niegorączkowe"},
+                  {"value":2,"title":"porażenie wiotkie wywołane wirusem szczepionkowym"},
+                  {"value":2,"title":"zapalenie opon mózgowo-rdzeniowych"},
+                  {"value":2,"title":"zespół Guillaina-Barrégo"},
+                  {"value":2,"title":"bóle stawowe"},
+                  {"value":2,"title":"epizod hipotensyjno-hiporeaktywny"},
+                  {"value":2,"title":"gorączka powyżej 39°C"},
+                  {"value":2,"title":"małopłytkowość krwi"},
+                  {"value":0,"title":"złamanie kości przywodziciela"},
+                  {"value":2,"title":"nieutulony ciągły płacz"},
+                  {"value":2,"title":"posocznica, w tym wstrząs septyczny (sepsa)"},
+                  {"value":2,"title":"reakcja anafilaktyczna"},
+                  {"value":2,"title":"reakcje alergiczne"},
+                  {"value":2,"title":"uogólnione zakażenie BCG (gruźlicą)"},
+                  {"value":2,"title":"wstrząs anafilaktyczny"},
+                  {"value":2,"title":"zapalenie jąder"},
+                  {"value":2,"title":"zapalenie ślinianek"},
+                  {"value":2,"title":"porażenie splotu barkowego"},
+                  {"value":2,"title":"poronny Fenomen Kocha"},
+                  {"value":2,"title":"owrzodzenie"},
+                  {"value":2,"title":"zmiany ropne w tym ropnie podskórne"},
+                  {"value":0,"title":"nieprzerwany śmiech przedoponowy"},
+                  {"value":2,"title":"uogólniony rozsiew prątków gruźlicy, rozsiewu wielonarządowego, zapalenia kości i szpiku oraz zmian w innych narządach i tkankach, takich jak zapalenie ucha środkowego, ropnia pozagardłowego, zmian węzłowych"},
+                  {"value":2,"title":"keloid oraz zmiany o charakterze alergicznym w rodzaju wysypek, wyprysków, rumienia guzowatego, pryszczykowego zapalenia spojówek, zapalenia tęczówki"},
+                  {"value":2,"title":"choroba posurowicza i anafilaksja"},
+                  {"value":2,"title":"zaburzenia ze strony układu nerwowego"},
+                  {"value":2,"title":"obniżenie ciśnienia krwi"},
+                  {"value":2,"title":"skurcz oskrzeli"},
+                  {"value":2,"title":"wymioty, biegunki i nudności"},
+                  {"value":2,"title":"podwyższenie enzymów wątrobowych"},
+                  {"value":2,"title":"drgawki"},
+                  {"value":2,"title":"uszkodzenie mózgu"},
+                  {"value":2,"title":"reakcje neurologiczne"},
+                  {"value":2,"title":"odra, różyczka i świnka poszczepienna"},
+                  {"value":2,"title":"zapalenie stawów"},
+                  {"value":2,"title":"polio poszczepienne"},
+                  {"value":2,"title":"aseptyczne zapalenie opon mózgowych"},
+                  {"value":20,"title":"ta lista jest niepełna bo nie obejmuje przykłądowo nowotworów czy też tego jak powyższe stany wpływają na życie całej rodziny dziecka skrzywdzonego szczepionkami"}
+               ],
+               "description":[
+                  "<h3>informacje</h3>",
+                  "<p>...</p>",
+                  "<h3>kontekst pytania</h3>",
+                  "<p>...</p>",
+                  "<h3>materiały źródłowe</h3>",
+                  "<p>",
+                  "<a target='_blank' href=''></a>.<br>",
                   "</p>"
                ]
             }
