@@ -90,31 +90,49 @@ Szczególne obostrzenia w zakresie wyłączności ustawy dotyczą problematyki w
 Stowarzyszenie STOP NOP opublikowało na [swojej stronie dokument ze skargą do GIODO](https://www.facebook.com/notes/ogólnopolskie-stowarzyszenie-wiedzy-o-szczepieniach-stop-nop/skarga-na-przychodnię-do-giodo-dot-bezprawnego-przekazania-danych-sanepidowi/1208996559127770) ale na przychodnię, która przekazała dane medyczne o stanie zdrowia do Inspekcji Sanitarnej. Jest tam również drugi dokument żądania m.in. unieważnienia postępowania.
 
 ##Treść pisma do GIODO ze skargą na PIS i WIS:
-```
-<miejscowosc> <data>
-<adres>
-Generalny Inspektor
-Ochrony Danych Osobowych
-Biuro Generalnego Inspektora Ochrony Danych Osobowych
-ul. Stawki 2
-00-193 Warszawa
 
-SKARGA
-na nieprawidłowości w przetwarzaniu danych osobowych
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{miejscowosc}} {{data}}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{adres}}
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generalny Inspektor
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ochrony Danych Osobowych
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biuro Generalnego Inspektora Ochrony Danych Osobowych
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ul. Stawki 2
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;00-193 Warszawa
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**SKARGA**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;na nieprawidłowości w przetwarzaniu danych osobowych
+
 Szanowny Panie Inspektorze
-Niniejszym składam skargę na bezprawne, tj. niezgodne z przepisami ustawy o ochronie danych osobowych  (dalej jako u.o.d.o.), przetwarzanie danych osobowych przez Państwowego Powiatowego Inspektora Sanitarnego w <miejscowosc> (dalej jako PPIS w <miejscowosc>) oraz <wojewodztwo> Państwowego Wojewódzkiego Inspektora Sanitarnego w <miejscowosc> (dalej jako ZPWIS w <miejscowosc>).
-Wskazane organy przetwarzają dane osobowe o stanie zdrowia mojego syna <osoba> bez podstawy prawnej oraz z naruszeniem obowiązków informacyjnych, o których mowa w u.o.d.o. Wobec powyższego wnoszę o nakazanie w/w organom usunięcie uchybień w procesie przetwarzania danych osobowych poprzez:
+
+Niniejszym składam skargę na bezprawne, tj. niezgodne z przepisami ustawy o ochronie danych osobowych  (dalej jako u.o.d.o.), przetwarzanie danych osobowych przez Państwowego Powiatowego Inspektora Sanitarnego w {{miejscowosc}} (dalej jako PPIS w {{miejscowosc}}) oraz {{wojewodztwo}} Państwowego Wojewódzkiego Inspektora Sanitarnego w {{miejscowosc}} (dalej jako ZPWIS w {{miejscowosc}}).
+
+Wskazane organy przetwarzają dane osobowe o stanie zdrowia mojego {{syna/córki}} {{osoba}} bez podstawy prawnej oraz z naruszeniem obowiązków informacyjnych, o których mowa w u.o.d.o. Wobec powyższego wnoszę o nakazanie w/w organom usunięcie uchybień w procesie przetwarzania danych osobowych poprzez:
+
 1.	wypełnienie w stosunku do mnie obowiązku informacyjnego wynikającego z treści art. 25 ust. 1 Ustawy;
+
 2.	usunięcie danych osobowych z rejestrów prowadzonych niezgodnie z przepisami lub bez mojej zgody;
+
 3.	rozpoczęcie postępowania wyjaśniającego przeprowadzonego w sprawie zainicjowanej niniejszą skargą;
+
 4.	skierowanie do podmiotów, których dotyczy skarga wystąpienia służącego doskonaleniu ochrony danych osobowych (zgodnie art. 12 pkt 5 u.o.d.o.);
+
 5.	zastosowanie dodatkowych środków zabezpieczających zgromadzone dane osobowe;
+
 6.	wydanie decyzji/postanowienia w sprawie dotyczącej przedmiotu skargi a w niej o:
-a.	uznanie wadliwości dokumentów wydanych przez wskazane organy Inspekcji Sanitarnej w okresie, w którym były naruszone przepisy u.o.d.o.
-b.	uznanie, że czynności przeprowadzone przez wskazane organy Inspekcji Sanitarnej były realizowane z naruszeniem prawa, w okresie, w którym były naruszone przepisy u.o.d.o.
+
+  a.	uznanie wadliwości dokumentów wydanych przez wskazane organy Inspekcji Sanitarnej w okresie, w którym były naruszone przepisy u.o.d.o.
+  
+  b.	uznanie, że czynności przeprowadzone przez wskazane organy Inspekcji Sanitarnej były realizowane z naruszeniem prawa, w okresie, w którym były naruszone przepisy u.o.d.o.
+
 7.	wszczęcie postępowania dyscyplinarnego lub innego przewidzianego prawem postępowania przeciwko osobom winnym dopuszczenia do uchybień i poinformowania o wynikach tego postępowania i podjętych działaniach
+
 8.	w razie stwierdzenia, że działanie lub zaniechanie kierowników wskazanych jednostek organizacyjnych, jej pracowników lub innych osób fizycznych będącymi administratorem danych wyczerpuje znamiona przestępstwa określonego w ustawie, wnoszę o skierowanie do organu powołanego do ścigania przestępstw zawiadomienia o popełnieniu przestępstwa
-UZASADNIENIE
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**UZASADNIENIE**
+
+
+```
 1.	PPIS w <miejscowosc> prowadzi czynności w sprawie o sygnaturze <sygnatura>. W toku postępowania powziąłem wiedzę, o możliwym naruszeniu przez nieokreślonych pracowników Państwowej Inspekcji Sanitarnej w województwie <wojewodztwo>, przepisów u.o.d.o. w przedmiocie czynności organów, w zakresie przetwarzania danych osobowych o stanie zdrowia mojego syna <osoba>.
 2.	Naruszenia przepisów u.o.d.o. w brzmieniu obowiązującym do 2014-12-31 miały miejsce w nieokreślonym czasie i mogą mieć charakter trwały. Działania organów narażają w sposób szczególny mojego syna, matkę oraz mnie (ojca). Również w sposób szczególny działania organów narażają obywateli, mieszkańców województwa <wojewodztwo>, mających prawo do dbania o ochronę swoich danych osobowych zgodnie z  art. 1 ust. 1 u.o.d.o. cyt. „Każdy ma prawo do ochrony dotyczących go danych osobowych”, na nieprawidłowości, skutkiem  czego  dane  mogą  być  przejęte, wykorzystane, przetwarzane w celach niezgodnych z przepisami.
 3.	PPIS w <miejscowosc> oraz ZPWIS w <miejscowosc> są administratorami danych osobowych w rozumieniu u.o.d.o. Organy te przechowują dane osobowe o stanie zdrowia mojego syna oraz decydują o środkach ich przetwarzania i sposobie wykorzystania.
