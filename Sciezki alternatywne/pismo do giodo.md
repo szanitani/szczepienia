@@ -226,17 +226,31 @@ Wskazane organy przetwarzają dane osobowe o stanie zdrowia mojego {{syna/córki
   
   f.	Przywołany wyżej art. 51 Konstytucji RP stanowi:
   
-  *1) Nikt nie może być obowiązany inaczej niż na podstawie ustawy do ujawniania informacji dotyczących jego osoby.  
-  *2) Władze p*ubliczne nie mogą pozyskiwać, gromadzić i udostępniać innych informacji o obywatelach niż niezbędne w demokratycznym państwie prawnym.*  
-  *3) Każdy ma prawo dostępu do dotyczących go urzędowych dokumentów i zbiorów danych. Ograniczenie tego prawa może określić ustawa.*  
-  *4) Każdy ma  prawo  do  żądania  sprostowania  oraz  usunięcia  informacji nieprawdziwych, niepełnych lub zebranych w sposób sprzeczny z ustawą.*  
+  *1) Nikt nie może być obowiązany inaczej niż na podstawie ustawy do ujawniania informacji dotyczących jego osoby.*
+  
+  *2) Władze publiczne nie mogą pozyskiwać, gromadzić i udostępniać innych informacji o obywatelach niż niezbędne w demokratycznym państwie prawnym.*
+    
+  *3) Każdy ma prawo dostępu do dotyczących go urzędowych dokumentów i zbiorów danych. Ograniczenie tego prawa może określić ustawa.*
+    
+  *4) Każdy ma  prawo  do  żądania  sprostowania  oraz  usunięcia  informacji nieprawdziwych, niepełnych lub zebranych w sposób sprzeczny z ustawą.*
+    
   *5) Zasady i tryb gromadzenia oraz udostępniania informacji określa ustawa.*
 
   g.	Wskazuję również, i przywołuję jako argumentację w niniejszej skardze cyt. „*Rozporządzenie musi zmierzać do wykonania ustawy, nie może być zatem ani sprzeczne z ustawą (np. przez wprowadzenie rozwiązań nieznanych ustawie), ani nie może wykraczać poza zakres delegacji. W orzecznictwie Trybunału Konstytucyjnego utrwalił się też pogląd o niezgodności z ustawą rozporządzenia wydanego na podstawie wadliwego (czyli pozbawionego zakresu spraw do uregulowania oraz wytycznych) ustawowego upoważnienia. Niedopuszczalna jest delegacja o charakterze blankietowym, tj. gdy ustawodawca pozostawia zbyt szeroki zakres swobody autorowi rozporządzenia co do jego treści. Do kontroli legalności (zgodności rozporządzenia z ustawą) powołany jest Trybunał Konstytucyjny.*”
 
-  h.	Mając na uwadze powyższe, należy uznać, że Minister Zdrowia nie ma umocowania do dopuszczania przekazywania danych osobowych o stanie zdrowia do organów Inspekcji Sanitarnej w sytuacji mającej miejsce w przedmiotowej sprawie. Zwrócić należy uwagę, na liczne przepisy Ustawa z dnia 5 grudnia 2008r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, w których Ustawodawca literalnie i zgodnie z przepisami u.o.d.o. wymienia jaki zakres danych osobowych może być przechowywany i przetwarzany w określonych zbiorach danych.
+  h.	Mając na uwadze powyższe, należy uznać, że Minister Zdrowia nie ma umocowania do dopuszczania przekazywania danych osobowych o stanie zdrowia do organów Inspekcji Sanitarnej w sytuacji mającej miejsce w przedmiotowej sprawie. Zwrócić należy uwagę, na liczne przepisy Ustawa z dnia 5 grudnia 2008r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi, w których Ustawodawca literalnie i zgodnie z przepisami u.o.d.o. wymienia jaki zakres danych osobowych może być przechowywany i przetwarzany w określonych zbiorach danych. Są to m.in. przepisy:
   
-  Są to m.in. przepisy art. 14 ust. 5, art. 21 ust 2, art. 21 ust. 5, art. 24 ust. 2, art. 24 ust. 5, art. 27 ust. 4, art. 29 ust. 3, art. 30 ust. 3, art. 32a ust. 2, art. 44 ust. 7 oraz w szczególności art. 41 ust. 1, art. 41 ust. 2.
+    - art. 14 ust. 5,
+    - art. 21 ust 2,
+    - art. 21 ust. 5,
+    - art. 24 ust. 2,
+    - art. 24 ust. 5,
+    - art. 27 ust. 4,
+    - art. 29 ust. 3,
+    - art. 30 ust. 3,
+    - art. 32a ust. 2,
+    - art. 44 ust. 7
+    - oraz w szczególności art. 41 ust. 1, art. 41 ust. 2.
   
   W powyższej liście nie ma podstawy prawnej uzasadniającej  przekazywanie „*imiennej listy*” wskazanej w załączniku do rozporządzenia Ministra Zdrowia.
   
