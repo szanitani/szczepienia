@@ -16,7 +16,7 @@ Być może uda się doprowadzić do sytuacji, gdzie organ nadrzędny przeprowadz
 3. Każdą odpowiedź organu należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=177161). Znajdują się tam również komentarze i historia dokumentu oraz jest możliwy kontakt z jego autorem (adamf).
 
 ##Dlaczego pismo jest kierowane do MSWiA a nie do organu nadrzędnego?
-Ponieważ to MSWiA jest odpowiedzialne za pracę całej administracji publicznej.
+Ponieważ to MSWiA jest odpowiedzialne za pracę całej administracji publicznej. Uznajemy, że skoro jednostka podrzędna może tak działać, to musi to robić za przyzwoleniem (nawet niejawnym) swojej jednostki nadrzędnej.
 
 ##Treść pisma:
 ```
