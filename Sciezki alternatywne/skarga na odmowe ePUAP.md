@@ -13,7 +13,7 @@ Być może uda się doprowadzić do sytuacji, gdzie organ nadrzędny przeprowadz
 ##Jakie są dalsze kroki?
 1. Można przekazać pismo do wiadomości organu, który nie chce pracować przez ePUAP. Najlepiej za pośrednictwem organu nadrzędnego. 
 2. Czekać na odpowiedź organu. Brak odpowiedzi w ustawowym terminie powinien uruchomić procedurę odwoławczą. Odpowiedź wymijająca lub niepełna - uruchomić procedurę wymuszająca na Organie sprecyzowanie stanowiska ze wskazaniem podstawy prawnej oraz obowiązku pracownika do takich a nie innych działań.
-3. Każdą odpowiedź organu należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=177161). Znajdują się tam również komentarze i historia dokumentu oraz jest możliwy kontakt z jego autorem.
+3. Każdą odpowiedź organu należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=177161). Znajdują się tam również komentarze i historia dokumentu oraz jest możliwy kontakt z jego autorem (adamf).
 
 ##Dlaczego pismo jest kierowane do MSWiA a nie do organu nadrzędnego?
 Ponieważ to MSWiA jest odpowiedzialne za pracę całej administracji publicznej.
@@ -32,7 +32,7 @@ Na podstawie art. 227 k.p.a. składam skargę na {{organ}} w {{miejscowość}} {
 
 Obowiązek posiadania skrzynki z dostępnymi dla petentów usługami opisany jest w Rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 6 maja 2014 r. w sprawie zakresu i warunków korzystania z elektronicznej platformy usług administracji publicznej (DzU poz. 584), które weszło w życie już 11 maja 2014 r.
 
-Niniejszym wyrażam swoje niezadowolenie z ogólnej jakości usług administracji publicznej w terenie, w szczególności wymienionego urzędu.
+Niniejszym wyrażam swoje niezadowolenie z ogólnej jakości usług administracji publicznej w terenie, w szczególności wymienionego urzędu. Zwracam również uwagę na faktyczne przyzwolenie organu nadrzędnego czyli {{w domyśle WIS}} na takie czynności we wskazanej wyżej jednostce oraz być może w innych jednostkach w województwie {{województwo}}, co rodzi konieczność przekazania sprawy bezpośrednio do MSWiA.
 
 Na podstawie art. 221 § 3 k.p.a. skarga jest złożona w interesie własnym oraz publicznym. 
 
