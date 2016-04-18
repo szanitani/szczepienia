@@ -32,7 +32,7 @@ Na podstawie art. 227 k.p.a. składam skargę na {{organ}} w {{miejscowość}} {
 
 Obowiązek posiadania skrzynki z dostępnymi dla petentów usługami opisany jest w Rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 6 maja 2014 r. w sprawie zakresu i warunków korzystania z elektronicznej platformy usług administracji publicznej (DzU poz. 584), które weszło w życie już 11 maja 2014 r.
 
-Niniejszym wyrażam swoje niezadowolenie z ogólnej jakości usług administracji publicznej w terenie, w szczególności wymienionego urzędu. Zwracam również uwagę na faktyczne przyzwolenie organu nadrzędnego czyli {{w domyśle WIS}} na takie czynności we wskazanej wyżej jednostce oraz być może w innych jednostkach w województwie {{województwo}}, co rodzi konieczność przekazania sprawy bezpośrednio do MSWiA.
+Niniejszym wyrażam swoje niezadowolenie z ogólnej jakości usług administracji publicznej w terenie, w szczególności wymienionego urzędu. Wskazuję jednocześnie na faktyczne przyzwolenie organu nadrzędnego czyli {{WIS}} na takie czynności w w/w jednostce oraz być może w innych jednostkach w województwie {{województwo}}. Rodzi to konieczność przekazania sprawy bezpośrednio do MSWiA.
 
 Na podstawie art. 221 § 3 k.p.a. skarga jest złożona w interesie własnym oraz publicznym. 
 
