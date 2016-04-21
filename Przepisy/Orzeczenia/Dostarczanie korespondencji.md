@@ -85,3 +85,26 @@ Organ, pomimo związania, nie ustosunkował się w toku postępowania do wniosku
 (1) *Organ mógł bowiem dokonać doręczenia za pośrednictwem poczty dopiero w razie nieotrzymania, w terminie 7 dni od dnia wysłania postanowienia za pomocą środków komunikacji elektronicznej, potwierdzenia jej doręczenia (art. 46 § 3 k.p.a.).*
 
 (2) *W aktach sprawy brak jest dowodu, że organ podjął nieskuteczną próbę doręczenia stronie postanowienia z dnia 27 marca 2013 r. drogą elektroniczną, co dopiero upoważniłoby do doręczenia postanowienia drogą pocztową. W aktach sprawy brak jest również dowodu, że organ napotkał na trudne do usunięcia problemy, które uniemożliwiały mu dostarczenie korespondencji w ten sposób (np. długotrwała awaria systemu informatycznego, brak możliwości technicznych).*
+
+#II OSK 3013/13 - Wyrok NSA z 2015-07-14
+
+[link](http://orzeczenia.nsa.gov.pl/doc/6E183908B7)
+
+##1. Opis orzeczenia
+Oddalenie skargi kasacyjnej.
+
+##2. Dlaczego jest istotne?
+Wyrok może być wykorzystany przez organy inspekcji sanitarnej gdyż uzasadnia, że doręczenie decyzji w formie papierowej jest skuteczne mimo wniosku o dostarczanie korespondencji drogą elektroniczną.
+
+ALE - Zaskarżona decyzja była z kwietnia 2013 r. więc przed wejściem w życie zmian (11 kwietnia 2014) w kpa wprowadzonych ustawą o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw.
+
+##3. Kiedy stosować?
+-
+
+##4. Przywołane treści
+
+*Odnosząc się do zarzutu naruszenia art. 135 w zw. z art. 145 § 1 pkt 1 lit. c) p.p.s.a. i w związku z art. 39¹ § 1 k.p.a. oraz art. 7, art. 8 i art. 10 § 1 k.p.a. poprzez doręczenie decyzji organu I instancji (tj. sprzeciwu wobec zamiaru wykonania montażu siatki winylowej z nadrukiem reklamowym wraz z oświetleniem ) za pośrednictwem Poczty Polskiej zamiast za pomocą środków komunikacji elektronicznej, stwierdzić należy, że Naczelny Sąd Administracyjny w składzie rozpoznającym niniejszą sprawę podziela pogląd wyrażony przez Sąd pierwszej instancji, że naruszenie art. 39¹ § 1 k.p.a. w okolicznościach tej sprawy nie miało wpływu na wynik sprawy.*
+
+*Wprawdzie organ I instancji, mimo złożonego przez pełnomocnika strony skarżącej wniosku o "doręczanie wszelkich pism wyłącznie drogą elektroniczną" (pismo z dnia 4 października 2012r. ), doręczył decyzję pełnomocnikowi strony na piśmie za pokwitowaniem przez Pocztę Polską, to jednak nie można skutecznie twierdzić – jak czyni to skarżąca Spółka – iż decyzja organu I instancji nie weszła do obrotu prawnego.*
+
+*Oceniając skuteczność doręczenia decyzji w niniejszej sprawie należy zauważyć, że doręczenie decyzji organu I instancji w formie papierowej nie spowodowało po stronie skarżącej żadnych negatywnych skutków prawnych. W szczególności - jak już wyżej wskazano - strona zachowała termin do wniesienia odwołania. W odwołaniu pełnomocnik strony wskazał datę doręczenia decyzji ( 2 listopad 2012 r.). A zatem, doręczenie przez organ decyzji na piśmie, zamiast w formie dokumentu elektronicznego za pomocą środków komunikacji elektronicznej, nie wpłynęło na możliwość działania strony i wynik sprawy.*
