@@ -147,3 +147,19 @@ zastrzeżenia takiego nie zgłosił to - stosownie do art. 162 zdanie drugie k.p
 przysługuje  jej  prawo  powoływania  się  na  takie  uchybienie  w  dalszym  toku 
 postępowania.
 ```
+
+#II FSK 954/11 - Wyrok NSA z 2013-01-18
+
+[link](http://orzeczenia.nsa.gov.pl/doc/032E1D13F3)
+
+##1. Opis orzeczenia
+......
+
+##2. Dlaczego jest istotne?
+.....
+
+##3. Kiedy stosować?
+-
+
+##4. Przywołane treści
+
