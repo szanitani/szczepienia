@@ -27,7 +27,7 @@ Jest to typowy schemat oparty o [wzory dokumentów do pobrania w sprawie szczepi
 Aby zwiększyć ilość strzałek w powyższym schemacie, czyli dodać kilkadziesiąt/kilkaset nowych dokumentów do sprawy. Aby zwiększyć liczbę urzędów podejmujących czynności w sprawie i postępowaniu. Aby pełniej bronić swoich praw i wyjaśniać żądania urzędników.
 
 ##A jak wysłać przez ePUAP jedno pismo do kilku urzędów jednocześnie?
-Obecnie nie da się zaadresowac pisma do dwóch organów (można natomiast złożyć kilka podpisow ale to inna bajka). Są na to jednak inne sposoby: 
+Można skorzystać z niedawno udostępnionej przez ePUAP opcji dodawania odbiorców pism ale są na to też inne sposoby: 
 
 - Wysyłamy pismo do organu nizszego rzędu zaadresowane tak jak niżej - w ten sposób organ będzie wiedział o tym piśmie, bo będzie musiał sam to pismo przekazać w ciągu 7 dni do organu właściwego:
 ```
