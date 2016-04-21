@@ -1,0 +1,56 @@
+#https://www.websequencediagrams.com
+
+participant Rodzice
+participant Przychodnia
+participant PIS
+participant WIS
+participant Wojewoda
+participant MZ
+participant WSA
+participant NSA
+
+Przychodnia-->Rodzice: 1. pismo przypominaj¹ce
+Przychodnia->PIS: 1a. kwartalne sprawozdanie
+
+PIS-->Rodzice: 2. pismo przypominaj¹ce
+
+PIS->Rodzice: 3. wezwanie
+Rodzice->PIS: 3a. odpowiedŸ na wezwanie
+
+PIS->Rodzice: 4. upomnienie
+Rodzice->PIS: 4a. odpowiedŸ na upomnienie
+PIS-->Wojewoda: 4b. tytu³ wykonawczy
+
+Wojewoda->Rodzice: 5. postanowienie o na³o¿eniu grzywny
+Rodzice->Wojewoda: 5.1. za¿alenie na postanowienie o na³o¿eniu grzywny
+Wojewoda-->MZ: 5.1.a przekazanie za¿alenia
+Rodzice->Wojewoda: 5.2. wniosek o wstrzymanie wykonania
+Wojewoda-->MZ: 5.2.a przekazanie wniosku
+Rodzice->Wojewoda: 5.3. zarzuty do postêpowania egzekucyjnego
+
+Wojewoda-->Rodzice: 6. postanowienie o odmowie wstrzymania
+
+Wojewoda-->Rodzice: 7. postanowienie o zawieszeniu postêpowania
+
+Wojewoda-->Rodzice: 8. pismo w sprawie stanowiska wierzyciela
+
+MZ-->Rodzice: 9. pismo  informuj¹ce o wstrzymaniu rozpatrzenia za¿alenia
+
+PIS->Rodzice: 10. postanowienie o odrzuceniu zarzutów
+
+Rodzice->WIS: 10a. za¿alenie na postanowienie
+
+WIS->Rodzice: 11. postanowienie utrzymuj¹ce w mocy postanowienie o odrzuceniu zarzutów
+Rodzice->WSA: 11a. skarga na postanowienie
+
+MZ->Rodzice: 12. postanowienie utrzymuj¹ce w mocy postanowienie nak³adaj¹ce grzywnê
+Rodzice->WSA: 12.1. skarga do WSA w Warszawie
+WSA-->Rodzice: 12.1a. wyznaczenie terminu rozprawy
+WSA->Rodzice: 12.1b. orzeczenie s¹du
+Rodzice->WSA: 12.1c. wniosek o wydanie wyroku wraz z uzasadnieniem
+WSA->Rodzice: 12.1d. wyrok wraz z uzasadnieniem
+Rodzice-->NSA: 12.1e. skarga kasacyjna w wypadku przegranej w WSA
+Rodzice->WSA: 12.2. wniosek do WSA w Warszawie o wstrzymanie wykonania postanowienia
+WSA-->Rodzice: 12.2a odpowiedŸ na wniosek
+Rodzice->WSA: 12.3. potwierdzenie op³aty s¹dowej
+Rodzice->Wojewoda: 12.4. pismo z proœb¹ o niepodejmowanie egzekucji

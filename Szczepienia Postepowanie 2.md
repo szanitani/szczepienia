@@ -10,7 +10,7 @@ Główną korzyścią jest brak zaskoczenia działaniami Organu. W normalnej syt
 
 ###3. Jak założyć konto na ePUAP?
 
-Należy przejść do serwisu [ePUAP](http://epuap.gov.pl) i postępować w/g instrukcji. Petenci posiadający własny kwalifikowany podpis elektroniczny mogą całą procedurę przeprowadzić z domu. Petenci bez podpisu kwalifikowanego będą musieli jednorazowo udać się do wskazanego urzędu aby poświadczyć swoją tożsamość celem uzyskania Profilu Zaufanego.
+Należy przejść do serwisu [ePUAP](http://epuap.gov.pl) i postępować w/g instrukcji. Petenci posiadający własny kwalifikowany podpis elektroniczny mogą całą procedurę przeprowadzić z domu. Petenci bez podpisu kwalifikowanego będą musieli jednorazowo udać się do wskazanego urzędu aby poświadczyć swoją tożsamość celem uzyskania Profilu Zaufanego. Warto zapoznać się ze świetną serią poradników ["Oswajamy e-administrację"](http://di.com.pl/tagi/oswajamy-e-administracje/), gdzie można dowiedzieć się jak korzystać z ePUAP ale również i innych e-usług dostępnych w Polsce.
 
 ###4. Czy po założeniu konta na ePUAP powinienem coś jeszcze skonfigurować?
 
@@ -58,7 +58,7 @@ To są ogólne zalecenia, dotyczą wszystkich postępowań. Bardzo łatwo przesa
 
 ###13. A czy nie jest tak, że skargi są ignorowane przez urzędy?
 
-Zgadza się, jednakże celem jest przecież przedłużanie postępowania. Warto odwlekac, przedluzac, dodawac material dowodowy oraz pisac skargi, ktore rowniez beda zawieraly material dowodowy. To pozniej powinno zostac wykorzystane w odwolaniu do WSA z art. 234 p. 2 KPA. W normalnej sytuacji organ rzeczywiście bedzie ignorowal Twoj material dowodowy - w przypadku skargi nie ma takiej mozliwosci.
+Zgadza się, jednakże celem jest przecież przedłużanie postępowania. Warto odwlekać, przedlużać, dodawać materiał dowodowy oraz pisać skargi, które również będą zawierały materiał dowodowy. To później powinno zostać wykorzystane w odwołaniu do WSA w oparciui o przepisy art. 234 p. 2 k.p.a. W normalnej sytuacji organ rzeczywiście będzie ignorował Twój materiał dowodowy - w przypadku skargi nie ma takiej mozliwości.
 
 ###14. Czy mogę coś zrobić aby zmniejszyć szansę zignorowania skargi?
 
