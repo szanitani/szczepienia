@@ -95,7 +95,8 @@ Oddalenie skargi kasacyjnej.
 
 ##2. Dlaczego jest istotne?
 Wyrok może być wykorzystany przez organy inspekcji sanitarnej gdyż uzasadnia, że doręczenie decyzji w formie papierowej jest skuteczne mimo wniosku o dostarczanie korespondencji drogą elektroniczną.
-ALE - Zaskarżona decyzja była z kwietnia 2013 r. więc przed wejściem w życie zmian (11 04 2014) w kpa wprowadzonych ustawą o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw.
+
+ALE - Zaskarżona decyzja była z kwietnia 2013 r. więc przed wejściem w życie zmian (11 kwietnia 2014) w kpa wprowadzonych ustawą o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw.
 
 ##3. Kiedy stosować?
 -
