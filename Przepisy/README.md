@@ -52,7 +52,7 @@ Nie każde orzeczenie sądowe ma jednakową moc prawną. Wśród orzeczeń Nacze
 6. W związku z powyższymi zarzutami, nie jest możliwe odniesienie się do argumentów organu, których bazą są orzeczenia NSA. W świetle powyższego uznanie przez organ przedmiotowej skargi (jeśli odpowiedź dotyczy skargi) za bezzasadną, nie jest prawidłowo uzasadnione, co narusza art. 238 par. 1 KPA.
 
 ##12. Na jakie orzeczenia powołują się organy w swoich pismach?
-Jeśli w Twoim piśmie znalazłeś orzeczenie, które nie znajduje się niniejszym repozytorium zgłoś je. Oto link do [orzeczeń przywołanych przez organy](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/przywolane_przez_organy.md). Organy zwykle przywołują treść orzeczeń, wybierając tylko te fragmenty, który im pasują. Bywa, że kawałek dalej w treści orzeczenia znajduje się coś, co całkowicie przeczy tezie organu. Zdarzało się również, że organy przywoływały orzeczenia WSA, które były później uchylane przez NSA.
+Jeśli w Twoim piśmie znalazłeś orzeczenie, które nie znajduje się niniejszym repozytorium zgłoś je. Oto link do [orzeczeń przywołanych przez organy](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/przywolane_przez_organy.md). Organy zwykle przywołują treść orzeczeń, wybierając tylko te fragmenty, który im pasują. Bywa, że kawałek dalej w treści orzeczenia znajduje się coś, co całkowicie przeczy tezie organu. Zdarzało się również, że organy przywoływały orzeczenia WSA, które były później uchylane przez NSA. Zawsze warto czytać treść przywoaanych orzeczeń.
 
 ##13. Gdzie znajdę orzeczenia przydatne w sprawach pełnomocnictw?
 Zdarza się, że organy kwestionują pełnomocnictwo złożone w sposób elektroniczny. Tutaj są [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md).
@@ -71,3 +71,24 @@ Bywa, że organ wzywa stronę do stawienia się w swojej siedzibie. Spotkania te
 
 ##18. A orzeczenia w innych grupach spraw np. upomnienia, zażalenia, skargi?
 Strukturę trzeba opracować, orzeczenia dodać i poopisywać. Zobaczymy co z tego wyjdzie.
+
+##19. Indeks sygnatur orzeczeń.
+- [I OSK 1750/10 - Wyrok NSA z 2011-02-08](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
+- [I OSK 654/11 - Wyrok NSA 2012-04-25](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
+- [I SA/Wr 703/13 - Wyrok WSA we Wrocławiu z 2013-10-10](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
+- [II FPS 8/09 - Uchwała NSA z 2010-02-15](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/postepowanie_egzekucyjne.md)
+- [II GSK 1197/14 - Postanowienie NSA 2014-06-04](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
+- [II OSK 2445/10 - Wyrok NSA z 2012-03-02](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/postepowanie_egzekucyjne.md)
+- [II OSK 3013/13 - Wyrok NSA z 2015-07-14](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
+- [II OSK 460/10 - Wyrok NSA z 2011-04-05](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/wezwanie do osobistego stawiennictwa.md)
+- [II OSK 948/10 - Postanowienie NSA z dnia 2010-08-20](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
+- [II SA/Go 255/15 - Wyrok WSA w Gorzowie Wlkp. z 2015-06-10](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
+- [II SA/Go 43/13 - Wyrok WSA w Gorzowie Wlkp. z 2013-02-28](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
+- [II SA/Ke 452/10 - Wyrok WSA w Kielcach 2010-11-26](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/postepowanie_egzekucyjne.md)
+- [II SA/Ol 158/14 - Wyrok WSA w Olsztynie z 2014-04-02](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
+- [II SA/Ol 893/11 - Wyrok WSA w Olsztynie z 2011-12-13](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
+- [IV SA/Po 901/14 - Wyrok WSA w Poznaniu 2015-04-23](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
+- [II SA/Sz 1223/11 - Wyrok WSA w Szczecinie z 2012-02-01](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
+- [IV SA/Wa 1616/05 - Wyrok WSA w Warszawie z 2006-03-27](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
+- [II SA/Wr 844/11 - Wyrok WSA we Wrocławiu z 2012-02-23](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
+- [Wyrok Sądu Najwyższego 10 października 2013 r. (sygn. II UK 104/13)](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)

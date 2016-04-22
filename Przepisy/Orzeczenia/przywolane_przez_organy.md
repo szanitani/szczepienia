@@ -1,15 +1,15 @@
-#WZÓR - tutaj sygnatura aktu prawnego
+#WZÃ“R - tutaj sygnatura aktu prawnego
 
 ##1. Opis orzeczenia
-Tutaj krótko opis orzeczenia w zakresie istotnym dla spraw zwi¹zanych ze szczepieniami.
+Tutaj krÃ³tko opis orzeczenia w zakresie istotnym dla spraw zwiÄ…zanych ze szczepieniami.
 
 ##2. Dlaczego jest istotne?
-Wyjaœnienie istotnoœci tezy z p. 1 w kontekœcie postêpowañ w sprawach szczepieñ.
+WyjaÅ›nienie istotnoÅ›ci tezy z p. 1 w kontekÅ›cie postÄ™powaÅ„ w sprawach szczepieÅ„.
 
-##3. Kiedy stosowaæ?
-Kiedy stosowaæ przywo³anie na t¹ treœæ.
+##3. Kiedy stosowaÄ‡?
+Kiedy stosowaÄ‡ przywoÅ‚anie na tÄ… treÅ›Ä‡.
 
-##4. Przywo³ane treœci.
+##4. PrzywoÅ‚ane treÅ›ci.
 ```
-Cytat z treœci orzeczenia s¹du.
+Cytat z treÅ›ci orzeczenia sÄ…du.
 ```
