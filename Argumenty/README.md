@@ -3,3 +3,5 @@
 ##Zawartość
 
 1. Komentarz do materiału wykorzystywanego przez Inspekcję Sanitarną, wraz z pytaniami w [formie materiału dowodowego w rozumieniu KPA](https://github.com/szanitani/szczepienia/blob/master/Argumenty/szczepienia%20za%20i%20przeciw/README.md).
+
+1. [Argumenty do zastosowania w sytuacjach gdy organy przywołują w swoich pismach określone przepisy](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne.md).
