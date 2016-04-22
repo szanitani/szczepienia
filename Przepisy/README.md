@@ -91,4 +91,4 @@ Strukturę trzeba opracować, orzeczenia dodać i poopisywać. Zobaczymy co z te
 - [II SA/Sz 1223/11 - Wyrok WSA w Szczecinie z 2012-02-01](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
 - [IV SA/Wa 1616/05 - Wyrok WSA w Warszawie z 2006-03-27](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [II SA/Wr 844/11 - Wyrok WSA we Wrocławiu z 2012-02-23](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
-- [Wyrok Sądu Najwyższego 10 października 2013 r. (sygn. II UK 104/13)](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
+- [Wyrok Sądu Najwyższego z 10 października 2013 r. (sygn. II UK 104/13)](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)

@@ -71,7 +71,7 @@ Obowiązek ten obciąża organ z urzędu, a jego bierność stanowi naruszenie p
 postępowania miało miejsce.
 ```
 
-#Wyrok Sądu Najwyższego 10 października 2013 r. (sygn. II UK 104/13)
+#Wyrok Sądu Najwyższego z 10 października 2013 r. (sygn. II UK 104/13)
 
 ##1. Opis orzeczenia
 Czym innym jest nienależyte umocowanie pełnomocnika a a czym innym nienależyte wykazanie pełnomocnictwa.
