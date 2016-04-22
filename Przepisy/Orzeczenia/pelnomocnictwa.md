@@ -148,7 +148,7 @@ przysługuje  jej  prawo  powoływania  się  na  takie  uchybienie  w  dalszym 
 postępowania.
 ```
 
-#I SA/Gd 859/10 - Wyrok WSA z 2011-11-16
+#II SA/Gd 170/14 - Wyrok WSA z 2014-11-13
 
 [link](http://orzeczenia.nsa.gov.pl/doc/1C86977E91)
 
@@ -163,7 +163,7 @@ postępowania.
 
 ##4. Przywołane treści
 
-*Przedstawione powyżej uwagi o charakterze ogólnym prowadzą do wniosku, że dopiero po skutecznym wszczęciu czynności egzekucyjnych zobowiązany może ustanowić pełnomocnika w tym postępowaniu. Wcześniejsze czynności podejmowane przez wierzyciela oraz organ egzekucyjny (art. 15 ust. 1, art. 26 § 1 i art. 29 § 1 u.p.e.a.) poprzedzają dopiero wszczęcie egzekucji administracyjnej. Na tym etapie ustanowienie pełnomocnika przez zobowiązanego nie jest możliwe. Nie została bowiem wszczęta egzekucja administracyjna, do której wszczęcia w sposób przewidziany w art. 26 § 5 pkt 1 lub 2 u.p.e.a. w ogóle nie musi dojść (np. wcześniejsza zapłata należności pieniężnej na skutek doręczenia upomnienia). W takiej sytuacji adresatem odpisu tytułu wykonawczego (art. 26 § 5 pkt 1 u.p.e.a.) jest zobowiązany wskazany przez wierzyciela w tytule wykonawczym (art. 27 pkt 2 u.p.e.a. oraz art. 40 § 1 k.p.a. w związku z art. 18 u.p.e.a.).*
+*W judykaturze sformułowano dwa odmienne poglądów co do możliwości doręczenia upomnienia i tytułu wykonawczego pełnomocnikowi strony. Pierwszy pogląd odwołuje się do treści art. 18 p.e.a. i wyjaśnia, że skoro przepis ten stanowi podstawę do stosowania w postępowaniu egzekucyjnym przepisów Kodeksu postępowania administracyjnego w zakresie ustanawiania pełnomocnika i doręczania mu pism zgodnie z art. 32 oraz art. 40 § 2 k.p.a., to organ ma obowiązek doręczyć upomnienie lub tytuł wykonawczy temu pełnomocnikowi. Od chwili bowiem ustanowienia pełnomocnika strona działa za jego pośrednictwem i wszelkie pisma doręcza się pełnomocnikowi, a nie stronie (por. m. in. wyroki Naczelnego Sądu Administracyjnego: z dnia 26 lipca 2013 r., sygn. akt II OSK 704/12; z dnia 11 września 2007 r., sygn. akt II FSK 996/06; z dnia 30 lipca 2008 r., sygn. akt II OSK 1197/07; z dnia 24 lutego 2009 r., sygn. akt II OSK 209/08, Centralna Baza Orzeczeń Sądów Administracyjnych, http://orzeczenia.gov.pl). Według drugiego z nich, możliwość ustanowienia pełnomocnika w postępowaniu egzekucyjnym jest ograniczona i nie obejmuje możliwości doręczenia do rąk pełnomocnika upomnienia oraz tytułu wykonawczego, bowiem jest to czynność relacji wierzyciel – zobowiązany. Akcentuje się przy tym, że postępowanie egzekucyjne wszczyna się z chwilą doręczenia zobowiązanemu odpisu tytułu wykonawczego, jak o tym mowa w art. 26 § 5 pkt 1 p.e.a. (zob. m. in. wyroki Naczelnego Sądu Administracyjnego: z dnia 23 października 2013 r., sygn. akt II FSK 2782/11; z dnia 23 grudnia 2008 r., sygn. akt II FSK 1483/07; z dnia 11 maja 2007 r., sygn. akt II FSK 365/06, dostępne w CBOSA). Dodaje się, że dopiero po skutecznym wszczęciu czynności egzekucyjnych, zobowiązany może ustanowić pełnomocnika w tym postępowaniu. Wcześniejsze czynności podejmowane przez wierzyciela oraz organ egzekucyjny (art. 15 § 1, art. 26 § 1 i art. 29 § 1 p.e.a.), poprzedzają dopiero wszczęcie egzekucji administracyjnej. Na tym etapie ustanowienie pełnomocnika przez zobowiązanego nie jest możliwe. Nie została bowiem wszczęta egzekucja administracyjna, do której wszczęcia w sposób przewidziany w art. 26 § 5 pkt 1 lub 2 p.e.a. w ogóle nie musi dojść*
 
 #II FSK 954/11 - Wyrok NSA z 2013-01-18
 
