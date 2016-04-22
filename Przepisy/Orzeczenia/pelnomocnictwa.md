@@ -147,3 +147,43 @@ zastrzeżenia takiego nie zgłosił to - stosownie do art. 162 zdanie drugie k.p
 przysługuje  jej  prawo  powoływania  się  na  takie  uchybienie  w  dalszym  toku 
 postępowania.
 ```
+
+#I SA/Gd 859/10 - Wyrok WSA z 2011-11-16
+
+[link](http://orzeczenia.nsa.gov.pl/doc/1C86977E91)
+
+##1. Opis orzeczenia
+......
+
+##2. Dlaczego jest istotne?
+.....
+
+##3. Kiedy stosować?
+-
+
+##4. Przywołane treści
+
+*Z kolei istotne z punktu widzenia powstałego sporu obowiązki w zakresie doręczeń zostały uregulowane w art. 39–49 k.p.a. Zgodnie z tymi regulacjami obowiązek doręczania pism pełnomocnikowi zobowiązanego dotyczy pełnomocnika ustanowionego w sprawie (art. 40 § 2 k.p.a.). Pełnomocnictwo winno być udzielone na piśmie bądź zgłoszone do protokołu, zaś pełnomocnik zobowiązany jest dołączyć do akt oryginał lub urzędowy poświadczony odpis pełnomocnictwa (art. 33 § 2 i 3 k.p.a.). Jak podnosi się w literaturze (por. J. Borkowski [w:] B. Adamiak, J., Borkowski, Kodeks postępowania administracyjnego. Komentarz, wyd. 8, Warszawa 2006, s. 268), przepis art. 33 § 3 k.p.a. wyraźnie stanowi, że chodzi o akta sprawy, nie zaś o akta dowolnej sprawy prowadzonej wcześniej przez organ. Tym samym pełnomocnictwo złożone do akt sprawy innej nie może wywoływać skutku w postaci zobligowania organu do dokonywania doręczeń na adres pełnomocnika tym pełnomocnictwem ustanowionego.*
+
+*Z powołanych wyżej przepisów popartych poglądami doktryny wynika, że organ egzekucyjny musi zostać zawiadomiony o fakcie ustanowienia pełnomocnika w danej, konkretnej sprawie (pełnomocnictwo ma być złożone do akt). Faktu istnienia pełnomocnictwa organ administracji (egzekucyjny) nie może domniemywać. Dopiero od momentu zawiadomienia organ administracyjny (egzekucyjny) jest zobligowany doręczać pisma ustanowionemu w sprawie pełnomocnikowi i zapewnić mu taki udział w postępowaniu, jak stronie tego postępowania (w tym przypadku chodzi o odpowiednie uprawnienia zobowiązanego).*
+
+*Przedstawione powyżej uwagi o charakterze ogólnym prowadzą do wniosku, że dopiero po skutecznym wszczęciu czynności egzekucyjnych zobowiązany może ustanowić pełnomocnika w tym postępowaniu. Wcześniejsze czynności podejmowane przez wierzyciela oraz organ egzekucyjny (art. 15 ust. 1, art. 26 § 1 i art. 29 § 1 u.p.e.a.) poprzedzają dopiero wszczęcie egzekucji administracyjnej. Na tym etapie ustanowienie pełnomocnika przez zobowiązanego nie jest możliwe. Nie została bowiem wszczęta egzekucja administracyjna, do której wszczęcia w sposób przewidziany w art. 26 § 5 pkt 1 lub 2 u.p.e.a. w ogóle nie musi dojść (np. wcześniejsza zapłata należności pieniężnej na skutek doręczenia upomnienia). W takiej sytuacji adresatem odpisu tytułu wykonawczego (art. 26 § 5 pkt 1 u.p.e.a.) jest zobowiązany wskazany przez wierzyciela w tytule wykonawczym (art. 27 pkt 2 u.p.e.a. oraz art. 40 § 1 k.p.a. w związku z art. 18 u.p.e.a.).*
+
+#II FSK 954/11 - Wyrok NSA z 2013-01-18
+
+[link](http://orzeczenia.nsa.gov.pl/doc/032E1D13F3)
+
+##1. Opis orzeczenia
+......
+
+##2. Dlaczego jest istotne?
+.....
+
+##3. Kiedy stosować?
+-
+
+##4. Przywołane treści
+*Niewątpliwie rację ma skarga kasacyjna, o ile skarżąca wywodzi, że zgodnie z art. 32 k.p.a., który ma zastosowanie w postępowaniu egzekucyjnym z mocy art. 18 u.p.e.a. - "strona może działać przez pełnomocnika, chyba że charakter czynności wymaga jej osobistego działania". Jednak na tę drugą część przepisu powołuje się skarżąca w sprawie. Czynności wymagające osobistego udziału stron a nie jej pełnomocnika są albo wprost wskazane w przepisach prawa, np. w art. 110c § 2 u.p.e.a., albo muszą być wyinterpretowane wprost z przepisów prawa. Za takie czynności niewątpliwie uznać należy np. skierowanie do zobowiązanego wezwania, jeżeli organ administracji publicznej tak postanowi (art. 50 § 1 k.p.a. w zw. z art. 18 u.p.e.a.). Wezwanie może bowiem także nastąpić za pośrednictwem pełnomocnika. Innym przykładem czynności niezastępowalnej jest przesłuchanie strony (art. 86 k.p.a. w zw. z art. 18 u.p.e.a.). Niewątpliwie nie jest czynnością niezastępowalną – co trafnie podnosi się w skardze kasacyjnej – doręczenie wyłącznie zobowiązanemu tytułów wykonawczych. Mogą one być doręczone także pełnomocnikowi, ale tylko wówczas, gdy taki pełnomocnik zgłosi się do postępowania egzekucyjnego konkretnie oznaczonego, przed wysłaniem przez organ egzekucyjny tytułów wykonawczych zobowiązanemu. Praktycznie rzecz biorąc jest to jednak mało prawdopodobne (tak NSA w wyroku z dnia 11 września 2007 r., II FSK 990/06, Lex nr 440661). W wyroku tym Sąd stwierdził, że z przepisów art. 32 i art. 40 § 2 k.p.a. w zw. z art. 18 u.p.e.a. wyprowadzić należy wniosek co do możliwości pełnej reprezentacji zobowiązanego przez pełnomocnika w postępowaniu egzekucyjnym w administracji, w tym również w zakresie doręczenia tytułu wykonawczego. Naczelny Sąd Administracyjny w niniejszym składzie pogląd ten akceptuje.*
+
+*Z art. 40 § 2 k.p.a. w zw. z art. 18 u.p.e.a. wynika konsekwencja z art. 32 k.p.a., że "jeżeli strona ustanowiła pełnomocnika, pisma doręcza się pełnomocnikowi. Jeżeli ustanowiono kilku pełnomocników, doręcza się pisma tylko jednemu pełnomocnikowi. Strona może wskazać takiego pełnomocnika". Rzecz jednak w tym, że warunkiem sine qua non jego zastosowania jest ustanowienie i to ustanowienie skuteczne pełnomocnika. Skuteczne ustanowienie pełnomocnika następuje wówczas, gdy dochodzi zgodnie z art. 33 § 3 k.p.a. w zw. z art. 28 u.p.e.a. do dołączenia do akt oryginału lub urzędowo poświadczonego odpisu pełnomocnictwa. Wówczas to bowiem organ uzyskuje wiadomość, że strona tego pełnomocnika ustanowiła. Oczywiście przepis ten nie może być rozumiany dosłownie bo strona ma niewielki wpływ na dołączenie pełnomocnictwa do akt, ale ma zasadniczy wpływ na to, by w pełnomocnictwie wskazać sprawę, w której ustanawia pełnomocnika, czy to poprzez powołanie się na jej numer, sygnaturę lub też poprzez zamieszczenie jej opisu (wyrok WSA w Gdańsku z dnia 15 stycznia 2012 r., I SA/Gd 914/07, Lex nr 469803, wyrok WSA w Lublinie z dnia 10 stycznia 2012 r., II SAB/Lu 56/11, Lex nr 112634, wyrok NSA z dnia 15 stycznia 2009 r., II FSK 2431/07, POP 2009, nr 5, s. 468-469). Dopiero od tej czynności organ egzekucyjny (podatkowy) jest poinformowany o ustanowieniu pełnomocnika i zobowiązany do doręczenia pism temu pełnomocnikowi.*
+
