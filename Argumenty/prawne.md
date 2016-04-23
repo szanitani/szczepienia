@@ -37,3 +37,8 @@ Warto złożyć skargę do organu nadrzędnego. Poniższy przykład dotyczy pró
 ##Treść do wykorzystania.
 W związku z przywołaniem przez organ przepisów art. 38 ust. 1 u.p.i.s. zarzucam organowi stosowanie groźby bezprawnej w zakresie kary aresztu, kary ograniczenia wolności lub kary grzywny.
 Uznaję, że organ usiłuje wymuszać na mnie, bez wskazania podstawy prawnej i uzasadnienia, przekazania określonych informacji mogących stanowić dane wrażliwe w rozumieniu przepisów u.o.d.o. naruszając tym samym przepisy karne tej ustawy. 
+
+#Organ odnosi się do podpisanej przez nas odmowy wykonania szczepień
+
+##Treść do wykorzystania.
+Strona zwraca uwagę, że wspomniany formularz odmowy nie jest załacznikiem do żadnego rozporządzenia, a sama deklaracja odmowy nie ma umocowania prawnegow świetle przepisów, które w odniesieniu do świadczeń medycznych zakładają wydawanie zgody. Strona raktuje zatem dokument, do którego odnosi się Organ jako oświadczenie woli, które może być zmienione lub sprecyzowane w dowolnej chwili. Strona informuje, że nie odmawia wykonania szczepień ochronnych, a powyższe stanowisko przyjmuje jako oświadczenie woli w rozumieniu art. 60 Kodeksu Cywilnego zatem Organ dysponuje wiedzą w rozumieniu art. 61 Kodeksu Cywilnego. W związku z powyższym oświadczeniem Strona nie znajduję dalszych przesłanek prowadzenia postępowania.
