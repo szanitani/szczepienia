@@ -1,0 +1,7 @@
+#Organ odnosi się do podpisanej przez nas odmowy wykonania szczepień
+
+##Co warto zrobić?
+Bywa, że organy przywołują jako uzasadnienie swoich działań dokumenty odmowy albo szczepień albo badania kwalifikacyjnego. Odmowa szczepień zwykle dotyczy dokumentów podpisywanych w szpitalu przy porodzie albo wymuszonych przez przychodnię później. Generalnie nie ma podstawy prawnej do podpisywania takich dokumentów, jednakże niejednokrotnie rodzice są na tyle przestraszeni i nie znają swoich praw, że po prostu podpisują co im się podsunie. Rodzi to później określone kłopoty. Czasami, jak wskazano poniżej warto się odnieść do tego, że organ nie ma podstawy prawnej do traktowania wspomnianego dokumentu jako dokumentu urzędowego a jedynie jako oświadczenie woli strony (które można zmienić w dowolnym momencie).
+
+##Treść do wykorzystania.
+Strona zwraca uwagę, że wspomniany formularz odmowy nie jest załacznikiem do żadnego rozporządzenia, a sama deklaracja odmowy nie ma umocowania prawnegow świetle przepisów, które w odniesieniu do świadczeń medycznych zakładają wydawanie zgody. Strona raktuje zatem dokument, do którego odnosi się Organ jako oświadczenie woli, które może być zmienione lub sprecyzowane w dowolnej chwili. Strona informuje, że nie odmawia wykonania szczepień ochronnych, a powyższe stanowisko przyjmuje jako oświadczenie woli w rozumieniu art. 60 Kodeksu Cywilnego zatem Organ dysponuje wiedzą w rozumieniu art. 61 Kodeksu Cywilnego. W związku z powyższym oświadczeniem Strona nie znajduję dalszych przesłanek prowadzenia postępowania.
