@@ -18,6 +18,8 @@
 ##Części wspólne pism
 Ilekroć w instrukcji do pisma jest wskazane aby wysyłać je "*jak najszybciej*", oznacza to oczywiście wysyłanie pisma w ostatnim dniu wymaganego terminu. Tam gdzie wspomina się o "*stosownej skardze*" lub "*dochodzeniu swoich praw*" warto posiłkować się [tymi zaleceniami](http://forumprawne.org/prawo-administracyjne/301849-jak-pisac-skuteczne-pisma-do-urzedu-poradnik.html).
 
+Ilekroć w instrukcji adresatem jest Wojewoda jest nim w istocie Organ Egzekucyjny. W kilku województwach Wojewodowie podpisali umowy z WIS i wtedy organem egzekucyjnym jest WIS. Podstawa prawna dla tej czynności jest kwestionowana między innymi w sławetnej opinii Biura Analiz Sejmowych - szczegóły we wzorach dokumentów Stop NOP.
+
 ##Jak wygląda ścieżka tradycyjna?
 Jest to typowy schemat oparty o [wzory dokumentów do pobrania w sprawie szczepień ze strony pisma.szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/) w zakresie postępowania administracyjnego w związku z nałożeniem grzywny na rodziców. Ten schemat wygląda tak jak poniżej. Numeracja jest zgodna z kolejnymi czynnościami. Linie przerywane oznaczają dokumenty informacyjne:
 
