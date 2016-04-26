@@ -14,9 +14,13 @@
 10. [Pismo do GIODO](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo%20do%20giodo.md), dokument możliwy do wysłania po dopasowaniu do swojego stanu faktycznego.
 11. [Skarga do NIK](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/skarga%20do%20nik.md), gdy organ wysyła pisma papierowe zamiast dokumentów elektronicznych.
 12. [Skarga do MSWiA](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/skarga%20na%20odmowe%20ePUAP.md), gdy organ organ odmawia komunikacji lub prowadzenia sprawy przez ePUAP.
+13. [Wniosek o zawieszenie postępowania](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek%20o%20zawieszenie.md), gdy wysłaliśmy pismo do innego organu (np. GIODO) i chcemy aby przedmiotowe postępowanie zostało zawieszone.
+14. [Sprzeciw wobec przekazywania danych osobowych](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/sprzeciw%20dane%20osobowe.md), dokument wysyłany do PIS lub przychodni przed wysłaniem skargi do GIODO.
 
 ##Części wspólne pism
 Ilekroć w instrukcji do pisma jest wskazane aby wysyłać je "*jak najszybciej*", oznacza to oczywiście wysyłanie pisma w ostatnim dniu wymaganego terminu. Tam gdzie wspomina się o "*stosownej skardze*" lub "*dochodzeniu swoich praw*" warto posiłkować się [tymi zaleceniami](http://forumprawne.org/prawo-administracyjne/301849-jak-pisac-skuteczne-pisma-do-urzedu-poradnik.html).
+
+Ilekroć w instrukcji adresatem jest Wojewoda jest nim w istocie Organ Egzekucyjny. W kilku województwach Wojewodowie podpisali umowy z WIS i wtedy organem egzekucyjnym jest WIS. Podstawa prawna dla tej czynności jest kwestionowana między innymi w sławetnej opinii Biura Analiz Sejmowych - szczegóły we wzorach dokumentów Stop NOP.
 
 ##Jak wygląda ścieżka tradycyjna?
 Jest to typowy schemat oparty o [wzory dokumentów do pobrania w sprawie szczepień ze strony pisma.szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/) w zakresie postępowania administracyjnego w związku z nałożeniem grzywny na rodziców. Ten schemat wygląda tak jak poniżej. Numeracja jest zgodna z kolejnymi czynnościami. Linie przerywane oznaczają dokumenty informacyjne:
