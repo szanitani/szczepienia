@@ -27,3 +27,18 @@
 
 
 ##4. Przywołane treści.
+
+#IV SA/Po 1282/14 - Wyrok WSA w Poznaniu z 2015-04-15
+[link](http://orzeczenia.nsa.gov.pl/doc/FA1D05C7B3)
+
+##1. Opis orzeczenia
+
+##2. Dlaczego jest istotne?
+
+
+##3. Kiedy stosować?
+
+
+##4. Przywołane treści.
+
+
