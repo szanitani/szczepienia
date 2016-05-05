@@ -32,7 +32,7 @@
 [link](http://orzeczenia.nsa.gov.pl/doc/FA1D05C7B3)
 
 ##1. Opis orzeczenia
-Uchylenie postanowienia 
+Uchylenie postanowienia ws. zarzutów w postępowaniu egzekucyjnym 
 
 ##2. Dlaczego jest istotne?
 
@@ -42,5 +42,7 @@ Uchylenie postanowienia
 
 ##4. Przywołane treści.
 
-'''Podsumowując dotychczasowe rozważania wskazać należy, że przedmiotowe postępowanie egzekucyjne było prowadzone przez organ niewłaściwy – powiatowego inspektora sanitarnego, a nie wojewodę, posiadającego ogólną właściwość do jego prowadzenia.'''
+```
+Podsumowując dotychczasowe rozważania wskazać należy, że przedmiotowe postępowanie egzekucyjne było prowadzone przez organ niewłaściwy – powiatowego inspektora sanitarnego, a nie wojewodę, posiadającego ogólną właściwość do jego prowadzenia.
+```
 
