@@ -19,10 +19,9 @@ Może się okazać, że PPIS nie udzieli informacji dot. małżonka ze względu 
                                                                 PPIS
                                                                 <adres>
 
-Wasz znak: <znak sprawy>
 
 WNIOSEK
-Na podstawie art. 9 k.p.a., w związku z art. 33 Ustawy o ochronie danych osobowych wnoszę o wyczerpujące udzielenie mi informacji wynikających z art. 32 u.o.d.o. o dotyczących wszystkich członków mojej rodziny tj.<imiona, nazwiska>.
+Na podstawie art. 9 k.p.a., w związku z art. 33 Ustawy o ochronie danych osobowych wnoszę o wyczerpujące udzielenie mi informacji wynikających z art. 32 u.o.d.o. dotyczących wszystkich członków mojej rodziny tj.<imiona, nazwiska>.
 
 z poważaniem
 <imię, nazwisko>
