@@ -1,5 +1,5 @@
 ##Kogo dotyczy to pismo?
-Dokument należy wysłać do Powatowej Inspekcji Sanitarnej w celu sprawdzenia przetwarzanych przez Inspekcję danych osobowych. 
+Dokument należy wysłać do Powatowej Inspekcji Sanitarnej w celu weryfikacji przetwarzanych przez Inspekcję danych osobowych. 
 
 ##Czy na dalszym etapie postępowania również warto wysłać to pismo?
 Tak! Póki sprawa nie doszła do Sądu Administracyjnego to warto.
