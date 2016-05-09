@@ -6,7 +6,8 @@ Tak! Póki sprawa nie doszła do Sądu Administracyjnego to warto.
 
 ##Jakie są dalsze kroki?
 Porównać uzyskane informacje z danymi znajdującymi sie w e-GIODO [link](https://egiodo.giodo.gov.pl/index.dhtml) i znalezione uchybienia wykorzystać w skardze do GIODO lub we wniosku o ponowne rozpatrzenie sprawy.
-Może się okazać, że PPIS nie udzieli informacji dot. małżonka ze względu na brak umocowania w pełnomocnictwie do wystąpienia z takim wnioskiem.
+
+Może się okazać, że PPIS nie udzieli informacji dot. małżonka ze względu na brak umocowania w pełnomocnictwie do wystąpienia z takim wnioskiem. Wniosek taki wysyła małżonek lub zmieniamy pełnomocnictwo.
 
 ##Treść pisma:
 
