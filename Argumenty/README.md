@@ -23,6 +23,8 @@
 17. [Organ inaczej określa treść obowiązku w wezwaniu, upomnieniu, tytule wykonawczym](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_017.md)
 18. [Organ wyznacza zobowiązanemu miejsce realizacji szczepień](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_018.md)
 19. [Organ uznaje się za "wierzyciela" w postępowaniu egzekucyjnym](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_019.md)
+20. [Organ wyznacza zobowiązanemu termin realizacji szczepień](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_020.md)
+21. [Organ egzekucyjny prowadzi postępowanie, strona uznaje je za bezprzedmiotowe](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_021.md)
 
 ##Gdy wyczerpie się ścieżka postępowania administracyjnego - gwarantowana wygrana.
 
