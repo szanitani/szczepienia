@@ -1,5 +1,6 @@
 ##Kogo dotyczy to pismo?
-Dokument należy wysłać jak najszybciej po otrzymaniu z PPIS pisma, w którym Organ grozi wszczęciem procedury egzekucyjnej w oparciu o u.p.e.a.
+1. Dokument należy wysłać jak najszybciej po otrzymaniu z PPIS pisma, w którym Organ grozi wszczęciem procedury egzekucyjnej w oparciu o u.p.e.a.
+2. Analogiczne pismo należy wysłać do organu egzekucyjnego (Wojewoda zwykle) po wszczęciu postępowania egzekucyjnego.
 
 ##Czy na dalszym etapie postępowania również warto wysłać to pismo?
 Tak! Odpowiedź Organu jest istotna dla sprawy, bo trudno będzie później Organowi zmienić swoje stanowisko (co oczywiście nie jest niemożliwe).
@@ -9,6 +10,9 @@ Można dopasować treść Uzasadnienia do swoich potrzeb.
 
 ##Jakie są dalsze kroki?
 Czekać na odpowiedź organu. Brak odpowiedzi w ustawowym terminie powinien uruchomić procedurę odwoławczą. Odpowiedź wymijająca lub niepełna - uruchomić procedurę wymuszająca na Organie sprecyzowanie stanowiska ze wskazaniem podstawy prawnej oraz obowiązku. Zawsze każdą odpowiedź organu należy przekazać na forum, a docelowo warto dodać do tego repozytorium.
+
+##Co zrobić gdy organ egzekucyjny nie odpowie precyzyjnie na zadane pytanie?
+W skardze do WSA podkreślić, że pytanie dotyczyło dat zastosowanych środków egzekucyjnych, gdyż mają one wpływ na obliczenie biegu terminu przedawnienia zobowiązania podatkowego, a więc bezpośrednio wpływają na to czy wierzyciel ma jeszcze prawo, a zatem i obowiązek dochodzić zobowiązania w trybie egzekucji administracyjnej, bo jeśli zobowiązanie wygasło wskutek przedawnienia organy uznający się za wierzyciela jak i egzekucyjny będą odpowiedzialne za ewentualną szkodę jaką zobowiązany poniesie wskutek dochodzenia przedawnionego obowiązku.
 
 ##Treść pisma:
 ```
