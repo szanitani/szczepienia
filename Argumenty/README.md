@@ -25,6 +25,11 @@
 19. [Organ uznaje się za "wierzyciela" w postępowaniu egzekucyjnym](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_019.md)
 20. [Organ wyznacza zobowiązanemu termin realizacji szczepień](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_020.md)
 21. [Organ egzekucyjny prowadzi postępowanie, strona uznaje je za bezprzedmiotowe](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_021.md)
+22. [Organ będący wierzycielem nie odnosi się do wszystkich zarzutów strony](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_022.md)
+23. [Organ będący wierzycielem wydaje postanowienie w sprawie zarzutów, po czym to postanowienie z jakichś względów jest uchylone](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_023.md)
+24. [Organ odrzuca zarzut nieistnienia obowiązku w postępowaniu egzekucyjnym](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_024.md)
+25. [Organ stosuje w pismach pokraczne analogie odnoszące się do merytoryki szczepień, byle tylko uzasadnić swoją rację](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_025.md)
+26. [Organ egzekucyjny ustala wysokość grzywny bez uzasadnienia](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_026.md)
 
 ##Gdy wyczerpie się ścieżka postępowania administracyjnego - gwarantowana wygrana.
 
