@@ -16,8 +16,8 @@
 12. [Skarga do MSWiA](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/skarga%20na%20odmowe%20ePUAP.md), gdy organ organ odmawia komunikacji lub prowadzenia sprawy przez ePUAP.
 13. [Wniosek o zawieszenie postępowania](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek%20o%20zawieszenie.md), gdy wysłaliśmy pismo do innego organu (np. GIODO) i chcemy aby przedmiotowe postępowanie zostało zawieszone.
 14. [Sprzeciw wobec przekazywania danych osobowych](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/sprzeciw%20dane%20osobowe.md), dokument wysyłany do PIS lub przychodni przed wysłaniem skargi do GIODO.
-15. [Wniosek o informacje dot. przetwarzanych danych osobowych](https://github.com/bronzo77/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_dane_osobowe.md), dokument wysyłany do PPIS przed złożeniem skargi do GIODO. 
-16. [Pismo do przychodni/lekarza](https://github.com/bronzo77/szczepienia/blob/master/Sciezki%20alternatywne/pismo_przychodnia_01.md), dokumenty przekazywane przed realizacją badania kwalifikacyjnego. 
+15. [Wniosek o informacje dot. przetwarzanych danych osobowych](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_dane_osobowe.md), dokument wysyłany do PPIS przed złożeniem skargi do GIODO. 
+16. [Pismo do przychodni/lekarza](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo_przychodnia_01.md), dokumenty przekazywane przed realizacją badania kwalifikacyjnego. 
 
 ##Części wspólne pism
 Ilekroć w instrukcji do pisma jest wskazane aby wysyłać je "*jak najszybciej*", oznacza to oczywiście wysyłanie pisma w ostatnim dniu wymaganego terminu. Tam gdzie wspomina się o "*stosownej skardze*" lub "*dochodzeniu swoich praw*" warto posiłkować się [tymi zaleceniami](http://forumprawne.org/prawo-administracyjne/301849-jak-pisac-skuteczne-pisma-do-urzedu-poradnik.html).
