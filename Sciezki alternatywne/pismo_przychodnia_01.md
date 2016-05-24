@@ -1,10 +1,12 @@
 #Pismo do przychodni/lekarza, dokumenty przekazywane przed realizacją badania kwalifikacyjnego
+<!--
 <style>
 table {
    width:100%;
    border: 2px solid gray;
 }
 </style>
+-->
 
 ##Jaki jest stan tego pisma?
 W trakcie prac. Można korzystać już teraz, a kolejne wersje wysyłać ewentualnie jako uzupełnienia.
