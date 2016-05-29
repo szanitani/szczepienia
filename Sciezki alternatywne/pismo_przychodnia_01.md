@@ -1,4 +1,4 @@
-#Pismo do przychodni/lekarza, dokumenty przekazywane przed realizacją badania kwalifikacyjnego
+#Pismo do lekarza, który żąda potwierdzenia poinformowania pacjenta o wszystkich skutkach i bezpieczeństwie szczepień
 <!--
 <style>
 table {
@@ -13,7 +13,8 @@ W trakcie prac. Można korzystać już teraz, a kolejne wersje wysyłać ewentua
 
 ##Kogo dotyczy to pismo?
 1. Osób, które mają do wykonania badanie kwalifikacyjne przed szczepieniem ochronnym w trybie art. 17 ust. 2 u.z.z. 
-2. Inne osoby, które w jakiś sposób chcą się zabezpieczyć przed lekkomyślnym działaniem świadczeniodawcy usług medycznych.
+2. Osób, które otrzymują od świadczeniodawcy tzw. oświadczenia o odmowie szczepień, w których jest napisane, że pacjent został poinformowany o skutkach i bezpieczeństwie szczepień
+3. Inne osoby, które w jakiś sposób chcą się zabezpieczyć przed lekkomyślnym działaniem świadczeniodawcy usług medycznych.
 
 ##Jaki jest cel tego pisma?
 1. Pozyskanie od lekarza wiedzy przed szczepieniem
