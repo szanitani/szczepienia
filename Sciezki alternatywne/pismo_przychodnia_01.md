@@ -630,9 +630,16 @@ Czy oświadczam, że są mi znane wszystkie leki, które dziecko przyjmowało pr
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
 
 <table><tr><td>
-Czy oświadczam, że są mi znane wszystkie procedury medyczne, które były stosowane wobec dziecka przed szczepieniem? Proszę wypisać te procedury medyczne.  
+Czy oświadczam, że są mi znane wszystkie składniki pożywienia i suplementy diety wpływające na biodostępność i działanie zastosowanego preparatu? Proszę wypisać te składniki pożywienia i suplementy diety.
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
 
+<table><tr><td>
+Czy oświadczam, że wykluczam możliwość wystąpienia u dziecka polipragmazji po szczepieniu?  
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy oświadczam, że są mi znane wszystkie procedury medyczne, które były stosowane wobec dziecka przed szczepieniem? Proszę wypisać te procedury medyczne.  
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
 
 **PODSTAWA PRAWNA**
 
