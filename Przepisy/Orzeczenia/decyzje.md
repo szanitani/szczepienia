@@ -167,3 +167,20 @@ Prawdopodobny argument dla sądu administracyjnego gdy na żądanie strony organ
 (...)
 
 *Słusznie w tej kwestii stwierdził Trybunał Konstytucyjny, że "jeżeli (...) istnieje wątpliwość co do formy załatwienia sprawy administracyjnej, należy przyjąć, że istnieje sprawa administracyjna i organ administracji publicznej jest właściwy do jej załatwienia. Nie może zaistnieć sytuacja, że w przepisach ustawy określono właściwość organu administracji publicznej do załatwiania określonej kategorii spraw administracyjnych, a sprawy te nie mogłyby być rozstrzygane tylko dlatego, że ustawodawca nie określił wprost formy rozstrzygnięcia"*
+
+#II SAB/Ol 48/15 - Wyrok WSA 2016-03-10
+
+[link](http://orzeczenia.nsa.gov.pl/doc/3E15D9C0C1)
+
+##1. Opis orzeczenia
+Skarga
+
+##2. Dlaczego jest istotne?
+Uzasadnia, że wnioski strony winny być zaatwiane w formie decyzji.
+
+##3. Kiedy stosować?
+Prawdopodobny argument dla sądu administracyjnego gdy na żądanie strony organ nie wydaje rozstrzygnięcia w formie decyzji 
+
+##4. Przywołane treści
+*"Zatem w myśl obowiązującej aktualnie regulacji wniosek o wszczęcie postępowania administracyjnego winien być zweryfikowany w oparciu o przesłanki określone w art. 61a § 1 Kodeksu postępowania administracyjnego. Przy czym nawet w przypadku ustalenia, że podmiot występujący z żądaniem nie ma legitymacji w tym zakresie, czy też istnieją inne uzasadnione przyczyny uniemożliwiające wszczęcie postępowania, organ winien wydać postanowienie o odmowie wszczęcia postępowania. W związku z tym załatwienie wniosku strony zwykłym pismem nie czyni zadość wymogom określonym w Kodeksie postępowania administracyjnego. Ocena zasadności żądania jednostki, a zwłaszcza zasadność jej zarzutów, winna być bowiem dokonana wyłącznie w formach procesowych. Zatem żądanie wszczęcia postępowania w sprawie wymaga załatwienia w formach postępowania administracyjnego albo poprzez nadanie sprawie biegu, albo poprzez wydanie postanowienia o odmowie wszczęcia postępowania. Natomiast brak wydania postanowienia o odmowie wszczęcia postępowania przesądza o bezczynności organu administracji publicznej."*
+
