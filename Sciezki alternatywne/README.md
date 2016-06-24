@@ -32,16 +32,3 @@ Jest to typowy schemat oparty o [wzory dokumentów do pobrania w sprawie szczepi
 ##Jaki jest cel wejścia na ścieżkę alternatywną?
 Aby zwiększyć ilość strzałek w powyższym schemacie, czyli dodać kilkadziesiąt/kilkaset nowych dokumentów do sprawy. Aby zwiększyć liczbę urzędów podejmujących czynności w sprawie i postępowaniu. Aby pełniej bronić swoich praw i wyjaśniać żądania urzędników.
 
-##A jak wysłać przez ePUAP jedno pismo do kilku urzędów jednocześnie?
-Można skorzystać z niedawno udostępnionej przez ePUAP opcji dodawania odbiorców pism ale są na to też inne sposoby: 
-
-- Wysyłamy pismo do organu nizszego rzędu zaadresowane tak jak niżej - w ten sposób organ będzie wiedział o tym piśmie, bo będzie musiał sam to pismo przekazać w ciągu 7 dni do organu właściwego:
-```
-              {organ właściwy}
-              za pośrednictwem:
-              {organ nizszego rzedu}
-```
-
-- Wysyłamy pismo do organu wyższego rzedu, po czym wysyłamy pismo do drugiego organu z informacja o tym, że wysłaliśmy cos takiego. Niech organy same sobie udostępniają co chcą.
-
-- Wysyłamy pismo do organu wyższego rzędu. Zgrywamy wysłany dokument ePUAP (cały) oraz UPP w postaci plików XML. Wysyłamy pismo przewodnie do drugiego organu z załącznikami XML. Tak zgrane pliki XML są dokumentami elektronicznymi w rozumieniu przepisów, ponieważ zawierają w sobie treść, załączniki i są podpisane zgodnie z wymogami albo profilem zaufanym albo podpisem elektronicznym.
