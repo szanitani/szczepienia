@@ -89,4 +89,4 @@ Można skorzystać z udostępnionej przez ePUAP opcji dodawania odbiorców do pi
 - Wysyłamy pismo do organu wyższego rzedu, po czym wysyłamy pismo do drugiego organu z informacja o tym, że wysłaliśmy cos takiego. Niech organy same sobie udostępniają co chcą.
 
 - Wysyłamy pismo do organu wyższego rzędu. Zgrywamy wysłany dokument ePUAP (cały) oraz UPP w postaci plików XML. Wysyłamy pismo przewodnie do drugiego organu z załącznikami XML. Tak zgrane pliki XML są dokumentami elektronicznymi w rozumieniu przepisów, ponieważ zawierają w sobie treść, załączniki i są podpisane zgodnie z wymogami albo profilem zaufanym albo podpisem elektronicznym.
-- 
+ 
