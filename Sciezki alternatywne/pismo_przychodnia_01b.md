@@ -102,41 +102,41 @@ Czy oświadczam, że przed zabiegiem szczepionka wygląda prawidłowo (kolor, m�
 
 <!--Przeredagowana lista pytań StopNOP w związku z petycją "Skoro jest ryzyko - musi być wybór" popartą przez ponad 20 000 osób. Źródło: https://www.facebook.com/stowarzyszeniestopnop/posts/1299417503419008-->
 
-Jakie badania diagnostyczne są wykonywane przed szczepieniem BCG ordynowanym w pierwszych godzinach życia dziecka (nawet 2-3 godziny po porodzie), w celu ustalenia zaburzeń odporności (są bezwzględnym przeciwwskazaniem do szczepienia BCG)?
 <table><tr><td>
+Jakie badania diagnostyczne są wykonywane u dziecka {{imie_nazwisko}} przed szczepieniem BCG ordynowanym w pierwszych godzinach życia  (nawet 2-3 godziny po porodzie), w celu ustalenia zaburzeń odporności (są bezwzględnym przeciwwskazaniem do szczepienia BCG)?
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
 
-Jakie badania diagnostyczne są wykonywane przed szczepieniem BCG ordynowanym w pierwszych godzinach życia dziecka (nawet 2-3 godziny po porodzie), w celu ustalenia ciężkich wad rozwojowych i wszelkich chorób zaburzających stan kliniczny noworodka (są bezwzględnym przeciwwskazaniem do szczepienia BCG)?
 <table><tr><td>
+Jakie badania diagnostyczne są wykonywane u dziecka {{imie_nazwisko}} przed szczepieniem BCG ordynowanym w pierwszych godzinach życia (nawet 2-3 godziny po porodzie), w celu ustalenia ciężkich wad rozwojowych i wszelkich chorób zaburzających stan kliniczny noworodka (są bezwzględnym przeciwwskazaniem do szczepienia BCG)?
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
 
-Jakie badania diagnostyczne są wykonywane przed szczepieniem BCG ordynowanym w pierwszych godzinach życia dziecka (nawet 2-3 godziny po porodzie), w celu całkowitego wykluczenia możliwości wystąpienia poniżej wymienionych powikłań, niejednokrotnie znacznie odłożonych w czasie:
-- bezdech
-- powiększenie węzłów chłonnych,
-- zropienie węzłów chłonnych
-- martwica węzłów chłonnych
-- rumień guzowaty (choroba zapalna tkanki tłuszczowej)
-- keloid
-- toczeń
-- uogólnione zakażenie gruźlicą BCG (np. gruźlica kości i stawów, gruźlica mózgu, zmiany w innych narządach i tkankach)
 <table><tr><td>
+Jakie badania diagnostyczne są wykonywane u dziecka {{imie_nazwisko}} przed szczepieniem BCG ordynowanym w pierwszych godzinach życia (nawet 2-3 godziny po porodzie), w celu całkowitego wykluczenia możliwości wystąpienia poniżej wymienionych powikłań, niejednokrotnie znacznie odłożonych w czasie:<br>
+- bezdech<br>
+- powiększenie węzłów chłonnych,<br>
+- zropienie węzłów chłonnych<br>
+- martwica węzłów chłonnych<br>
+- rumień guzowaty (choroba zapalna tkanki tłuszczowej)<br>
+- keloid<br>
+- toczeń<br>
+- uogólnione zakażenie gruźlicą BCG (np. gruźlica kości i stawów, gruźlica mózgu, zmiany w innych narządach i tkankach)<br>
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
 
-Jakie badania diagnostyczne są wykonywane przed szczepieniem wzw B ordynowanym w pierwszych godzinach życia dziecka (nawet 2-3 godziny po porodzie), w celu całkowitego wykluczenia nadwrażliwości na substancję czynną lub którąkolwiek substancję pomocniczą, oraz całkowitego wykluczenia możliwości wystąpienia u dziecka powikłań związanych z tą szczepionką:
-- Zaburzenia ogólne i stany w miejscu podania: ból w miejscu podania, krwiak, zaczerwienienie, stwardnienie, obrzęk w miejscu podania, podwyższenie temperatury ciała powyżej 38,8°C, osłabienie
-- Zaburzenia żołądka i jelit: ból brzucha, zmniejszone łaknienie, biegunka, wymioty, kolka jelitowa
-- Zaburzenia wątroby i dróg żółciowych: żółtaczka noworodków, wzrost aktywności aminotransferaz
-- Zaburzenia układu nerwowego: bóle i zawroty głowy
-- Zaburzenia psychiczne: rozdrażnienie, bezsenność, ospałość, złe samopoczucie
-- Zaburzenia mięśniowo-szkieletowe, tkanki łącznej: ból mięśni, ból stawów
-- Zaburzenia układu immunologicznego: np. grzybica jamy ustnej
-- Zaburzenia skóry i tkanki podskórnej: wysypka, wysypka plamista, łupież różowaty
-- Bezdech
-- Zespół Guillain-Barré
-- toczeń rumieniowaty układowy
 <table><tr><td>
+Jakie badania diagnostyczne są wykonywane u dziecka {{imie_nazwisko}} przed szczepieniem wzw B ordynowanym w pierwszych godzinach życia (nawet 2-3 godziny po porodzie), w celu całkowitego wykluczenia nadwrażliwości na substancję czynną lub którąkolwiek substancję pomocniczą, oraz całkowitego wykluczenia możliwości wystąpienia u dziecka powikłań związanych z tą szczepionką:<br>
+- Zaburzenia ogólne i stany w miejscu podania: ból w miejscu podania, krwiak, zaczerwienienie, stwardnienie, obrzęk w miejscu podania, podwyższenie temperatury ciała powyżej 38,8°C, osłabienie<br>
+- Zaburzenia żołądka i jelit: ból brzucha, zmniejszone łaknienie, biegunka, wymioty, kolka jelitowa<br>
+- Zaburzenia wątroby i dróg żółciowych: żółtaczka noworodków, wzrost aktywności aminotransferaz<br>
+- Zaburzenia układu nerwowego: bóle i zawroty głowy<br>
+- Zaburzenia psychiczne: rozdrażnienie, bezsenność, ospałość, złe samopoczucie<br>
+- Zaburzenia mięśniowo-szkieletowe, tkanki łącznej: ból mięśni, ból stawów<br>
+- Zaburzenia układu immunologicznego: np. grzybica jamy ustnej<br>
+- Zaburzenia skóry i tkanki podskórnej: wysypka, wysypka plamista, łupież różowaty<br>
+- Bezdech<br>
+- Zespół Guillain-Barré<br>
+- toczeń rumieniowaty układowy<br>
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
 
-Jakie badania diagnostyczne są wykonywane przed pozostałymi szczepieniami ordynowanym w pierwszych tygodniach/miesiącach życia dziecka, w celu całkowitego wykluczenia możliwości wystąpienia powikłań poszczepiennych ujętych w rozporządzeniu Ministra Zdrowia, informacjach producenta i wynikach badań naukowych.
 <table><tr><td>
+Jakie badania diagnostyczne są wykonywane u dziecka {{imie_nazwisko}} przed pozostałymi szczepieniami ordynowanym w pierwszych tygodniach/miesiącach życia, w celu całkowitego wykluczenia możliwości wystąpienia powikłań poszczepiennych ujętych w rozporządzeniu Ministra Zdrowia, informacjach producenta i wynikach badań naukowych.
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
