@@ -540,7 +540,7 @@ Międzynarodowa klasyfikacja ICD-10 - proszę o podanie numeru i nazwy jednostk:
 
 <table><tr><td>
 Międzynarodowa klasyfikacja ICD-9<br>
-- pod jakimi jednostkami chorobowymi wg międzynarodowej klasyfikacji procedur medycznych ICD-9, rejestrowane są zabiegi/terapie u dzieci, związane z charakterystycznymi dla powikłań BCG dyfunkcjami w węzłach chłonnych, np. nacięcie zropiałego węzła, wycięcie węzłów chłonnych? Proszę o podanie numerów i nazw jednostek, oraz statystystyki tego rodzaju zabiegów wykonywanych u dzieci w wieku do 5 lat, od roku 2000 do roku bieżącego, w podziale na lata kalendarzowe.<br>
+- pod jakimi jednostkami chorobowymi wg międzynarodowej klasyfikacji procedur medycznych ICD-9, rejestrowane są zabiegi/terapie u dzieci, związane z charakterystycznymi dla powikłań BCG dyfunkcjami w węzłach chłonnych, np. nacięcie zropiałego węzła, wycięcie węzłów chłonnych? Proszę o podanie numerów i nazw jednostek, oraz statystystyki tego rodzaju zabiegów wykonywanych u dzieci w wieku do 5 lat, od roku 2000 do roku bieżącego, w podziale na lata kalendarzowe i z podaniem źródła tych danych.<br>
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
 
 
@@ -555,11 +555,10 @@ Jakie mogą być skutki podania szczepionek zawierających te zanieczyszczenia, 
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
 
 <table><tr><td>
-W większości krajów europejskich odstąpiono od szczepień noworodków w pierwszej dobie życia. W Polsce nadal stosuje się szczepionkę przeciw gruźlicy BCG i przeciw wirusowemu zapaleniu wątroby Euvax B w pierwszych 24 godzinach życia dziecka, Czy moje dziecka posiad indywidualne wskazania medyczne wskazujące na konieczność tych szczepień.
+W większości krajów europejskich odstąpiono od szczepień noworodków w pierwszej dobie życia. W Polsce nadal stosuje się szczepionkę przeciw gruźlicy BCG i przeciw wirusowemu zapaleniu wątroby Euvax B w pierwszych 24 godzinach życia dziecka, Czy moje dziecka posiada indywidualne wskazania medyczne wskazujące na konieczność tych szczepień? Jeśli tak, to jakie to wskazania.
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
 
 
 <table><tr><td>
-Czy gwarantuję, że w podawanej mojemu dziecku szczepionce nie znajdują się związki rtęci?
+Czy lekarz gwarantuje, że w podawanej mojemu dziecku szczepionce nie znajdują się związki rtęci?
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
-
