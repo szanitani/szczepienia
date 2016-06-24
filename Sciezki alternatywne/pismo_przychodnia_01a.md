@@ -11,7 +11,6 @@ Przeredagowane do potrzeb pisma prawnego pytania - autor: prof. dr hab. Maria Do
 przeredagowane do potrzeb pisma prawnego pytania - autor: dr Jerzy Jaśkowski. Więcej komentarzy w źródle strony.
 Przeredagowana lista pytań StopNOP w związku z petycją "Skoro jest ryzyko - musi być wybór" popartą przez ponad 20 000 osób. [Źródło:](https://www.facebook.com/stowarzyszeniestopnop/posts/1299417503419008).
 
-
 <!-- przeredagowane do potrzeb pisma prawnego pytania - autor: prof. dr hab. Maria Dorota Majewska -->
 
 <table><tr><td>
@@ -470,4 +469,97 @@ W jaki sposób i kto ponosi koszta leczenia powikłań, ewentualnych zwolnień z
 Przeredagowana lista pytań StopNOP w związku z petycją "Skoro jest ryzyko - musi być wybór" popartą przez ponad 20 000 osób. Źródło: 
 https://www.facebook.com/stowarzyszeniestopnop/posts/1299417503419008
 -->
+
+<table><tr><td>
+W jakiego rodzju placówkach medycznych, na jakich oddziałach będzie leczone dziecko, jeśli doświadczy powikłań po BCG, wymagających hospitalizacji i/lub zabiegów, czy leczenia chemicznego?
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Jakie badania diagnostyczne zostaną wykonane w przypadku wystąpienia u dziecka niżej wymienionych nieprawidłowych objawów/reakcji, dysfunkcji i chorób występujących w związku czasowym ze szczepieniem (wymienionych w rozporządzeniu ministra zdrowia, informacjach producentów i udowodnionych w opracowaniach klinicznych)? Proszę o odpowiedzi osobno dla każdego wymienionego objawu/reakcji, dysfunkcji, choroby.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Jakie wyniki powyższych badań będą wskazywały na związek przyczynowy/przyczynowo-skutkowy pomiędzy ewentualnym NOP u mojego dziecka ze szczepieniem? Proszę o odpowiedzi osobno dla każdego wymienionego objawu/reakcji, dysfunkcji, choroby.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy powyższe badania są wykonywane obligatoryjnie? Jeśli tak, proszę o przedstawienie obowiązujących w tym zakresie procedur. Odpowiedzi osobno dla każdego wymienionego objawu/reakcji, dysfunkcji, choroby.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy wyniki powyższych badań diagnostycznych są niepodważalnym dowodem do skutecznego dochodzenia roszczeń w związku z ewentualnymi powikłaniami poszczepiennymi u mojego dziecka w zakresie urzędowego NOP i w zakresie skutków poszczepiennych odłożonych w czasie o tygodnie, miesiące, lata?
+LISTA POWIKŁAŃ (dotyczy powyższych pytań):<br>
+- encefalopatia (uszkodzenia mózgu, obumieranie mózgu),<br>
+- drgawki gorączkowe,<br>
+- drgawki niegorączkowe,<br>
+- zapalenie mózgu,<br>
+- zapalenie opon mózgowo-rdzeniowych,<br>
+- zespół Guillaina-Barrégo<br>
+- bóle stawowe,<br>
+- epizod hipotensyjno-hiporeaktywny,<br>
+- gorączka powyżej 38°C,<br>
+- małopłytkowość,<br>
+- nieutulony ciągły płacz,<br>
+- krzyk mózgowy,<br>
+- SEPSA (posocznica, w tym wstrząs septyczny),<br>
+- reakcja anafilaktyczna,<br>
+- reakcje alergiczne,<br>
+- uogólnione zakażenie gruźlicą BCG,<br>
+- wstrząs anafilaktyczny,<br>
+- zapalenie jąder,<br>
+- zapalenie ślinianek,<br>
+- porażenie splotu barkowego,<br>
+- odra poszczepienna,<br>
+- różyczka poszczepienna,<br>
+- świnka poszczepienna,<br>
+- ospa wietrzna poszczepienna,<br>
+- rotawirus poszczepienny<br>
+- ASIA (autoimmunologiczny/autozapalny zespół indukowany przez adjuwanty szczepionkowe<br>
+- zapalenie mięśnia sercowego (kardiogenna niepożądna reakcja poszczepienna<br>
+- toczeń rumieniowaty układowy<br>
+- półpasiec po szczepieniu ospą wietrzną<br>
+- zapalenie tętnic<br>
+- niedokrwistość aplastyczna/aplazja szpiku<br>
+- inne poważne odczyny występujące do 4 tygodni po szczepieniu.<br>
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Ciężkie skutki poszczepienne mogą się ujawnić dopiero po wielu tygodniach, miesiącach, latach od szczepienia (skutki poszczepienne odłożone w czasie). W związku z powyższym, jakie badania diagnostyczne będą wykonane u mojego dziecka w przypadku ewentualnych objawów, dysfunkcji i chorób na podstawie wieloletniej już wiedzy klinicznej potencjalnie związanych ze szczepieniem, a występujących w czasie odległym od szczepienia, jakie wyniki tych badań wskażą na związek przyczynowy/przyczynowo-skutkowy ze szczepieniem, oraz czy badania te są wykonywane obligatoryjnie (w takim przypadku proszę o przedstawienie obowiązujących w tym zakresie procedur).
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy będą wykonane obligatoryjne badania molekularne w przypadku podejrzenia u mojego dziecka odry, świnki, różyczki, ospy wietrznej, rotawirusa, w celu ustalenia typu wirusa w podziale na "dzikie" i szczepionkowe - analogicznie jak w przypadku polio, gdzie mamy obligatoryjnie badany każdy przypadek ostrego porażenia wiotkiego. Proszę o przedstawienie procedur obowiązujących w zakresie wykrywania zachorowań spowodowanych patogenami szczepionkowymi.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Międzynarodowa klasyfikacja ICD-10 - proszę o podanie numeru i nazwy jednostk:<br>
+- pod jaką jednostką chorobową wg międzynarodowej klasyfikacji ICD-10, rejestrowane są wysypki w związku czasowym ze szczepieniem MMR?<br>
+- pod jaką jednostką chorobową wg międzynarodowej klasyfikacji ICD-10, rejestrowane są biegunki w związku czasowym ze szczepieniem rotawirusowym?<br>
+- pod jakimi jednostkami chorobowymi rejestrowane są wymienione poszczepienne zachorowania: gruźlica, odra, świnka, różyczka, ospa wietrzna, rotawirus<br>
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Międzynarodowa klasyfikacja ICD-9<br>
+- pod jakimi jednostkami chorobowymi wg międzynarodowej klasyfikacji procedur medycznych ICD-9, rejestrowane są zabiegi/terapie u dzieci, związane z charakterystycznymi dla powikłań BCG dyfunkcjami w węzłach chłonnych, np. nacięcie zropiałego węzła, wycięcie węzłów chłonnych? Proszę o podanie numerów i nazw jednostek, oraz statystystyki tego rodzaju zabiegów wykonywanych u dzieci w wieku do 5 lat, od roku 2000 do roku bieżącego, w podziale na lata kalendarzowe.<br>
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+
+<table><tr><td>
+Proszę o wyjaśnienia, dlaczego moje dziecko zaszczepione "żywymi" szczepionkami, nie będzie obligatoryjnie poddawane kwarantannie w związku ze stwarzanym przez nie zagrożeniem epidemicznym - minimum 2 tygodnie w przypadku szczepień odry/świnki/różyczki, ospy wietrznej, rotawirusa, oraz minimum 2 miesiące w przypadku szczepienia polio doustnym OPV?
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+
+<table><tr><td>
+Proszę o odniesienie się i udzielenie odpowiedzi, dlaczego w informacjach producentów szczepionek oraz informacjach urzędowych nie ma danych na temat groźnych zanieczyszczeń w szczepionkach.
+Jakie mogą być skutki podania szczepionek zawierających te zanieczyszczenia, i w jaki sposób diagnozuje się potencjalny związek tych zanieczyszczeń ze skutkami zdrowotnymi u ludzi (np. nowotworami) - proszę o przedstawienie obowiązujących procedur warunkujących chorym pacjentom obligatoryjne diagnozowanie określonych problemów zdrowotnych pod kątem obecności w organizmie poniższych, chorobotwórczych zanieczyszczeń szczepionkowych. Proszę o potwierdzenie, że lekarz gwarantuje iż w podawanym preparacie nie znajdują się zanieczyszczenia m.in. wirusami odzwierzęcymi, onkogennymi, mykoplazmą, bakteriami, pasożytami.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+W większości krajów europejskich odstąpiono od szczepień noworodków w pierwszej dobie życia. W Polsce nadal stosuje się szczepionkę przeciw gruźlicy BCG i przeciw wirusowemu zapaleniu wątroby Euvax B w pierwszych 24 godzinach życia dziecka, Czy moje dziecka posiad indywidualne wskazania medyczne wskazujące na konieczność tych szczepień.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+
+<table><tr><td>
+Czy gwarantuję, że w podawanej mojemu dziecku szczepionce nie znajdują się związki rtęci?
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
 

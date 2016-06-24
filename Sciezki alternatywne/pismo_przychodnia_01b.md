@@ -7,8 +7,9 @@ table {
 </style>
 -->
 #Lista pytań do lekarza - dla potrzeb wykazania związku przyczynowego między NOP a szczepieniem - przed szczepieniem
-Przeredagowana lista pytań StopNOP w związku z petycją "Skoro jest ryzyko - musi być wybór" popartą przez ponad 20 000 osób. [Źródło:](https://www.facebook.com/stowarzyszeniestopnop/posts/1299417503419008).
 Przeredagowane do potrzeb pisma prawnego sugestie w zakresie algorytmu oceny związku przyczynowo-skutkowego pomiędzy szczepieniem a [NOP w praktyce](http://www.mp.pl/szczepienia/artykuly/wytyczne/show.html?id=97606).
+Przeredagowana lista pytań StopNOP w związku z petycją "Skoro jest ryzyko - musi być wybór" popartą przez ponad 20 000 osób. [Źródło.](https://www.facebook.com/stowarzyszeniestopnop/posts/1299417503419008).
+
 <!-- przeredagowane do potrzeb pisma prawnego sugestie w zakresie algorytmu oceny związku przyczynowo-skutkowego pomiędzy szczepieniem a NOP w praktyce - http://www.mp.pl/szczepienia/artykuly/wytyczne/show.html?id=97606 -->
 
 <table><tr><td>
@@ -97,4 +98,45 @@ Czy oświadczam, że dysponuję jaowymi warunkami do podania szczepionki (lub je
 
 <table><tr><td>
 Czy oświadczam, że przed zabiegiem szczepionka wygląda prawidłowo (kolor, mętność, obecność obcych substancji, itp.)? 
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<!--Przeredagowana lista pytań StopNOP w związku z petycją "Skoro jest ryzyko - musi być wybór" popartą przez ponad 20 000 osób. Źródło: https://www.facebook.com/stowarzyszeniestopnop/posts/1299417503419008-->
+
+Jakie badania diagnostyczne są wykonywane przed szczepieniem BCG ordynowanym w pierwszych godzinach życia dziecka (nawet 2-3 godziny po porodzie), w celu ustalenia zaburzeń odporności (są bezwzględnym przeciwwskazaniem do szczepienia BCG)?
+<table><tr><td>
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+Jakie badania diagnostyczne są wykonywane przed szczepieniem BCG ordynowanym w pierwszych godzinach życia dziecka (nawet 2-3 godziny po porodzie), w celu ustalenia ciężkich wad rozwojowych i wszelkich chorób zaburzających stan kliniczny noworodka (są bezwzględnym przeciwwskazaniem do szczepienia BCG)?
+<table><tr><td>
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+Jakie badania diagnostyczne są wykonywane przed szczepieniem BCG ordynowanym w pierwszych godzinach życia dziecka (nawet 2-3 godziny po porodzie), w celu całkowitego wykluczenia możliwości wystąpienia poniżej wymienionych powikłań, niejednokrotnie znacznie odłożonych w czasie:
+- bezdech
+- powiększenie węzłów chłonnych,
+- zropienie węzłów chłonnych
+- martwica węzłów chłonnych
+- rumień guzowaty (choroba zapalna tkanki tłuszczowej)
+- keloid
+- toczeń
+- uogólnione zakażenie gruźlicą BCG (np. gruźlica kości i stawów, gruźlica mózgu, zmiany w innych narządach i tkankach)
+<table><tr><td>
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+Jakie badania diagnostyczne są wykonywane przed szczepieniem wzw B ordynowanym w pierwszych godzinach życia dziecka (nawet 2-3 godziny po porodzie), w celu całkowitego wykluczenia nadwrażliwości na substancję czynną lub którąkolwiek substancję pomocniczą, oraz całkowitego wykluczenia możliwości wystąpienia u dziecka powikłań związanych z tą szczepionką:
+- Zaburzenia ogólne i stany w miejscu podania: ból w miejscu podania, krwiak, zaczerwienienie, stwardnienie, obrzęk w miejscu podania, podwyższenie temperatury ciała powyżej 38,8°C, osłabienie
+- Zaburzenia żołądka i jelit: ból brzucha, zmniejszone łaknienie, biegunka, wymioty, kolka jelitowa
+- Zaburzenia wątroby i dróg żółciowych: żółtaczka noworodków, wzrost aktywności aminotransferaz
+- Zaburzenia układu nerwowego: bóle i zawroty głowy
+- Zaburzenia psychiczne: rozdrażnienie, bezsenność, ospałość, złe samopoczucie
+- Zaburzenia mięśniowo-szkieletowe, tkanki łącznej: ból mięśni, ból stawów
+- Zaburzenia układu immunologicznego: np. grzybica jamy ustnej
+- Zaburzenia skóry i tkanki podskórnej: wysypka, wysypka plamista, łupież różowaty
+- Bezdech
+- Zespół Guillain-Barré
+- toczeń rumieniowaty układowy
+<table><tr><td>
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+Jakie badania diagnostyczne są wykonywane przed pozostałymi szczepieniami ordynowanym w pierwszych tygodniach/miesiącach życia dziecka, w celu całkowitego wykluczenia możliwości wystąpienia powikłań poszczepiennych ujętych w rozporządzeniu Ministra Zdrowia, informacjach producenta i wynikach badań naukowych.
+<table><tr><td>
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
