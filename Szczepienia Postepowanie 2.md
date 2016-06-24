@@ -75,3 +75,18 @@ Tak, wnioski wymagają od urzędnika zajęcia stanowiska, więc są również ko
 ###17. Jak nie pogubić się z tymi wszystkimi pismami?
 
 Stosuj odpowiednią numerację i nazewnictwo. Wszystkie dokumenty w ramach pisma (treść pisma właściwego, załączniki, UPO, UPD, treść pisma z ePUAP, podpisane cyfrowo wydruki pism, skany itd) wkładaj do osobnych folderów. Każdy folder powinien w nazwie mieć co najmniej datę, numer pisma, numer pisma nadrzędnego oraz tytuł pisma (np. odpowiedź na skargę). W głównym katalogu utwórz plik w formacie [XMind](http://www.xmind.net/) zawierający "mapę" Twojej sprawy. [XMind](http://www.xmind.net/) to potężne narzędzie, w którym powinieneś przechowywać co najmniej informacje o nazwach katalogów gdzie znajdują się konkretne pisma, odpowiedziach na te pisma oraz ich statusie. Status pism powinien być oznaczony ikonkami np. czerwony ludzik - pisma z urzędu, zielony ludzik - Twoje pismo, flaga niebieska - pismo do napisania, żarówka - pomysły do wykorzystania, flaga czerwona - itd. Urzędnicy nie mają takich narzędzi, oni układają pisma chronologicznie, więc po ok. 30 pismach jest niemal gwarantowane, że uznają iż sprawa jest zawiła. Otwiera to pewne możliwości w związku z  art. 31a ust. 2 *Ustawy z dnia 14 marca 1985 r. o Państwowej Inspekcji Sanitarnej*.
+
+###18. A jak wysłać przez ePUAP jedno pismo do kilku urzędów jednocześnie?
+Można skorzystać z udostępnionej przez ePUAP opcji dodawania odbiorców do pism ale są na to też inne sposoby: 
+
+- Wysyłamy pismo do organu nizszego rzędu zaadresowane tak jak niżej - w ten sposób organ będzie wiedział o tym piśmie, bo będzie musiał sam to pismo przekazać w ciągu 7 dni do organu właściwego:
+```
+              {organ właściwy}
+              za pośrednictwem:
+              {organ nizszego rzedu}
+```
+
+- Wysyłamy pismo do organu wyższego rzedu, po czym wysyłamy pismo do drugiego organu z informacja o tym, że wysłaliśmy cos takiego. Niech organy same sobie udostępniają co chcą.
+
+- Wysyłamy pismo do organu wyższego rzędu. Zgrywamy wysłany dokument ePUAP (cały) oraz UPP w postaci plików XML. Wysyłamy pismo przewodnie do drugiego organu z załącznikami XML. Tak zgrane pliki XML są dokumentami elektronicznymi w rozumieniu przepisów, ponieważ zawierają w sobie treść, załączniki i są podpisane zgodnie z wymogami albo profilem zaufanym albo podpisem elektronicznym.
+- 
