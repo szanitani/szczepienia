@@ -419,7 +419,7 @@
                "title":"Czy niepożądane odczyny poszczepienne:",
                "type":"radio",
                "answers":[
-                  {"value":100,"title":"Mogą wystąpić od kilku godzin do kilku tygodni po szczepieniu"},
+                  {"value":100,"title":"Mogą wystąpić od kilku godzin do kilku tygodni po szczepieniu lub rok dla szczepienia BCG"},
                   {"value":0,"title":"Mogą wystąpić tylko w pierwszych dobach po szczepieniu (max.do 48h)"},
                   {"value":0,"title":"Są bardzo rzadkie i mało niebezpieczne"}
                ],
