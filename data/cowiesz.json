@@ -543,25 +543,6 @@
                   "<a target='_blank' href='http://isap.sejm.gov.pl/DetailsServlet?id=WDU20111821086'>Rozporządzenie Ministra Zdrowia z dnia 18 sierpnia 2011 r. w sprawie obowiązkowych szczepień ochronnych (Dz.U. 2011 nr 182 poz. 1086)</a>.<br>",
                   "</p>"
                ]
-            },
-            {
-               "title":"Czy zgodnie z przepisami obowiązkowe szczepienia należy wykonać w terminie wyznaczonym w komunikacie Głównego Inspektora Sanitarnego na dany rok?",
-               "type":"radio",
-               "answers":[
-                  {"value":0,"title":"Tak, należy szczepić zgodnie z PSO (Programem Szczepień Ochronnych)"},
-                  {"value":100,"title":"Nie, to rozporządzenie określa terminy istnienia obowiązku dla poszczególnych chorób zakaźnych"}
-               ],
-               "description":[
-                  "<h3>informacje</h3>",
-                  "<p>...</p>",
-                  "<h3>kontekst pytania</h3>",
-                  "<p>...</p>",
-                  "<h3>materiały źródłowe</h3>",
-                  "<p>",
-                  "<a target='_blank' href='http://isap.sejm.gov.pl/DetailsServlet?id=WDU20082341570'>Ustawa z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz.U. 2008 nr 234 poz. 1570)</a>.<br>",
-                  "<a target='_blank' href='http://isap.sejm.gov.pl/DetailsServlet?id=WDU20111821086'>Rozporządzenie Ministra Zdrowia z dnia 18 sierpnia 2011 r. w sprawie obowiązkowych szczepień ochronnych (Dz.U. 2011 nr 182 poz. 1086)</a>.<br>",
-                  "</p>"
-               ]
             }
          ]
       },
