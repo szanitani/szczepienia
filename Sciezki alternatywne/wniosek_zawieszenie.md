@@ -16,7 +16,7 @@ Dopasować do stanu faktycznego, czyli data itd.
 Rozumiem, że skarga do GIODO została złożona przez ePUAP. Należy pobrać dokument XML dla wysłanej skargi oraz otrzymanego UPP i załączyć je do niniejszego dokumentu.
 
 ##Jakie są dalsze kroki?
-1. Pytania i wątpliwości w szczególności stanowiska organów należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=). Znajdują się tam również komentarze i historia dokumentu.
+1. Pytania i wątpliwości w szczególności stanowiska organów należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=178379). Znajdują się tam również komentarze i historia dokumentu.
 2. Organ powinien odpowiedzieć postanowieniem.
 3. Jeśli postanowienie nie ma pouczenia, lub nie jest to postanowienie - walczyć o swoje prawa!
 4. Jeśli postanowienie jest odmowne, przysługuje na nie zażalenie.
