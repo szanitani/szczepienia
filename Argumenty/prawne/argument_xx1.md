@@ -5,7 +5,7 @@ Gdy wszystkie argumenty na bazie prawa administracyjnego zawiodą, ZAWSZE jest m
 
 ##Algorytm postępowania.
 
-krok 1 - idziesz na badanie kwalifikacyjne
+krok 1 - idziesz na badanie kwalifikacyjne [i zadajesz takie pytania](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo_przychodnia_01.md)
  
 krok 2 - wnosisz sprzeciw wobec opinii lekarza na podstawie art. 31 ust. 1 Ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta
  
@@ -15,7 +15,7 @@ krok 4 - w tym czasie mija 24h termin waznosci badania kwalifikacyjnego na podst
  
 krok 5 - sprawdzasz wiek dziecka
  
-krok 6 - jesli wiek dziecka jest mniejszy niz wpisany w rozporzadzeniu w sprawie obowiazkowych szczepien.. - przechodzisz do kroku 1
+krok 6 - jesli wiek dziecka jest mniejszy niz wpisany w rozporzadzeniu w sprawie obowiazkowych szczepien - przechodzisz do kroku 1
  
 krok 7 - GAME OVER, wygrales/as z systemem - gratulacje!
 
