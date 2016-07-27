@@ -18,6 +18,7 @@ Należy również wysłać wspomniane w treści wezwanie do zaprzestania przetwa
 3. Koniecznie po odpowiedzi organu należy jej treść (po usunięciu danych osobowych) wstawić do [tego wątku](http://szczepienia.org.pl/viewtopic.php?t=4877), w którym opisujemy aktualny stan spraw związanych z GIODO. 
 4. W zależności od etapu postępowania należy złożyć do Inspekcji Sanitarnej, Wojewody żądania unieważnienia postępowania (egzekucyjnego) w związku z rażącym naruszeniem prawa.
 5. Jeśli decyzja GIODO jest pozytywna warto również złożyć wniosek o wyłączenie odpowiedzialnych urzędników z postępowania na podstawie przepisów k.p.a.
+6. Jeśli jest prowadzone postępowanie egzekucyjne lub inne pochodne/odwoławcze warto wysłać [wniosek o zawieszenie tego postępowania](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_zawieszenie.md).
 
 ##Skąd mam wiedzieć, czy mój PPIS ma zarejestrowane zbiory danych osobowych?
 GIODO udostępnia dane o wszystkich zbiorach w serwisie [eGIODO](https://egiodo.giodo.gov.pl/search_advanced.dhtml).

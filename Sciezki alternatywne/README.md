@@ -18,6 +18,8 @@
 14. [Sprzeciw wobec przekazywania danych osobowych](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/sprzeciw%20dane%20osobowe.md), dokument wysyłany do PIS lub przychodni przed wysłaniem skargi do GIODO.
 15. [Wniosek o informacje dot. przetwarzanych danych osobowych](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_dane_osobowe.md), dokument wysyłany do PPIS przed złożeniem skargi do GIODO. 
 16. [Pismo do lekarza](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo_przychodnia_01.md),  który żąda potwierdzenia poinformowania pacjenta o wszystkich skutkach i bezpieczeństwie szczepień. 
+17. [Nowy wzór pełnomocnictwa](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pelnomocnictwo.md),  alternatywny w stosunku do pełnomocnictwa ze wzorów dokumentów SN, opracowany na bazie doświadczeń w postępowaniach w sprawie szczepień. 
+18. [Wniosek o zawieszenie postępowania po wysłaniu pisma do GIODO](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_zawieszenie.md),  koniecznie wysyłamy po wszczęciu postępowania egzekucyjnego oraz w każdym postępowaniu pochodnym, odwoławczym.
 
 ##Części wspólne pism
 Ilekroć w instrukcji do pisma jest wskazane aby wysyłać je "*jak najszybciej*", oznacza to oczywiście wysyłanie pisma w ostatnim dniu wymaganego terminu. Tam gdzie wspomina się o "*stosownej skardze*" lub "*dochodzeniu swoich praw*" warto posiłkować się [tymi zaleceniami](http://forumprawne.org/prawo-administracyjne/301849-jak-pisac-skuteczne-pisma-do-urzedu-poradnik.html).
@@ -32,16 +34,3 @@ Jest to typowy schemat oparty o [wzory dokumentów do pobrania w sprawie szczepi
 ##Jaki jest cel wejścia na ścieżkę alternatywną?
 Aby zwiększyć ilość strzałek w powyższym schemacie, czyli dodać kilkadziesiąt/kilkaset nowych dokumentów do sprawy. Aby zwiększyć liczbę urzędów podejmujących czynności w sprawie i postępowaniu. Aby pełniej bronić swoich praw i wyjaśniać żądania urzędników.
 
-##A jak wysłać przez ePUAP jedno pismo do kilku urzędów jednocześnie?
-Można skorzystać z niedawno udostępnionej przez ePUAP opcji dodawania odbiorców pism ale są na to też inne sposoby: 
-
-- Wysyłamy pismo do organu nizszego rzędu zaadresowane tak jak niżej - w ten sposób organ będzie wiedział o tym piśmie, bo będzie musiał sam to pismo przekazać w ciągu 7 dni do organu właściwego:
-```
-              {organ właściwy}
-              za pośrednictwem:
-              {organ nizszego rzedu}
-```
-
-- Wysyłamy pismo do organu wyższego rzedu, po czym wysyłamy pismo do drugiego organu z informacja o tym, że wysłaliśmy cos takiego. Niech organy same sobie udostępniają co chcą.
-
-- Wysyłamy pismo do organu wyższego rzędu. Zgrywamy wysłany dokument ePUAP (cały) oraz UPP w postaci plików XML. Wysyłamy pismo przewodnie do drugiego organu z załącznikami XML. Tak zgrane pliki XML są dokumentami elektronicznymi w rozumieniu przepisów, ponieważ zawierają w sobie treść, załączniki i są podpisane zgodnie z wymogami albo profilem zaufanym albo podpisem elektronicznym.
