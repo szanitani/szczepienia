@@ -14,11 +14,11 @@ Do wykorzystania. Oczekujemy na reakcje organów.
 To jest trudne pismo. Należy dopasować do wojego stanu faktycznego. Jeśli postanowienie dotyczy innego zagadnienia należy oczywiście dodać swoje pytania i wątpliwości. Wzór tego pisma może dotyczyć nie tylko pism Wojewody.
 
 ##Jakie są dalsze kroki?
-1. Pytania i wątpliwości w szczególności stanowiska organów należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=178379). Znajdują się tam również komentarze i historia dokumentu.
+1. Pytania i wątpliwości w szczególności stanowiska organów należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=178599). Znajdują się tam również komentarze i historia dokumentu.
 2. Organ powinien odpowiedzieć postanowieniem.
 3. Na nowe postanowienie również przysługuje wniosek o uzupełnienie, na który organ musi odpowiedzieć postanowieniem.
 4. Jeśli postanowienie jest odmowne, przysługuje na nie zażalenie.
-5. Kolejny krok to sąd administracyjny, jako kolejna ścieżka poboczna w postępowaniu.
+5. Kolejny krok to sąd administracyjny, jako kolejna ścieżka poboczna w postępowaniu (albo ponowne przejście do kroku nr 3 - tyle razy ile mamy cierpliwości)
 
 ##Treść pisma:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{miejscowosc}} {{data}}
