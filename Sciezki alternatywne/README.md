@@ -20,6 +20,7 @@
 16. [Pismo do lekarza](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo_przychodnia_01.md),  który żąda potwierdzenia poinformowania pacjenta o wszystkich skutkach i bezpieczeństwie szczepień. 
 17. [Nowy wzór pełnomocnictwa](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pelnomocnictwo.md),  alternatywny w stosunku do pełnomocnictwa ze wzorów dokumentów SN, opracowany na bazie doświadczeń w postępowaniach w sprawie szczepień. 
 18. [Wniosek o zawieszenie postępowania po wysłaniu pisma do GIODO](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_zawieszenie.md),  koniecznie wysyłamy po wszczęciu postępowania egzekucyjnego oraz w każdym postępowaniu pochodnym, odwoławczym.
+19. [Wniosek o uzupełnienie postanowienia o odmowie zawieszenia postępowania egzekucyjnego](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_uzupelnienie.md), stosowany również dla innych postanowień.
 
 ##Części wspólne pism
 Ilekroć w instrukcji do pisma jest wskazane aby wysyłać je "*jak najszybciej*", oznacza to oczywiście wysyłanie pisma w ostatnim dniu wymaganego terminu. Tam gdzie wspomina się o "*stosownej skardze*" lub "*dochodzeniu swoich praw*" warto posiłkować się [tymi zaleceniami](http://forumprawne.org/prawo-administracyjne/301849-jak-pisac-skuteczne-pisma-do-urzedu-poradnik.html).
