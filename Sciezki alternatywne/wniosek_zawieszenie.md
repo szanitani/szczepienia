@@ -4,7 +4,7 @@
 Do wykorzystania. Oczekujemy na reakcje organów.
 
 ##Kogo dotyczy to pismo?
-1. Rodzica, wobec którego jest prowadzone postępowanie egzekucyjne.
+1. Rodzica, wobec którego jest prowadzone postępowanie egzekucyjne i który wysłał skargę do GIODO.
 
 ##Jaki jest cel tego pisma?
 1. Zatrzymanie postępowania egzekucyjnego do czasu, aż GIODO odpowie na skargę. A bywa, że GIODO odpowiada długo.
