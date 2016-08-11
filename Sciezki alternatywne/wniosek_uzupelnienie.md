@@ -11,7 +11,7 @@ Do wykorzystania. Oczekujemy na reakcje organów.
 1. Wyjaśnienie kwestii na podstawie których, zostało wydane postanowienie - zwykle organy odrzucają wnioski stron wg szablonu, bez analizy stanu faktycznego w danym postępowaniu.
 
 ##Co zmodyfikować w treści?
-To jest trudne pismo. Należy dopasować do wojego stanu faktycznego. Jeśli postanowienie dotyczy innego zagadnienia należy oczywiście dodać swoje pytania i wątpliwości. Wzór tego pisma może dotyczyć nie tylko pism Wojewody.
+To jest trudne pismo. Należy dopasować do swojego stanu faktycznego. Jeśli postanowienie dotyczy innego zagadnienia należy oczywiście dodać swoje pytania i wątpliwości. Niniejszy Wzór może dotyczyć nie tylko pism Wojewody.
 
 ##Jakie są dalsze kroki?
 1. Pytania i wątpliwości w szczególności stanowiska organów należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=178599). Znajdują się tam również komentarze i historia dokumentu.
