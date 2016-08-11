@@ -90,3 +90,5 @@ Można skorzystać z udostępnionej przez ePUAP opcji dodawania odbiorców do pi
 
 - Wysyłamy pismo do organu wyższego rzędu. Zgrywamy wysłany dokument ePUAP (cały) oraz UPP w postaci plików XML. Wysyłamy pismo przewodnie do drugiego organu z załącznikami XML. Tak zgrane pliki XML są dokumentami elektronicznymi w rozumieniu przepisów, ponieważ zawierają w sobie treść, załączniki i są podpisane zgodnie z wymogami albo profilem zaufanym albo podpisem elektronicznym.
  
+###19. Otrzymałem pismo z urzędu przez ePUAP - jak sprawdzić czy jest prawidłowo podpisane?
+Jeśli chodzi o otrzymane zalaczniki w foramcie PDF albo Word, to te dokumenty mogą być podpisane zewnętrznie przez dodatkowy plik XADES albo też plik PDF może być podpisany wewnatrz, w formacie PADES. Obraz wewnętrznego podpisu w PDF może być widoczny w treści albo i nie. Aby sprawdzić podpis w dokumencie należy skorzystać z systemu [WebNotarius](https://www.webnotarius.pl/sprawdz-dokument/). Jeśli chodzi o sprawdzanie dokumentów ePUAP w formacie XML, należy skorzystać z narzędzi właśnie ePUAP - jest tam taka możliwość choć trzeba trochę poszukać.
