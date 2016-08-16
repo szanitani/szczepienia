@@ -140,3 +140,45 @@ Jakie badania diagnostyczne są wykonywane u dziecka {{imie_nazwisko}} przed szc
 <table><tr><td>
 Jakie badania diagnostyczne są wykonywane u dziecka {{imie_nazwisko}} przed pozostałymi szczepieniami ordynowanym w pierwszych tygodniach/miesiącach życia, w celu całkowitego wykluczenia możliwości wystąpienia powikłań poszczepiennych ujętych w rozporządzeniu Ministra Zdrowia, informacjach producenta i wynikach badań naukowych.
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<!-- źródło: http://www.polishclub.org/2016/07/20/dr-jerzy-jaskowski-7/ -->
+<table><tr><td>
+Czy dziecko posiada prawidłowe poziomy hematokrytu - Ht - ustalone w oparciu o aktualne badanie (morfologię)? Proszę podać zbadany poziom/dołączyć uwierzytelnioną kopię wyników badania.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+
+<table><tr><td>
+Czy dziecko posiada prawidłowe poziomy żelaza - ustalone w oparciu o aktualne badanie? Proszę podać zbadany poziom/dołączyć uwierzytelnioną kopię wyników badania.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że aktualny poziom żelaza u dziecka nie przekracza 60-70mg - poziom ustalony w oparciu o aktualne badanie.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że aktualny poziom 25 OHD u dziecka nie przekracza 60-70ng - poziom ustalony w oparciu o aktualne badanie. Proszę podać zbadany poziom/dołączyć uwierzytelnioną kopię wyników badania.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że aktualny poziom fibrynogenu u dziecka jest prawidłowy - poziom ustalony w oparciu o aktualne badanie. Proszę podać zbadany poziom/dołączyć uwierzytelnioną kopię wyników badania.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że dziecko nie ma uszkodzonej wątroby - w oparciu o aktualne badanie. Proszę dołączyć uwierzytelnioną kopię wyników badania.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że aktualny poziom białka CRP u dziecka jest prawidłowy - poziom ustalony w oparciu o aktualne badanie. Proszę podać zbadany poziom/dołączyć uwierzytelnioną kopię wyników badania.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że dziecko nie ma stanu zapalnego tzw. wczesnego - w oparciu o aktualne badanie. Proszę dołączyć uwierzytelnioną kopię wyników badania.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że aktualny poziom OB u dziecka jest prawidłowy - poziom ustalony w oparciu o aktualne badanie tradycyjną (nie wirówkową). Proszę podać zbadany poziom/dołączyć uwierzytelnioną kopię wyników badania.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że dziecko nie ma stanu zapalnego tzw. długotrwałego - w oparciu o aktualne badanie. Proszę dołączyć uwierzytelnioną kopię wyników badania.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
