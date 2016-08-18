@@ -2,7 +2,7 @@
 
 ##Do czego służy to repozytorium?
 Materiały stanowią rozszerzenie i uzupełnienie [FAQ ze strony szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/faq.php) oraz 
-[dokumentów do pobrania w sprawie szczepień ze strony pisma.szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/) w zakresie postępowania administracyjnego i niuansów związanych z korespondencją z urzędami.
+[dokumentów do pobrania w sprawie szczepień ze strony pisma.szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/) w zakresie postępowania administracyjnego i niuansów związanych z korespondencją z urzędami. Wiele z zagadnień ujętych w tym repozytorium jest praktycznie zastosowanych, jako wzory dokumentów w sprawach indywidualnych, na grupie FB [Nie szczepimy - aspekty prawne](https://www.facebook.com/groups/445922935592063/).
 
 ##Jaka jest aktualna zawartość repozytorium?
   1. Zbiór przydatnych [przepisów i orzeczeń sądów](https://github.com/szanitani/szczepienia/tree/master/Przepisy).
