@@ -190,5 +190,5 @@ Dołączam uwierzytelnioną kopię dokumentów potwierdzających, że osoba prze
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
 
 <table><tr><td>
-Dołączam uwierzytelnioną kopię dokumentów potwierdzających, że osoba przeprowadzająca szczepienie ochronne posiada co najmniej 6-cio miesięczną praktykę w zakresie przeprowadzania szczepień ochronnych. Należy wpisać okres praktyki w latach i miesiącach. Nie jest wiarygodnym potwierdzeniem dokument potwierdzający jedynie okres pracy na stanowisku.
+Dołączam uwierzytelnioną kopię dokumentów potwierdzających, że osoba przeprowadzająca szczepienie ochronne posiada co najmniej 6-cio miesięczną praktykę w zakresie przeprowadzania szczepień ochronnych. Należy wpisać okres praktyki w latach i miesiącach. Nie jest wiarygodnym potwierdzeniem dokument poświadczający jedynie okres pracy na danym stanowisku.
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
