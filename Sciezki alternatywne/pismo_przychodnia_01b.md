@@ -8,7 +8,7 @@ table {
 -->
 #Lista pytań do lekarza - dla potrzeb wykazania związku przyczynowego między NOP a szczepieniem - przed szczepieniem
 Przeredagowane do potrzeb pisma prawnego sugestie w zakresie algorytmu oceny związku przyczynowo-skutkowego pomiędzy szczepieniem a [NOP w praktyce](http://www.mp.pl/szczepienia/artykuly/wytyczne/show.html?id=97606).
-Przeredagowana lista pytań StopNOP w związku z petycją "Skoro jest ryzyko - musi być wybór" popartą przez ponad 20 000 osób. [Źródło.](https://www.facebook.com/stowarzyszeniestopnop/posts/1299417503419008).
+Przeredagowana lista pytań StopNOP w związku z petycją "Skoro jest ryzyko - musi być wybór" popartą przez ponad 20 000 osób. [Źródło.](https://www.facebook.com/stowarzyszeniestopnop/posts/1299417503419008). [Artykuł dra Jaśkowskiego](http://www.polishclub.org/2016/07/20/dr-jerzy-jaskowski-7/). Inne źródła w tym rozporządzenia MZ i ustawy.
 
 <!-- przeredagowane do potrzeb pisma prawnego sugestie w zakresie algorytmu oceny związku przyczynowo-skutkowego pomiędzy szczepieniem a NOP w praktyce - http://www.mp.pl/szczepienia/artykuly/wytyczne/show.html?id=97606 -->
 
@@ -182,3 +182,11 @@ Czy potwierdzam, że aktualny poziom OB u dziecka jest prawidłowy - poziom usta
 <table><tr><td>
 Czy potwierdzam, że dziecko nie ma stanu zapalnego tzw. długotrwałego - w oparciu o aktualne badanie. Proszę dołączyć uwierzytelnioną kopię wyników badania.
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<!-- źródło: rozporządzenie MZ w sprawie szczepień ochronnych -->
+
+<table><tr><td>
+Dołączam uwierzytelnioną kopię potwierdzającą, że osoba przeprowadzająca szczepienie ochronne odbyły w ramach doskonalenia zawodowego kurs lub szkolenie w zakresie szczepień ochronnych i uzyskała dokument potwierdzający ukończenie tego kursu lub  szkolenia lub uzyskała specjalizację w dziedzinie, w przypadku której ramowy program kształcenia podyplomowego obejmował  problematykę szczepień ochronnych na podstawie przepisów o zawodach lekarza i lekarza dentysty oraz przepisów o zawodach pielęgniarki i położnej.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+ 
