@@ -186,7 +186,7 @@ Czy potwierdzam, że dziecko nie ma stanu zapalnego tzw. długotrwałego - w opa
 <!-- źródło: rozporządzenie MZ w sprawie szczepień ochronnych -->
 
 <table><tr><td>
-Dołączam uwierzytelnioną kopię potwierdzającą, że osoba przeprowadzająca szczepienie ochronne odbyły w ramach doskonalenia zawodowego kurs lub szkolenie w zakresie szczepień ochronnych i uzyskała dokument potwierdzający ukończenie tego kursu lub  szkolenia lub uzyskała specjalizację w dziedzinie, w przypadku której ramowy program kształcenia podyplomowego obejmował  problematykę szczepień ochronnych na podstawie przepisów o zawodach lekarza i lekarza dentysty oraz przepisów o zawodach pielęgniarki i położnej.
+Dołączam uwierzytelnioną kopię dokumentów potwierdzających, że osoba przeprowadzająca szczepienie ochronne odbyła w ramach doskonalenia zawodowego kurs lub szkolenie w zakresie szczepień ochronnych i uzyskała dokument potwierdzający ukończenie tego kursu lub szkolenia lub uzyskała specjalizację w dziedzinie, w przypadku której ramowy program kształcenia podyplomowego obejmował problematykę szczepień ochronnych na podstawie przepisów o zawodach lekarza i lekarza dentysty oraz przepisów o zawodach pielęgniarki i położnej.
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
 
  
