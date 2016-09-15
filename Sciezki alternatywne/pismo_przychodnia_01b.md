@@ -192,3 +192,32 @@ Dołączam uwierzytelnioną kopię dokumentów potwierdzających, że osoba prze
 <table><tr><td>
 Dołączam uwierzytelnioną kopię dokumentów potwierdzających, że osoba przeprowadzająca szczepienie ochronne posiada co najmniej 6-cio miesięczną praktykę w zakresie przeprowadzania szczepień ochronnych. Należy wpisać okres praktyki w latach i miesiącach. Nie jest wiarygodnym potwierdzeniem dokument poświadczający jedynie okres pracy na danym stanowisku.
 </td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<!-- źródło: http://www.cdc.gov/vaccines/hcp/vis/vis-statements/mmr.html -->
+<table><tr><td>
+Czy potwierdzam, że dziecko nie ma HIV/AIDS lub innej choroby dotyczącej systemu immunologicznego? Proszę dołączyć uwierzytelnioną kopię wyników badań.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że dziecko nie stosuje aktualnie preparatów wpływających na system immunologiczny (np. sterydy)?
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że dziecko nie ma żadnego nowotworu? Proszę dołączyć uwierzytelnioną kopię wyników badań.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że dziecko nie podlega leczeniu przeciwnowotworowemu z zastosowaniem radiacji lub leków?
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że dziecko nigdy nie posiadało niskiej liczby płytek krwi? Proszę dołączyć uwierzytelnioną kopię wyników badań.
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że dziecko nie otrzymało innej szczepionki w ciągu ostatnich 4 tygodni?
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
+
+<table><tr><td>
+Czy potwierdzam, że dziecko nie ma otrzymało w ostatnim czasie transfuzji lub innych produktów na bazie krwi?
+</td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odpowiadam:<br><br><br><br><br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;odmawiam udzielenia odpowiedzi z powodu:<br><br></td></tr><tr><td>&nbsp;&nbsp;&nbsp;&nbsp;☐&nbsp;nie znam odpowiedzi na to pytanie</td></tr></table><br>
