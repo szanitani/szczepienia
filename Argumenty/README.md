@@ -30,6 +30,7 @@
 24. [Organ odrzuca zarzut nieistnienia obowiązku w postępowaniu egzekucyjnym](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_024.md)
 25. [Organ stosuje w pismach pokraczne analogie odnoszące się do merytoryki szczepień, byle tylko uzasadnić swoją rację](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_025.md)
 26. [Organ egzekucyjny ustala wysokość grzywny bez uzasadnienia](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_026.md)
+27. [Organ odnosi się do kwestii konstytucyjnych](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_027.md)
 
 ##Gdy wyczerpie się ścieżka postępowania administracyjnego - gwarantowana wygrana.
 
