@@ -12,6 +12,10 @@ Główną korzyścią jest brak zaskoczenia działaniami Organu. W normalnej syt
 
 Należy przejść do serwisu [ePUAP](http://epuap.gov.pl) i postępować w/g instrukcji. Petenci posiadający własny kwalifikowany podpis elektroniczny mogą całą procedurę przeprowadzić z domu. Petenci bez podpisu kwalifikowanego będą musieli jednorazowo udać się do wskazanego urzędu aby poświadczyć swoją tożsamość celem uzyskania Profilu Zaufanego. Warto zapoznać się ze świetną serią poradników ["Oswajamy e-administrację"](http://di.com.pl/tagi/oswajamy-e-administracje/), gdzie można dowiedzieć się jak korzystać z ePUAP ale również i innych e-usług dostępnych w Polsce.
 
+####3a. Czy muszę koniecznie udawać się do urzędu w celu potwierdzenia profilu zaufanego ePUAP?
+
+Obecnie można założyć profil zaufany w ePUAP bez wychodzenia z domu. Pod warunkiem, ze ma sie konto w PKO BP. Do tej pory potwierdzenie profilu zaufanego w ePUAP wymagało osobistej wizyty w urzędzie. Może to być dobre rozwiązanie dla rodziców, którzy przebywaja za granica a nie maja pełnomocnika w Polsce (w rozumieniu art. 40 par. 4 k.p.a.) i chcą prowadzić swoje sprawy w elektronicznym obiegu prawnym. Więcej informacji [tutaj](http://www.pkobp.pl/bankowosc-elektroniczna/ipko/e-urzad/profil-zaufany/).
+
 ###4. Czy po założeniu konta na ePUAP powinienem coś jeszcze skonfigurować?
 
 Tak, warto ustawić powiadamianie o wszystkich operacjach ePUAP przez email, dzięki temu informacja o każdym nowym UPD/dokumencie będzie przekazywana na wskazany email.
