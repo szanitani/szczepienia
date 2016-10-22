@@ -1,4 +1,4 @@
-##Zbiór informacji do budowy argumentów
+## Zbiór informacji do budowy argumentów
 
 W sieci są setki stron z danymi o szczepieniach, są publikacje, dą dane źródłowe. Jest wreszcie forum [szczepienia.org.pl](http://szczepienia.org.pl).
 
