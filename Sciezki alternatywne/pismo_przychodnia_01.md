@@ -92,7 +92,7 @@ W związku z podstawowym prawem pacjenta do wyrażenia świadomej zgody na zabie
 Stanowisko Ministerstwa Zdrowia w przedmiotowej sprawie jest wyrażone w odpowiedzi z dnia 2016-04-14 na interpelację nr 1755, w sprawie procedury szczepień i rozporządzenia Ministra Zdrowia z dnia 18 sierpnia 2011 roku w sprawie obowiązkowych szczepień ochronnych, gdzie Minister Zdrowia precyzuje cyt. "*Kwalifikowanie do szczepień ochronnych jest czynnością z zakresu badania stanu zdrowia, rozpoznawania chorób oraz orzekania i w związku z tym jest czynnością zastrzeżoną do wyłącznej kompetencji lekarza. Kwestia ta jest w sposób jednoznaczny regulowana w art. 2 ust. 1 ustawy z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz.U. z 2015 r. poz. 464).*
 *Lekarz kwalifikujący do szczepienia jest osobą posiadającą kompetencje do podejmowania decyzji o szczepieniu i wyborze preparatu do zastosowania w stosunku do danego dziecka, posiada niezbędną wiedzę z zakresu szczepień ochronnych, znajomość wskazań oraz przeciwwskazań do szczepień, a także wiedzę o możliwych niepożądanych odczynach poszczepiennych. Rozpatrując kwestie dotyczące zakresu obowiązków spoczywających na lekarzu, który przeprowadza szczepienia ochronne, ma on obowiązek udzielić przystępnej informacji m.in. o stanie zdrowia, dających się przewidzieć następstwach zastosowania szczepień, wyjaśnić, na czym będzie polegało przeprowadzenie szczepienia Po uzyskaniu informacji każdy pacjent może przedstawić lekarzowi swoje zdanie na ten temat i jeżeli ma powody sądzić, że lekarz nie przekazał mu wszystkich informacji ma prawo żądać, aby udzielono mu pełnych informacji.*"
 
-{{Pytania - wybrać z poniższych list w zależności od etapu postępowania i celu pisma}}
+{{Pytania - wybrać z poniższych trzech list w zależności od etapu postępowania i celu pisma}}
 
 **PODSTAWA PRAWNA**
 
@@ -110,13 +110,13 @@ Stanowisko Ministerstwa Zdrowia w przedmiotowej sprawie jest wyrażone w odpowie
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{imie nazwisko}} 
 
-##Lista pytań do lekarza
+##Lista nr 1 pytań do lekarza
 Oto [lista pytań](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo_przychodnia_01a.md), które należy wybrać, wstawić do powyższego pisma i przekazać lekarzowi przed szczepieniem, w domyśle po jego wezwaniu do szczepienia. Po kolejnych etapach wymiany korespondencji można wybierać inne pytania. Przed szczepieniem rodzic powinien znać odpowiedzi na wszystkie pytania z listy. Przed szczepieniem należy dołączyć wszystkie pytania, na które nie została jeszcze udzielona odpowiedź.
 
-##Lista pytań do lekarza przed badaniem kwalifikacyjnym
+##Lista nr 2 pytań do lekarza przed badaniem kwalifikacyjnym
 Oto [lista pytań](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo_przychodnia_01b.md), które należy przekazać w całości lekarzowi w trakcie badania kwalifikacyjnego. Brak zadowalającej odpowiedzi nawet na jedno pytanie powinien skutkować wszczęciem procedury wniesienia sprzeciwu w rozumieniu art. 31 ust. 1 Ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta.
 
-##Lista pytań do lekarza po przeprowadzeniu szczepienia
+##Lista nr 3 pytań do lekarza po przeprowadzeniu szczepienia
 Oto [lista pytań](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo_przychodnia_01c.md), które należy przekazać w całości lekarzowi w trakcie badania kwalifikacyjnego z żądaniem wypełnienia po przeprowadzeniu szczepienia. Brak zadowalającej odpowiedzi nawet na jedno pytanie powinien skutkować wszczęciem procedury wniesienia sprzeciwu w rozumieniu art. 31 ust. 1 Ustawy o prawach pacjenta i Rzeczniku Praw Pacjenta oraz należy rozważyć wszczęcie procedury odpowiedzialności karnej wobec lekarza.
 
 ##Czy to są wszystkie możliwe pytania w konkretnej sytuacji?
