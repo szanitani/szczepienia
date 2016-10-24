@@ -20,6 +20,9 @@ To jest trudne pismo. Należy dopasować do swojego stanu faktycznego. Jeśli po
 4. Jeśli postanowienie jest odmowne, przysługuje na nie zażalenie.
 5. Kolejny krok to sąd administracyjny, jako kolejna ścieżka poboczna w postępowaniu (albo ponowne przejście do kroku nr 3 - tyle razy ile mamy cierpliwości)
 
+##Na co należy zwrócić uwagę?
+Na terminy. Termin odwołania na pierwotne postanowienie/decyzję biegnie dopiero od doręczenia postanowienia organu na ten wniosek. Jeśli strona złoży pismo procesowe dotyczące rozstrzygnięcia pierwotnego (np. odwołanie, skargę) przed otrzymaniem postanowienia, zostanie ono odrzucone jako przedwczesne. Więcej w [II OSK 1089/14 - Postanowienie NSA z 2014-05-08](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md) w części repozytorium poświęconej aktom stosowania prawa w zakresie decyzji.
+
 ##Treść pisma:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{miejscowosc}} {{data}}
 
