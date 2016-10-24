@@ -10,14 +10,13 @@ Bo uzasadnia, że dołączenie do postępowania materiału dowodowego nakłada n
 To  najprawdopodobniej będzie argument do sądu administracyjnego.
 
 ##4. Przywołane treści.
-```
-Sąd podziela stanowisko skarżącej, iż w spornych przypadkach wymiar tejże opłaty, jako należności publicznoprawnej
+
+*Sąd podziela stanowisko skarżącej, iż w spornych przypadkach wymiar tejże opłaty, jako należności publicznoprawnej
 (niemniej jednak - wbrew twierdzeniom skarżącej - niebędącej podatkiem) powinien być dokonywany w drodze aktu
 administracyjnego. Zatem w sytuacji, gdy strona kwestionuje zasadność naliczenia opłaty albo wysokość opłaty, organ
 winien wydać akt administracyjny, w którym określi podstawy prawne do pobrania opłaty, jak i zasady jej wyliczenia, a
 strona będzie miała zapewnione prawo skorzystania - w administracyjnym toku instancji - z wszelkich instytucji prawa
-procesowego.
-```
+procesowego.*
 
 #II SA/Ol 158/14 - Wyrok WSA w Olsztynie z 2014-04-02
 
@@ -31,14 +30,13 @@ Bo uzasadnia, że dołączenie do postępowania materiału dowodowego nakłada n
 To  najprawdopodobniej będzie argument do sądu administracyjnego.
 
 ##4. Przywołane treści.
-```
-Skład orzekający w niniejszej sprawie podziela przyjęty w judykaturze pogląd, że gdy strona kwestionuje zasadność
+
+*Skład orzekający w niniejszej sprawie podziela przyjęty w judykaturze pogląd, że gdy strona kwestionuje zasadność
 naliczenia opłat albo wysokość opłaty (a tak było w niniejszej sprawie), organ winien wydać akt administracyjny, w
 którym określi podstawy prawne pobrania opłaty, jak i zasady jej wyliczenia, tak by strona miała zapewnione prawo
 skorzystania - w administracyjnym toku instancji - z wszelkich instytucji prawa procesowego (por. wyrok WSA w
 Warszawie z dnia 27 marca 2006 r. sygn. akt IV SA/Wa 1616/05 oraz postanowienie NSA z dnia 20 sierpnia 2010 r. sygn.
-akt II OSK 948/10, LEX Nr 737717).
-```
+akt II OSK 948/10, LEX Nr 737717).*
 
 #II SA/Wr 844/11 - Wyrok WSA we Wrocławiu z 2012-02-23
 
@@ -52,27 +50,27 @@ Bo uzasadnia, że dołączenie do postępowania materiału dowodowego nakłada n
 To  najprawdopodobniej będzie argument do sądu administracyjnego.
 
 ##4. Przywołane treści.
-```
-Skład orzekający w niniejszej sprawie podziela przyjęty w judykaturze pogląd, że gdy strona kwestionuje zasadność
+
+*Skład orzekający w niniejszej sprawie podziela przyjęty w judykaturze pogląd, że gdy strona kwestionuje zasadność
 naliczenia opłaty albo wysokość opłaty, organ winien wydać akt administracyjny, w którym określi podstawy prawne do
 pobrania opłaty, jak i zasady jej wyliczenia, tak by strona miała zapewnione prawo skorzystania - w administracyjnym
 toku instancji - z wszelkich instytucji prawa procesowego (por. wyrok WSA w Warszawie z dnia 27 marca 2006 r., sygn.
-akt IV SA/Wa 1616/05).
+akt IV SA/Wa 1616/05).*
 
-W świetle powyższego, w przypadku kwestionowania przez stronę - jak ma to miejsce w niniejszej sprawie - wysokości
+*W świetle powyższego, w przypadku kwestionowania przez stronę - jak ma to miejsce w niniejszej sprawie - wysokości
 obciążających Ją opłat, organ nie może ograniczać się jedynie do bezkrytycznego potwierdzenia rachunku przedłożonego
 przez osobę wykonującą zlecone zadania. Przeciwnie, organ administracji publicznej - w świetle przytoczonych wyżej
 przepisów kodeksu postępowania administracyjnego - winien dążyć do wyjaśnienia wszelkich okoliczności objętych
 prowadzonym postępowaniem, czyli - w sprawie będącej przedmiotem sądowej kontroli - wyjaśnić te wszystkie
 okoliczności, które miały wpływ na wysokość opłat, ustalonych następnie w drodze konstytutywnej decyzji. Cały zaś ten
 proces winien był być uzewnętrzniony w uzasadnieniu decyzji kończącej postępowanie, spełniającej wymogi art. 107 § 3
-k.p.a.
+k.p.a.*
 
-Wymogów powyższych, zdaniem Sądu, organ II instancji nie dochował w stopniu zezwalającym na wydanie ostatecznego
+*Wymogów powyższych, zdaniem Sądu, organ II instancji nie dochował w stopniu zezwalającym na wydanie ostatecznego
 rozstrzygnięcia, a przedłożone Sądowi akta sprawy zawierają luki uniemożliwiające merytoryczną ocenę prawidłowości
-zaskarżonej decyzji.
+zaskarżonej decyzji.*
 
-Ustalony art.77§ 1 k.p.a. obowiązek zebrania całego materiału dowodowego w postępowaniu administracyjnym oznacza, że
+*Ustalony art.77§ 1 k.p.a. obowiązek zebrania całego materiału dowodowego w postępowaniu administracyjnym oznacza, że
 organ administracji publicznej winien z własnej inicjatywy gromadzić w aktach dowody, które jego zdaniem będą
 konieczne do prawidłowego rozstrzygnięcia sprawy oraz winien gromadzić w aktach sprawy także dowody wskazane lub
 dostarczone przez strony, jeżeli mają one znaczenie dla sprawy /art.75 § 1 k.p.a./.. W orzecznictwie podkreśla się
@@ -84,13 +82,12 @@ podmiotu oczekującego na dowody zaoferowane przez stronę. Wręcz przeciwnie, r
 zasada oficjalności (art.7, art.75 k.p.a.) wymaga, by w toku postępowania organy administracji publicznej podejmowały
 wszelkie kroki niezbędne do wyjaśnienia i załatwienia sprawy i dopuszczały jako dowód wszystko, co może przyczynić się
 do jej wyjaśnienia, a nie jest sprzeczne z prawem, a więc by z urzędu przeprowadzały dowody służące ustaleniu stanu
-faktycznego sprawy.
-```
+faktycznego sprawy.*
 
 #II OSK 948/10 - Postanowienie NSA z dnia 2010-08-20
 
 ##1. Opis orzeczenia
-Nieprawidłowy tryb odwoławczy skutkujący niewydaniem  aktu administracyjnego oraz błędne wydanie aktu administracyjnego.
+Nieprawidłowy tryb odwoławczy skutkujący niewydaniem aktu administracyjnego oraz błędne wydanie aktu administracyjnego.
 
 ##2. Dlaczego jest istotne?
 Bo uzasadnia, że złożenie wniosku w trybie administracyjnym musi skutkować wydaniem decyzji.
@@ -99,16 +96,15 @@ Bo uzasadnia, że złożenie wniosku w trybie administracyjnym musi skutkować w
 To  najprawdopodobniej będzie argument do sądu administracyjnego.
 
 ##4. Przywołane treści.
-```
-Inspekcja Weterynaryjna pobiera opłaty, w tym za przeprowadzenie kontroli granicznej, art. 30 ust. 1 pkt 2 ustawy z
+
+*Inspekcja Weterynaryjna pobiera opłaty, w tym za przeprowadzenie kontroli granicznej, art. 30 ust. 1 pkt 2 ustawy z
 dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842 ze zm.). Opłaty te są
 niewątpliwie tymi, o których mowa w art. 2 § 2 Ordynacji podatkowej i do nich, z mocy tego przepisu, stosuje się dział
 III tej Ordynacji. Przepisy tego działu, art. 75 § 2 pkt 1 lit. c/ w zw. z art. 75 § 1, przewidują uprawnienie do
 złożenia wniosku o stwierdzenie nadpłaty podatku. W niniejszej sprawie sprowadza się to do uprawnienia złożenia
 takiego wniosku o zwrot opłaty za przeprowadzenie granicznej kontroli weterynaryjnej, gdy strona uważa, że opłata ta
 została zawyżona. Wniosek taki wszczyna postępowanie administracyjne w sprawie administracyjnej zwrotu nadpłaty,
-której załatwienie kończy się wydaniem decyzji administracyjnej.
-```
+której załatwienie kończy się wydaniem decyzji administracyjnej.*
 
 #II SA/Ol 893/11 - Wyrok WSA w Olsztynie z 2011-12-13
 
@@ -126,7 +122,6 @@ Prawdopodobny argument dla sądu administracyjnego w przypadku twierdzeń organu
 ##4. Przywołane treści
 *Skoro jednak na skutek odmowy wszczęcia postępowania organ nie prowadzi postępowania administracyjnego i nie rozstrzyga sprawy co do jej istoty, to należy przyjąć, iż w postanowieniu wydanym w trybie art. 61a § 1 k.p.a. organ nie może formułować wniosków i ocen dotyczących meritum żądania. Instytucja odmowy wszczęcia postępowania kończy się bowiem aktem formalnym, a nie merytorycznym.*
 
-
 #II SA/Go 255/15 - Wyrok WSA w Gorzowie Wlkp. z 2015-06-10
 
 [link](http://orzeczenia.nsa.gov.pl/doc/3F07727EA3)
@@ -135,7 +130,7 @@ Prawdopodobny argument dla sądu administracyjnego w przypadku twierdzeń organu
 Uchylenie zaskarżonego postanowienia.
 
 ##2. Dlaczego jest istotne?
-Stwierdza, że organ odmawiając wydania decyzji winien wydać postepowanie o odmowie wszczęcia postepowania.
+Stwierdza, że organ odmawiając wydania decyzji winien wydać postanowienie o odmowie wszczęcia postepowania.
 
 ##3. Kiedy stosować?
 Prawdopodobny argument dla sądu administracyjnego.
@@ -154,7 +149,7 @@ Prawdopodobny argument dla sądu administracyjnego.
 Oddalenie skargi.
 
 ##2. Dlaczego jest istotne?
-Uzasadnia, że wnioski strony winny być zaatwiane w formie decyzji.
+Uzasadnia, że wnioski strony winny być załatwiane w formie decyzji.
 
 ##3. Kiedy stosować?
 Prawdopodobny argument dla sądu administracyjnego gdy na żądanie strony organ nie wydaje rozstrzygnięcia w formie decyzji (UWAGA 1)
@@ -176,7 +171,7 @@ Prawdopodobny argument dla sądu administracyjnego gdy na żądanie strony organ
 Skarga
 
 ##2. Dlaczego jest istotne?
-Uzasadnia, że wnioski strony winny być zaatwiane w formie decyzji.
+Uzasadnia, że wnioski strony winny być załatwiane w formie decyzji.
 
 ##3. Kiedy stosować?
 Prawdopodobny argument dla sądu administracyjnego gdy na żądanie strony organ nie wydaje rozstrzygnięcia w formie decyzji 
@@ -184,3 +179,29 @@ Prawdopodobny argument dla sądu administracyjnego gdy na żądanie strony organ
 ##4. Przywołane treści
 *"Zatem w myśl obowiązującej aktualnie regulacji wniosek o wszczęcie postępowania administracyjnego winien być zweryfikowany w oparciu o przesłanki określone w art. 61a § 1 Kodeksu postępowania administracyjnego. Przy czym nawet w przypadku ustalenia, że podmiot występujący z żądaniem nie ma legitymacji w tym zakresie, czy też istnieją inne uzasadnione przyczyny uniemożliwiające wszczęcie postępowania, organ winien wydać postanowienie o odmowie wszczęcia postępowania. W związku z tym załatwienie wniosku strony zwykłym pismem nie czyni zadość wymogom określonym w Kodeksie postępowania administracyjnego. Ocena zasadności żądania jednostki, a zwłaszcza zasadność jej zarzutów, winna być bowiem dokonana wyłącznie w formach procesowych. Zatem żądanie wszczęcia postępowania w sprawie wymaga załatwienia w formach postępowania administracyjnego albo poprzez nadanie sprawie biegu, albo poprzez wydanie postanowienia o odmowie wszczęcia postępowania. Natomiast brak wydania postanowienia o odmowie wszczęcia postępowania przesądza o bezczynności organu administracji publicznej."*
 
+#II OSK 1089/14 - Postanowienie NSA z 2014-05-08
+
+[link](http://orzeczenia.nsa.gov.pl/doc/F839E1BA97)
+
+##1. Opis orzeczenia
+Kwestia biegu terminu na odwołanie po złożeniu wniosku o uzupełnienie w trybie art. 111 § 1 k.p.a.
+
+##2. Dlaczego jest istotne?
+Bo przypomina, że po złożeniu tego wniosku, do czasu odpowiedzi organu nie należy składać pism procesowych w kwestii pierwotnego orzeczenia. Zostaną odrzucone jako przedwczesne.
+
+##3. Kiedy stosować?
+W przypadku kwestionowania przez organ terminów na odwołanie. W skardze do WSA.
+
+##4. Przywołane treści.
+
+*Zgodnie z art. 111 § 1 k.p.a., strona może w terminie czternastu dni od dnia doręczenia lub ogłoszenia decyzji zażądać jej uzupełnienia, co do rozstrzygnięcia bądź co do prawa odwołania, wniesienia w stosunku do decyzji powództwa do sądu powszechnego lub skargi do sądu administracyjnego albo sprostowania zamieszczonego w decyzji pouczenia w tych kwestiach.*
+
+*Jak wynika z art. 111 § 1b k.p.a., uzupełnienie lub odmowa uzupełnienia decyzji następuje w formie postanowienia.*
+
+*Jak stanowi art. 111 § 2 k.p.a., w przypadku wydania postanowienia, o którym mowa w art. 111 § 1b k.p.a., termin dla strony do wniesienia odwołania, powództwa lub skargi biegnie od dnia jego doręczenia lub ogłoszenia.*
+
+*Konstrukcja orzeczenia o uzupełnieniu lub odmowie uzupełniania decyzji lub postanowienia nie ma samodzielnego bytu prawnego, ale pozostaje częścią aktu administracyjnego, którego uzupełnienia domaga się strona. W związku z tym dzieli ono losy również tego aktu w postępowaniu odwoławczym (zażaleniowym). Z tych też przyczyn na rozstrzygnięcie z art. 111 k.p.a. nie przysługuje zażalenie, a jednym ze skutków procesowych zgłoszenia wniosku o jego wydanie jest przesunięcie początku terminu do wniesienia skargi na dzień doręczenia postanowienia, o którym mowa w art. 111 § 1b k.p.a. Oznacza to, że przed doręczeniem tego postanowienia termin do wniesienia skargi nie biegnie.*
+
+*Skoro skarga na decyzję z [...] października 2013 r. została wniesiona przed dniem doręczenia postanowienia z [...] grudnia 2013 r., to oznacza, że wniesiona została przed rozpoczęciem biegu terminu do jej wniesienia.*
+
+*Skargi wniesione przed rozpoczęciem terminu do ich wniesienia są skargami przedwczesnymi – i podlegają odrzuceniu jako niedopuszczalne, na podstawie art. 58 § 1 pkt 6 p.p.s.a.*
