@@ -79,6 +79,7 @@ Strukturę trzeba opracować, orzeczenia dodać i poopisywać. Zobaczymy co z te
 - [II FPS 8/09 - Uchwała NSA z 2010-02-15](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/postepowanie_egzekucyjne.md)
 - [II FSK 954/11 - Wyrok NSA z 2013-01-18](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
 - [II GSK 1197/14 - Postanowienie NSA 2014-06-04](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
+- [II OSK 1089/14 - Postanowienie NSA z 2014-05-08](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [II OSK 2445/10 - Wyrok NSA z 2012-03-02](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/postepowanie_egzekucyjne.md)
 - [II OSK 3013/13 - Wyrok NSA z 2015-07-14](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
 - [II OSK 460/10 - Wyrok NSA z 2011-04-05](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/wezwanie do osobistego stawiennictwa.md)
