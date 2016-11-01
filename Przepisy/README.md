@@ -84,6 +84,7 @@ Strukturę trzeba opracować, orzeczenia dodać i poopisywać. Zobaczymy co z te
 - [II OSK 3013/13 - Wyrok NSA z 2015-07-14](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
 - [II OSK 460/10 - Wyrok NSA z 2011-04-05](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/wezwanie do osobistego stawiennictwa.md)
 - [II OSK 948/10 - Postanowienie NSA z dnia 2010-08-20](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
+- [II SA/Bk 25/16 - Wyrok WSA w Białymstoku z 2016-03-01](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [II SA/Gd 170/14 - Wyrok WSA z 2014-11-13](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
 - [II SA/Go 255/15 - Wyrok WSA w Gorzowie Wlkp. z 2015-06-10](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [II SA/Go 43/13 - Wyrok WSA w Gorzowie Wlkp. z 2013-02-28](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
