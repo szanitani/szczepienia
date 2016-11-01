@@ -205,3 +205,27 @@ W przypadku kwestionowania przez organ terminów na odwołanie. W skardze do WSA
 *Skoro skarga na decyzję z [...] października 2013 r. została wniesiona przed dniem doręczenia postanowienia z [...] grudnia 2013 r., to oznacza, że wniesiona została przed rozpoczęciem biegu terminu do jej wniesienia.*
 
 *Skargi wniesione przed rozpoczęciem terminu do ich wniesienia są skargami przedwczesnymi – i podlegają odrzuceniu jako niedopuszczalne, na podstawie art. 58 § 1 pkt 6 p.p.s.a.*
+
+#II SA/Bk 25/16 - Wyrok WSA w Białymstoku z 2016-03-01
+
+[link](http://orzeczenia.nsa.gov.pl/doc/7775775632)
+
+##1. Opis orzeczenia
+Odniesienie do zgłoszenia materiału dowodowego przez stronę.
+
+##2. Dlaczego jest istotne?
+Uzasadnia, że wnioski dowodowe strony powinny być skrupulatnie rozpatrzone. To jest bardzo ciekawy wyrok, warto zapoznać się z całą treścią.
+
+##3. Kiedy stosować?
+Mocny argument dla sądu administracyjnego gdy organ nie odniósł się do zgłoszonego materiału dowodowego.
+
+##4. Przywołane treści
+*Kontrolując zgodność z prawem zaskarżonych rozstrzygnięć wskazać trzeba, że w toku postępowania administracyjnego zadaniem organu jest takie ustalenie stanu faktycznego sprawy, aby odpowiadał on rzeczywistości. Organy mają obowiązek podjęcia wszelkich czynności niezbędnych do dokładnego wyjaśnienia stanu faktycznego oraz do załatwienia sprawy, mając przy tym na względzie interes społeczny i słuszny interes obywateli (art. 7 k.p.a.). Dopełnieniem tego obowiązku jest powinność wyczerpującego zebrania i rozpatrzenia całego materiału dowodowego (art. 77 § 1 k.p.a.).*
+
+*Powyższe działanie organu I instancji stanowi naruszenie prawa procesowego, mogące mieć istotny wpływ na wynik sprawy, a zwłaszcza naruszenie zasady czynnego udziału strony w postępowaniu (art. 10 k.p.a.). Organy administracji publicznej nie mogą ignorować aktywności stron w dążeniu do ustalenia stanu faktycznego, szczególnie gdy strony przedstawiają dowody, które w ich ocenie podważają dotychczasowe ustalenia poczynione w toku postępowania. Obowiązkiem organu jest ustosunkowanie się do przedstawionych przez stronę dowodów i wyczerpujące wyjaśnienie pojawiających się na tym tle wątpliwości (por. wyrok NSA z dnia 24 listopada 2011 r., II OSK 1639/10, LEX nr 1151966). Nieuwzględnienie (pominięcie) wniosku dowodowego zgłoszonego przez stronę organ powinien należycie umotywować, przedstawiając w uzasadnieniu decyzji argumenty, którymi kierował się, rozpoznając zgłoszone przez stronę żądanie przeprowadzenia dowodu (por. wyrok WSA w Warszawie z dnia 27 kwietnia 2006 r., I SA/Wa sygn. akt 1622/05, opubl. lex nr 222029, wyrok NSA z dnia 10 grudnia 1997 r., sygn. akt I SA/Gd 409/96, Biul. Skarb. 1998, nr 2, s. 16, w którym sąd stwierdził, że "odmowa przeprowadzenia dowodu i jej przyczyny powinny znaleźć wyraźne odzwierciedlenie w aktach sprawy").*
+
+*Ponadto organ administracji nie może, przed wydaniem rozstrzygnięcia, odmówić oceny dowodów przedłożonych przez stronę, powołując się, jak to miało miejsce w przedmiotowej sprawie, na fakt zakończenia postępowania dowodowego. Skład orzekający w niniejszej sprawie w pełni podziela stanowisko WSA we Wrocławiu wyrażone w wyroku z dnia 14 sierpnia 2012 r., IV SA/Wr 237/12, LEX nr 1273090, że "jeżeli strona zgłasza dowód, to w świetle art. 78 k.p.a. wedle którego żądanie strony dotyczące przeprowadzenia dowodu należy uwzględnić, jeżeli przedmiotem dowodu są okoliczności mające znaczenie dla sprawy, chyba że okoliczności te stwierdzone są wystarczająco innym dowodem, organ administracji może nie uwzględnić jej wniosku dowodowego jedynie w sytuacji, gdy żądanie dotyczy tezy dowodowej już stwierdzonej na korzyść strony. Natomiast jeżeli strona wskazuje dowód, który ma znaczenie dla rozstrzygnięcia sprawy, przy czym jest zgłoszony na tezę dowodową odmienną, taki dowód powinien być przeprowadzony przez organ" (por. też wyrok WSA we Wrocławiu z dnia 17 listopada 2009 r., sygn. akt III SA/Wr 325/09, opubl. lex nr 589381, wyrok WSA w Łodzi z dnia 7 grudnia 2007 r., sygn. akt II SA/Łd 915/07, opubl. lex nr 461659). W związku z powyższym w przedmiotowej sprawie, jak słusznie podniósł skarżący, doszło do naruszenia art. 78 § 1 k.p.a., zgodnie z którym żądanie strony dotyczące przeprowadzenia dowodu należy uwzględnić, jeżeli przedmiotem dowodu jest okoliczność mająca znaczenie dla sprawy.*
+
+*Należy podkreślić, że Kodeks postępowania administracyjnego przyjmuje zasadę równej mocy środków dowodowych, nie wprowadzając ograniczeń co do rodzaju dowodów, którym należy przyznać pierwszeństwo w ustaleniu istnienia danego faktu. Jedyne ograniczenie wprowadzone w przepisach k.p.a. dotyczy dopuszczalności środka dowodowego z przesłuchania stron (art. 86 k.p.a.).*
+
+*W przepisach k.p.a. nie ma zatem podstaw do wprowadzenia zróżnicowania środków dowodowych (por. wyrok NSA z dnia 27 kwietnia 1992 r., sygn. akt III SA 1838/91, opubl. ONSA 1992, nr 2, poz. 45). W świetle art. 75 k.p.a. niedopuszczalne jest stosowanie formalnej teorii dowodów poprzez twierdzenie, że daną okoliczność można udowodnić wyłącznie określonymi środkami dowodowymi, bądź też tworzenie nowych reguł korzystania ze środków dowodowych( por. wyrok NSA z dnia 9 marca 1989 r., II SA 961/88 , opubl. ONSA 1989, nr 1, poz. 33).*
