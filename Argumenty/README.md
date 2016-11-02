@@ -1,9 +1,9 @@
-##Zbiór argumentów do wykorzystania w korespondencji z Organami
+## Zbiór argumentów do wykorzystania w korespondencji z Organami
 
-##Argumenty merytoryczne
+## Argumenty merytoryczne
 1. Komentarz do materiału wykorzystywanego przez Inspekcję Sanitarną, wraz z pytaniami w [formie materiału dowodowego w rozumieniu KPA](https://github.com/szanitani/szczepienia/blob/master/Argumenty/szczepienia%20za%20i%20przeciw/README.md).
 
-##Argumenty do zastosowania w określonych sytuacjach prawnych
+## Argumenty do zastosowania w określonych sytuacjach prawnych
 1. [Organ przywołuje art. 5 pkt 3 u.p.i.s.](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_001.md)
 2. [Organ przywołuje art. 5 ust. 1 pkt 1 lit. b u.z.z.](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_002.md)
 3. [Organ żąda od rodziców przekazania dokumentów, oświadczenia lub potwierdzenia stanu prawnego](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_003.md)
@@ -30,7 +30,8 @@
 24. [Organ odrzuca zarzut nieistnienia obowiązku w postępowaniu egzekucyjnym](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_024.md)
 25. [Organ stosuje w pismach pokraczne analogie odnoszące się do merytoryki szczepień, byle tylko uzasadnić swoją rację](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_025.md)
 26. [Organ egzekucyjny ustala wysokość grzywny bez uzasadnienia](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_026.md)
+27. [Organ odnosi się do kwestii konstytucyjnych](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_027.md)
 
-##Gdy wyczerpie się ścieżka postępowania administracyjnego - gwarantowana wygrana.
+## Gdy wyczerpie się ścieżka postępowania administracyjnego - gwarantowana wygrana.
 
 1. [Kwestie prawne badania kwalifikacyjnego](https://github.com/szanitani/szczepienia/blob/master/Argumenty/prawne/argument_xx1.md)

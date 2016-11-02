@@ -17,7 +17,7 @@ krok 5 - sprawdzasz wiek dziecka
  
 krok 6 - jesli wiek dziecka jest mniejszy niż wpisany w rozporządzeniu w sprawie obowiązkowych szczepień - przechodzisz do kroku 1
  
-krok 7 - GAME OVER, wygrałeś/aą z systemem - gratulacje!
+krok 7 - GAME OVER, wygrałeś/aś z systemem - gratulacje!
 
 ##Jak złożyć sprzeciw?
 Szczegóły są opisane na str. 48-49 w podręczniku ["Zrozumieć Prawa Pacjenta"](http://akademia.nfz.gov.pl/podrecznik-zrozumiec-prawa-pacjenta/). Gdyby ktoś chciał skorzystać z tej ścieżki, proszę o kontakt na forum, warto opracować wzór dokumentu sprzeciwu i dodać go do tego repozytorium.
