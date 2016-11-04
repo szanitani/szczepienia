@@ -69,13 +69,16 @@ Wiele błędów w postępowaniu organu wynika z przyjętej elektronicznej ście�
 ## 17. Gdzie znajdę orzeczenia przydatne w sytuacji wezwania strony do stawienia się w Inspekcji Sanitarnej?
 Bywa, że organ wzywa stronę do stawienia się w swojej siedzibie. Spotkania te mają rózny przebieg. Szczegółowo te sytuacje i możliwe dla strony opcje są opisane na forum, a tutaj są [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/wezwanie do osobistego stawiennictwa.md).
 
-## 18. A orzeczenia w innych grupach spraw np. upomnienia, zażalenia, skargi?
+## 18. Gdzie znajdę orzeczenia przydatne w przypadku skarżenia bezczynnoći/przewlekłości ?
+Gdy Organ do którego składamy żądanie w postaci wniosku w romumieniu kpa nie dotrzymuje terminu załatwienia spraw, możemy posiłkować się orzeczeniami znajdującymi się w tej sekcji [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/bezczynnosc-przewleklosc.md)
+
+## 19. A orzeczenia w innych grupach spraw np. upomnienia, zażalenia, skargi?
 Strukturę trzeba opracować, orzeczenia dodać i poopisywać. Zobaczymy co z tego wyjdzie.
 
-## 19. Czy jest więcej orzeczeń istotnych w sprawach szczepień?
+## 20. Czy jest więcej orzeczeń istotnych w sprawach szczepień?
 Tak, lista orzeczeń oczekujących na sklasyfikowanie i opis (bardzo niepełna - pomoc mile widziana) jest [tutaj](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/oczekujace.md)
 
-## 20. Indeks sygnatur orzeczeń.
+## 21. Indeks sygnatur orzeczeń.
 - [I OSK 1750/10 - Wyrok NSA z 2011-02-08](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
 - [I OSK 654/11 - Wyrok NSA 2012-04-25](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [I SA/Wr 703/13 - Wyrok WSA we Wrocławiu z 2013-10-10](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
@@ -85,6 +88,7 @@ Tak, lista orzeczeń oczekujących na sklasyfikowanie i opis (bardzo niepełna -
 - [II OSK 1089/14 - Postanowienie NSA z 2014-05-08](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [II OSK 2445/10 - Wyrok NSA z 2012-03-02](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/postepowanie_egzekucyjne.md)
 - [II OSK 3013/13 - Wyrok NSA z 2015-07-14](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
+- [II OSK 33/11 - Postanowienie NSA 2011-01-20](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/bezczynnosc-przewleklosc.md)
 - [II OSK 460/10 - Wyrok NSA z 2011-04-05](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/wezwanie do osobistego stawiennictwa.md)
 - [II OSK 948/10 - Postanowienie NSA z dnia 2010-08-20](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [II SA/Bk 25/16 - Wyrok WSA w Białymstoku z 2016-03-01](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
@@ -96,6 +100,7 @@ Tak, lista orzeczeń oczekujących na sklasyfikowanie i opis (bardzo niepełna -
 - [II SA/Ol 893/11 - Wyrok WSA w Olsztynie z 2011-12-13](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [II SA/Sz 1223/11 - Wyrok WSA w Szczecinie z 2012-02-01](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
 - [II SA/Wr 844/11 - Wyrok WSA we Wrocławiu z 2012-02-23](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
+- [II SAB/Go 51/16 - Wyrok WSA w Gorzowie Wlkp. z 2016-07-27](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/bezczynnosc-przewleklosc.md)
 - [II SAB/OI 48/15 - Wyrok WSA w Olsztynie z 2016-03-10](http://orzeczenia.nsa.gov.pl/doc/3E15D9C0C1)
 - [IV SA/Po 901/14 - Wyrok WSA w Poznaniu 2015-04-23](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
 - [IV SA/Wa 1616/05 - Wyrok WSA w Warszawie z 2006-03-27](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
