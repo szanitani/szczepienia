@@ -69,8 +69,8 @@ Wiele błędów w postępowaniu organu wynika z przyjętej elektronicznej ście�
 ## 17. Gdzie znajdę orzeczenia przydatne w sytuacji wezwania strony do stawienia się w Inspekcji Sanitarnej?
 Bywa, że organ wzywa stronę do stawienia się w swojej siedzibie. Spotkania te mają rózny przebieg. Szczegółowo te sytuacje i możliwe dla strony opcje są opisane na forum, a tutaj są [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/wezwanie do osobistego stawiennictwa.md).
 
-## 18. Gdzie znajdę orzeczenia przydatne w przypadku skarżenia bezczynnoći/przewlekłości ?
-Gdy Organ do którego składamy żądanie w postaci wniosku w romumieniu kpa nie dotrzymuje terminu załatwienia spraw, możemy posiłkować się orzeczeniami znajdującymi się w tej sekcji [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/bezczynnosc-przewleklosc.md)
+## 18. Gdzie znajdę orzeczenia przydatne w przypadku skarżenia bezczynnośi/przewlekłości ?
+Gdy Organ do którego składamy żądanie w postaci wniosku w rozumieniu kpa nie dotrzymuje terminu załatwienia spraw, możemy posiłkować się orzeczeniami znajdującymi się w tej sekcji [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/bezczynnosc-przewleklosc.md)
 
 ## 19. A orzeczenia w innych grupach spraw np. upomnienia, zażalenia, skargi?
 Strukturę trzeba opracować, orzeczenia dodać i poopisywać. Zobaczymy co z tego wyjdzie.
