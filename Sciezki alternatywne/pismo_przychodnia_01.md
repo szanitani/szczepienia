@@ -15,6 +15,7 @@ W trakcie prac. Można korzystać już teraz, a kolejne wersje wysyłać ewentua
 1. Osób, które mają do wykonania badanie kwalifikacyjne przed szczepieniem ochronnym w trybie art. 17 ust. 2 u.z.z. 
 2. Osób, które otrzymują od świadczeniodawcy tzw. oświadczenia o odmowie szczepień, w których jest napisane, że pacjent został poinformowany o skutkach i bezpieczeństwie szczepień
 3. Inne osoby, które w jakiś sposób chcą się zabezpieczyć przed lekkomyślnym działaniem świadczeniodawcy usług medycznych.
+4. Inne osoby, które chcą wykorzystać tą wiedzę w postępowaniu karnym wobec lekarza.
 
 ##Jaki jest cel tego pisma?
 1. Pozyskanie od lekarza wiedzy przed szczepieniem
@@ -51,6 +52,9 @@ Bo zakłada się, że przed poszczególnymi badaniami te pytania będą wybieran
 
 ##Jaki jest inny cel tego pisma?
 Być może uda się rzeczywiście uzyskać jakąś wiążącą i merytorycznie uzasadnioną odpowiedź. Nie jest natomiast celem polemika czy kłótnie ze świadczeniodawcami - jeśli nie chcą odpowiedzieć na te pytania lub wypełnić rubryki zgodnie ze swoim stanem wiedzy, to wystarczającym jest tylko pozyskanie dokumentu odmowy odpowiedzi na to pismo. Odmowa wystawienia takiego oświadczenia jednakże powinna być dokonana w obecności świadka lub zarejestrowana w jakiś sposób. 
+
+##Co to znaczy wykorzystać w postępowaniu karnym wobec lekarza?
+Chodzi o to, że z listy poniższych pytań może wynikać co lekarz powinien ustalić przed szczepieniem, a czego nie zrobił. Jeśli dziecko poniosło szkodę po szczepieniu, wobec lekarza można w tej sytuacji zastosować procedurę karną. Należy zwrócić uwagę, że obecnie w prokuraturach zostały powołane specjalne działy do walki z błędami medycznymi. Więcej [na tej stronie](http://www.lekarziprawo.pl/nowe-dzialy-w-prokuraturach-dotyczace-bledow-medycznych/).
 
 ##Jak mogę przekazać to pismo do przychodni?
 Listem poleconym ze zwrotnym potwierdzeniem odbioru, z dołączonym pismem przewodnim albo też złożyć osobiście w sekretariacie z potwierdzeniem przyjęcia na kopii. Przychodnie nie korzystają z ePUAP. Teoretycznie jest opcja wysłania pisma w sposób elektroniczny z podpisem kwalifikowanym, niemniej pomijamy ją w tym przypadku, bo nie można przykładowo wymusić na przychodni odesłania potwierdzenia odbioru pisma również podpisanego elektronicznie. W określonych sytuacjach może być istotne wręczenie pisma lekarzowi przed badaniem kwalifikacyjnym. Jeśli lekarz będzie chciał kopię dla siebie, można skserować podpisane przez lekarza pismo, i na każdej stronie złożyć oświadczenie "za zgodność z oryginałem {{data}} {{podpis}}".
