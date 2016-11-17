@@ -138,3 +138,6 @@ To bardzo obszerny temat. Z punktu widzenia działań lekarza i pytań, które m
    - formularz zgłoszenia do prokuratury
 
 W tym poście znajdują się również instrukcje i wskazówki oraz warto zajrzeć do sekcji komentarzy. W przypadku zgłoszenia do prokuratury warto rozważyć złożenie wniosku o występowanie w roli oskarżyciela posiłkowego. Niniejszy dokument z listami pytań należy wykorzystać jako materiał dowodowy dla prokuratora w związku z jego pytaniami do biegłego. Niestety, tutaj jest rola rodzica (oskarżyciela posiłkowego) aby takie pytania, jak w powyższych listach pytań, zadawał.
+
+##Czy mogę nagrywać rozmowy z lekarzem?
+Krótka odpowiedź - TAK. Dłuższa - trzeba wiedzieć jak można wykorzystać nagranie a jak nie można oraz co jeszcze trzeba zrobić aby sąd mógł uznać to za wiarygodny dowód w ewentualnej sprawie. Więcej w [tym artykule](http://www.lekarziprawo.pl/pacjent-moze-nagrac-rozmowe-z-lekarzem-i-wykorzystac-ja-w-sadzie/)
