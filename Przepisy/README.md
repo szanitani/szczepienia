@@ -103,6 +103,7 @@ Tak, lista orzeczeń oczekujących na sklasyfikowanie i opis (bardzo niepełna -
 - [II SA/Wr 844/11 - Wyrok WSA we Wrocławiu z 2012-02-23](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [II SAB/Go 51/16 - Wyrok WSA w Gorzowie Wlkp. z 2016-07-27](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/bezczynnosc-przewleklosc.md)
 - [II SAB/OI 48/15 - Wyrok WSA w Olsztynie z 2016-03-10](http://orzeczenia.nsa.gov.pl/doc/3E15D9C0C1)
+- [III SA/Gd 337/10 - Wyrok WSA w Gdańsku z 2010-11-18](http://orzeczenia.nsa.gov.pl/doc/A75655A90C)
 - [IV SA/Po 901/14 - Wyrok WSA w Poznaniu 2015-04-23](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
 - [IV SA/Wa 1616/05 - Wyrok WSA w Warszawie z 2006-03-27](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [Wyrok Sądu Najwyższego z 10 października 2013 r. (sygn. II UK 104/13)](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
