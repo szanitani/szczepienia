@@ -67,7 +67,7 @@ Zaskarżenie postanowienia wydanego na podst. u.p.e.a.
 Uzasadnia, że gdy organ wystawi postanowienie o nałożeniu grzywny to strona mimo przysługujących mu tylko 7 dni na złożenie zażalenia ma 14 dni na złożenie wniosku o uzupełnienie tego postanowienia. 
 
 ##3. Kiedy stosować?
-Gdy organ egzekucyjny zażuci uchybienie 7 dniowego terminu wniesienia zażalenia na postanowienie o nałożeniu grzywny (przy wcześmniejszym złożeniu w/w wniosku o uzupełnienie.
+Gdy organ egzekucyjny zarzuci uchybienie 7 dniowego terminu wniesienia zażalenia na postanowienie o nałożeniu grzywny (przy wcześniejszym złożeniu w/w wniosku o uzupełnienie.
 
 ##4. Przywołane treści.
 
