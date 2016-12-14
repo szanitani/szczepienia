@@ -59,15 +59,16 @@ Argument dla NSA.
 *Wskazane powyżej okoliczności uzasadniają tezę, że art. 141 § 4 zd. pierwsze p.p.s.a. może stanowić samodzielną podstawę kasacyjną (art. 174 pkt 2 p.p.s.a.), jeżeli uzasadnienie orzeczenia wojewódzkiego sądu administracyjnego nie zawiera stanowiska co do stanu faktycznego przyjętego za podstawę rozstrzygnięcia. Inna jest natomiast sytuacja, jeżeli uzasadnienie zaskarżonego orzeczenia wskazuje jaki stan faktyczny sprawy został przez sąd przyjęty i dlaczego. Wówczas przepis art. 141 § 4 p.p.s.a. nie może stanowić wystarczającej podstawy kasacyjnej. Bez odniesienia się bowiem do treści np. art. 145 § 1 pkt 1 lit. c) p.p.s.a. w powiązaniu z odpowiednimi przepisami postępowania administracyjnego nie jest możliwe skuteczne zakwestionowanie stanowiska sądu pierwszej instancji, który formalnie z nałożonego na niego obowiązku się wywiązał, ale w ocenie strony przyjęte ustalenia są merytorycznie błędne.*
 
 #III SA/Gd 337/10 - Wyrok WSA w Gdańsku z 2010-11-18
+[link](http://orzeczenia.nsa.gov.pl/doc/A75655A90C)
 
 ##1. Opis orzeczenia
 Zaskarżenie postanowienia wydanego na podst. u.p.e.a. 
 
 ##2. Dlaczego jest istotne?
-Uzasadnia, że gdy organ wystawi postanowienie o nałożeniu grzywny to strona mimo przysługujących mu tylko 7 dni na złożenie zażalenia ma 14 dni na złożenie wniosku o uzupełnienie tego postanowienia. 
+Uzasadnia, że gdy organ wystawi postanowienie o nałożeniu grzywny to strona mimo przysługujących mu tylko 7 dni na złożenie zażalenia, ma 14 dni na złożenie wniosku o uzupełnienie tego postanowienia. 
 
 ##3. Kiedy stosować?
-Gdy organ egzekucyjny zażuci uchybienie 7 dniowego terminu wniesienia zażalenia na postanowienie o nałożeniu grzywny (przy wcześmniejszym złożeniu w/w wniosku o uzupełnienie.
+Gdy organ egzekucyjny zarzuci uchybienie 7 dniowego terminu wniesienia zażalenia na postanowienie o nałożeniu grzywny (przy wcześniejszym złożeniu w/w wniosku o uzupełnienie.
 
 ##4. Przywołane treści.
 
