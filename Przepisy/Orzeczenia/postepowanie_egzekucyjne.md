@@ -83,7 +83,7 @@ Gdy organ egzekucyjny zarzuci uchybienie 7 dniowego terminu wniesienia zażaleni
 Odrzucenie skargi na postanowienie w przedmiocie stanowiska wierzyciela w sprawie zarzutów zgłoszonych w postępowaniu egzekucyjnym.
 
 ##2. Dlaczego jest istotne?
-Uzasadnia, że postanowienie w organu egzekucyjnego w sprawie zgłoszonych zarzutów, po złożeniu na nie zażalenia jest zaskarżalne do sądu administracyjnego.
+Uzasadnia, że postanowienie organu egzekucyjnego w sprawie zgłoszonych zarzutów, po złożeniu na nie zażalenia jest zaskarżalne do sądu administracyjnego.
 
 ##3. Kiedy stosować?
 Z obserwacji pism w postępowaniu egzekucyjnym jakie umieszczają na portalach społecznościowych ich użytkownicy, można zaobserwować taktykę (świadomą lub nieświadomą) jaką przyjęły organy wojewódzkich inspekcji sanitarnych po nowelizacji p.p.s.a. z 15 sierpnia 2015 r. tj. iż postanowienia w sprawie stanowiska wierzyciela ws. zgłoszonych zarzutów nie są zaskarżalne do sądu administracyjnego. Postanowienia otrzymane przez zobowiązanych są różnie zatytułowane np.: Postanowienie o odrzuceniu zarzutów, Postanowienie utrzymujące w mocy postanowienie sanepidu powiatowego w sprawie zarzutów, Postanowienie o uznaniu zarzutów za bezpodstawne itp. i najważniejszym pytaniem jest czy dane postanowienie jest postanowieniem w rozumieniu art. 34 § 4 u.p.a.. W pouczeniu tych postanowień strona najczęściej poinformowana jest, że postanowienie to jest ostateczne i ma wzbudzić u "zobowiązanego", poczucie, iż ścieżka odwoławcza dotycząca zarzutów jest zakończona. 
