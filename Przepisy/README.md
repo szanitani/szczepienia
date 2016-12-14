@@ -82,6 +82,7 @@ Tak, lista orzeczeń oczekujących na sklasyfikowanie i opis (bardzo niepełna -
 ## 21. Indeks sygnatur orzeczeń.
 - [I OSK 1750/10 - Wyrok NSA z 2011-02-08](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
 - [I OSK 654/11 - Wyrok NSA 2012-04-25](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
+- [I SA/Sz 434/16 - Postanowienie WSA w Szczecinie z 2016-05-13](http://orzeczenia.nsa.gov.pl/doc/1481C81009) 
 - [I SA/Wr 703/13 - Wyrok WSA we Wrocławiu z 2013-10-10](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
 - [II FPS 8/09 - Uchwała NSA z 2010-02-15](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/postepowanie_egzekucyjne.md)
 - [II FSK 954/11 - Wyrok NSA z 2013-01-18](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
