@@ -28,8 +28,8 @@ Nie obydwoje rodzice. Wszyscy przedstawiciele ustawowi. To jest różnica. Oczyw
 Karta dziecka powinna zostać przeniesiona do archiwum oraz powinna być oznaczona np. naklejką "*Nie udzielać świadczeń. Nie udzielać żadnych informacji o pacjencie*". Warto to potwierdzić.
 
 ## Jakie są dalsze kroki?
-1. Pytania i wątpliwości w szczególności stanowiska adresatów pisma należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/). Znajdują się tam również komentarze i historia dokumentu.
-2. NFZ powinien odpowiedzieć pisemnie.
+1. Pytania i wątpliwości w szczególności stanowiska adresatów pisma należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=180500). Znajdują się tam również komentarze i historia dokumentu.
+2. NFZ może ale nie musi odpowiedzieć.
 3. Świadczeniodawca POZ powinien zastosować się do oświadczenia.
 
 ## Treść pisma:
