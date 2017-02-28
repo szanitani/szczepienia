@@ -22,7 +22,7 @@
 18. [Wniosek o zawieszenie postępowania po wysłaniu pisma do GIODO](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_zawieszenie.md),  koniecznie wysyłamy po wszczęciu postępowania egzekucyjnego oraz w każdym postępowaniu pochodnym, odwoławczym.
 19. [Wniosek o uzupełnienie postanowienia o odmowie zawieszenia postępowania egzekucyjnego](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_uzupelnienie.md), stosowany również dla innych postanowień.
 20. [Oświadczenie wypisania dziecka od świadczeniodawcy POZ](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo_oswiadczenie_poz.md), stosowany również dla innych oświadczeń o zaprzestaniu przetwarzania danych osobowych.
-21. [Alternatywny wniosek o wyznaczenie terminów](https://github.com/bronzo77/szczepienia/blob/master/Sciezki%20alternatywne/wniosek%20o%20wyznaczenie%20terminow.md) 
+21. [Alternatywny wniosek o wyznaczenie terminów](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek%20o%20wyznaczenie%20terminow.md) tym razem pismo na podstawie art. 61 k.p.a. w sytuacji gdy organ unika odpowiedzi na pytanie o terminy.
 
 ##Części wspólne pism
 Ilekroć w instrukcji do pisma jest wskazane aby wysyłać je "*jak najszybciej*", oznacza to oczywiście wysyłanie pisma w ostatnim dniu wymaganego terminu. Tam gdzie wspomina się o "*stosownej skardze*" lub "*dochodzeniu swoich praw*" warto posiłkować się [tymi zaleceniami](http://forumprawne.org/prawo-administracyjne/301849-jak-pisac-skuteczne-pisma-do-urzedu-poradnik.html).
