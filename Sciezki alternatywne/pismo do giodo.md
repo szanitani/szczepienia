@@ -1,18 +1,18 @@
-##Kogo dotyczy to pismo?
+## Kogo dotyczy to pismo?
 1. Osób, których postępowanie zostało wszczęte przed 2015-01-01 czyli w trakcie obowiązywania starej ustawy o ochronie danych osobowych, w zakresie argumentów o braku zgłoszenia zbiorów danych osobowych.
 2. Pozostałych osób w zakresie argumentów o braku podstaw prawnych od przetwarzania ich danych osobowych lub nieprawidłowości w związku z przekazaniem danych o stanie zdrowia od świadczeniodawcy usług medycznych do Inspekcji Sanitarnej.
 
-##Czy na dalszym etapie postępowania również warto wysłać to pismo?
+## Czy na dalszym etapie postępowania również warto wysłać to pismo?
 Tak! Jest to niezależne postępowanie.
 
-##Co ewentualnie warto dopasować w treści wniosku?
+## Co ewentualnie warto dopasować w treści wniosku?
 Dla osób, których postępowania rozpoczęły się w 2015 r. pismo do GIODO powinno mieć treść zmodyfikowaną. Od stycznia 2015 weszła w życie nowelizacja u.o.d.o., w której zmieniono wymogi w zakresie  rejestracji zbiorów danych osobowych.
 Należy opracować pismo zgodnie ze stanem faktycznym w swoim postępowaniu. 
 
-##Co warto/należy zrobić przed wysłaniem pisma?
+## Co warto/należy zrobić przed wysłaniem pisma?
 Należy również wysłać wspomniane w treści wezwanie do zaprzestania przetwarzania danych osobowych. Dlaczego? Bo u.o.d.o. zawiera przepisy karne. Konsekwencje naruszenie u.o.d.o. są różne w zależności od "nieumyślności w działaniu" danej osoby. Wysyłając takie pismo wyłączasz "nieumyślności w działaniu" a co za tym idzie osobie naruszającej ww przepisy grozi surowsza kara.
 
-##Jakie są dalsze kroki?
+## Jakie są dalsze kroki?
 1. GIODO powinien wydać decyzję. Jeśli decyzja nie odpowiada oczekiwaniom, należy zastosować ścieżkę odwoławczą (np. na podstawie art. 21 u.o.d.o.). 
 2. Jeśli decyzja odpowiada oczekiwaniom, można skierować skargę do WSA na działania Inspekcji Sanitarnej albo złożyć doniesienie do prokuratury. Prawdę mówiąc, GIODO powinien w takiej sytuacji sam złożyć doniesienie do prokuratury, a my nie musimy również z tym czekać.
 3. Koniecznie po odpowiedzi organu należy jej treść (po usunięciu danych osobowych) wstawić do [tego wątku](http://szczepienia.org.pl/viewtopic.php?t=4877), w którym opisujemy aktualny stan spraw związanych z GIODO. 
@@ -20,38 +20,38 @@ Należy również wysłać wspomniane w treści wezwanie do zaprzestania przetwa
 5. Jeśli decyzja GIODO jest pozytywna warto również złożyć wniosek o wyłączenie odpowiedzialnych urzędników z postępowania na podstawie przepisów k.p.a.
 6. Jeśli jest prowadzone postępowanie egzekucyjne lub inne pochodne/odwoławcze warto wysłać [wniosek o zawieszenie tego postępowania](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_zawieszenie.md).
 
-##Skąd mam wiedzieć, czy mój PPIS ma zarejestrowane zbiory danych osobowych?
+## Skąd mam wiedzieć, czy mój PPIS ma zarejestrowane zbiory danych osobowych?
 GIODO udostępnia dane o wszystkich zbiorach w serwisie [eGIODO](https://egiodo.giodo.gov.pl/search_advanced.dhtml).
 Można znaleźć tam aktualne i archiwalne dane o rejestracjach. Jednakże przeszukiwanie tych zasobów jest dość uciążliwe.
 W tym celu, dane o rejestracjach Inspekcji Sanitarnej zostały zebrane w tym [arkuszu](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/zbiory_danych_osobowych.xlsx).
 Arkusz należy zgrać na swój komputer. Znajdują się tam dane na początek listopada 2014. Należy otworzyć plik i znaleźć listę rejestracji zbiorów w PPIS gdzie jest prowadzone postępowanie. Jeśli takie zbiory są porejestrowane (częściej nie), wtedy w kolejnym kroku trzeba porównać tą listę, do listy zbiorów zarejstrowanych przez PPIS w Kamieniu Pomorskim, gdzie jest najwięcej zbiorów w Polsce. Należy również sprawdzić listę znalezionych zbiorów w serwisie [eGIODO](https://egiodo.giodo.gov.pl/search_advanced.dhtml), w celu upewnienia się, że pomiędzy listopadem 2014
 a 31 grudnia 2014, PPIS nie wprowadził zmian w rejestracjach (mało prawdopodobne, ale trzeba mieć pewność).
 
-##Gdzie mogę znaleźć zbiór decyzji wydanych przez GIODO w innych postępowaniach?
+## Gdzie mogę znaleźć zbiór decyzji wydanych przez GIODO w innych postępowaniach?
 Lista wydanych decyzji przez GIODO jest [dostępna tutaj](http://www.giodo.gov.pl/151/j/pl/).
 Należy skrupulatnie przeanalizować treść wydanych decyzji, przed wysłaniem skargi w celu uniknięcia podstawowych
 błędów dających urzędnikom łatwą opcję odrzucenia skargi.
 
-##Czy to pismo wkracza w przepisy karne ustawy o ochronie danych osobowych?
+## Czy to pismo wkracza w przepisy karne ustawy o ochronie danych osobowych?
 Na chwilę obecną nie bezpośrednio. Wskazujemy na brak uprawnień Inspekcji Sanitarnej do prowadzenia takich spraw w ogóle.
 Uchybienia jak najbardziej warto wskazywać, jednakże jest to ścieżka związana ze zgłoszeniem sprawy do prokuratury oraz jak wskazuje GIODO w swoich decyzjach na gruncie przepisów prawa cywilnego.
 
-##Jaki jest cel pisma?
+## Jaki jest cel pisma?
 Uznanie części lub całości zarzutów przez GIODO w drodze decyzji/postanowienia. Spowoduje to wyczerpanie ścieżki skargowej i możliwość skutecznej skargi do WSA na czynności w postępowaniu prowadzonym przez PPIS. Umożliwi przekazanie sprawy do prokuratury w związku z naruszeniem przepisów karnych u.o.d.o. oraz k.k. Umożliwi złożenie skargi do MAC w związku z czynnościami administracyjnymi i wdrożenie postępowania wobec pracowników PPIS, co zaskutkuje wyłączeniem tych urzędników z postępowania na podstawie przepisów kpa.
 
-##Kto powinien wysyłać to pismo?
+## Kto powinien wysyłać to pismo?
 Osoby, wobec których prowadzone jest postępowanie. Zwracam uwagę, że zobowiązanym jest dziecko natomiast postępowanie (egzekucyjne) jest prowadzone wobec wszystkich przedstawicieli ustawowych (rodziców). W typowej sytuacji jeden małżonek  ustanawia pełnomocnictwo dla drugiego małżonka i wtedy wystarczy jedno pismo. Jeśli tego pełnomocnictwa nie ma lub rodzice nie są małżonkami wtedy oczywiście każdy składa tę skargę osobno.
 
-##Bardzo mi zależy na odpowiedzi GIODO - co mam robić?
+## Bardzo mi zależy na odpowiedzi GIODO - co mam robić?
 Jeśli GIODO nie odpowiada w ustawowym terminie lub nie informuje o przedłużeniu rozpatrzenia skargi, stronie przysługuje wezwanie do usunięcia naruszenia prawa a następnie skarga do WSA. GIODO nie ma organu nadrzędnego (skrót myślowy), zatem wysyłanie skargi na przewlekłość/bezczynność postępowania jest bezprzedmiotowe. Generalnie nie zależy nam na przyspieszaniu odpowiedzi GIODO bo przecież lepiej aby urząd bardzo dokładnie i dogłębnie rozważył zarzuty w skardze a przecież jeśli sąd administracyjny zostanie poinformowany o tym możliwym naruszeniu prawa to nie rozpatrzy w pełni skargi póki nie uczyni tego GIODO.
 
-##Czy należy dołączać do skargi akta sprawy?
+## Czy należy dołączać do skargi akta sprawy?
 Nie. Jeśli GIODO uzna, że takie akta są mu potrzebne wtedy zwróci się do organu prowadzącego postępowanie. Należy pamiętać o treści art. 220 par. 1 k.p.a. Natomiast, jeśli ma to sens, w związku z tzw. ostrożnością procesową, warto w treści skargi przywoływać istotne dokumenty poprzez ich nazwę, adresata, datę oraz ewentualnie cytować z nich treść jako tzw. samocytowanie. Dlaczego tak? Aby nie ponosić kosztów odpisów z jednej strony a nie narażać się na możliwość nie przekazania przez organ do GIODO części akt sprawy.
 
-##Czy należy dołączać do skargi jakieś inne dokumenty strony np. akt urodzenia dziecka?
+## Czy należy dołączać do skargi jakieś inne dokumenty strony np. akt urodzenia dziecka?
 Nie. Jeśli GIODO uzna, że takie dokumenty będące w wyłącznej dyspozycji strony są mu potrzebne wtedy o nie poprosi i wskaże formę ich przekazania. Przykładowo zwykłe ksero, skan czy obraz nie są dowodem w sprawie. Dokument aby był dowodem musi być tzw. odpisem uwierzytelnionym urzędowo. Zatem nie ma sensu tworzenie kosztownych kopii notarialnych nieokreślonych dokumentów.
 
-##Czy możemy co do zasady zakwestionować przekazywanie danych z przychodni do PPIS? (szkic)
+## Czy możemy co do zasady zakwestionować przekazywanie danych z przychodni do PPIS? (szkic)
 Zbadajmy co mówią na temat przekazywania danych o osobach uznanych za uchylające się od obowiązku szczepień stosowne ustawy i rozporządzenia.  
 
 1. USTAWA z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi art. 17 ust. 8:  
@@ -87,13 +87,20 @@ Szczególne obostrzenia w zakresie wyłączności ustawy dotyczą problematyki w
 4) Każdy ma  prawo  do  żądania  sprostowania  oraz  usunięcia  informacji nieprawdziwych, niepełnych lub zebranych w sposób sprzeczny z ustawą.  
 5) **Zasady i tryb gromadzenia oraz udostępniania informacji określa ustawa.**"
 
-##Co warto zrobić jeszcze w kwestii ochrony danych osobowych?
+## Co warto zrobić jeszcze w kwestii ochrony danych osobowych?
 Stowarzyszenie STOP NOP opublikowało na [swojej stronie dokument ze skargą do GIODO](https://www.facebook.com/notes/ogólnopolskie-stowarzyszenie-wiedzy-o-szczepieniach-stop-nop/skarga-na-przychodnię-do-giodo-dot-bezprawnego-przekazania-danych-sanepidowi/1208996559127770) ale na przychodnię, która przekazała dane medyczne o stanie zdrowia do Inspekcji Sanitarnej. Jest tam również drugi dokument żądania m.in. unieważnienia postępowania.
 
-##Czy mogę w jakiś sposób powiadomić organ o postępowaniu przed GIODO?
+## Czy mogę w jakiś sposób powiadomić organ o postępowaniu przed GIODO?
 W niektórych sytuacjach warto wysłać do organu wniosek o zawieszenie czynności w trybie k.p.a. w związku z faktem, że rozstrzygnięcie sprawy zależy od uprzedniego rozstrzygnięcia zagadnienia wstępnego przez GIODO. Jako załącznik można wtedy przekazać skargę do GIODO i UPP.
 
-##Treść pisma do GIODO ze skargą na PIS i WIS:
+## Jaki jest aktualny stan sprawy?
+W dniu 2017-03-22 p. Weronika Kowalik w imieniu Departament Orzecznictwa, Legislacji i Skarg Biura GIODO wytworzyła następującą informację publiczną dotyczącą [stanowiska GIODO w sprawie przekazywania danych dzieci niezaszczepionych](http://www.giodo.gov.pl/259/id_art/9877/j/pl/). Stanowisko to:
+1. nie obejmuje wszystkich zarzutów z poniższego pisma, w szczególności kwestii konstytucyjnych
+2. dotyczy raczej skarg rodziców składanych na przychodnię niż na Powiatowych Inspektorów Sanitarnych, ponieważ te zarzuty obejmowały pytanie o zasadność przekazywania z punktu widzenia przychodni. Gdyby GIODO odniósł się do skarg z punktu widzenia PPIS, to miałby trudność aby uzasadnić, że przepisy nie zostały naruszone, bo nie ma przecież podstawy prawnej normującej przetwarzanie danych w PPIS w takim a nie innym zakresie.
+3. pomija wszelkie rozważania dotyczące zgodności z prawem przywołanych przepisów bo przecież nie jest ustalona właściwość PPIS do przetwarzania tych danych, do występowania w roli i ustawodawcy i władzy wykonawczej jednocześni i kilka innych niewygodnych z punktu widzenia stanowienia prawa spraw.
+4. stwierdza naruszenie prawa a jednocześnie nie zawiadamia prokuratury o jego naruszeniu ograniczając się do stwierdzenia, że "kształt regulacji powoduje trudności interpretacyjne". Oznacza to jedynie, że nadal czekamy na rozstrzygnięcie sądu, a osoby, które otrzymały odpowiedzi od GIODO w takim "kształcie" będą już miały podstawę do odwoływania się do sądu.
+
+## Treść pisma do GIODO ze skargą na PIS i WIS:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{miejscowosc}} {{data}}
 
