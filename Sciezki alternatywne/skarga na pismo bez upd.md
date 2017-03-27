@@ -1,22 +1,22 @@
-##Kogo dotyczy to pismo?
+## Kogo dotyczy to pismo?
 Dokument należy wysłać jak najszybciej po otrzymaniu z PPIS odpowiedzi na pismo złożone przez ePUAP w sytuacji, gdy urzędnik wysłał do strony zwykłe pismo bez UPD (Urzędowe Potwierdzenie Doręczenia). Cały sens pracy z ePUAP jest taki, że każde pismo od urzędu musi być opatrzone UPD. Dostajemy UPD, następnie po 7 dniach kolejne i dopiero po 7 dniach odsyłamy UPD po czym w skrzynce odbiorczej ePUAP pojawia się właściwy dokument.
 
-##Czy na dalszym etapie postępowania również warto wysłać to pismo?
+## Czy na dalszym etapie postępowania również warto wysłać to pismo?
 Tak, tego typu pisma wysyłamy zawsze po nieprawidłowym doręczeniu pisma z Organu. Należy zwracać uwagę na nieprawidłowości w postępowaniu administracyjnym i wykazywać wzorzec niedbałych działań w postępowaniu Organu.
 
-##Co ewentualnie warto dopasować w treści wniosku?
+## Co ewentualnie warto dopasować w treści wniosku?
 Całą treść pisma. W szczególności opis stanu faktycznego.
 
-##Jaki jest inny cel tego pisma?
+## Jaki jest inny cel tego pisma?
 Być może uda się doprowadzić do sytuacji, gdzie organ nadrzędny przeprowadzi wobec pracownika PPIS procedurę odpowiedzialności służbowej. Tak właśnie załatwienie sprawy powinno wyglądać w idealnym świecie, w rzeczywistości raczej należy się spodziewać odpowiedzi wymijającej.
 
-##Jakie są dalsze kroki?
+## Jakie są dalsze kroki?
 Czekać na odpowiedź organu. Brak odpowiedzi w ustawowym terminie powinien uruchomić procedurę odwoławczą. Odpowiedź wymijająca lub niepełna - uruchomić procedurę wymuszająca na Organie sprecyzowanie stanowiska ze wskazaniem podstawy prawnej oraz obowiązku pracownika do takich a nie innych działań. Zawsze każdą odpowiedź organu należy przekazać na forum, a docelowo warto dodać do tego repozytorium.
 
-##Dlaczego pismo jest kierowane do PPIS a nie do organu nadrzędnego czyli WIS?
+## Dlaczego pismo jest kierowane do PPIS a nie do organu nadrzędnego czyli WIS?
 Ponieważ PPIS ma obowiązek przekazania tego pisma do swojego przełożonego w ciągu 7 dni. Jeśli tego nie uczyni naruszy przepisy K.p.a., na co powinna być złożona stosowna skarga.
 
-##Treść pisma:
+## Treść pisma:
 ```
                                                                 <miejscowosc>, <data>
 <imie nazwisko>
