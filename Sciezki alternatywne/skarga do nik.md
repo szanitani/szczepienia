@@ -1,16 +1,16 @@
-##Kogo dotyczy to pismo?
+## Kogo dotyczy to pismo?
 Osób, które wystąpiły do PPIS o korespondencję elektroniczną (ePUAP). Sprawa została następnie przekazana do organu egzekucyjnego (Wojewoda w tym przypadku), który uporczywie wysyła pisma papierowe.
 
-##Czy od razu stosować tą ścieżkę?
+## Czy od razu stosować tą ścieżkę?
 Stan faktyczny powinien wyglądać tak: organ egzekucyjny wysyła pismo papierowe, strona zwraca uwagę pismem przez ePUAP, organ egzekucyjny ponownie wysyła pisma papierowe - skarga do NIK.
 
-##Co ewentualnie warto dopasować w treści wniosku?
+## Co ewentualnie warto dopasować w treści wniosku?
 Należy dopasować stan faktyczny. Część beletrystyczna jak najbardziej w/g własnego uznania.
 
-##Jakie są dalsze kroki?
+## Jakie są dalsze kroki?
 Czekać na odpowiedź. Brak odpowiedzi w ustawowym terminie powinien uruchomić procedurę odwoławczą. Odpowiedź wymijająca lub niepełna - uruchomić procedurę wymuszająca na Organie sprecyzowanie stanowiska ze wskazaniem podstawy prawnej oraz obowiązku. Zawsze każdą odpowiedź organu należy przekazać na forum, a docelowo warto dodać do tego repozytorium. Odpowiedzi wykorzystać w skardze do WSA.
 
-##Treść pisma:
+## Treść pisma:
 ```
                                                                 <miejscowosc>, <data>
 <imie nazwisko>
