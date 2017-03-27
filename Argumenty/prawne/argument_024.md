@@ -1,9 +1,9 @@
-#Organ odrzuca zarzut nieistnienia obowiązku w postępowaniu egzekucyjnym
+# Organ odrzuca zarzut nieistnienia obowiązku w postępowaniu egzekucyjnym
 
-##Co warto zrobić?
+## Co warto zrobić?
 Wykorzystać w skardze do WSA. Więcej [tutaj](http://www.skarbowcy.pl/blaster/forum/viewtopic.php?f=8&t=421).
 
-##Treść do wykorzystania.
+## Treść do wykorzystania.
 Najwięcej wątpliwości, zarówno wśród zobowiązanych, jak również organów egzekucyjnych i sądów administracyjnych, wydaje się natomiast budzić ostatnia z przesłanek, która może stanowić podstawę zarzutu na gruncie art. 33 pkt 1 u.p.e.a., tj. nieistnienie obowiązku. W kontekście tej przesłanki najczęściej trudno jest nam dostrzec granice pomiędzy postępowaniem egzekucyjnym a postępowaniem merytorycznym. Niejednokrotnie bowiem w subiektywnym odczuciu zobowiązanego, z różnych przyczyn, egzekwowany obowiązek nie istnieje, jednakże rozstrzygnięcie okoliczności jego istnienia powinno być rozpatrywane w ramach postępowania merytorycznego. Jak zauważa się w doktrynie prawa podatkowego (powołującej przy tym linię orzeczniczą sądów administracyjnych) rozstrzygnięcie, o tym w którym postępowaniu winna być rozpatrywana argumentacja zobowiązanego, jest uzależnione m.in. od charakteru egzekwowanego obowiązku, tj. czy powstaje on z mocy prawa czy konieczne jest deklaratywne stwierdzenie jego istnienia (por. C. Kulesza, Ustawa o postępowaniu egzekucyjnym w administracji. Komentarz., opubl. LEX 2010). Konieczne jest zatem każdorazowe rozważenie indywidualnych okoliczności sprawy.
 
 W tym miejscu można jedynie wskazać na ciekawsze sprawy, które pojawiły się w orzecznictwie sądów administracyjnych. Przede wszystkim należy wskazać na wyrok Naczelnego Sądu Administracyjnego z 14 lipca 2010 r., w którym została wyrażona niejako ogólna reguła interpretacji wyrażenia „nieistnienia obowiązku”: „z art. 33 pkt 1 u.p.e.a., pozwalającym oprzeć zarzut w sprawie prowadzenia postępowania egzekucyjnego między innymi na nieistnieniu obowiązku, prowadzi do wniosku, że chodzi tu wyłącznie o sytuację, kiedy nieistnienie obowiązku objętego tytułem wykonawczym jest następstwem okoliczności, które nastąpiły po wydaniu tego tytułu. W przeciwnym razie organ egzekucyjny nie mógłby rozpoznać zarzutu bez naruszenia tegoż art. 29 § 1 u.p.e.a.” (sygn. akt II GSK 692/09, podobnie w wyroku Wojewódzkiego Sądu Administracyjnego w Gdańsku z 11 października 2011 r., sygn. akt I SA/Gd 773/11).
