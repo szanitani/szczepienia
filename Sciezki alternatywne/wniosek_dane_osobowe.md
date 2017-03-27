@@ -1,15 +1,15 @@
-##Kogo dotyczy to pismo?
+## Kogo dotyczy to pismo?
 Dokument należy wysłać do Powatowej Inspekcji Sanitarnej w celu weryfikacji przetwarzanych przez Inspekcję danych osobowych. 
 
-##Czy na dalszym etapie postępowania również warto wysłać to pismo?
+## Czy na dalszym etapie postępowania również warto wysłać to pismo?
 Tak! Póki sprawa nie doszła do Sądu Administracyjnego to warto.
 
-##Jakie są dalsze kroki?
+## Jakie są dalsze kroki?
 Porównać uzyskane informacje z danymi znajdującymi sie w e-GIODO [link](https://egiodo.giodo.gov.pl/index.dhtml) i znalezione uchybienia wykorzystać w skardze do GIODO lub we wniosku o ponowne rozpatrzenie sprawy.
 
 Może się okazać, że PPIS nie udzieli informacji dot. małżonka ze względu na brak umocowania w pełnomocnictwie do wystąpienia z takim wnioskiem. Wniosek taki wysyła małżonek lub zmieniamy pełnomocnictwo.
 
-##Treść pisma:
+## Treść pisma:
 
 ```
                                                                 <miejscowosc>, <data>
