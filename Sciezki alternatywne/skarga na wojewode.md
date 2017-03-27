@@ -1,16 +1,16 @@
-##Kogo dotyczy to pismo?
+## Kogo dotyczy to pismo?
 Dokument należy wysłać jak najszybciej po otrzymaniu od Wojewody pisma "POSTANOWIENIE O NAŁOŻENIU GRZYWNY W CELU PRZYMUSZENIA DO WYKONANIA OBOWIĄZKU SZCZEPIEŃ".
 
-##Jakie są formalności w związku z wysyłką?
+## Jakie są formalności w związku z wysyłką?
 Kopia do Wojewody (jako do organu egzekucyjnego) i ewentualnie do PPIS/WIS jako wierzyciela. Najlepiej oczywiście przez ePUAP.
 
-##Co ewentualnie warto dopasować w treści wniosku?
+## Co ewentualnie warto dopasować w treści wniosku?
 Na chwilę obecną trwają prace nad ostateczną wersją treści skargi.
 
-##Jakie są dalsze kroki?
+## Jakie są dalsze kroki?
 Czekać na odpowiedź organu. Brak odpowiedzi w ustawowym terminie powinien uruchomić procedurę odwoławczą. Odpowiedź wymijająca lub niepełna - uruchomić procedurę wymuszająca na Organie sprecyzowanie stanowiska ze wskazaniem podstawy prawnej oraz obowiązku. Zawsze każdą odpowiedź organu należy przekazać na forum, a docelowo warto dodać do tego repozytorium.
 
-##Treść pisma:
+## Treść pisma:
 ```
                                                                                <miejscowosc>, <data>
 <imie nazwisko>
