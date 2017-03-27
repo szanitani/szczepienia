@@ -1,11 +1,11 @@
-#Organ wydaje akt władczy, w którym określa liczbę szczepień do wykonania i czas (np. 12 szczepień w ciągu 7 dni).
+# Organ wydaje akt władczy, w którym określa liczbę szczepień do wykonania i czas (np. 12 szczepień w ciągu 7 dni).
 
-##Co warto zrobić?
+## Co warto zrobić?
 Takim dokumentem może być upomnienie. Poza typową argumentacją ze wzorów dokumentów, warto wykorzystać m.in. poniższe argumenty w pismach odwoławczych.
 
 {{Argument do uzupełnienia i wyjaśnienia}}
 
-##Treść do wykorzystania.
+## Treść do wykorzystania.
 
 1. Czy skumulowana objętość wszystkich składnikow szczepionek w danym okresie czasu nadal mieści się w normach bezpieczenstwa (z uwzglednieniem interakcji pomiedzy preparatami)?
  
