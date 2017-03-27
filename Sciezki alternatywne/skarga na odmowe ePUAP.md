@@ -1,24 +1,24 @@
-##Kogo dotyczy to pismo?
+## Kogo dotyczy to pismo?
 Osób, które otrzymały z organu informację o odmowie korzystania z ePUAP mimo złożenia przez petenta żądania prowadzenia sprawy w elektronicznym obiegu prawnym.
 
-##Czy na dalszym etapie postępowania również warto wysłać to pismo?
+## Czy na dalszym etapie postępowania również warto wysłać to pismo?
 Tak, należy zwracać uwagę na nieprawidłowości w postępowaniu administracyjnym i wykazywać wzorzec niedbałych działań w postępowaniu Organu.
 
-##Co warto dopasować w treści wniosku?
+## Co warto dopasować w treści wniosku?
 W szczególności opis stanu faktycznego, materiał dowodowy, załączniki, być może swoje żądania wynikające z toku sprawy.
 
-##Jaki jest inny cel tego pisma?
+## Jaki jest inny cel tego pisma?
 Być może uda się doprowadzić do sytuacji, gdzie organ nadrzędny przeprowadzi wobec pracownika PPIS procedurę odpowiedzialności służbowej. Tak właśnie załatwienie sprawy powinno wyglądać w idealnym świecie, w rzeczywistości raczej należy się spodziewać odpowiedzi wymijającej.
 
-##Jakie są dalsze kroki?
+## Jakie są dalsze kroki?
 1. Można przekazać pismo do wiadomości organu, który nie chce pracować przez ePUAP. Najlepiej za pośrednictwem organu nadrzędnego. 
 2. Czekać na odpowiedź organu. Brak odpowiedzi w ustawowym terminie powinien uruchomić procedurę odwoławczą. Odpowiedź wymijająca lub niepełna - uruchomić procedurę wymuszająca na Organie sprecyzowanie stanowiska ze wskazaniem podstawy prawnej oraz obowiązku pracownika do takich a nie innych działań.
 3. Każdą odpowiedź organu należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=177161). Znajdują się tam również komentarze i historia dokumentu oraz jest możliwy kontakt z jego autorem (adamf).
 
-##Dlaczego pismo jest kierowane do MSWiA a nie do organu nadrzędnego?
+## Dlaczego pismo jest kierowane do MSWiA a nie do organu nadrzędnego?
 Ponieważ to MSWiA jest odpowiedzialne za pracę całej administracji publicznej. Uznajemy, że skoro jednostka podrzędna może tak działać, to musi to robić za przyzwoleniem (nawet niejawnym) swojej jednostki nadrzędnej.
 
-##Treść pisma:
+## Treść pisma:
 ```
                                               <miejscowosc>, <data>
 <imie nazwisko>
