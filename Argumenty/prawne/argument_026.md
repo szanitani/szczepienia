@@ -1,9 +1,9 @@
-#Organ egzekucyjny ustala wysokość grzywny bez uzasadnienia
+# Organ egzekucyjny ustala wysokość grzywny bez uzasadnienia
 
-##Co warto zrobić?
+## Co warto zrobić?
 Wykorzystać w skardze do WSA. Treść pochodzi bodajże z forum, warto skonsultować aktualność.
 
-##Treść do wykorzystania.
+## Treść do wykorzystania.
 Należy zauważyć, że w powołanej ustawie wprowadzono tylko górne granice grzywien w celu przymuszenia, pozostawiając organowi egzekucyjnemu swobodę ustalania ich wysokości w konkretnym przypadku. Nie jest to uznanie dowolne, ponieważ organ, ustalając wysokość grzywny w celu przymuszenia, nie może przekroczyć granic wyznaczonych przez zasady ogólne postępowania egzekucyjnego w administracji, a w szczególności zasady racjonalnego działania (art. 7 § 2 upea) i zasady niezbędności (art. 7 § 3 upea). Wynika z nich obowiązek organu zastosowania wobec zobowiązanego takiej dolegliwości, która jest niezbędna do realizacji ciążącego na nim obowiązku i zaprzestania stosowania tej dolegliwości, jeżeli obowiązek zostanie spełniony. Nie można natomiast z treści art. 121 upea wywodzić obowiązku uzasadniania wysokości zastosowanej grzywny w celu przymuszenia możliwościami finansowymi zobowiązanego (por. wyrok NSA z 1 czerwca 2005 r. w spr. OSK 1140/04, Lex 186665 oraz R. Hauser, Z. Leoński „Postępowanie egzekucyjne w administracji. Komentarz”, Wydawnictwo CH BECK 2003, s. 479). Skład orzekający w niniejszej sprawie podzielił to stanowisko, uznając, że ustalając wymiar grzywny w celu przymuszenia, organ egzekucyjny powinien kierować się zasadą skuteczności i celowości i swoje uznanie administracyjne każdorazowo uzasadnić. ([Wyrok WSA w Białymstoku z 16 stycznia 2007 r., sygn. akt II SA/Bk 311/06](http://www.wspolnota.org.pl/aktualnosci/aktualnosc/grzywna-w-celu-przymuszenia/)).
 
 A tu jest [wyrok WSA odnośnie wysokości grzywny celem przymuszenia](http://orzeczenia.nsa.gov.pl/doc/A319FC342D), że organ nie może ustalać sobie wysokości grzywny bez ustalenia przesłanek i uzasadnienia:
