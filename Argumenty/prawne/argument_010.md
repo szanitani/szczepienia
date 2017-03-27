@@ -1,9 +1,9 @@
-#Organ egzekucyjny nie uznaje z jakiegoś powodu pełnomocnictwa.
+# Organ egzekucyjny nie uznaje z jakiegoś powodu pełnomocnictwa.
 
-##Co warto zrobić?
+## Co warto zrobić?
 W zależności od stanu faktycznego - sprawy pełnomocnictw mogą być bardzo zagmatwane - poniższą argumentację można wykorzystać w skardze, zażaleniu lub wezwaniu do usunięcia naruszenia prawa. 
 
-##Treść do wykorzystania.
+## Treść do wykorzystania.
 
 {{Organ}} prowadzi czynności w sprawach {{znaki}}. Zarzucam naruszenie przepisów k.p.a. poprzez przyjęcie, że {{imię i nazwisko pełnomocnika}} nie jest skutecznie umocowany do reprezentowania {{imię i nazwisko mocodawcy}}, nieprawidłowe wyznaczenie przez organ stron postępowania, brak podjęcia czynności w zakresie wyznaczenia tych stron, nie zapewnienie czynnego udziału wszystkim stronom w postępowaniu. 
 
