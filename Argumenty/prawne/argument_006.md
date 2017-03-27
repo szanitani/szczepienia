@@ -1,9 +1,9 @@
-#Organ odnosi się do wymagalności obowiązku szczepień
+# Organ odnosi się do wymagalności obowiązku szczepień
 
-##Co warto zrobić?
+## Co warto zrobić?
 Bywa, że organy przywołują jako uzasadnienie swoich działań szerokie dywagacje wskazujące, że obowiązke szczepień jest już, teraz wymagalny. Nic bardziej błędnego.
 
-##Treść do wykorzystania.
+## Treść do wykorzystania.
 1. Obowiązek to pojęcie abstrakcyjne. w stosunku do osoby fizycznej istotna jest tzw. aktualizacja obowiązku. W skrócie - istnieje obowiązek płacenia podatku od nieruchomości, ale przecież jeśli nie ma żadnej nieruchomości to ten obowiązek danej osoby nie dotyczy. Manipulacja inspekcji sanitarnej i pośrednio sądów polega na tym, że z faktu, że jakiś tam obowiązek istnieje i obejmuje jakąś grupę ludzi, wywodzą, że mogą przymuszać do spełnienia tego obowiązku konkretną osobę. 
 
 2. I dalej - obowiązek nie jest równy przymusowi. Istnieją tzw. obowiązki społeczne np. obowiązek zgłoszenia przestępstwa urzędniczego. Jeśli jest się osobą fizyczną to nie trzeba tego robić nawet jeśli dana osoba wie o czymś takim. Z kolei funkcjonariusz publiczny ma już tzw. obowiązek prawny i jeśli tylko poweźmie wiedzę o czymś takim musi to zgłosić. Jeśli tego nie zgłosi to jemu samemu grożą poważne konsekwencje wpisane w przepisy karne odpowiedniej ustawy. Są również obowiązki prawne, które dotyczą osób fizycznych np. obowiązek szkolny czy obowiązek płacenia podatków - i tu i tu występują przepisy karne w ustawach. Są również tzw. obowiązki martwe - takim czymś jest obowiązek meldunkowy - jest wpisany w ustawę a mimo tego nikt go teraz nie egzekwuje. Istotne są dwie sprawy - w oparciu o Konstytucję, obowiązki na obywateli mogą być nakładane tylko mocą ustawy (czyli nie komunikatu czy rozporządzenia) oraz to, że ustawa o zapobieganiu i zwalczaniu (a nie ustawa o inspekcji sanitarnej) nie ma już w treści przepisów karnych w zakresie nie szczepienia dzieci. Kiedyś takie przepisy były, ale od 2009 r. już ich nie ma, więc przymuszanie kogokolwiek jest nieuzasadnione. 
