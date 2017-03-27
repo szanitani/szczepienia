@@ -65,10 +65,10 @@ Obecnie część organów 1-ej instancji uważa, że nie prowadzi postępowania 
 Postępowanie egzekucyjne rządzi się swoimi specyficznymi prawami. Stosowanie przepisów wymaga ogromnej wiedzy a na dodatek, wiele kwestii jest regulowanym właśnie aktami stosowania prawa. Tutaj są [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/postepowanie_egzekucyjne.md).
 
 ## 16. Gdzie znajdę orzeczenia przydatne w kwestii doręczania korespondencji?
-Wiele błędów w postępowaniu organu wynika z przyjętej elektronicznej ścieżki prawnej. Reguły doręczeń są zawarte w art. 39-49 k.p.a. Tutaj są [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md).
+Wiele błędów w postępowaniu organu wynika z przyjętej elektronicznej ścieżki prawnej. Reguły doręczeń są zawarte w art. 39-49 k.p.a. Tutaj są [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie%20korespondencji.md).
 
 ## 17. Gdzie znajdę orzeczenia przydatne w sytuacji wezwania strony do stawienia się w Inspekcji Sanitarnej?
-Bywa, że organ wzywa stronę do stawienia się w swojej siedzibie. Spotkania te mają rózny przebieg. Szczegółowo te sytuacje i możliwe dla strony opcje są opisane na forum, a tutaj są [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/wezwanie do osobistego stawiennictwa.md).
+Bywa, że organ wzywa stronę do stawienia się w swojej siedzibie. Spotkania te mają rózny przebieg. Szczegółowo te sytuacje i możliwe dla strony opcje są opisane na forum, a tutaj są [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/wezwanie%20do%20osobistego%20stawiennictwa.md).
 
 ## 18. Gdzie znajdę orzeczenia przydatne w przypadku skarżenia bezczynności/przewlekłości ?
 Gdy Organ do którego składamy żądanie w postaci wniosku w rozumieniu kpa nie dotrzymuje terminu załatwienia spraw, możemy posiłkować się orzeczeniami znajdującymi się w tej sekcji [przydatne orzeczenia](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/bezczynnosc-przewleklosc.md)
@@ -80,23 +80,23 @@ Strukturę trzeba opracować, orzeczenia dodać i poopisywać. Zobaczymy co z te
 Tak, lista orzeczeń oczekujących na sklasyfikowanie i opis (bardzo niepełna - pomoc mile widziana) jest [tutaj](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/oczekujace.md)
 
 ## 21. Indeks sygnatur orzeczeń.
-- [I OSK 1750/10 - Wyrok NSA z 2011-02-08](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
+- [I OSK 1750/10 - Wyrok NSA z 2011-02-08](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie%20korespondencji.md)
 - [I OSK 654/11 - Wyrok NSA 2012-04-25](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [I SA/Sz 434/16 - Postanowienie WSA w Szczecinie z 2016-05-13](http://orzeczenia.nsa.gov.pl/doc/1481C81009) 
 - [I SA/Wr 703/13 - Wyrok WSA we Wrocławiu z 2013-10-10](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
 - [II FPS 8/09 - Uchwała NSA z 2010-02-15](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/postepowanie_egzekucyjne.md)
 - [II FSK 954/11 - Wyrok NSA z 2013-01-18](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
-- [II GSK 1197/14 - Postanowienie NSA 2014-06-04](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
+- [II GSK 1197/14 - Postanowienie NSA 2014-06-04](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie%20korespondencji.md)
 - [II OSK 1089/14 - Postanowienie NSA z 2014-05-08](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [II OSK 2445/10 - Wyrok NSA z 2012-03-02](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/postepowanie_egzekucyjne.md)
-- [II OSK 3013/13 - Wyrok NSA z 2015-07-14](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
+- [II OSK 3013/13 - Wyrok NSA z 2015-07-14](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie%20korespondencji.md)
 - [II OSK 33/11 - Postanowienie NSA 2011-01-20](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/bezczynnosc-przewleklosc.md)
-- [II OSK 460/10 - Wyrok NSA z 2011-04-05](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/wezwanie do osobistego stawiennictwa.md)
+- [II OSK 460/10 - Wyrok NSA z 2011-04-05](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/wezwanie%20do%20osobistego%20stawiennictwa.md)
 - [II OSK 948/10 - Postanowienie NSA z dnia 2010-08-20](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [II SA/Bk 25/16 - Wyrok WSA w Białymstoku z 2016-03-01](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [II SA/Gd 170/14 - Wyrok WSA z 2014-11-13](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
 - [II SA/Go 255/15 - Wyrok WSA w Gorzowie Wlkp. z 2015-06-10](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
-- [II SA/Go 43/13 - Wyrok WSA w Gorzowie Wlkp. z 2013-02-28](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
+- [II SA/Go 43/13 - Wyrok WSA w Gorzowie Wlkp. z 2013-02-28](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie%20korespondencji.md)
 - [II SA/Ke 452/10 - Wyrok WSA w Kielcach 2010-11-26](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/postepowanie_egzekucyjne.md)
 - [II SA/Ol 158/14 - Wyrok WSA w Olsztynie z 2014-04-02](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [II SA/Ol 893/11 - Wyrok WSA w Olsztynie z 2011-12-13](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
@@ -105,6 +105,6 @@ Tak, lista orzeczeń oczekujących na sklasyfikowanie i opis (bardzo niepełna -
 - [II SAB/Go 51/16 - Wyrok WSA w Gorzowie Wlkp. z 2016-07-27](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/bezczynnosc-przewleklosc.md)
 - [II SAB/OI 48/15 - Wyrok WSA w Olsztynie z 2016-03-10](http://orzeczenia.nsa.gov.pl/doc/3E15D9C0C1)
 - [III SA/Gd 337/10 - Wyrok WSA w Gdańsku z 2010-11-18](http://orzeczenia.nsa.gov.pl/doc/A75655A90C)
-- [IV SA/Po 901/14 - Wyrok WSA w Poznaniu 2015-04-23](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie korespondencji.md)
+- [IV SA/Po 901/14 - Wyrok WSA w Poznaniu 2015-04-23](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/Dostarczanie%20korespondencji.md)
 - [IV SA/Wa 1616/05 - Wyrok WSA w Warszawie z 2006-03-27](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md)
 - [Wyrok Sądu Najwyższego z 10 października 2013 r. (sygn. II UK 104/13)](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/pelnomocnictwa.md)
