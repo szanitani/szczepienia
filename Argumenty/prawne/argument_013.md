@@ -1,9 +1,9 @@
-#Organ uznaje, że komunikat GIS został wydany zgodnie z prawem.
+# Organ uznaje, że komunikat GIS został wydany zgodnie z prawem.
 
-##Co warto zrobić?
+## Co warto zrobić?
 Zakres obowiązku szczepień wyznacza w istocie komunikat GIS. Niestety, jego wydanie, jako normy może być obciążone niżej wskazanymi wadami.  
 
-##Treść do wykorzystania.
+## Treść do wykorzystania.
 
 Strona wskazuje również, że wielokrotnie Organ powołuje się na komunikat GIS – Program Szczepień Ochronnych (PSO), jako źródło prawa. Komunikat GIS nie jest wymieniony w art. 87 Konstytucji, jako źródło powszechnie obowiązującego prawa. Co więcej, Organ wywodzi, że ograniczenie wolności i praw strony a wręcz stosowanie przymusu i kary/grzywny, jest uzasadnione byciem przez stronę w zwłoce, w stosunku do terminów wskazanych właśnie w PSO. Strona informuje, że nie jest w zwłoce, w stosunku do terminów wskazanych w r.o.s.o. To właśnie przekroczenie terminów z PSO (a nie z r.o.s.o.) Organ uznaje za naruszenie prawa i uzasadnienie stosowania przymusu wobec strony. Strona zwraca uwagę, że u.z.z., deleguje zadania w zakresie szczepień na „Ministra właściwego do spraw zdrowia”. Delegacja kompetencji jest oparta o art. 92 ust. 1 Konstytucji. Strona zwraca uwagę, na art. 92 ust. 2 Konstytucji, o treści „Organ upoważniony do wydania rozporządzenia nie może przekazać swoich kompetencji, o których mowa w ust. 1, innemu organowi.”, normujący regułę zakazu tzw. subdelegacji. Zatem komunikat GIS, wydany na podstawie rozporządzenia Ministra Zdrowia, nie działa w granicach rozporządzenia, którego wydanie przysługuje tylko Ministrowi Zdrowia. 
 
