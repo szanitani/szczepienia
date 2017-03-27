@@ -1,17 +1,17 @@
-##Kogo dotyczy to pismo?
+## Kogo dotyczy to pismo?
 1. Ten dokument można wysłać do przychodni przed kwartalnym przekazaniem danych osobowych do Inspekcji.
 2. Można wysłać do PIS, jako dowód w związku z późniejszą skargą do GIODO.
 
-##Czy na dalszym etapie postępowania również warto wysłać to pismo?
+## Czy na dalszym etapie postępowania również warto wysłać to pismo?
 Do czasu złożenia skargi do GIODO.
 
-##Co ewentualnie warto dopasować w treści wniosku?
+## Co ewentualnie warto dopasować w treści wniosku?
 Należy dopasować stan faktyczny. Część beletrystyczna jak najbardziej w/g własnego uznania. Można wyłożyć swoje racje w związku z treścią skargi do GIODO.
 
-##Jakie są dalsze kroki?
+## Jakie są dalsze kroki?
 Nie ma, to jest pismo informacyjne. Może być tak, że organ lub przychodnia wyśle pismo z zapytaniem, żądaniem sprecyzowania. W takiej sytuacji należy posiłkować się treścią skargi do GIODO.
 
-##Treść pisma:
+## Treść pisma:
 ```
                                                                 <miejscowosc>, <data>
 <imie nazwisko>
