@@ -1,9 +1,9 @@
-#Organ odnosi się do kwestionowania przez stronę porozumienia między Wojewodą a WIS (opinia BAS)
+# Organ odnosi się do kwestionowania przez stronę porozumienia między Wojewodą a WIS (opinia BAS)
 
-##Co warto zrobić?
+## Co warto zrobić?
 Sytuacja dotyczy województw, gdzie Wojewoda podpisał z WIS umowę o prowadzenie postępowań egzekucyjnych w sprawie szczepień. Zwykle strona kwestionuje takie porozumienie w zarzutach, organ (na chwilę obecną MZ) odpowiada i w skardze do WSA można wykorzystać poniższą argumentację. Należy poszukać również aktualny stan orzecznicwta w tym względzie, bo sprawa nie jest w pełni rozstrzygnięta.
 
-##Treść do wykorzystania.
+## Treść do wykorzystania.
 1. Z jednej strony MZ twierdzi, ze opinia BAS jest opinią indywidualną, po czym sam taka wydaje. 
 
 2. MZ twierdzi, że podmiotem uprawnionym do kontroli legalności takiego porozumienia jest WSA, jednakże powstaje pytanie czy jedynym. W dalszej części są przywoływane orzeczenia sądów powszechnych. 
