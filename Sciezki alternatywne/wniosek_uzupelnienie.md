@@ -1,29 +1,29 @@
-#Wzór wniosku o uzupełnienie postanowienia o odmowie zawieszenia postępowania egzekucyjnego
+# Wzór wniosku o uzupełnienie postanowienia o odmowie zawieszenia postępowania egzekucyjnego
 
-##Jaki jest stan tego pisma?
+## Jaki jest stan tego pisma?
 Do wykorzystania. Oczekujemy na reakcje organów.
 
-##Kogo dotyczy to pismo?
+## Kogo dotyczy to pismo?
 1. Rodzica, wobec którego jest prowadzone postępowanie egzekucyjne, który złożył wniosek o zawieszenie postępowania egzekucyjnego, i ktorego wniosek został odrzucony.
 2. Innych sytuacji, gdzie organ wydaje postanowienie a strona potrzebuje dodatkowych wyjaśnień.
 
-##Jaki jest cel tego pisma?
+## Jaki jest cel tego pisma?
 1. Wyjaśnienie kwestii na podstawie których, zostało wydane postanowienie - zwykle organy odrzucają wnioski stron wg szablonu, bez analizy stanu faktycznego w danym postępowaniu.
 
-##Co zmodyfikować w treści?
+## Co zmodyfikować w treści?
 To jest trudne pismo. Należy dopasować do swojego stanu faktycznego. Jeśli postanowienie dotyczy innego zagadnienia należy oczywiście dodać swoje pytania i wątpliwości. Niniejszy Wzór może dotyczyć nie tylko pism Wojewody.
 
-##Jakie są dalsze kroki?
+## Jakie są dalsze kroki?
 1. Pytania i wątpliwości w szczególności stanowiska organów należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=178599). Znajdują się tam również komentarze i historia dokumentu.
 2. Organ powinien odpowiedzieć postanowieniem.
 3. Na nowe postanowienie również przysługuje wniosek o uzupełnienie, na który organ musi odpowiedzieć postanowieniem.
 4. Jeśli postanowienie jest odmowne, przysługuje na nie zażalenie.
 5. Kolejny krok to sąd administracyjny, jako kolejna ścieżka poboczna w postępowaniu (albo ponowne przejście do kroku nr 3 - tyle razy ile mamy cierpliwości)
 
-##Na co należy zwrócić uwagę?
+## Na co należy zwrócić uwagę?
 Na terminy. Termin odwołania na pierwotne postanowienie/decyzję biegnie dopiero od doręczenia postanowienia organu na ten wniosek. Jeśli strona złoży pismo procesowe dotyczące rozstrzygnięcia pierwotnego (np. odwołanie, skargę) przed otrzymaniem postanowienia, zostanie ono odrzucone jako przedwczesne. Więcej w [II OSK 1089/14 - Postanowienie NSA z 2014-05-08](https://github.com/szanitani/szczepienia/blob/master/Przepisy/Orzeczenia/decyzje.md) w części repozytorium poświęconej aktom stosowania prawa w zakresie decyzji.
 
-##Treść pisma:
+## Treść pisma:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{miejscowosc}} {{data}}
 
 {{adres}}
