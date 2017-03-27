@@ -1,16 +1,16 @@
-##Kogo dotyczy to pismo?
+## Kogo dotyczy to pismo?
 Dokument należy wysłać do organu po wysłaniu pisma do innego organu, którego rozstrzygnięcie może mieć znaczenie dla toku sprawy. Przykładowo takim pismem jest skarga do GIODO lub zażalenie do MZ.
 
-##Czy na dalszym etapie postępowania również warto wysłać to pismo?
+## Czy na dalszym etapie postępowania również warto wysłać to pismo?
 Tak! Póki sprawa nie doszła do Sądu Administracyjnego to warto.
 
-##Co ewentualnie warto dopasować w treści wniosku?
+## Co ewentualnie warto dopasować w treści wniosku?
 Należy dopasować stan faktyczny. Część beletrystyczna jak najbardziej w/g własnego uznania.
 
-##Jakie są dalsze kroki?
+## Jakie są dalsze kroki?
 Czekać na odpowiedź Wojewody. Brak odpowiedzi w ustawowym terminie powinien uruchomić procedurę odwoławczą. Odpowiedź wymijająca lub niepełna - uruchomić procedurę wymuszająca na Organie sprecyzowanie stanowiska ze wskazaniem podstawy prawnej oraz obowiązku. Zawsze każdą odpowiedź organu należy przekazać na forum, a docelowo warto dodać do tego repozytorium. Odpowiedzi Wojewody wykorzystać w skardze do WSA.
 
-##Treść pisma:
+## Treść pisma:
 ```
                                                                 <miejscowosc>, <data>
 <imie nazwisko>
