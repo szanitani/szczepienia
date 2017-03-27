@@ -1,9 +1,9 @@
-#Kwestie prawne badania kwalifikacyjnego.
+# Kwestie prawne badania kwalifikacyjnego.
 
-##Co warto zrobić?
+## Co warto zrobić?
 Gdy wszystkie argumenty na bazie prawa administracyjnego zawiodą, ZAWSZE jest możliwa poniższa ścieżka.
 
-##Algorytm postępowania.
+## Algorytm postępowania.
 
 krok 1 - idziesz na badanie kwalifikacyjne [i zadajesz takie pytania](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo_przychodnia_01.md)
  
@@ -19,5 +19,5 @@ krok 6 - jesli wiek dziecka jest mniejszy niż wpisany w rozporządzeniu w spraw
  
 krok 7 - GAME OVER, wygrałeś/aś z systemem - gratulacje!
 
-##Jak złożyć sprzeciw?
+## Jak złożyć sprzeciw?
 Szczegóły są opisane na str. 48-49 w podręczniku ["Zrozumieć Prawa Pacjenta"](http://akademia.nfz.gov.pl/podrecznik-zrozumiec-prawa-pacjenta/). Gdyby ktoś chciał skorzystać z tej ścieżki, proszę o kontakt na forum, warto opracować wzór dokumentu sprzeciwu i dodać go do tego repozytorium.
