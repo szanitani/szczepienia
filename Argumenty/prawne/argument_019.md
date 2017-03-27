@@ -1,9 +1,9 @@
-#Organ uznaje się za "wierzyciela" w postępowaniu egzekucyjnym.
+# Organ uznaje się za "wierzyciela" w postępowaniu egzekucyjnym.
 
-##Co warto zrobić?
+## Co warto zrobić?
 Dołączyć poniższą argumentację czy to w zarzutach czy w skardze do WSA.
 
-##Treść do wykorzystania.
+## Treść do wykorzystania.
 
 Strona wskazuje, że termin „wierzyciel” jest definiowany w przepisach raczej jako stan a nie jako osobne pojęcie. Czyli do „bycia wierzycielem” jest konieczne spełnienie określonych warunków a nie tylko „bycie” wskazaną w przepisach jednostką administracji publicznej. Analogiczna sytuacja wiąże się ze stanem „bycia zobowiązanym”. Również i w tej sytuacji, nie wynika to z definicji tylko ze spełnienia określonych warunków. Realnym połączeniem między wierzycielem a zobowiązanym jest stosunek zobowiązaniowy, który uprawnia wierzyciela do spełnienia określonego świadczenia, będącego przedmiotem zobowiązania. Świadczenie z kolei, jest to zachowanie zobowiązanego zgodne z treścią zobowiązania polegające na zadośćuczynieniu godnemu ochrony interesowi wierzyciela. W zakresie formalnym aby wierzyciel mógł dochodzić swoich praw, zobowiązania musi być wymagalne, czyli być takim zobowiązaniem, którego termin minął, a które nie zostało przedawnione lub umorzone.
 
