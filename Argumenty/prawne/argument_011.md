@@ -1,9 +1,9 @@
-#Organ egzekucyjny prowadzi dwa postępowania ezgekucyjne wobec jednego zobowiązanego.
+# Organ egzekucyjny prowadzi dwa postępowania ezgekucyjne wobec jednego zobowiązanego.
 
-##Co warto zrobić?
+## Co warto zrobić?
 W zależności od stanu faktycznego - sprawa toczy się o to, że rodzice są ustawowymi przedstawicielami zobowiązanego a nie są w istocie zobowiązanymi. Wg jednych decyzja o szczepieniu musi być wspólna. Wg innych wystarczy jeden rodzic. Zauważmy coś takiego - jeśli zobowiązanym jest dziecko, to grzywna dla obojga rodziców obciąża go podwójnie. 
 
-##Treść do wykorzystania.
+## Treść do wykorzystania.
 
 Organ bez uwzględnienia stanu prawnego osoby małoletniej i nieposiadającej pełnej zdolności do czynności prawnych, wszczął dwa postępowania wobec dwóch osób, które w uznaniu organu sprawują prawną pieczę. Strony wskazują, że art. 5 ust. 2 u.z.z. normuje, że odpowiedzialność za wypełnienie obowiązków ponosi osoba (liczba pojedyncza) a nie wszystkie osoby mieszczące się w określeniu rodzajowym w rozumieniu § 144 r.z.t.p. Strony wskazują, w związku z art. 27c u.p.e.a., iż brak szczegółowego wskazania statusu prawnego podmiotów i podstawy prawnej działania organu w postępowaniu, uniemożliwia m.in. rozstrzygnięcie, czy grzywna jako całość ({{kwota}} zł) dotyczy jednej osoby i została podzielona w równych częściach w dwóch różnych postępowaniach czy też są to dwie różne grzywny o wysokości {{kwota przez dwa}} zł nałożone na dwie różne osoby w dwóch różnych postępowaniach. Obowiązek prawidłowego wyznaczenia stron i ich statusów prawnych i zakresu odpowiedzialności spoczywa na organie. Organ obowiązku tego nie dopełnił narażając tym samym postępowanie na istotny błąd w rozumieniu art. 33 § 1 u.p.e.a. 
 
