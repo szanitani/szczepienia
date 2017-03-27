@@ -1,15 +1,15 @@
-#Organ wyznacza zobowiązanemu termin realizacji szczepień.
+# Organ wyznacza zobowiązanemu termin realizacji szczepień.
 
-##Jaki jest kontekst tego argumentu?
+## Jaki jest kontekst tego argumentu?
 Bywa, że PPIS w upomnieniu wyznacza termin realizacji szczepień (np. 7 dni) lub też Wojewoda w swoim postanowieniu wyznacza taki termin (np. 30 dni).
 
-##Co warto zrobić?
+## Co warto zrobić?
 Należy dopasować do swojego stanu faktycznego. Dołączyć poniższą argumentację czy to w zarzutach czy w skardze do WSA.
 
-##Źródło?
+## Źródło?
 Lekko przeredagowana treść z forum.
 
-##Treść do wykorzystania.
+## Treść do wykorzystania.
 Art. 15 §1 u.p.e.a wyraźnie wskazuje "*Egzekucja administracyjna może być wszczęta, jeżeli wierzyciel, po upływie terminu do wykonania przez zobowiązanego obowiązku, przesłał mu pisemne upomnienie, zawierające wezwanie do wykonania obowiązku z zagrożeniem skierowania sprawy na drogę postępowania egzekucyjnego, chyba że przepisy szczególne inaczej stanowią. Postępowanie egzekucyjne może być wszczęte dopiero po upływie 7 dni od dnia doręczenia tego upomnienia.*” 
 
 Dopiero po upływie terminu do wykonania obowiązku wierzyciel może przesłać pisemne upomnienie. W przypadku mojego dziecka, Inspektor Sanitarny przesłał upomnienie przed upływem terminu do wykonania obowiązku. W upomnieniu tym, bez właściwości rzeczowej wyznaczył indywidualny termin wykonania szczepienia, który nie ma żadnego związku z obowiązkiem szczepień ochronnych wynikajacym z przepisów u.z.z., ani z prawnie obowiązującymi terminami szczepień, wynikającymi z rozporządzenia MZ.
