@@ -1,9 +1,9 @@
-#Organ doręcza pismo o nieokreślonym charakterze.
+# Organ doręcza pismo o nieokreślonym charakterze.
 
-##Co warto zrobić?
+## Co warto zrobić?
 Jeśli nie wiadomo o co chodzi z danym pismem, należy żądać sprecyzowania. Bez tego nie ma możliwości ustalenia swoich praw i obowiązków. Każde postępowanie prowadzone w trybie k.p.a. musi się zakończyć decyzją lub postanowieniem, a organy sprytnie i mętnie wywodzą, że przecież nie prowadzą żadnego postępowania. Jeśli pismo nie ma podstawy prawnej to nie jest odpowiedzią w rozumieniu k.p.a. (ale też nie zawsze) bo powinno zawierać uzasadnienie faktyczne i prawne (zwykle - są wyjątki). Dla tych wyjątków, czyli pism gdzie nie jest to wymagane, można zawsze powołać się na Konstytucję. Co więcej, pismo nie nazywające się postanowieniem lub decyzją, może być uważane za decyzję, w związku z tym należy po otrzymaniu pisma napisać mniej więcej coś takiego jak poniżej.  
 
-##Treść do wykorzystania.
+## Treść do wykorzystania.
 
 W nawiązaniu do pisma {{sygnatura}} z dnia {{data}} na podstawie art. 6 oraz 104 Kodeksu Postępowania Administracyjnego, wnoszę o udzielenie odpowiedzi, w jakim trybie została udzielona ta odpowiedz, czy te pismo to jest postanowienie, decyzja, czy może to projekt decyzji? 
 
