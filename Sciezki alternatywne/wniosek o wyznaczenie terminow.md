@@ -1,11 +1,13 @@
+## Do czego służy to pismo?
 Jest to alternatywny wniosek do Organów inspekcji sanitarnej o wyznaczenie upłynięcia terminów szczepień ochronnych w przypadku gdy strona kwestionuje czynności podjęte przez organ.
 
+## Dlaczego podstawą pisma jest inny przepis niż w poprzednim wniosku?
 Organy inspekcji stoją na stanowisku, iż nie mogą "z urzędu" prowadzić postępowania administracyjnego przez co nie wydają aktów administracyjnych, które można zaskarżać. Wniosek podkreśla, iż jest to żądanie z art. 61 kpa czyli żądanie przez stronę wszczęcia postępowania administracyjnego. W teorii wniosek taki winien być załatwiony poprzez wydanie odpowiedniego aktu, a każda inna odpowiedź od Organu np. zwykłym pismem powinna uruchomić procedurę wymuszającą tzn. zażalenie na niezałatwienie sprawy w terminie i dalej skarga do sądu administracyjnego na bezczynność/przewlekłość. 
 
+## Co mogę zmienić w piśmie?
 Treść uzasadnienia można dopasować do swoich potrzeb i poprzeć argumentację wyrokami sądów z repozytorium. Pismo takie należy wysłać również do organu egzekucyjnego w przypadku wszczęcia postępowania egzekucyjnego.
 
-
-##Treść pisma:
+## Treść pisma:
 
 [miejscowość]
  
