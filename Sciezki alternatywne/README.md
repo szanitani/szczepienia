@@ -1,6 +1,6 @@
-##Dokumenty, procedury i reguły działania w zakresie ścieżek alternatywnych w postępowaniu
+## Dokumenty, procedury i reguły działania w zakresie ścieżek alternatywnych w postępowaniu
 
-##Zawartość
+## Zawartość
 
 1. [Wniosek do PPIS o wskazanie terminów](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek%20o%20podanie%20terminow.md), które Organ uznaje za przekroczone w związku z postępowaniem egzekucyjnym.
 2. [Skarga do Prezesa RM](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/skarga%20na%20wojewode.md), w związku z postanowieniem Wojewody o nałożeniu grzywny.
@@ -24,15 +24,15 @@
 20. [Oświadczenie wypisania dziecka od świadczeniodawcy POZ](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo_oswiadczenie_poz.md), stosowany również dla innych oświadczeń o zaprzestaniu przetwarzania danych osobowych.
 21. [Alternatywny wniosek o wyznaczenie terminów](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek%20o%20wyznaczenie%20terminow.md) tym razem pismo na podstawie art. 61 k.p.a. w sytuacji gdy organ unika odpowiedzi na pytanie o terminy.
 
-##Części wspólne pism
+## Części wspólne pism
 Ilekroć w instrukcji do pisma jest wskazane aby wysyłać je "*jak najszybciej*", oznacza to oczywiście wysyłanie pisma w ostatnim dniu wymaganego terminu. Tam gdzie wspomina się o "*stosownej skardze*" lub "*dochodzeniu swoich praw*" warto posiłkować się [tymi zaleceniami](http://forumprawne.org/prawo-administracyjne/301849-jak-pisac-skuteczne-pisma-do-urzedu-poradnik.html).
 
 Ilekroć w instrukcji adresatem jest Wojewoda jest nim w istocie Organ Egzekucyjny. W kilku województwach Wojewodowie podpisali umowy z WIS i wtedy organem egzekucyjnym jest WIS. Podstawa prawna dla tej czynności jest kwestionowana między innymi w sławetnej opinii Biura Analiz Sejmowych - szczegóły we wzorach dokumentów Stop NOP.
 
-##Jak wygląda ścieżka tradycyjna?
+## Jak wygląda ścieżka tradycyjna?
 Jest to typowy schemat oparty o [wzory dokumentów do pobrania w sprawie szczepień ze strony pisma.szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/wzory-pism.html) w zakresie postępowania administracyjnego w związku z nałożeniem grzywny na rodziców. UWAGA! Poniższy schemat był aktualny do grudnia 2016, obecnie numeracja pism na stronie ze wzorami została zmieniona, więc poniższy diagram może być traktowany jako poglądowy i historyczny. Zmieniły się również działania organu egzekucyjnego w związku z innym trybem wysyłania tytułu wykonawczego i postanowienia o nałożeniu grzywny oraz zawiadamianiu rodziców o wszczęciu postępowania egzekucyjnego. Daje to rodzicom możliwość zgłoszenia materiału dowodowego oraz złożenia jeszcze jednego odwołania, natomiast dla rodziców, którzy takiego zawiadomienia nie otrzymali (tylko od razu postanowienie i TW) stanowi świetny argument do WSA. Poniżej, linie przerywane oznaczają dokumenty informacyjne. Rodzice wstępujący na ścieżkę alternatywną mają do dyspozycji argumenty z niniejszego repozytorium, wcelu uzupełnienia wielu pism. Niektóre pisma powinny być mocno zmodyfikowane np. treść pelnomocnictwa (zalecam korzystanie ze [wzoru z repozytorium](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pelnomocnictwo.md)), niektóre pisma nie są obecnie korzystne dla rodzicow np. odmowa badania kwalifikacyjnego. JEDNAKŻE na bazie tych pism Stowarzyszenie StopNOP pomaga ludziom, którzy po prostu chcą coś wysłać i już. Druga uwaga jes taka, że obecnie nie ma możliwości złożenia skargi do WSA na postanowienie WIS w sprawie złożonych zarzutów (p. 11a). Kiedyś taka możliwość była i tamte pisma oraz poniższy schemat cały czas to uwzględniają. Dlatego, obecnie prowadząc sprawę, rodzic powinien włączyć tzw. tryb ostrożności procesowej i korzystać z kilku źródeł co do wzorów dokumentow, pytać się (na forum np), czytać przepisy i myśleć. No i zawsze warto stosować ścieżki alternatywne z tego repozytorium jako uzupełnienie. W planach jest modyfikacja schematu do aktualnej ścieżki zalecanej z uwzględnieniem możliwości alternatywnego wykorzystania przepisów k.p.a., jednak nie wcześniej niż z początkiem roku 2017 o ile czas pozwoli (lub znajdzie się ochotnik do uzupełnienia - źródła do kodu generującego ten schemat są oczywiście w tym katalogu repozytorium).
 
 ![Obrazek](https://github.com/szanitani/szczepienia/raw/master/Sciezki%20alternatywne/sciezka_wg_wzorow.png)
 
-##Jaki jest cel wejścia na ścieżkę alternatywną?
+## Jaki jest cel wejścia na ścieżkę alternatywną?
 Aby zwiększyć ilość strzałek w powyższym schemacie, czyli dodać kilkadziesiąt/kilkaset nowych dokumentów do sprawy. Aby zwiększyć liczbę urzędów podejmujących czynności w sprawie i postępowaniu. Aby pełniej bronić swoich praw i wyjaśniać żądania urzędników.
