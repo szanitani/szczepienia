@@ -20,7 +20,7 @@ Wasz znak: [znak sprawy]
 
 WNIOSEK
 
-Na podstawie art. 61 § 1 k.p.a. składam żądanie wyznaczenia dnia, miesiąca i roku od którego Organ uznaje datę upłynięcia terminu wykonania szczepień ochronnych małoletniego [imię, nazwisko].
+Na podstawie art. 61 § 1 k.p.a. składam żądanie wszczęcia postępowania administracyjnego i ustalenia stanu faktycznego w jakim pozostaje dziecko [imię, nazwisko], w tym wyznaczenie dnia, miesiąca i roku od którego Organ uznaje datę upłynięcia terminu wykonania szczepień ochronnych.
 
 UZASADNIENIE
 
