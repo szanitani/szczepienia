@@ -195,6 +195,9 @@ Załączniki:
 ```
 
 ## Jaka jest treść pisma do zastosowania w kroku nr 8 powyższego algorytmu?
+
+Uwaga: dla każdego pisma do MZ/GIS/PZH - osobny wniosek.
+
 ```
                                                                 <miejscowosc>, <data>
 <imie nazwisko>
@@ -216,5 +219,5 @@ z wyrazami szacunku
 <imie nazwisko>
 
 Załączniki:
-1. Pismo do {{PZH}} z dnia {{data}}
+1. Pismo do {{PZH/MZ/GIS/Inne}} z dnia {{data}}
 ```
