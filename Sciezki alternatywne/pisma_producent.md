@@ -43,6 +43,9 @@ Pomysł powstał na bazie postu w grupie ["Powikłania poszczepienne i prawo"](h
 ## Jaki jest stan prac nad tym zestawem pism?
 W trakcie opracowywania treści. Jak najbardziej do wykorzystania w swoich sprawach. To jest zaawansowana ścieżka prawna i trzeba każdą sprawę opracowywać indywidualnie. Wiele poniższych treści można "podrasować" (POMOC MILE WIDZIANA) w zakresie np. lepszego cytowania przepisów czy pełniejszych uzasadnień.
 
+## Chciałbym pomóc, mam uwagi?
+Pytania, propozycje, zmiany w treści w szczególności stanowiska organów i producentów należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=181027). Znajdują się tam również komentarze i historia dokumentu.
+
 ## Jaka jest treść pisma do zastosowania w kroku nr 2 powyższego algorytmu?
 ```
                                                                 <miejscowosc>, <data>
