@@ -68,6 +68,9 @@ z wyrazami szacunku
 ```
 
 ## Jaka jest PRZYKŁADOWA treść pisma do zastosowania w kroku nr 4 powyższego algorytmu?
+
+To pismo powinno być dopasowane do konkretnej sytuacji rodziców. BARDZO dobry przykład wzoru takiego pisma - wręcz zalecany jako wzór pisma do wykorzystania - jest [w zasobach STOP NOP](http://stopnop.com.pl/wp-content/uploads/2017/02/pismo-do-producenta-szczepionek-o-gwarancję-bezpieczeństwa.pdf). Poniżej jest prostsze, podstawowe pismo:
+
 ```
                                                                 <miejscowosc>, <data>
 <imie nazwisko>
