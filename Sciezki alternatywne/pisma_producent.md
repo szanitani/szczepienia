@@ -5,12 +5,15 @@ Niniejszy wzór nie jest w istocie jednym pismem, tylko ich zestawem oraz zbiore
 1. Rodziców, którzy mają u dziecka stwierdzony stan zdrowotny, nie będący typowym dla przeciętnego dziecka.
 2. Rodziców, którzy mają uzasadnione podejrzenia, że dziecko taki stan może posiadać lub podobne stany występowały w rodzinie a nie zostały u dziecka jeszcze stwierdzone.
 
-## Na jakim etapie postępowania warto wysyłać te pisma?
+## Na jakim etapie sprawy warto wysyłać te pisma?
 Generalnie im wcześniej tym lepiej. Czyli już po otrzymaniu wezwania od PPIS i po wciągnięciu organu w dyskusję merytoryczną. Jednakże jest ona jak najbardziej możliwa i dla rodziców wchodzących na tą ścieżkę już na etapie postępowania egzekucyjnego.
+
+## Czy warto wysyłać zapytania do producenta jeszcze przed rozpoczęciem sprawy w PPIS?
+Czyli po uzyskaniu stanowiska lekarza. Tak, może to być tzw. działanie wyprzedzające przed terminem szczepienia. Po otrzymaniu odpowiedzi od producenta można przy kolejnej wizycie u pediatry, gdy zacznie naciskać na szczepienie, pokazać odpowiedź producenta i zarejestrować/udokumentować reakcję lekarza. To rejestrowanie posłuży jako część materiału dowodowego na dalszych etapach sprawy. Przykładowo w jednej odpowiedzi z producenta było napisane, żeby iść do lekarza z konkretnym CHPL oraz, że to lekarz kwalifikuje dziecko i odpowiedzialność za NOP moze obciążyć lekarza . W aktalnie znanych odpowiedziach producentów żaden "podmiot odpowiedzialny" nie potwierdził twierdzenia MZ, ze to MZ odpowiadaja za NOP. W takiej sytuacji, stosownym będzie pytanie, czy lekarz jest chętny wziąć na siebie tę odpowiedzialność (finansową) za wystąpienie NOP i potwiedzić to w osobnym piśmie (najlepiej notarialnie).
 
 ## Jaki jest ogólny algorytm postępowania?
 
-1. Rodzice otrzymują stanowisko organu o liście zalecanych szczepień (rodzaje chorób)
+1. Rodzice otrzymują stanowisko organu (lub lekarza) o liście zalecanych szczepień (rodzaje chorób)
 2. Rodzice pozyskują wiedzę o producentach tych preparatów szczepionkowych, które mają być zastosowane.
 3. Rodzice potwierdzają lub stwierdzają u dziecka wystąpienie lub możliwość wystąpienia konkretnych schorzeń.
 4. Rodzice pozyskują od producentów ich stanowisko w sprawie bezpieczeństwa konkretnego preparatu w zakresie w/w schorzeń
