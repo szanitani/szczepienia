@@ -1,22 +1,30 @@
 # Wzór wniosków do przychodni i szpitala o wydanie dokumentacji medycznej
 
 ## Jaki jest stan tego pisma?
-do uzupelnienia...
+Ustawy, rozporządzenia oraz wyroki sądów są zgodne ze stanem prawnym obowiązujące na ten moment. Przychodnia ma obowiązek wydać na oryginały dokumentacji medycznej, bez żadnej zwłoki, na nasz koszt. 
 
 ## Kogo dotyczy to pismo?
-do uzupelnienia...
+1. Rodziców, którzy z jakiegoś powodu są bez wybranej przychodni tzn. w sytuacji, kiedy przychodnia wymówiła im swoje świadczenia, lub kiedy rodzice stanęli przed koniecznością rezygnacji z niej.
+2. Dla rodziców, którzy po wyjściu ze szpitala ( po porodzie, kiedy dziecko trafiło na oddział szpitalny po powikłaniach po szczepieniu lub z innych powodów a konieczne jest kompletowanie dokumentacji w celu dalszych czynności np. skarga, zgłoszenie NOP
 
 ## Jaki jest cel tego pisma?
-do uzupelnienia...
+Zawsze, kiedy z jakiegoś powodu czy rezygnacji z przychodni, opuszczeniu szpitala lubi kiedy sama placówka medyczna wymawia nam swoje usług  należy wystąpić z pismem o wydanie calosci dokumentacji, w celu jej zabezpieczenia. Pozwoli nam to w sytuacji, kiedy np. wystąpi u dziecka NOP lub inne problemy poszczepienne/ zdrowotne,  sprawdzić co zawiera dokumentacja, jakie są wykonane wpisy oraz czy są one zgodne z naszą wiedzą 
 
-## Co zmodyfikować w treści?
-do uzupelnienia...
+## Co warto dopasować w treści? 
+Należy wpisać/wymazać dokumenty, które maja nam być wydane.
 
 ## Jakie są dalsze kroki?
-do uzupelnienia...
+Pismo, koniecznie trzeba wysłać listem poleconym, za potwierdzeniem odbioru oszczędzi nam to niepotrzebnych dyskusji z przychodnia. Można zrobić to osobiście, jednak należy mieć dwa identyczne pisma, z czego jeden zostaje w przychodni a drugi po tym, kiedy przychodnia/szpital potwierdzą, że jest ono identyczne z tym, które zostaje w placówce oraz wpisaniu, daty przyjęcia pisma i podpisu osoby przyjmującej  zabieramy ze sobą. 
+
+Odmowa wydania dokumentacji upoważnia nas do złożenia skargi do Rzecznika Praw Pacjenta oraz Wojewódzkiego Sądu Administracyjnego w zakresie bezczynności w udostępnieniu tej dokumentacji – tak stwierdził WSA w Gorzowie Wlkp. w wyroku z dnia 12 stycznia 2017 roku (sygn. akt: **II SAB/Go 156/16**, wyrok nieprawomocny).
 
 ## Na co należy zwrócić uwagę?
-do uzupelnienia...
+Pojęcie "uprawnionego podmiotu" użyte w art. 27 pkt 3 ustawy odnosi się do podmiotów wymienionych w art. 26 ust. 1-3 ustawy, a tym samym pacjent lub osoba przez niego upoważniona jest takim podmiotem. Wobec tego podmiot udzielający świadczeń zdrowotnych ma obowiązek wydać tym osobom na ich żądanie oryginały dokumentacji medycznej.
+
+Oryginał dokumentacji wydawany jest wyłącznie na wyraźne żądanie uprawnionego organu lub podmiotu. Pacjent może żądać wydania oryginału dokumentacji indywidualnej wewnętrznej oraz dokumentacji zbiorczej jedynie w zakresie wpisów dotyczących jego osoby. Podmioty udzielający świadczeń zdrowotnych, wydając oryginał dokumentacji, są zobowiązane pozostawić jej kopie lub pełny odpis na miejscu na własny koszt. (§ 78 ust. 2 rozporządzenia Ministra Zdrowia z dnia 21 grudnia 2010 r. w sprawie rodzajów dokumentacji medycznej oraz sposobu jej przetwarzania, Dz. U. z 2010 r. Nr 252, poz. 1697, z późn. zm.).
+
+## Jaka jest historia tego pisma?
+Pismo powstało, kiedy zaszła konieczność sprawdzenia wiarygodności przychodni i rzetelności wpisów. Z opowiadań rodziców wiadomo już, że często ginie część kartoteki, powstają wpisy, które nie są zgodne z prawdą, lub są dokonane adnotacje, ale tylko takie, które nie spowodują kłopotów w placówce a te niewygodne bywają albo i nie wpisane ale ominięte.
 
 ## Treść pisma do szpitala
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{miejscowosc}} {{data}}
@@ -35,7 +43,7 @@ oraz odnoszących się do osoby mojego dziecka {{imie nazwisko}}, PESEL {{{PESEL
 - **dokumentacji wewnętrznej** (historia zdrowia i choroby; karta indywidualnej opieki pielęgniarskiej; karta wizyty patronażowej; karta wywiadu środowiskowo–rodzinnego. ). 
 - **karty uodpornień** w oryginale , która zgodnie z  ROZPORZĄDZENIEM  MINISTRA ZDROWIA 1)  z dnia 9 listopada 2015 r. w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania jest dokumentacją indywidualną wewnętrzną.
 
-„ Rozdział 1 **§ 2. 3**. Dokumentację indywidualną wewnętrzną stanowią w szczególności:
+„Rozdział 1 **§ 2. 3**. Dokumentację indywidualną wewnętrzną stanowią w szczególności:
 
 8) **karta uodpornienia**, o której mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2013 r. poz. 947, z późn. zm.3).
 
@@ -78,7 +86,7 @@ Zwracam się z uprzejmą prośbą o wydanie oryginałów kompletnej dokumentacji
 - **dokumentacji wewnętrznej przychodni** (historia zdrowia i choroby; karta indywidualnej opieki pielęgniarskiej; karta wizyty patronażowej; karta wywiadu środowiskowo–rodzinnego. ). 
 - **karty uodpornień** w oryginale , która zgodnie z  ROZPORZĄDZENIEM  MINISTRA ZDROWIA 1) z dnia 9 listopada 2015 r. w sprawie rodzajów, zakresu i wzorów dokumentacji medycznej oraz sposobu jej przetwarzania jest dokumentacją indywidualną wewnętrzną.
 
-„  Rozdział 1 **§ 2. 3.** Dokumentację indywidualną wewnętrzną stanowią w szczególności:
+„Rozdział 1 **§ 2. 3.** Dokumentację indywidualną wewnętrzną stanowią w szczególności:
 
 **8) karta uodpornienia,** o której mowa w ustawie z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2013 r. poz. 947, z późn. zm.3).
 
