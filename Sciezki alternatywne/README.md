@@ -24,6 +24,7 @@
 20. [Oświadczenie wypisania dziecka od świadczeniodawcy POZ](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo_oswiadczenie_poz.md), stosowany również dla innych oświadczeń o zaprzestaniu przetwarzania danych osobowych.
 21. [Alternatywny wniosek o wyznaczenie terminów](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek%20o%20wyznaczenie%20terminow.md) tym razem pismo na podstawie art. 61 k.p.a. w sytuacji gdy organ unika odpowiedzi na pytanie o terminy.
 22. [Zestaw pism na bazie pytania wysłanego do producenta preparatu szczepionkowego](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pisma_producent.md) dla rodziców bardziej obeznanych z przepisami i stanem zdrowia swojego dziacka, w celu uzasadnienia tezy, że szczepienie tego dziecka jest bezpieczne.
+22. [Wzór wniosków do przychodni i szpitala o wydanie dokumentacji medycznej](https://github.com/szanitani/szczepienia/blob/master/wniosek_o_wydanie_dokumentacji_medycznej.md) dla rodziców, którzy potrzebują zabezpieczyć dokumentację medyczną w związku z postępowaniem.
 
 ## Części wspólne pism
 Ilekroć w instrukcji do pisma jest wskazane aby wysyłać je "*jak najszybciej*", oznacza to oczywiście wysyłanie pisma w ostatnim dniu wymaganego terminu. Tam gdzie wspomina się o "*stosownej skardze*" lub "*dochodzeniu swoich praw*" warto posiłkować się [tymi zaleceniami](http://forumprawne.org/prawo-administracyjne/301849-jak-pisac-skuteczne-pisma-do-urzedu-poradnik.html).
