@@ -1,15 +1,15 @@
-#IV SA/Wa 1616/05 - Wyrok WSA w Warszawie z 2006-03-27
+# IV SA/Wa 1616/05 - Wyrok WSA w Warszawie z 2006-03-27
 
-##1. Opis orzeczenia
+## 1. Opis orzeczenia
 Niewydanie w sprawie decyzji administracyjnej w świetle kwestionowania przez stronę wysokości opłaty.
 
-##2. Dlaczego jest istotne?
+## 2. Dlaczego jest istotne?
 Bo uzasadnia, że dołączenie do postępowania materiału dowodowego nakłada na organie obowiązek rozpatrzenia sprawy.
 
-##3. Kiedy stosować?
+## 3. Kiedy stosować?
 To  najprawdopodobniej będzie argument do sądu administracyjnego.
 
-##4. Przywołane treści.
+## 4. Przywołane treści.
 
 *Sąd podziela stanowisko skarżącej, iż w spornych przypadkach wymiar tejże opłaty, jako należności publicznoprawnej
 (niemniej jednak - wbrew twierdzeniom skarżącej - niebędącej podatkiem) powinien być dokonywany w drodze aktu
@@ -18,18 +18,18 @@ winien wydać akt administracyjny, w którym określi podstawy prawne do pobrani
 strona będzie miała zapewnione prawo skorzystania - w administracyjnym toku instancji - z wszelkich instytucji prawa
 procesowego.*
 
-#II SA/Ol 158/14 - Wyrok WSA w Olsztynie z 2014-04-02
+# II SA/Ol 158/14 - Wyrok WSA w Olsztynie z 2014-04-02
 
-##1. Opis orzeczenia
+## 1. Opis orzeczenia
 Niewydanie w sprawie aktu administracyjnego w świetle kwestionowania przez stronę zasadności naliczenia.
 
-##2. Dlaczego jest istotne?
+## 2. Dlaczego jest istotne?
 Bo uzasadnia, że dołączenie do postępowania materiału dowodowego nakłada na organie obowiązek rozpatrzenia sprawy.
 
-##3. Kiedy stosować?
+## 3. Kiedy stosować?
 To  najprawdopodobniej będzie argument do sądu administracyjnego.
 
-##4. Przywołane treści.
+## 4. Przywołane treści.
 
 *Skład orzekający w niniejszej sprawie podziela przyjęty w judykaturze pogląd, że gdy strona kwestionuje zasadność
 naliczenia opłat albo wysokość opłaty (a tak było w niniejszej sprawie), organ winien wydać akt administracyjny, w
@@ -38,18 +38,18 @@ skorzystania - w administracyjnym toku instancji - z wszelkich instytucji prawa 
 Warszawie z dnia 27 marca 2006 r. sygn. akt IV SA/Wa 1616/05 oraz postanowienie NSA z dnia 20 sierpnia 2010 r. sygn.
 akt II OSK 948/10, LEX Nr 737717).*
 
-#II SA/Wr 844/11 - Wyrok WSA we Wrocławiu z 2012-02-23
+# II SA/Wr 844/11 - Wyrok WSA we Wrocławiu z 2012-02-23
 
-##1. Opis orzeczenia
+## 1. Opis orzeczenia
 Niewydanie w sprawie aktu administracyjnego w świetle kwestionowania przez stronę zasadności naliczenia.
 
-##2. Dlaczego jest istotne?
+## 2. Dlaczego jest istotne?
 Bo uzasadnia, że dołączenie do postępowania materiału dowodowego nakłada na organie obowiązek rozpatrzenia sprawy. Co więcej sąd wskazuje, że organ winien wykazać inicjatywę w tym zakresie.
 
-##3. Kiedy stosować?
+## 3. Kiedy stosować?
 To  najprawdopodobniej będzie argument do sądu administracyjnego.
 
-##4. Przywołane treści.
+## 4. Przywołane treści.
 
 *Skład orzekający w niniejszej sprawie podziela przyjęty w judykaturze pogląd, że gdy strona kwestionuje zasadność
 naliczenia opłaty albo wysokość opłaty, organ winien wydać akt administracyjny, w którym określi podstawy prawne do
@@ -84,18 +84,18 @@ wszelkie kroki niezbędne do wyjaśnienia i załatwienia sprawy i dopuszczały j
 do jej wyjaśnienia, a nie jest sprzeczne z prawem, a więc by z urzędu przeprowadzały dowody służące ustaleniu stanu
 faktycznego sprawy.*
 
-#II OSK 948/10 - Postanowienie NSA z dnia 2010-08-20
+# II OSK 948/10 - Postanowienie NSA z dnia 2010-08-20
 
-##1. Opis orzeczenia
+## 1. Opis orzeczenia
 Nieprawidłowy tryb odwoławczy skutkujący niewydaniem aktu administracyjnego oraz błędne wydanie aktu administracyjnego.
 
-##2. Dlaczego jest istotne?
+## 2. Dlaczego jest istotne?
 Bo uzasadnia, że złożenie wniosku w trybie administracyjnym musi skutkować wydaniem decyzji.
 
-##3. Kiedy stosować?
+## 3. Kiedy stosować?
 To  najprawdopodobniej będzie argument do sądu administracyjnego.
 
-##4. Przywołane treści.
+## 4. Przywołane treści.
 
 *Inspekcja Weterynaryjna pobiera opłaty, w tym za przeprowadzenie kontroli granicznej, art. 30 ust. 1 pkt 2 ustawy z
 dnia 29 stycznia 2004 r. o Inspekcji Weterynaryjnej (Dz. U. z 2007 r. Nr 121, poz. 842 ze zm.). Opłaty te są
@@ -106,55 +106,55 @@ takiego wniosku o zwrot opłaty za przeprowadzenie granicznej kontroli weterynar
 została zawyżona. Wniosek taki wszczyna postępowanie administracyjne w sprawie administracyjnej zwrotu nadpłaty,
 której załatwienie kończy się wydaniem decyzji administracyjnej.*
 
-#II SA/Ol 893/11 - Wyrok WSA w Olsztynie z 2011-12-13
+# II SA/Ol 893/11 - Wyrok WSA w Olsztynie z 2011-12-13
 
 [link](http://orzeczenia.nsa.gov.pl/doc/2ED14FE275)
 
-##1. Opis orzeczenia
+## 1. Opis orzeczenia
 Uchylenie zaskarżonego postanowienia.
 
-##2. Dlaczego jest istotne?
+## 2. Dlaczego jest istotne?
 Stwierdza, że organ wydając postanowienie o odmowie wszczęcia postępowania na żądanie strony nie może odnosić się merytorycznie ws. żądania.
 
-##3. Kiedy stosować?
+## 3. Kiedy stosować?
 Prawdopodobny argument dla sądu administracyjnego w przypadku twierdzeń organu o nieprowadzeniu postępowania. (Wymaga konsultacji gdyż dotyczy stricte postanowienia o odmowie wszczęcia postępowania) 
 
-##4. Przywołane treści
+## 4. Przywołane treści
 *Skoro jednak na skutek odmowy wszczęcia postępowania organ nie prowadzi postępowania administracyjnego i nie rozstrzyga sprawy co do jej istoty, to należy przyjąć, iż w postanowieniu wydanym w trybie art. 61a § 1 k.p.a. organ nie może formułować wniosków i ocen dotyczących meritum żądania. Instytucja odmowy wszczęcia postępowania kończy się bowiem aktem formalnym, a nie merytorycznym.*
 
-#II SA/Go 255/15 - Wyrok WSA w Gorzowie Wlkp. z 2015-06-10
+# II SA/Go 255/15 - Wyrok WSA w Gorzowie Wlkp. z 2015-06-10
 
 [link](http://orzeczenia.nsa.gov.pl/doc/3F07727EA3)
 
-##1. Opis orzeczenia
+## 1. Opis orzeczenia
 Uchylenie zaskarżonego postanowienia.
 
-##2. Dlaczego jest istotne?
+## 2. Dlaczego jest istotne?
 Stwierdza, że organ odmawiając wydania decyzji winien wydać postanowienie o odmowie wszczęcia postepowania.
 
-##3. Kiedy stosować?
+## 3. Kiedy stosować?
 Prawdopodobny argument dla sądu administracyjnego.
 
-##4. Przywołane treści
+## 4. Przywołane treści
 *Odnośnie zaś wniosku o stwierdzenie lub zaprzeczenie w drodze decyzji administracyjnej wraz z przytoczeniem przepisów prawa, że w wyniku postępowania kontrolnego, doszło lub nie doszło do naruszenia prawa na szkodę właścicielki pojazdu, w związku z oceną stanu technicznego (...) Kolegium wskazało, iż brak jest przepisów prawa materialnego do wydania żądanej decyzji.*
 (...)
 
 *Taki oczywisty brak podstawy prawnej do wydania decyzji stanowić może podstawę do wydania postanowienia o odmowie wszczęcia postępowania. Zważyć jednak należy, iż organ I instancji w sposób nieprecyzyjny sformułował rozstrzygnięcie w tym zakresie, a Samorządowe Kolegium Odwoławczego zaakceptowało to, utrzymując w całości zaskarżone postanowienie. Starosta zamiast bowiem zgodnie z treścią art. 61 a § 1 k.p.a. odmówić wszczęcia postępowania w przedmiocie żądanym w pkt 2 pisma z dnia [...] listopada 2014r. odmówił wydania decyzji, tak jak by orzekał merytorycznie, choć z uzasadnienia organów obu instancji i wskazanej podstawy prawnej wynika, iż w istocie chodziło o odmowę wszczęcia postępowania.*
 
-#I OSK 654/11 - Wyrok NSA 2012-04-25
+# I OSK 654/11 - Wyrok NSA 2012-04-25
 
 [link](http://orzeczenia.nsa.gov.pl/doc/0471CA259B)
 
-##1. Opis orzeczenia
+## 1. Opis orzeczenia
 Oddalenie skargi.
 
-##2. Dlaczego jest istotne?
+## 2. Dlaczego jest istotne?
 Uzasadnia, że wnioski strony winny być załatwiane w formie decyzji.
 
-##3. Kiedy stosować?
+## 3. Kiedy stosować?
 Prawdopodobny argument dla sądu administracyjnego gdy na żądanie strony organ nie wydaje rozstrzygnięcia w formie decyzji (UWAGA 1)
 
-##4. Przywołane treści
+## 4. Przywołane treści
 (1) *W związku z tak sformułowanym zarzutem, należy wyjaśnić, że naruszenie przepisów postępowania może stanowić podstawę kasacyjną, ale jedynie w przypadku, gdy naruszenie to mogło mieć istotny wpływ na wynik sprawy (art. 174 pkt 2 ww. ustawy – Prawo o postępowaniu przed sądami administracyjnymi), co oznacza, że na stronie skarżącej ciąży obowiązek wykazania, że gdyby nie doszło do zarzucanego naruszenia procedury, to wyrok, jaki by zapadł, byłby zupełnie odmiennej treści. Tymczasem autor skargi kasacyjnej nie wykazał takiej zależności ani w samej podstawie zarzutu, ani w jego uzasadnieniu.*)
 (...)
 
@@ -163,36 +163,36 @@ Prawdopodobny argument dla sądu administracyjnego gdy na żądanie strony organ
 
 *Słusznie w tej kwestii stwierdził Trybunał Konstytucyjny, że "jeżeli (...) istnieje wątpliwość co do formy załatwienia sprawy administracyjnej, należy przyjąć, że istnieje sprawa administracyjna i organ administracji publicznej jest właściwy do jej załatwienia. Nie może zaistnieć sytuacja, że w przepisach ustawy określono właściwość organu administracji publicznej do załatwiania określonej kategorii spraw administracyjnych, a sprawy te nie mogłyby być rozstrzygane tylko dlatego, że ustawodawca nie określił wprost formy rozstrzygnięcia"*
 
-#II SAB/Ol 48/15 - Wyrok WSA 2016-03-10
+# II SAB/Ol 48/15 - Wyrok WSA 2016-03-10
 
 [link](http://orzeczenia.nsa.gov.pl/doc/3E15D9C0C1)
 
-##1. Opis orzeczenia
+## 1. Opis orzeczenia
 Skarga
 
-##2. Dlaczego jest istotne?
+## 2. Dlaczego jest istotne?
 Uzasadnia, że wnioski strony winny być załatwiane w formie decyzji.
 
-##3. Kiedy stosować?
+## 3. Kiedy stosować?
 Prawdopodobny argument dla sądu administracyjnego gdy na żądanie strony organ nie wydaje rozstrzygnięcia w formie decyzji 
 
-##4. Przywołane treści
+## 4. Przywołane treści
 *"Zatem w myśl obowiązującej aktualnie regulacji wniosek o wszczęcie postępowania administracyjnego winien być zweryfikowany w oparciu o przesłanki określone w art. 61a § 1 Kodeksu postępowania administracyjnego. Przy czym nawet w przypadku ustalenia, że podmiot występujący z żądaniem nie ma legitymacji w tym zakresie, czy też istnieją inne uzasadnione przyczyny uniemożliwiające wszczęcie postępowania, organ winien wydać postanowienie o odmowie wszczęcia postępowania. W związku z tym załatwienie wniosku strony zwykłym pismem nie czyni zadość wymogom określonym w Kodeksie postępowania administracyjnego. Ocena zasadności żądania jednostki, a zwłaszcza zasadność jej zarzutów, winna być bowiem dokonana wyłącznie w formach procesowych. Zatem żądanie wszczęcia postępowania w sprawie wymaga załatwienia w formach postępowania administracyjnego albo poprzez nadanie sprawie biegu, albo poprzez wydanie postanowienia o odmowie wszczęcia postępowania. Natomiast brak wydania postanowienia o odmowie wszczęcia postępowania przesądza o bezczynności organu administracji publicznej."*
 
-#II OSK 1089/14 - Postanowienie NSA z 2014-05-08
+# II OSK 1089/14 - Postanowienie NSA z 2014-05-08
 
 [link](http://orzeczenia.nsa.gov.pl/doc/F839E1BA97)
 
-##1. Opis orzeczenia
+## 1. Opis orzeczenia
 Kwestia biegu terminu na odwołanie po złożeniu wniosku o uzupełnienie w trybie art. 111 § 1 k.p.a.
 
-##2. Dlaczego jest istotne?
+## 2. Dlaczego jest istotne?
 Bo przypomina, że po złożeniu tego wniosku, do czasu odpowiedzi organu nie należy składać pism procesowych w kwestii pierwotnego orzeczenia. Zostaną odrzucone jako przedwczesne.
 
-##3. Kiedy stosować?
+## 3. Kiedy stosować?
 W przypadku kwestionowania przez organ terminów na odwołanie. W skardze do WSA.
 
-##4. Przywołane treści.
+## 4. Przywołane treści.
 
 *Zgodnie z art. 111 § 1 k.p.a., strona może w terminie czternastu dni od dnia doręczenia lub ogłoszenia decyzji zażądać jej uzupełnienia, co do rozstrzygnięcia bądź co do prawa odwołania, wniesienia w stosunku do decyzji powództwa do sądu powszechnego lub skargi do sądu administracyjnego albo sprostowania zamieszczonego w decyzji pouczenia w tych kwestiach.*
 
@@ -206,20 +206,20 @@ W przypadku kwestionowania przez organ terminów na odwołanie. W skardze do WSA
 
 *Skargi wniesione przed rozpoczęciem terminu do ich wniesienia są skargami przedwczesnymi – i podlegają odrzuceniu jako niedopuszczalne, na podstawie art. 58 § 1 pkt 6 p.p.s.a.*
 
-#II SA/Bk 25/16 - Wyrok WSA w Białymstoku z 2016-03-01
+# II SA/Bk 25/16 - Wyrok WSA w Białymstoku z 2016-03-01
 
 [link](http://orzeczenia.nsa.gov.pl/doc/7775775632)
 
-##1. Opis orzeczenia
+## 1. Opis orzeczenia
 Odniesienie do zgłoszenia materiału dowodowego przez stronę.
 
-##2. Dlaczego jest istotne?
+## 2. Dlaczego jest istotne?
 Uzasadnia, że wnioski dowodowe strony powinny być skrupulatnie rozpatrzone. To jest bardzo ciekawy wyrok, warto zapoznać się z całą treścią.
 
-##3. Kiedy stosować?
+## 3. Kiedy stosować?
 Mocny argument dla sądu administracyjnego gdy organ nie odniósł się do zgłoszonego materiału dowodowego.
 
-##4. Przywołane treści
+## 4. Przywołane treści
 *Kontrolując zgodność z prawem zaskarżonych rozstrzygnięć wskazać trzeba, że w toku postępowania administracyjnego zadaniem organu jest takie ustalenie stanu faktycznego sprawy, aby odpowiadał on rzeczywistości. Organy mają obowiązek podjęcia wszelkich czynności niezbędnych do dokładnego wyjaśnienia stanu faktycznego oraz do załatwienia sprawy, mając przy tym na względzie interes społeczny i słuszny interes obywateli (art. 7 k.p.a.). Dopełnieniem tego obowiązku jest powinność wyczerpującego zebrania i rozpatrzenia całego materiału dowodowego (art. 77 § 1 k.p.a.).*
 
 *Powyższe działanie organu I instancji stanowi naruszenie prawa procesowego, mogące mieć istotny wpływ na wynik sprawy, a zwłaszcza naruszenie zasady czynnego udziału strony w postępowaniu (art. 10 k.p.a.). Organy administracji publicznej nie mogą ignorować aktywności stron w dążeniu do ustalenia stanu faktycznego, szczególnie gdy strony przedstawiają dowody, które w ich ocenie podważają dotychczasowe ustalenia poczynione w toku postępowania. Obowiązkiem organu jest ustosunkowanie się do przedstawionych przez stronę dowodów i wyczerpujące wyjaśnienie pojawiających się na tym tle wątpliwości (por. wyrok NSA z dnia 24 listopada 2011 r., II OSK 1639/10, LEX nr 1151966). Nieuwzględnienie (pominięcie) wniosku dowodowego zgłoszonego przez stronę organ powinien należycie umotywować, przedstawiając w uzasadnieniu decyzji argumenty, którymi kierował się, rozpoznając zgłoszone przez stronę żądanie przeprowadzenia dowodu (por. wyrok WSA w Warszawie z dnia 27 kwietnia 2006 r., I SA/Wa sygn. akt 1622/05, opubl. lex nr 222029, wyrok NSA z dnia 10 grudnia 1997 r., sygn. akt I SA/Gd 409/96, Biul. Skarb. 1998, nr 2, s. 16, w którym sąd stwierdził, że "odmowa przeprowadzenia dowodu i jej przyczyny powinny znaleźć wyraźne odzwierciedlenie w aktach sprawy").*
