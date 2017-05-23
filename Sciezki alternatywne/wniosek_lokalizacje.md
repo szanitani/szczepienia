@@ -22,7 +22,7 @@
 Dopasować do stanu faktycznego, czyli daty itd.
 
 ## Co dalej?
-Jak zawsze warto przekazać info o pismach i ich zanonymizowaną treść [do tego wątku na forum SN](http://szczepienia.org.pl/viewtopic.php?p=178379), gdzie również będzie prowadzona dyskusja w sprawie tych pism.
+Jak zawsze warto przekazać info o pismach i ich zanonymizowaną treść [do tego wątku na forum SN](http://szczepienia.org.pl/viewtopic.php?p=181279), gdzie również będzie prowadzona dyskusja w sprawie tych pism.
 
 ## Jak wygląda schemat postępowania dla rodziców z grupy nr 1?
 1. Rodzice zmieniają miejsce zamieszkania - inne województwo.
