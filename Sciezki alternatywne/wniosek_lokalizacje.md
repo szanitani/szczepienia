@@ -1,7 +1,7 @@
 # Wzory wniosków związane ze zmianami w lokalizacji zobowiązanego w tym ostateczna obrona przed niekorzystnym postępowaniem egzekucyjnym
 
 ## Jaki jest stan tych pism?
-Ścieżka eksperymentalna, do wykorzystania w niżej opisanych sytuacjach. Oczekujemy na reakcje organów.
+Ścieżka do wykorzystania w niżej opisanych sytuacjach. Oczekujemy na reakcje organów.
 
 ## Kogo dotyczą te pisma?
 1. Rodziców, którzy zmienili miejsce zamieszkania w toku postępowania egzekucyjnego
@@ -59,17 +59,19 @@ Postępowania administracyjne podlegają właściwości miejscowej i rzeczowej. 
 
 ## Jak wygląda schemat postępowania dla rodziców z grupy nr 4?
 Ten schemat jest przeznaczony dla rodziców, którzy mają możliwość lub chęć w toku postępowania egzekucyjnego zmienić przychodnię (POZ) na inną i znajdującą się w powiecie nie należącym do właściwości terytorialnej PPIS występującego w roli wierzyciela w tym postępowaniu egzekucyjnym. Należy zwrócić uwagę, że jeden PPIS może "obsługiwać" wiele powiatów.
+
 1. Rodzice zmieniają POZ - inny powiat
 2. Rodzice składają wniosek o umorzenie postępowania egzekucyjnego do PPIS - wierzyciela
+
 Dalsze postępowanie jak u rodziców grupy nr 1.
 
 ## Dlaczego wystarczająca dla rodziców grupy 4 może być jedynie zmiana POZ do innego powiatu?
 Ponieważ w Rozdziale 4 k.p.a. czyli "Właściwość organów", przepis art. 21 § 1 pkt 3 dotyczący właśnie miejsca zamieszkania, ma zastosowanie ale tylko do strony w postępowaniu. W czynnosciach, gdzie PPIS jest wierzycielem, nie jest prowadzone żadne postępowanie zatem rodzice nie są stroną. Ma to odzwierciedlenie również w stosownych orzeczeniach sądów administracyjnych.
 
-## Dlaczego rodzicom z grupy 4 wystarczy zmiana powiatu, w którym znajduje się POZ a nie zmiana miejsca zamieszkania?
-W poniższym wniosku została zastosowana interpretacja właściwosci miejscowej z przepisów art. 21 § 2 k.p.a. gdzie wprowadzono pojęcie "miejsca, w którym nastąpiło zdarzenie powodujące wszczęcie postępowania". Nadal przepis ten dotyczy "postępowania", ale ze względu na to, że "postępowanie" jest pojęciem szerszym niż "strona" (bo PPIS może przykładowo uczestniczyć w postępowaniu egzekucyjnym lub innych w związku ze sprawą rodziców, mimo, że ci rodzice stronami nie będą). Ponadto w typowych sytuacjach rodzicom jest wygodniej najpierw zgłaszać żądanie umorzenia postępowania egzekucyjnego przez zmianę przychodni niż przez zmianę swojego miejsca zamieszkania.
+## Czym różni się zmiana powiatu, w którym znajduje się POZ od zmiany miejsca zamieszkania z punktu widzenia wierzyciela (czyli PPIS)?
+W poniższym wniosku została zastosowana interpretacja właściwosci miejscowej z przepisów art. 21 § 2 k.p.a. gdzie wprowadzono pojęcie "miejsca, w którym nastąpiło zdarzenie powodujące wszczęcie postępowania". Nadal przepis ten dotyczy "postępowania", ale ze względu na to, że "postępowanie" jest pojęciem szerszym niż "strona" (bo PPIS może przykładowo uczestniczyć w postępowaniu egzekucyjnym lub innych w związku ze sprawą rodziców, mimo, że ci rodzice stronami nie będą). Ponadto, w typowych sytuacjach rodzicom jest wygodniej najpierw zgłaszać żądanie umorzenia postępowania egzekucyjnego przez zmianę przychodni (czyli w istocie zmianę wierzyciela) niż przez zmianę swojego miejsca zamieszkania.
 
-## Ale skoro ani nie ma postępowania ani rodzice z grupy 4 nie są stroną to dlaczego PPIS przypisuje sobie w ten sposób właściwość miejscową?
+## Skoro ani nie ma postępowania ani rodzice z grupy 4 nie są stroną to dlaczego PPIS przypisuje sobie w ten sposób właściwość miejscową?
 Rzeczywiście można argumentowac, że obydwa wskazane wyżej przepisy określające właściwość miejscową mogą nie mieć zastosowania. W takiej sytuacji k.p.a. przewiduje, że sprawa powinna byc prowadzona przez organu właściwy dla obszaru dzielnicy Śródmieście w m.st. Warszawie. Ta ścieżka postępowania zostanie na pewno opracowana, gdy PPIS odniesie się u konkretnych rodziców do argumentacji przedstawionej we wniosku i w ten sposób sam określi czy uznaje właściwość miejscową na podstawie strony czy postępowania.
 
 ## A co rodzicom z grupy 4 daje zastosowanie najpierw wniosku o umorzenie w oparciu o zmianę przychodni a dopiero potem, gdy ta ścieżka nie to zadziała, pójscie w stronę zmiany miejsca zamieszkania? 
