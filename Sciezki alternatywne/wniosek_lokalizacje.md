@@ -7,6 +7,7 @@
 1. Rodziców, którzy zmienili miejsce zamieszkania w toku postępowania egzekucyjnego
 2. Rodziców, którzy w związku ze zmianą miejsca zamieszkania otrzymali od organu postanowienie o umorzeniu postępowania egzekucyjnego
 3. Rodziców, którzy z różnych względów przegrywają w postępowaniu egzekucyjnym i chcą ostatecznie zamknąć sprawę grzywny
+4. Rodziców, którzy w toku postępowania zmienili POZ (przychodnię) na zlokalizowany w powiecie nie należącym terytorialnie do właściwości PPIS występującego w roli wierzyciela w aktualnym postępowaniu egzekucyjnym
 
 ## Jaki jest cel pism dla rodziców z grupy nr 1?
 1. Umorzenie postępowania egzekucyjnego
@@ -17,6 +18,9 @@
 
 ## Jaki jest cel pism dla rodziców z grupy nr 3?
 1. Umorzenie postępowania egzekucyjnego - podobnie jak w sytuacji nr 1, jednak tym razem jest to działanie intencjonalne.
+
+## Jaki jest cel pism dla rodziców z grupy nr 4?
+1. Znacznie opóźnienie postępowania egzekucyjnego z perspektywą jego umorzenia.
 
 ## Co zmodyfikować w treści pism?
 Dopasować do stanu faktycznego, czyli daty itd.
@@ -52,6 +56,27 @@ Ten schemat jest przeznaczony tylko dla tej grupy rodziców, która ma możliwo�
 
 ## Jakie są korzyści dla rodziców z grupy nr 3?
 Postępowania administracyjne podlegają właściwości miejscowej i rzeczowej. W tym przypadku mówimy o właściwości miejscowej wierzyciela (PPIS) w związku z zapisaniem dziecka do jednostki POZ w obszarze działania tego wierzyciela. Zmienia się POZ, więc może zmienić się i wierzyciel jednakże postępowanie egzekucyjne toczy się przed organem egzekucyjnym, gdzie właściwość miejscowa to całe województwo. Stąd najbezpieczniej jest zmienić miejsce zamieszkania i POZ na inne województwo, co sprawi, że zmieni się właściwość miejscowa w każdym aspekcie i umorzenie postępowania egzekucyjnego będzie uzasadnione.
+
+## Jak wygląda schemat postępowania dla rodziców z grupy nr 4?
+Ten schemat jest przeznaczony dla rodziców, którzy mają możliwość lub chęć w toku postępowania egzekucyjnego zmienić przychodnię (POZ) na inną i znajdującą się w powiecie nie należącym do właściwości terytorialnej PPIS występującego w roli wierzyciela w tym postępowaniu egzekucyjnym. Należy zwrócić uwagę, że jeden PPIS może "obsługiwać" wiele powiatów.
+1. Rodzice zmieniają POZ - inny powiat
+2. Rodzice składają wniosek o umorzenie postępowania egzekucyjnego do PPIS - wierzyciela
+Dalsze postępowanie jak u rodziców grupy nr 1.
+
+## Dlaczego wystarczająca dla rodziców grupy 4 może być jedynie zmiana POZ do innego powiatu?
+Ponieważ w Rozdziale 4 k.p.a. czyli "Właściwość organów", przepis art. 21 § 1 pkt 3 dotyczący właśnie miejsca zamieszkania, ma zastosowanie ale tylko do strony w postępowaniu. W czynnosciach, gdzie PPIS jest wierzycielem, nie jest prowadzone żadne postępowanie zatem rodzice nie są stroną. Ma to odzwierciedlenie również w stosownych orzeczeniach sądów administracyjnych.
+
+## Dlaczego rodzicom z grupy 4 wystarczy zmiana powiatu, w którym znajduje się POZ a nie zmiana miejsca zamieszkania?
+W poniższym wniosku została zastosowana interpretacja właściwosci miejscowej z przepisów art. 21 § 2 k.p.a. gdzie wprowadzono pojęcie "miejsca, w którym nastąpiło zdarzenie powodujące wszczęcie postępowania". Nadal przepis ten dotyczy "postępowania", ale ze względu na to, że "postępowanie" jest pojęciem szerszym niż "strona" (bo PPIS może przykładowo uczestniczyć w postępowaniu egzekucyjnym lub innych w związku ze sprawą rodziców, mimo, że ci rodzice stronami nie będą). Ponadto w typowych sytuacjach rodzicom jest wygodniej najpierw zgłaszać żądanie umorzenia postępowania egzekucyjnego przez zmianę przychodni niż przez zmianę swojego miejsca zamieszkania.
+
+## Ale skoro ani nie ma postępowania ani rodzice z grupy 4 nie są stroną to dlaczego PPIS przypisuje sobie w ten sposób właściwość miejscową?
+Rzeczywiście można argumentowac, że obydwa wskazane wyżej przepisy określające właściwość miejscową mogą nie mieć zastosowania. W takiej sytuacji k.p.a. przewiduje, że sprawa powinna byc prowadzona przez organu właściwy dla obszaru dzielnicy Śródmieście w m.st. Warszawie. Ta ścieżka postępowania zostanie na pewno opracowana, gdy PPIS odniesie się u konkretnych rodziców do argumentacji przedstawionej we wniosku i w ten sposób sam określi czy uznaje właściwość miejscową na podstawie strony czy postępowania.
+
+## A co rodzicom z grupy 4 daje zastosowanie najpierw wniosku o umorzenie w oparciu o zmianę przychodni a dopiero potem, gdy ta ścieżka nie to zadziała, pójscie w stronę zmiany miejsca zamieszkania? 
+Dzięki temu rodzice mają ogromna szansę, na kolejne, i to znaczne, przeciągniecie sprawy. W jaki sposób? Jeśli PPIS nadal będzie siebie uznawal za wierzyciela, (mimo tego, że rodzic mieszka w jego obszarze właściwości miejscowej a dziecko zapisał do przychodni w obszarze właściwości miejscowej innego PPIS) to oznacza to, że PPIS wybral sobie interpretacje z art. 21 § 1 pkt 3. W tej sytuacji rodzice będą chcieli zastosować jednak interpretacje z art. 21 § 2 k.p.a., co będzie prowadziło do tzw. sporu o właściwość. I ten spor, zgodnie z przepisami art. 22 § 1 pkt 6 k.p.a., rozstrzyga minister właściwy do spraw administracji publicznej. A ogólnie wiadomo jak szybko taki wniosek o rozpatrzenie sporu będzie rozpatrzony. W czasie rozstrzygania tego sporu co się może wydarzyć? Mówi o tym art. 23 k.p.a. czyli "*Do czasu rozstrzygnięcia sporu o właściwość organ administracji publicznej, na którego obszarze wynikła sprawa, podejmuje tylko czynności niecierpiące zwłoki ze względu na interes społeczny lub słuszny interes obywateli i zawiadamia o tym organ właściwy do rozstrzygnięcia sporu.*". Czyli "*na którego obszarze wynikła sprawa*" co znowu oznacza konieczność interpretacji w oparciu o lokalizację albo przychodni albo miejsca zamieszkania. Pisma niezbędne dla tego etapu ścieżki zostaną opracowane w miarę potrzeb. Rodzice, którzy dojdą do tego etapu proszeni są o zgłoszenie się [w tym wątku na forum SN](http://szczepienia.org.pl/viewtopic.php?p=181279).
+
+## Jaka jest spodziewana korzyść czasowa dla rodziców z grupy 4?
+Odwołania i rozstrzygnięcie wszelakich sporów kompetencyjnych, szacując wg aktualnego tempa rozpatrywania tych spraw w organach, ministerstwie, WSA i NSA, może opóźnić postępowanie o min. 3-4 lata. Jest o co walczyć, tym bardziej, że jedynym kryterium wejścia na tę ścieżkę dla rodziców, którzy już mają postępowanie egzekucyjne, jest przepisanie dziecka do przychodni w innym powiecie.
 
 ## Treść wniosku o umorzenie postępowania egzekucyjnego w związku ze zmianą miejsca zamieszkania - grupa nr 1
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{miejscowosc}} {{data}}
