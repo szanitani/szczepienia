@@ -141,3 +141,6 @@ W tym poście znajdują się również instrukcje i wskazówki oraz warto zajrze
 
 ## Czy mogę nagrywać rozmowy z lekarzem?
 Krótka odpowiedź - TAK. Dłuższa - trzeba wiedzieć jak można wykorzystać nagranie a jak nie można oraz co jeszcze trzeba zrobić aby sąd mógł uznać to za wiarygodny dowód w ewentualnej sprawie. Więcej w [tym artykule](http://www.lekarziprawo.pl/pacjent-moze-nagrac-rozmowe-z-lekarzem-i-wykorzystac-ja-w-sadzie/)
+
+## Czy są inne czynności/działania, na które warto zwrócić uwagę przed szczepieniem?
+Przydatna lista takich czynności/działań znajduje się [w tym fragmencie tłumaczenia](https://www.facebook.com/MichalBgd/posts/218636865314260) książki poświęconej temu zagadnienu. Więcej szczegółów tamże.
