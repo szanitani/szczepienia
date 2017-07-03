@@ -1,6 +1,8 @@
 # Wzór wniosków do przychodni i szpitala o wydanie dokumentacji medycznej
 
 ## Jaki jest stan tego pisma?
+UWAGA! To pismo jest już nieaktualne, w związku ze zmianą przepisów.
+
 Ustawy, rozporządzenia oraz wyroki sądów są zgodne ze stanem prawnym obowiązujące na ten moment. Przychodnia ma obowiązek wydać na oryginały dokumentacji medycznej, bez żadnej zwłoki, na nasz koszt. 
 
 ## Kogo dotyczy to pismo?
