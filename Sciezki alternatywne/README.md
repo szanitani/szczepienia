@@ -24,7 +24,7 @@
 20. [Oświadczenie wypisania dziecka od świadczeniodawcy POZ](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo_oswiadczenie_poz.md), stosowany również dla innych oświadczeń o zaprzestaniu przetwarzania danych osobowych.
 21. [Alternatywny wniosek o wyznaczenie terminów](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek%20o%20wyznaczenie%20terminow.md) tym razem pismo na podstawie art. 61 k.p.a. w sytuacji gdy organ unika odpowiedzi na pytanie o terminy.
 22. [Zestaw pism na bazie pytania wysłanego do producenta preparatu szczepionkowego](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pisma_producent.md) dla rodziców bardziej obeznanych z przepisami i stanem zdrowia swojego dziacka, w celu uzasadnienia tezy, że szczepienie tego dziecka jest bezpieczne.
-22. [Wzór wniosków do przychodni i szpitala o wydanie dokumentacji medycznej](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_o_wydanie_dokumentacji_medycznej.md) dla rodziców, którzy potrzebują zabezpieczyć dokumentację medyczną w związku z postępowaniem.
+22. pismo już nieaktualne w związku ze zmianą przepisów - *Wzór wniosków do przychodni i szpitala o wydanie dokumentacji medycznej*
 23. [Wzory wniosków związane ze zmianami w lokalizacji zobowiązanego w tym ostateczna obrona przed niekorzystnym postępowaniem egzekucyjnym](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_lokalizacje.md) dla rodziców, którzy zmienili lub zamierzają zmienić miejsce zamieszkania lub dla rodziców, którzy w trakcie postępowania egzekucyjnego zmienili przychodnię, do której jest zapisane dziecko.
 
 ## Części wspólne pism
