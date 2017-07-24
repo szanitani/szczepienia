@@ -1,14 +1,12 @@
 ## Kogo dotyczy to pismo?
-Dokument należy wysłać jak najszybciej po otrzymaniu z PPIS pierwszego pisma.
+Dokument należy wysłać jak najszybciej po otrzymaniu z PPIS lub dowolnego innego organu, pierwszego pisma.
 
 ## Czy na dalszym etapie postępowania również warto wysłać to pismo?
 Tak.
 
 ## Co ewentualnie warto dopasować w treści wniosku?
-Raczej niewiele. Wystarczy samo zgłoszenie, że strona uważa, że postępowanie jest prowadzone w trybie k.p.a. i musi się zakończyć decyzją lub postanowieniem.
-Jeśli postępowanie jednakże zakończy się przekazaniem tytułu wykonawczego do Wojewody, będzie to kolejny argument w skardze do WSA. Organy na chwilę obecną uważają,
-że nie muszą wydawać decyzji bo obowiązek szczepień wynika z przepisów prawa. Warto z tym polemizować, bo obowiązek zgodnie z przepisami musi być nałożony, 
-a takie nałożenie powinno nastąpić w formie decyzji/postanowienia co wynika z przepisów k.p.a. oraz ustawy o państwowej inspekcji sanitarnej.
+
+Raczej niewiele. Wystarczy samo zgłoszenie, że strona uważa, że postępowanie jest prowadzone w trybie k.p.a. i musi się zakończyć decyzją lub postanowieniem. Jeśli postępowanie jednakże zakończy się przekazaniem tytułu wykonawczego do Wojewody, będzie to kolejny argument w skardze do WSA. Organy na chwilę obecną uważają, że nie muszą wydawać decyzji bo obowiązek szczepień wynika z przepisów prawa. Warto z tym polemizować, bo obowiązek zgodnie z przepisami musi być nałożony, a takie nałożenie powinno nastąpić w formie decyzji/postanowienia co wynika z przepisów k.p.a. oraz ustawy o państwowej inspekcji sanitarnej.
 
 ## Jakie są dalsze kroki?
 Organ może zażądać sprecyzowania, należy wtedy odpowiedzieć w ciągu 7 dni.
