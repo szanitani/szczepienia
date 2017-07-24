@@ -15,7 +15,7 @@ Do wykorzystania. Oczekujemy na reakcje organów.
 To może być trudne pismo. Należy dopasować do swojego stanu faktycznego. W przypadku gdy pismo jest adresowane do innego organu niż GIODO oczywiście tych zmian będzie więcej.
 
 ## Jakie są dalsze kroki?
-1. Pytania i wątpliwości w szczególności stanowiska organów należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=178599). Znajdują się tam również komentarze i historia dokumentu.
+1. Pytania i wątpliwości w szczególności stanowiska organów należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=181652). Znajdują się tam również komentarze i historia dokumentu.
 2. Organ powinien przekazać akta sprawy lub odpowiedzieć postanowieniem o odmowie.
 3. Na ewentualne postanowienie przysługuje wniosek o uzupełnienie, na który organ musi odpowiedzieć postanowieniem.
 4. Jeśli postanowienie jest odmowne, przysługuje na nie zażalenie.
@@ -37,6 +37,10 @@ Tak, to pismo dotyczy postępowania skargowego w GIODO, w którym jest zwracana 
 ## Dlaczego w piśmie jest tak mocno uzasadniany brak możliwości dojazdu do organu?
 
 Te treści niestety wynikają z tradycji orzecznictwa w polskich sądach, gdzie petent musi się tłumaczyć, uzasadniać i wyrażać skruchę, że może coś chcieć w ogóle od organu. Niestety nie ma przepisów nakładających obowiązek dostarczenia akt przez pocztę/ePUAP przez organ, natomiast są przepisy dające taką możliwość. Co w praktyce oznacza, że jeśli nie jest to obowiązkowe to organy po prostu tego nie robią. Na szczęście odmowa przesłania akt musi nastąpić w formie postanowienia, które możemy docelowo zaskarżyć do WSA, w którym musimy właśnie dać składowi orzekającemu szansę na uznanie, że nasz wniosek był uzasadniony.
+
+## A co z innymi postępowaniami administracyjnymi?
+
+Tak, wniosek po stosownych modyfikacjach do zastosowania w każdym postępowaniu administracyjnym ALE znacznie ciekawsza jest sytuacja, gdy organ wyda decyzję/postanowienie bez poinformowania strony o możliwości dostępu do akt sprawy. W takiej sytuacji strona otrzymuje niezwykle mocny argument do WSA, ponieważ takie działanie organu to rażące naruszenie podstawowywch praw strony w postępowaniu. Tego typu sytacje należy omawiać na [forum w tym wątku](http://szczepienia.org.pl/viewtopic.php?p=181652).
 
 ## Treść pisma:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{{miejscowosc}} {{data}}
