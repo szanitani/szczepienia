@@ -23,7 +23,7 @@ To może być trudne pismo. Należy dopasować do swojego stanu faktycznego. W p
 6. Pracowników GIODO, którzy brali udział w postępowaniu a nie zgłosili naruszeń prawa przez pracowników PPIS należy zgłosić do prokuratury na mocy przepisów art. 304 § 2 Kodeksu Postępowania Karnego.
 
 ## Na co należy zwrócić uwagę?
-Na terminy. Na uzasadnienie. Na póżniejsze wykorzystanie tej sytuacji w skardze do WSA i dalej do NSA.
+Na terminy. Na uzasadnienie. Na póżniejsze wykorzystanie tej sytuacji w skardze do WSA i dalej do NSA. Na to, aby każde postępowanie administracyjne miało uprzednio wysłany zestaw pism czyli np. [wniosek wystąpienie o doręczanie pism w elektronicznym obiegu prawnym](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek%20wystapienie%20o%20doreczenie.md) albo [wniosek - o czynny udział strony w postępowaniu](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek%20o%20czynny%20udzial.md) itd. To wszystko będzie stanowiło nieocenione argumenty w przyszłej skardze do WSA.
 
 ## O co chodzi z przesłaniem materiałów do najbliższego stronie urzędu?
 Takie przepisy też istnieją - organ może przekazać akta sprawy do innego organu, bliższego miejscowo stronie, gdzie strona może wykonać swoje czynności np. zapoznanie się z aktami. Niestety - zależy to w głównej mierze od dobrej woli organu, mimo normy prawnej z art. 52 kpa i licznego, ciekawego orzecznictwa. Na pewno odmowa organu przekazania akt (w formie postanowienia), mimo wskazania przez stronę i takiego możliwego rozwiązania będzie stanowiła ciekawą podstawę do skargi do WSA.
