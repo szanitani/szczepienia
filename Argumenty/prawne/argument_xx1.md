@@ -20,4 +20,4 @@ krok 6 - jesli wiek dziecka jest mniejszy niż wpisany w rozporządzeniu w spraw
 krok 7 - GAME OVER, wygrałeś/aś z systemem - gratulacje!
 
 ## Jak złożyć sprzeciw?
-Szczegóły są opisane na str. 48-49 w podręczniku ["Zrozumieć Prawa Pacjenta"](http://akademia.nfz.gov.pl/podrecznik-zrozumiec-prawa-pacjenta/). Gdyby ktoś chciał skorzystać z tej ścieżki, proszę o kontakt na forum, warto opracować wzór dokumentu sprzeciwu i dodać go do tego repozytorium.
+Szczegóły są opisane na str. 48-49 w podręczniku ["Zrozumieć Prawa Pacjenta"](http://akademia.nfz.gov.pl/podrecznik-zrozumiec-prawa-pacjenta/). Gdyby ktoś chciał skorzystać z tej ścieżki, proszę o kontakt na forum, warto opracować wzór dokumentu sprzeciwu i dodać go do tego repozytorium. Wg stanu na rok 2017 i dalsze, przydatny będzie też [serwis Biura Rzecznika Praw Pacjenta](https://www.bpp.gov.pl/dla-pacjenta/prawa-pacjenta/prawo-do-zgloszenia-sprzeciwu-wobec-opinii-orzeczenia-lekarza/), za którego pośrednictwem wnosi się sprzeciw.
