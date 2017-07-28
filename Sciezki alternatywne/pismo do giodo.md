@@ -14,11 +14,15 @@ Należy również wysłać wspomniane w treści wezwanie do zaprzestania przetwa
 
 ## Jakie są dalsze kroki?
 1. GIODO powinien wydać decyzję. Jeśli decyzja nie odpowiada oczekiwaniom, należy zastosować ścieżkę odwoławczą (np. na podstawie art. 21 u.o.d.o.). 
+   a. Przed wydaniem decyzji GIODO powinien umożliwić wgląd w akta sprawy. Jeśli osobistego pozyskania akt sprawy w siedzibie GIODO w Warszawie jest utrudniona wtedy należy zastosować [wniosek o wydanie akt sprawy](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_wydanie_akt_sprawy.md). Jeśli organ nie poinformuje o możliwości zapoznania się z aktami sprawy, należy wykorzystać to w skardze do WSA.
+   b. Do każdej decyzji należy złożyć [wniosek o uzupełnienie decyzji GIODO](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_uzupelnienie_giodo.md).
+   c. Do każdej decyzji należy złożyć [wniosek o wyjaśnienie decyzji GIODO](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_wyjasnienie_giodo.md)
 2. Jeśli decyzja odpowiada oczekiwaniom, można skierować skargę do WSA na działania Inspekcji Sanitarnej albo złożyć doniesienie do prokuratury. Prawdę mówiąc, GIODO powinien w takiej sytuacji sam złożyć doniesienie do prokuratury, a my nie musimy również z tym czekać.
 3. Koniecznie po odpowiedzi organu należy jej treść (po usunięciu danych osobowych) wstawić do [tego wątku](http://szczepienia.org.pl/viewtopic.php?t=4877), w którym opisujemy aktualny stan spraw związanych z GIODO. 
 4. W zależności od etapu postępowania należy złożyć do Inspekcji Sanitarnej, Wojewody żądania unieważnienia postępowania (egzekucyjnego) w związku z rażącym naruszeniem prawa.
 5. Jeśli decyzja GIODO jest pozytywna warto również złożyć wniosek o wyłączenie odpowiedzialnych urzędników z postępowania na podstawie przepisów k.p.a.
 6. Jeśli jest prowadzone postępowanie egzekucyjne lub inne pochodne/odwoławcze warto wysłać [wniosek o zawieszenie tego postępowania](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/wniosek_zawieszenie.md).
+7. Jeśli decyzja GIODO nie jest pozytywna należy dochodzić swoich praw przed Sądem Administracyjnym w oparciu o [ten wzór skargi](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/skarga_wsa_giodo.md).
 
 ## Skąd mam wiedzieć, czy mój PPIS ma zarejestrowane zbiory danych osobowych?
 GIODO udostępnia dane o wszystkich zbiorach w serwisie [eGIODO](https://egiodo.giodo.gov.pl/search_advanced.dhtml).
