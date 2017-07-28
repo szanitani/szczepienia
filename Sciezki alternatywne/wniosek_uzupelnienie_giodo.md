@@ -15,7 +15,7 @@ W trakcie prac. Do wykorzystania. Oczekujemy na reakcje organów.
 To są trudne pisma. Należy dopasować do swojego stanu faktycznego. Jeśli decyzja dotyczy innego zagadnienia należy oczywiście dodać swoje pytania i wątpliwości. Niniejszy wzór może dotyczyć nie tylko pism GIODO. W zakresie pierwszego pisma jest znacznie większe pole do popisu, bo tutaj rozstrzygnięcie decyzji musi odnosić się do przedłożonych w skardze żądań strony. W przypadku drugiej decyzji - ostatecznej - pole manewru jest zwykle bardzo małe, ponieważ organ często ogranicza się do jedynie szablonowego podtrzymania swojej decyzji pierwotnej. Pisma są sformułowane dość beletrystycznie i odważnie, jednak nie należy się obawiać pisania do organów tego co obywatel tak naprawdę myśli. Jeśli GIODO jako instytucja kontrolna, pełniąca rolę trybuna ludowego nie wypełnia swojej roli ochronnej tylko legitymizuje błędy innych organów, to albo jej trzeba przypomnieć o jej roli w systemie prawnym albo też trzeba dążyć do jej wymiany.
 
 ## Jakie są dalsze kroki?
-1. Pytania i wątpliwości w szczególności stanowiska organów należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=178599). Znajdują się tam również komentarze i historia dokumentu.
+1. Pytania i wątpliwości w szczególności stanowiska organów należy przekazać na [forum do tego wątku](http://szczepienia.org.pl/viewtopic.php?p=181668). Znajdują się tam również komentarze i historia dokumentu.
 2. Organ powinien odpowiedzieć postanowieniem.
 3. Jeśli postanowienie jest odmowne, przysługuje na nie zażalenie.
 4. Sąd administracyjny
