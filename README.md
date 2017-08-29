@@ -5,11 +5,12 @@ Materiały stanowią rozszerzenie i uzupełnienie [FAQ ze strony szczepienia.org
 [dokumentów do pobrania w sprawie szczepień ze strony pisma.szczepienia.org.pl](http://www.pisma.szczepienia.org.pl/) w zakresie postępowania administracyjnego i niuansów związanych z korespondencją z urzędami. Aktualnie powyższe materiały są przenoszone na dedykowaną [stronę Ogólnopolskiego Stowarzyszenia Wiedzy o Szczepieniach "STOP NOP"](http://stopnop.com.pl/jak-uniknac-grzywny-za-nieszczepienie/). Większość zagadnień z tego repozytorium ma swoje wątki na forum [szczepienia.org.pl](http://szczepienia.org.pl), gdzie są prowadzone dyskusje i zbierane materiały w celu ciągłego ulepszania treści z tego repozytorium. Wiele z zagadnień tutaj ujętych jest bardzo praktycznie zastosowane, jako wzory dokumentów w sprawach indywidualnych, na grupie FB [Nie szczepimy - aspekty prawne](https://www.facebook.com/groups/445922935592063/).
 
 ## Jaka jest aktualna zawartość repozytorium?
-  1. Zbiór przydatnych [przepisów i orzeczeń sądów](https://github.com/szanitani/szczepienia/tree/master/Przepisy).
-  2. Argumenty merytoryczne i prawne, do wykorzystania [bezpośrednio w pismach do Organów](https://github.com/szanitani/szczepienia/tree/master/Argumenty) w postępowaniach.
+  1. Zbiór przydatnych [przepisów i orzeczeń sądów](https://github.com/szanitani/szczepienia/tree/master/Przepisy/README.md).
+  2. Argumenty merytoryczne i prawne, do wykorzystania [bezpośrednio w pismach do Organów](https://github.com/szanitani/szczepienia/tree/master/Argumenty/README.md) w postępowaniach.
   3. [Sugestie dotyczące postępowania](https://github.com/szanitani/szczepienia/blob/master/Szczepienia%20Postepowanie%202.md) dla bardziej obeznanych w przepisach rodziców.
-  4. [Ścieżki alternatywne](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne) w postępowaniu, czyli gotowe **wzory dokumentów** do zastosowania niezależnie od ścieżki zalecanej lub w szczególnych sytuacjach.
+  4. [Ścieżki alternatywne](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/README.md) w postępowaniu, czyli gotowe **wzory dokumentów** do zastosowania niezależnie od ścieżki zalecanej lub w szczególnych sytuacjach.
   5. Aplikacja ["Sprawdź co naprawdę wiesz o szczepieniach"](http://szanitani.github.io/szczepienia/cowiesz.html). Kod źródłowy znajduje się innej gałęzi tego repozytorium. Potrzebna współpraca!
+  6. Pełen [schemat postępowania dla rodziców od okresu sprzed porodu aż do skargi do NSA i dalej](Schemat/README.md). W postaci graficznej z opisami i linkami do dokumentów oraz objaśnień. PRACA W TOKU - POTRZEBNA POMOC!
 
 ## Jak zgłaszać uzupełnienia/poprawki?
 Proszę korzystać z tego co oferuje GitHub czyli właśnie zgłaszanie poprawek, komentarze do treści. Probujemy jakoś zorganizować pracę nad repozytorium i na teraz sami się uczymy współpracy.
