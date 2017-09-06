@@ -16,13 +16,13 @@ Strzałki są oznaczane identyfikatorami, np. "RO_90" albo "WO_20". Identyfikato
 Przy niektórych strzałkach można spotkać się z symbolem np. {R:7} - literka R oznacza, że jest to pismo nr 7 z [listy ścieżek alternatywnych w repozytorium pism i dokumentów](../Sciezki%20alternatywne/README.md). Jeśli spotkamy się z oznaczeniem {S:10}, w takiej sytuacji literka S oznacza krok nr 10 ze [wzorów dokumentów Stop NOP](http://www.pisma.szczepienia.org.pl/wzory-pism.html).
 
 ## Dlaczego ten schemat jest tak duży?
-Aktualnie schemat to ok. 170 możliwych dokumentów w sprawie szczepień. Jednakże to nie jest wszystko. Jeśli doliczymy standardowe ścieżki odwoławcze (skargi, zażalenia, polemiki, bezczynność/przewlekłość), wtedy rodzice mogą osiągnąć nawet i ponad 350 dokumentów, zanim organ będzie w stanie cokolwiek zrobić sensownego. Warto zwrócić uwagę, że schemat  pokazuje ścieżkę dla jednego rodzica, który uzyskuje pełnomocnictwo od drugiego. Gdyby spray prowadzili obydwoje rodziców osobno, wtedy jest możliwość nie tylko podwojenia liczby dokumentów ale jeszcze ich zwiększenia o dodatkowe ścieżki.
+Aktualnie schemat to ok. 170 możliwych dokumentów w sprawie szczepień. Jednakże to nie jest wszystko. Jeśli doliczymy standardowe ścieżki odwoławcze (skargi, zażalenia, polemiki, bezczynność/przewlekłość), wtedy rodzice mogą osiągnąć nawet i ponad 350 dokumentów, zanim organ będzie w stanie cokolwiek zrobić sensownego. Warto zwrócić uwagę, że schemat  pokazuje ścieżkę dla jednego rodzica, który uzyskuje pełnomocnictwo od drugiego. Gdyby sprawy prowadziło obydwoje rodziców osobno, wtedy jest możliwość nie tylko podwojenia liczby dokumentów ale jeszcze ich zwiększenia o dodatkowe ścieżki.
 
 ## Dlaczego ścieżka znana ze wzorów dokumentów jest tak krótka?
 Bo wzory zaprezentowane na stronie STOP NOP to jest minimalna ścieżka odwoławcza. Można powiedzieć jest tam tylko ścieżka krytyczna i esencja sprawy, wszystkie pozostałe dokmenty i czynności to dodatki.
 
 ## Czy to są wszystkie możliwe ścieżki wyłączając wspomniane wyżej odwołania?
-Absolutnie nie! W niniejszym repozytorium jest pokazane chociażby jak rozszerzyć możliwe opcje działania chociażby o całkowite wyłączenie PPIS ze sprawy lub też gdy wszystko zawiedzie, pozostaje nam tzw. algorytm wygrywający. Jest dużo możliwości do rozbudowywania schematu albo o inne przepisy szczególne w k.p.a. albo też o przepisy wyrażone w ustawach merytorycznych. W ogóle nie zajmujemy się na teraz skargami konstytucyjnymi czy też pismami w oparciu o przepisy wspólnotowe. Gdyby naprawdę uwzględnić wszystkie możliwe pisma i czynności, to pewno cała ta biurokracja obejmowałaby ponad tysiąc strzałek na schemacie. Na teraz wygląda to tak.
+Absolutnie nie! W niniejszym repozytorium jest pokazane jak rozszerzyć możliwe opcje działania chociażby o całkowite wyłączenie PPIS ze sprawy lub też gdy wszystko zawiedzie, pozostaje nam tzw. algorytm wygrywający. Jest dużo możliwości do rozbudowywania schematu albo o inne przepisy szczególne w k.p.a. albo też o przepisy wyrażone w ustawach merytorycznych. W ogóle nie zajmujemy się na teraz skargami konstytucyjnymi czy też pismami w oparciu o przepisy wspólnotowe. Gdyby naprawdę uwzględnić wszystkie możliwe pisma i czynności, to pewno cała ta biurokracja obejmowałaby ponad tysiąc strzałek na schemacie. Na teraz wygląda to tak.
 
 ## Na schemacie nie ma zaznaczonych zgłoszeń naruszeń prawa do prokuratury?
 Tak, to jest bardzo ważna część walki z bezmyślnym systemem szczepień w Polsce. Już w oparciu o przepisy u.o.d.o. jest możliwe włączenie prokuratora do sprawy. Niemniej, na teraz, nie dołaczamy do schematu dokumentów w oparciu o przepisy prawa karnego. Dobrą praktyką byłoby skorzystanie z profesjonalnej pomocy prawnej, bo prawo karne i procedury z nim związane, nie są już możliwe do skutecznego przeprowadzenia dla przeciętnego rodzica, w oparciu o standardowe wzory. Prawo karne (i cywilne) wymaga profesjonalistów, prawo administracyjne wymaga urzędników.
@@ -37,8 +37,8 @@ Na pewno jest ciekawy. Zobaczymy co z niego wyjdzie. Cel jest jeden - aby to by�
 TAK! Pomoc i dyskusja jest niezbędna. Uwagi proszę zgłaszać najlepiej do tego wątku na forum SN albo w uwagach do tego repozytorium. Idealne zmiany to zawsze oczywiście tzw. "pull request" do tego repozytorium.
 
 ## Gdzie znajdę pliki ze schematem do wykorzystania?
-1. Plik w formacie do wydruku [schemat.pdf](schemat.pdf).
-2. Plik wektorowy do wykorzystania np. na stronach HTML, podglądu, wygodnego powiększania [schemat.svg](schemat.svg)
+1. Plik wektorowy do wykorzystania np. na stronach HTML, podglądu, wygodnego powiększania [schemat.svg](schemat.svg)
+2. Plik w formacie do wydruku [schemat.pdf](schemat.pdf).
 
 ## Schemat graficzny
 
