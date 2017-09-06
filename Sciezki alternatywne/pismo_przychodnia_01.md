@@ -16,6 +16,7 @@ W trakcie prac. Można korzystać już teraz, a kolejne wersje wysyłać ewentua
 2. Osób, które otrzymują od świadczeniodawcy tzw. oświadczenia o odmowie szczepień, w których jest napisane, że pacjent został poinformowany o skutkach i bezpieczeństwie szczepień
 3. Inne osoby, które w jakiś sposób chcą się zabezpieczyć przed lekkomyślnym działaniem świadczeniodawcy usług medycznych.
 4. Inne osoby, które chcą wykorzystać tą wiedzę w postępowaniu karnym wobec lekarza.
+5. Osób, które zostały poinformowane przez lekarza o obowiązku szczepień.
 
 ## Jaki jest cel tego pisma?
 1. Pozyskanie od lekarza wiedzy przed szczepieniem

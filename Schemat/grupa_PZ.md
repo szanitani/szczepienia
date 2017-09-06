@@ -1,1 +1,7 @@
 ## Indeks dokumentów i czynności
+
+UWAGA! Poniższa treść wymaga przejrzenia, przeredagowania i dopracowania, w szczególności w zakresie merytorycznym (kwestie pozaprawne). Proszę o pomoc osoby, które mają coś do powiedzenia w temacie.
+
+### #PZ_10. pismo przypominające o szczepieniach
+
+Lekarz - nie pielęgniarka i nie "przychodnia", ma obowiązek poinformować o obowiązkowych i zalecanych szczepieniach. Dopiero w tym momencie obowiązek szczepień może być uznany za w jakimś stopniu zaktualizowany. "W jakimś stopniu" i "może" dlatego, ponieważ kwestia momentu aktualizacji jest złożonym problemem prawnym i nie wynika jednoznacznie z przepisów. Aktualizacja obowiązku szczepień jest często pomijanym a kluczowym zagadnieniem w postępowaniu egzekucyjnym. Co więcej, wątpliwości budzi fakt, czy samo "poinformowanie" o ogólnym obowiązku, bez odniesienia do konkretnego stanu faktycznego, w którym znajduje się dane dziecko jest wystarczająca przesłanką aktualizacji obowiązku. Na pewno "ustne przez lekarza" poinformowanie albo też "telefoniczne przez pielęgniarkę" albo nawet "ustne przez pielęgniarkę gdzie cała przychodnia słyszy" nie stanowią o prawidłowej aktualizacji obowiązku. W tym ostatnim przypadku przysługuje zresztą skarga do GIODO. Powiązanym zagadnieniem jest postępowanie rodziców w zakresie merytorycznym po kontakcie z przychodnią. To są kwestie indywidualne. Na pewno ciekawym jest, w konkretnych przypadkach rozważenie zadania części pytań z [pisma nr 16](https://github.com/szanitani/szczepienia/blob/master/Sciezki%20alternatywne/pismo_przychodnia_01.md).
