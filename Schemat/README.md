@@ -34,7 +34,12 @@ Aplikacja to [viz-js](http://viz-js.com/). Gorąco polecam!
 Na pewno jest ciekawy. Zobaczymy co z niego wyjdzie. Cel jest jeden - aby to było przydatne dla rodziców.
 
 ## Zauważyłem błąd, mam pomysł na dodanie czegoś, proponuję uzupełnienie!
-TAK! Pomoc i dyskusja jest niezbędna. Uwagi proszę zgłaszać najlepiej do tego wątku na forum SN albo w uwagach do tego repozytorium. Idealne zmiany to zawsze oczywiście tzw. "pull request" do tego repozytorium.
+TAK! Pomoc i dyskusja jest niezbędna. Uwagi proszę zgłaszać najlepiej do [tego wątku na forum SN](http://szczepienia.org.pl/viewtopic.php?p=181807) albo w uwagach do tego repozytorium. Idealne zmiany to zawsze oczywiście tzw. "pull request" do tego repozytorium.
+
+## Jak mogę pomóc?
+1. uzupełnić opisy strzałek
+2. weryfikować poprawność schematu
+3. dodawać kolejne ścieżki
 
 ## Gdzie znajdę pliki ze schematem do wykorzystania?
 1. Plik wektorowy do wykorzystania np. na stronach HTML, podglądu, wygodnego powiększania [schemat.svg](schemat.svg)
