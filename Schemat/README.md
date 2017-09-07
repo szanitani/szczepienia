@@ -42,7 +42,7 @@ TAK! Pomoc i dyskusja jest niezbędna. Uwagi proszę zgłaszać najlepiej do [te
 3. dodawać kolejne ścieżki
 
 ## Gdzie znajdę pliki ze schematem do wykorzystania?
-1. Plik wektorowy do wykorzystania np. na stronach HTML, podglądu, wygodnego powiększania [schemat.svg](https://github.com/szanitani/szczepienia/raw/master/Schemat/schemat.svg)
+1. Plik wektorowy do wykorzystania np. na stronach HTML, podglądu, wygodnego powiększania [schemat.svg](schemat.svg).
 2. Plik w formacie do wydruku [schemat.pdf](https://github.com/szanitani/szczepienia/raw/master/Schemat/schemat.pdf).
 
 ## Schemat graficzny
