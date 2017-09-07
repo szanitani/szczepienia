@@ -47,7 +47,13 @@ TAK! Pomoc i dyskusja jest niezbędna. Uwagi proszę zgłaszać najlepiej do [te
 
 ## Schemat graficzny
 
+UWAGA! Jeśli poniższy schemat nie jest wyraźnie widoczny, zalecane jest ściągnięcie [pliku w formacie PDF](schemat.pdf). Niestety, niektóre urządzenia mobilne nie potrafią prawidłowo wyświetlać obrazków wektorowych w formacie svg.
+
+<hr>
+
 ![Obrazek](schemat.svg)
+
+<hr>
 
 ## Indeks opisów dokumentów i czynności
 
