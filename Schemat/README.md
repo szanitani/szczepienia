@@ -12,8 +12,16 @@ Obecnie jest to jego pierwsza wersja. KONIECZNIE jest niezbędna weryfikacja pra
 ## Co oznaczają symbole przed opisami strzałek?
 Strzałki są oznaczane identyfikatorami, np. "RO_90" albo "WO_20". Identyfikatory służą do znalezienia opisu danego dokumentu lub czynności do wykonania w poniższym indeksie czynności i dokumentów. Każdy identyfikator to dwie duże litery oznaczające podmiot (np. RO - rodzice, WO - wojewoda), następnie symbol podkreślenia "_" oraz na końcu liczba określająca kolejny numer porządkowy zarejestrowanego na schemacie dokumentu. Pełen identyfikator służy do znalezienia opisu czynności czy dokumentu, do dyskusji o konkretnych czynnościach czy to na forum SN czy w innych mediach. Na teraz tylko część strzałek jest opatrzona takimi opisami. Praca w toku, pomoc mile widziana.
 
-## Co oznaczają symbole za opisami strzałek?
-Przy niektórych strzałkach można spotkać się z symbolem np. {R:7} - literka R oznacza, że jest to pismo nr 7 z [listy ścieżek alternatywnych w repozytorium pism i dokumentów](../Sciezki%20alternatywne/README.md). Jeśli spotkamy się z oznaczeniem {S:10}, w takiej sytuacji literka S oznacza krok nr 10 ze [wzorów dokumentów Stop NOP](http://www.pisma.szczepienia.org.pl/wzory-pism.html).
+## Co oznaczają symbole {R:liczba} za opisami strzałek?
+Przy niektórych strzałkach można spotkać się z symbolem np. {R:7} - literka R oznacza, że jest to pismo nr 7 z [listy ścieżek alternatywnych w repozytorium pism i dokumentów](../Sciezki%20alternatywne/README.md). 
+
+## Co oznaczają symbole {S:liczba} za opisami strzałek?
+Jeśli spotkamy się z oznaczeniem {S:10}, w takiej sytuacji literka S oznacza krok nr 10 ze [wzorów dokumentów Stop NOP](http://www.pisma.szczepienia.org.pl/wzory-pism.html).
+
+## Co oznaczają symbole {SN:liczba} za opisami strzałek?
+Jeśli spotkamy się z oznaczeniem {SN:liczba}, w takiej sytuacji są to dokumenty lub ścieżki nie uwzględnione w schemacie ze strony StopNOP ale również "firmowane" przez Stowarzyszenie StopNOP. Oto lista tych ścieżek:
+
+1. {SN:1} Jest to ścieżka uruchamiana po wezwaniu rodziców do szczepienia dziecka przez PPIS, polegająca na wysłaniu do PPIS wniosku o informację w trybie dostępu do informacji publicznej a następnie nałożenie na PPIS grzywny przez Sąd Administracyjny. Szczegóły tej ścieżki są opisane [tutaj](http://stopnop.com.pl/grzywna-za-grzywne/).
 
 ## Dlaczego ten schemat jest tak duży?
 Aktualnie schemat to ok. 260 możliwych dokumentów w sprawie szczepień. Jednakże to nie jest wszystko. Jeśli doliczymy standardowe ścieżki odwoławcze (skargi, zażalenia, polemiki, bezczynność/przewlekłość), wtedy rodzice mogą osiągnąć nawet i ponad 350 dokumentów, zanim organ będzie w stanie cokolwiek zrobić sensownego. Warto zwrócić uwagę, że schemat  pokazuje ścieżkę dla jednego rodzica, który uzyskuje pełnomocnictwo od drugiego. Gdyby sprawy prowadziło obydwoje rodziców osobno, wtedy jest możliwość nie tylko podwojenia liczby dokumentów ale jeszcze ich zwiększenia o dodatkowe ścieżki.
