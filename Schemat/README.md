@@ -82,6 +82,7 @@ Poniżej znajdują się linki do opisów strzałek wg ich identyfikatów:
 - [grupa RO](grupa_RO.md) - rodzice
 - [grupa SZ](grupa_SZ.md) - szpital
 - [grupa TK](grupa_TK.md) - Trybunał Konstytucyjny
+- [grupa UC](grupa_UC.md) - Urząd Stanu Cywilnego
 - [grupa WI](grupa_WI.md) - Państwowy Wojewódzki Inspektor Sanitarny - WIS
 - [grupa WO](grupa_WO.md) - Wojewoda
 - [grupa WS](grupa_WS.md) - Wojewódzki Sąd Administracyjny - WSA
